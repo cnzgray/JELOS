@@ -1,0 +1,77 @@
+cheat0_desc = "无限木材"
+cheat0_handler = "0"
+cheat0_code = "80070D38#03E7"
+
+cheat1_desc = "无限水"
+cheat1_handler = "0"
+cheat1_code = "80071A88#0064"
+
+cheat2_desc = "无限鸡食"
+cheat2_handler = "0"
+cheat2_code = "80070D40#03E7"
+
+cheat3_desc = "无限饲料"
+cheat3_handler = "0"
+cheat3_code = "80070D3A#03E7"
+
+cheat4_desc = "无限鱼食"
+cheat4_handler = "0"
+cheat4_code = "80070D3E#03E7"
+
+cheat5_desc = "无限金钱"
+cheat5_handler = "0"
+cheat5_code = "80071A5C#967F;80071A5E#0098"
+
+cheat6_desc = "赚钱数"
+cheat6_handler = "0"
+cheat6_code = "800711FC#967F;800711FE#0098"
+
+cheat7_desc = "花费钱数"
+cheat7_handler = "0"
+cheat7_code = "80071200#0000;800573E8#0000"
+
+cheat8_desc = "体力"
+cheat8_handler = "0"
+cheat8_code = "80071A12#003C"
+
+cheat9_desc = "0只死亡的动物"
+cheat9_handler = "0"
+cheat9_code = "80127232#0000"
+
+cheat10_desc = "狗的感情度"
+cheat10_handler = "0"
+cheat10_code = "8012724C#000A"
+
+cheat11_desc = "马的感情度"
+cheat11_handler = "0"
+cheat11_code = "80127258#000A"
+
+cheat12_desc = "Popuri 有红心"
+cheat12_handler = "0"
+cheat12_code = "800786B4#FFFF"
+
+cheat13_desc = "Elli 有红心"
+cheat13_handler = "0"
+cheat13_code = "80077298#FFFF"
+
+cheat14_desc = "Karen 有红心"
+cheat14_handler = "0"
+cheat14_code = "800767A0#FFFF"
+
+cheat15_desc = "Ann 有红心"
+cheat15_handler = "0"
+cheat15_code = "80076EF0#FFFF"
+
+cheat16_desc = "Mary 有红心"
+cheat16_handler = "0"
+cheat16_code = "80077BBC#FFFF"
+
+cheat17_desc = "工具熟练度400%"
+cheat17_handler = "0"
+cheat17_code = "80071A40#FFFF;80071A42#FFFF;80071A44#FFFF;80071A46#FFFF;80071A48#FFFF"
+
+cheat18_desc = "全收获度999"
+cheat18_handler = "0"
+cheat18_code = "800711C4#03E7;800711C6#03E7;800711C8#03E7;800711CA#03E7;800711CC#03E7;800711CE#03E7;800711D0#03E7;800711D2#03E7;800711D4#03E7;800711D6#03E7;800711D8#03E7;800711DA#03E7;800711DC#03E7;800711DE#03E7;800711E0#03E7;800711E2#03E7;800711E4#03E7;800711E6#03E7;800711E8#03E7;800711EA#03E7;800711EC#03E7"
+
+cheats = 19

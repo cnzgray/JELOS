@@ -1,0 +1,101 @@
+cheat0_desc = "隐藏人物全开"
+cheat0_handler = "2"
+cheat0_code = "1D744,1;1D748,1;1D74C,1;1D754,1"
+
+cheat1_desc = "第1名LP最大"
+cheat1_handler = "2"
+cheat1_code = "23AF8,F,27"
+
+cheat2_desc = "第1名LP最小"
+cheat2_handler = "2"
+cheat2_code = "23AF8,0,0"
+
+cheat3_desc = "第2名LP最大"
+cheat3_handler = "2"
+cheat3_code = "23B08,F,27"
+
+cheat4_desc = "第2名LP最小"
+cheat4_handler = "2"
+cheat4_code = "23B08,0,0"
+
+cheat5_desc = "第3名LP最大"
+cheat5_handler = "2"
+cheat5_code = "23B18,F,27"
+
+cheat6_desc = "第3名LP最小"
+cheat6_handler = "2"
+cheat6_code = "23B18,0,0"
+
+cheat7_desc = "第4名LP最大"
+cheat7_handler = "2"
+cheat7_code = "23B28,F,27"
+
+cheat8_desc = "第4名LP最小"
+cheat8_handler = "2"
+cheat8_code = "23B28,0,0"
+
+cheat9_desc = "第1名星级最大"
+cheat9_handler = "2"
+cheat9_code = "23AFC,63"
+
+cheat10_desc = "第1名星级最小"
+cheat10_handler = "2"
+cheat10_code = "23AFC,0"
+
+cheat11_desc = "第2名星级最大"
+cheat11_handler = "2"
+cheat11_code = "23B0C,63"
+
+cheat12_desc = "第2名星级最小"
+cheat12_handler = "2"
+cheat12_code = "23B0C,0"
+
+cheat13_desc = "第3名星级最大"
+cheat13_handler = "2"
+cheat13_code = "23B1C,63"
+
+cheat14_desc = "第3名星级最小"
+cheat14_handler = "2"
+cheat14_code = "23B1C,0"
+
+cheat15_desc = "第4名星级最大"
+cheat15_handler = "2"
+cheat15_code = "23B2C,63"
+
+cheat16_desc = "第4名星级最小"
+cheat16_handler = "2"
+cheat16_code = "23B2C,0"
+
+cheat17_desc = "第1名SP发动有"
+cheat17_handler = "2"
+cheat17_code = "23B00,8"
+
+cheat18_desc = "第1名SP发动无"
+cheat18_handler = "2"
+cheat18_code = "23B00,0"
+
+cheat19_desc = "第2名SP发动有"
+cheat19_handler = "2"
+cheat19_code = "23B10,8"
+
+cheat20_desc = "第2名SP发动无"
+cheat20_handler = "2"
+cheat20_code = "23B10,0"
+
+cheat21_desc = "第3名SP发动有"
+cheat21_handler = "2"
+cheat21_code = "23B20,8"
+
+cheat22_desc = "第3名SP发动无"
+cheat22_handler = "2"
+cheat22_code = "23B20,0"
+
+cheat23_desc = "第4名SP发动有"
+cheat23_handler = "2"
+cheat23_code = "23B30,8"
+
+cheat24_desc = "第4名SP发动无"
+cheat24_handler = "2"
+cheat24_code = "23B30,0"
+
+cheats = 25

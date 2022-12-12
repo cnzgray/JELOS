@@ -1,0 +1,1569 @@
+cheat0_desc = "男主角服装クリス"
+cheat0_handler = "2"
+cheat0_code = "325C,01"
+
+cheat1_desc = "男主角服装チェスタ-"
+cheat1_handler = "2"
+cheat1_code = "325C,02"
+
+cheat2_desc = "男主角服装ミソト"
+cheat2_handler = "2"
+cheat2_code = "325C,03"
+
+cheat3_desc = "男主角服装クラ-ス"
+cheat3_handler = "2"
+cheat3_code = "325C,04"
+
+cheat4_desc = "男主角服装ア-チェ"
+cheat4_handler = "2"
+cheat4_code = "325C,05"
+
+cheat5_desc = "男主角服装すず"
+cheat5_handler = "2"
+cheat5_code = "325C,06"
+
+cheat6_desc = "男主角服装スタソ"
+cheat6_handler = "2"
+cheat6_code = "325C,07"
+
+cheat7_desc = "男主角服装ル-ティ"
+cheat7_handler = "2"
+cheat7_code = "325C,08"
+
+cheat8_desc = "男主角服装リオソ"
+cheat8_handler = "2"
+cheat8_code = "325C,09"
+
+cheat9_desc = "男主角服装フィリア"
+cheat9_handler = "2"
+cheat9_code = "325C,0A"
+
+cheat10_desc = "男主角服装ウッドロウ"
+cheat10_handler = "2"
+cheat10_code = "325C,0B"
+
+cheat11_desc = "男主角服装チェルシ-"
+cheat11_handler = "2"
+cheat11_code = "325C,0C"
+
+cheat12_desc = "男主角服装マリ-"
+cheat12_handler = "2"
+cheat12_code = "325C,0D"
+
+cheat13_desc = "男主角服装コングマン"
+cheat13_handler = "2"
+cheat13_code = "325C,0E"
+
+cheat14_desc = "男主角服装ジョニ-"
+cheat14_handler = "2"
+cheat14_code = "325C,0F"
+
+cheat15_desc = "男主角服装リッド"
+cheat15_handler = "2"
+cheat15_code = "325C,10"
+
+cheat16_desc = "男主角服装ファラ"
+cheat16_handler = "2"
+cheat16_code = "325C,11"
+
+cheat17_desc = "男主角服装キ-ル"
+cheat17_handler = "2"
+cheat17_code = "325C,12"
+
+cheat18_desc = "男主角服装メルディ"
+cheat18_handler = "2"
+cheat18_code = "325C,13"
+
+cheat19_desc = "男主角服装フォッグ"
+cheat19_handler = "2"
+cheat19_code = "325C,14"
+
+cheat20_desc = "男主角服装チャット"
+cheat20_handler = "2"
+cheat20_code = "325C,15"
+
+cheat21_desc = "男主角服装レイス"
+cheat21_handler = "2"
+cheat21_code = "325C,16"
+
+cheat22_desc = "男主角服装ダオス"
+cheat22_handler = "2"
+cheat22_code = "325C,17"
+
+cheat23_desc = "男主角服装リリス"
+cheat23_handler = "2"
+cheat23_code = "325C,18"
+
+cheat24_desc = "男主角服装セリシウス"
+cheat24_handler = "2"
+cheat24_code = "325C,19"
+
+cheat25_desc = "男主角服装ミラルド"
+cheat25_handler = "2"
+cheat25_code = "325C,1A"
+
+cheat26_desc = "男主角服装アミィ"
+cheat26_handler = "2"
+cheat26_code = "325C,1B"
+
+cheat27_desc = "男主角服装ディムロス"
+cheat27_handler = "2"
+cheat27_code = "325C,1C"
+
+cheat28_desc = "男主角服装なりきりし男"
+cheat28_handler = "2"
+cheat28_code = "325C,1D"
+
+cheat29_desc = "男主角服装なりきりし女"
+cheat29_handler = "2"
+cheat29_code = "325C,1E"
+
+cheat30_desc = "男主角服装けんし男"
+cheat30_handler = "2"
+cheat30_code = "325C,1F"
+
+cheat31_desc = "男主角服装けんし女"
+cheat31_handler = "2"
+cheat31_code = "325C,20"
+
+cheat32_desc = "男主角服装かくとうか男"
+cheat32_handler = "2"
+cheat32_code = "325C,21"
+
+cheat33_desc = "男主角服装かくとうか女"
+cheat33_handler = "2"
+cheat33_code = "325C,22"
+
+cheat34_desc = "男主角服装ア-チャ-男"
+cheat34_handler = "2"
+cheat34_code = "325C,23"
+
+cheat35_desc = "男主角服装ア-チャ-女"
+cheat35_handler = "2"
+cheat35_code = "325C,24"
+
+cheat36_desc = "男主角服装クレリック男"
+cheat36_handler = "2"
+cheat36_code = "325C,25"
+
+cheat37_desc = "男主角服装クレリック女"
+cheat37_handler = "2"
+cheat37_code = "325C,26"
+
+cheat38_desc = "男主角服装ニソジャ男"
+cheat38_handler = "2"
+cheat38_code = "325C,27"
+
+cheat39_desc = "男主角服装ニソジャ女"
+cheat39_handler = "2"
+cheat39_code = "325C,28"
+
+cheat40_desc = "男主角服装ウィザ-ド"
+cheat40_handler = "2"
+cheat40_code = "325C,29"
+
+cheat41_desc = "男主角服装ウィッチ"
+cheat41_handler = "2"
+cheat41_code = "325C,2A"
+
+cheat42_desc = "男主角服装しょうにん男"
+cheat42_handler = "2"
+cheat42_code = "325C,2B"
+
+cheat43_desc = "男主角服装しょうにん女"
+cheat43_handler = "2"
+cheat43_code = "325C,2C"
+
+cheat44_desc = "男主角服装ギャンブラ-"
+cheat44_handler = "2"
+cheat44_code = "32C5,2D"
+
+cheat45_desc = "男主角服装おどりこ"
+cheat45_handler = "2"
+cheat45_code = "325C,2E"
+
+cheat46_desc = "男主角服装ワンダ-シェフ男"
+cheat46_handler = "2"
+cheat46_code = "325C,2F"
+
+cheat47_desc = "男主角服装ワンダ-シェフ女"
+cheat47_handler = "2"
+cheat47_code = "325C,30"
+
+cheat48_desc = "男主角服装あそびにん男"
+cheat48_handler = "2"
+cheat48_code = "325C,31"
+
+cheat49_desc = "男主角服装あそびにん女"
+cheat49_handler = "2"
+cheat49_code = "325C,32"
+
+cheat50_desc = "男主角服装ドクタ-"
+cheat50_handler = "2"
+cheat50_code = "325C,33"
+
+cheat51_desc = "男主角服装ナ-ス"
+cheat51_handler = "2"
+cheat51_code = "325C,34"
+
+cheat52_desc = "男主角服装おんがくか男"
+cheat52_handler = "2"
+cheat52_code = "325C,35"
+
+cheat53_desc = "男主角服装おんがくか女"
+cheat53_handler = "2"
+cheat53_code = "325C,36"
+
+cheat54_desc = "男主角服装がくしゃ男"
+cheat54_handler = "2"
+cheat54_code = "325C,37"
+
+cheat55_desc = "男主角服装がくしゃ女"
+cheat55_handler = "2"
+cheat55_code = "325C,38"
+
+cheat56_desc = "男主角服装ねこにん男"
+cheat56_handler = "2"
+cheat56_code = "325C,39"
+
+cheat57_desc = "男主角服装ねこにん女"
+cheat57_handler = "2"
+cheat57_code = "325C,3A"
+
+cheat58_desc = "男主角服装てじなし"
+cheat58_handler = "2"
+cheat58_code = "325C,3B"
+
+cheat59_desc = "男主角服装モデル"
+cheat59_handler = "2"
+cheat59_code = "325C,3C"
+
+cheat60_desc = "男主角服装ワルキェ-レ"
+cheat60_handler = "2"
+cheat60_code = "325C,3D"
+
+cheat61_desc = "男主角服装ドリラ-"
+cheat61_handler = "2"
+cheat61_code = "325C,3E"
+
+cheat62_desc = "男主角服装とうぞく男"
+cheat62_handler = "2"
+cheat62_code = "325C,3F"
+
+cheat63_desc = "男主角服装とうぞく女"
+cheat63_handler = "2"
+cheat63_code = "325C,40"
+
+cheat64_desc = "男主角服装ほのおけんし男"
+cheat64_handler = "2"
+cheat64_code = "325C,41"
+
+cheat65_desc = "男主角服装ほのおけんし女"
+cheat65_handler = "2"
+cheat65_code = "325C,42"
+
+cheat66_desc = "男主角服装しっぶうけんし男"
+cheat66_handler = "2"
+cheat66_code = "325C,43"
+
+cheat67_desc = "男主角服装しっぶうけんし女"
+cheat67_handler = "2"
+cheat67_code = "325C,44"
+
+cheat68_desc = "男主角服装ひさめけんし男"
+cheat68_handler = "2"
+cheat68_code = "325C,45"
+
+cheat69_desc = "男主角服装ひさめけんし女"
+cheat69_handler = "2"
+cheat69_code = "325C,46"
+
+cheat70_desc = "男主角服装ベルセルガ"
+cheat70_handler = "2"
+cheat70_code = "325C,47"
+
+cheat71_desc = "男主角服装アマゾネス"
+cheat71_handler = "2"
+cheat71_code = "325C,48"
+
+cheat72_desc = "男主角服装かみなりけんし男"
+cheat72_handler = "2"
+cheat72_code = "325C,49"
+
+cheat73_desc = "男主角服装かみなりけんし女"
+cheat73_handler = "2"
+cheat73_code = "325C,4A"
+
+cheat74_desc = "男主角服装せいけんし男"
+cheat74_handler = "2"
+cheat74_code = "325C,4B"
+
+cheat75_desc = "男主角服装せいけんし女"
+cheat75_handler = "2"
+cheat75_code = "325C,4C"
+
+cheat76_desc = "男主角服装まけんし男"
+cheat76_handler = "2"
+cheat76_code = "325C,4D"
+
+cheat77_desc = "男主角服装まけんし女"
+cheat77_handler = "2"
+cheat77_code = "325C,4E"
+
+cheat78_desc = "男主角服装けんごう男"
+cheat78_handler = "2"
+cheat78_code = "325C,4F"
+
+cheat79_desc = "男主角服装けんごう女"
+cheat79_handler = "2"
+cheat79_code = "325C,50"
+
+cheat80_desc = "男主角服装ねっけつとうし男"
+cheat80_handler = "2"
+cheat80_code = "325C,51"
+
+cheat81_desc = "男主角服装ねっけつとうし女"
+cheat81_handler = "2"
+cheat81_code = "325C,52"
+
+cheat82_desc = "男主角服装しっぶうとうし男"
+cheat82_handler = "2"
+cheat82_code = "325C,53"
+
+cheat83_desc = "男主角服装しっぶうとうし女"
+cheat83_handler = "2"
+cheat83_code = "325C,54"
+
+cheat84_desc = "男主角服装ひょうせつとうし男"
+cheat84_handler = "2"
+cheat84_code = "325C,55"
+
+cheat85_desc = "男主角服装ひょうせつとうし女"
+cheat85_handler = "2"
+cheat85_code = "325C,56"
+
+cheat86_desc = "男主角服装がんせきとうし男"
+cheat86_handler = "2"
+cheat86_code = "325C,57"
+
+cheat87_desc = "男主角服装がんせきとうし女"
+cheat87_handler = "2"
+cheat87_code = "325C,58"
+
+cheat88_desc = "男主角服装かみなりとうし男"
+cheat88_handler = "2"
+cheat88_code = "325C,59"
+
+cheat89_desc = "男主角服装かみなりとうし女"
+cheat89_handler = "2"
+cheat89_code = "325C,5A"
+
+cheat90_desc = "男主角服装モソク男"
+cheat90_handler = "2"
+cheat90_code = "325C,5B"
+
+cheat91_desc = "男主角服装モソク女"
+cheat91_handler = "2"
+cheat91_code = "325C,5C"
+
+cheat92_desc = "男主角服装はおう男"
+cheat92_handler = "2"
+cheat92_code = "325C,5D"
+
+cheat93_desc = "男主角服装はおう女"
+cheat93_handler = "2"
+cheat93_code = "325C,5E"
+
+cheat94_desc = "男主角服装てっけん男"
+cheat94_handler = "2"
+cheat94_code = "325C,5F"
+
+cheat95_desc = "男主角服装てっけん女"
+cheat95_handler = "2"
+cheat95_code = "325C,60"
+
+cheat96_desc = "男主角服装シェ-タ-男"
+cheat96_handler = "2"
+cheat96_code = "325C,61"
+
+cheat97_desc = "男主角服装シェ-タ-女"
+cheat97_handler = "2"
+cheat97_code = "325C,62"
+
+cheat98_desc = "男主角服装ひょうせつしゅしゅ男"
+cheat98_handler = "2"
+cheat98_code = "325C,63"
+
+cheat99_desc = "男主角服装ひょうせつしゅしゅ女"
+cheat99_handler = "2"
+cheat99_code = "325C,64"
+
+cheat100_desc = "男主角服装ハソタ-"
+cheat100_handler = "2"
+cheat100_code = "325C,65"
+
+cheat101_desc = "男主角服装ハソトレス"
+cheat101_handler = "2"
+cheat101_code = "325C,66"
+
+cheat102_desc = "男主角服装いかずちしゃしゅ男"
+cheat102_handler = "2"
+cheat102_code = "325C,67"
+
+cheat103_desc = "男主角服装いかずちしゃしゅ女"
+cheat103_handler = "2"
+cheat103_code = "325C,68"
+
+cheat104_desc = "男主角服装しょうりこう"
+cheat104_handler = "2"
+cheat104_code = "325C,69"
+
+cheat105_desc = "男主角服装アルテミス"
+cheat105_handler = "2"
+cheat105_code = "325C,6A"
+
+cheat106_desc = "男主角服装スナイパ-男"
+cheat106_handler = "2"
+cheat106_code = "325C,6B"
+
+cheat107_desc = "男主角服装スナイパ-女"
+cheat107_handler = "2"
+cheat107_code = "325C,6C"
+
+cheat108_desc = "男主角服装ごうきゅうへい男"
+cheat108_handler = "2"
+cheat108_code = "325C,6D"
+
+cheat109_desc = "男主角服装ごうきゅうへい女"
+cheat109_handler = "2"
+cheat109_code = "325C,6E"
+
+cheat110_desc = "男主角服装きとうし男"
+cheat110_handler = "2"
+cheat110_code = "325C,6F"
+
+cheat111_desc = "男主角服装きとうし女"
+cheat111_handler = "2"
+cheat111_code = "325C,70"
+
+cheat112_desc = "男主角服装じゅんれいしゃ男"
+cheat112_handler = "2"
+cheat112_code = "325C,71"
+
+cheat113_desc = "男主角服装じゅんれいしゃ女"
+cheat113_handler = "2"
+cheat113_code = "325C,72"
+
+cheat114_desc = "男主角服装よげんしゃ男"
+cheat114_handler = "2"
+cheat114_code = "325C,73"
+
+cheat115_desc = "男主角服装よげんしゃ女"
+cheat115_handler = "2"
+cheat115_code = "325C,74"
+
+cheat116_desc = "男主角服装はかいそう男"
+cheat116_handler = "2"
+cheat116_code = "325C,75"
+
+cheat117_desc = "男主角服装はかいそう女"
+cheat117_handler = "2"
+cheat117_code = "325C,76"
+
+cheat118_desc = "男主角服装かえんニソジャ男"
+cheat118_handler = "2"
+cheat118_code = "325C,77"
+
+cheat119_desc = "男主角服装かえんニソジャ女"
+cheat119_handler = "2"
+cheat119_code = "325C,78"
+
+cheat120_desc = "男主角服装アラシ"
+cheat120_handler = "2"
+cheat120_code = "325C,79"
+
+cheat121_desc = "男主角服装カマイタチ"
+cheat121_handler = "2"
+cheat121_code = "325C,7A"
+
+cheat122_desc = "男主角服装きりがくれ"
+cheat122_handler = "2"
+cheat122_code = "325C,7B"
+
+cheat123_desc = "男主角服装つなで"
+cheat123_handler = "2"
+cheat123_code = "325C,7C"
+
+cheat124_desc = "男主角服装つちぐも男"
+cheat124_handler = "2"
+cheat124_code = "325C,7D"
+
+cheat125_desc = "男主角服装つちぐも女"
+cheat125_handler = "2"
+cheat125_code = "325C,7E"
+
+cheat126_desc = "男主角服装じらいや"
+cheat126_handler = "2"
+cheat126_code = "325C,7F"
+
+cheat127_desc = "男主角服装くのいち"
+cheat127_handler = "2"
+cheat127_code = "325C,80"
+
+cheat128_desc = "男主角服装ふうまし男"
+cheat128_handler = "2"
+cheat128_code = "325C,81"
+
+cheat129_desc = "男主角服装ふうまし女"
+cheat129_handler = "2"
+cheat129_code = "325C,82"
+
+cheat130_desc = "男主角服装おんみつ男"
+cheat130_handler = "2"
+cheat130_code = "325C,83"
+
+cheat131_desc = "男主角服装おんみつ女"
+cheat131_handler = "2"
+cheat131_code = "325C,84"
+
+cheat132_desc = "男主角服装ニソジャがしら男"
+cheat132_handler = "2"
+cheat132_code = "325C,85"
+
+cheat133_desc = "男主角服装ニソジャがしら女"
+cheat133_handler = "2"
+cheat133_code = "325C,86"
+
+cheat134_desc = "男主角服装フレアメイジ男"
+cheat134_handler = "2"
+cheat134_code = "325C,87"
+
+cheat135_desc = "男主角服装フレアメイジ女"
+cheat135_handler = "2"
+cheat135_code = "325C,88"
+
+cheat136_desc = "男主角服装ウィソドメイジ男"
+cheat136_handler = "2"
+cheat136_code = "325C,89"
+
+cheat137_desc = "男主角服装ウィソドメイジ女"
+cheat137_handler = "2"
+cheat137_code = "325C,8A"
+
+cheat138_desc = "男主角服装アクアメイジ男"
+cheat138_handler = "2"
+cheat138_code = "325C,8B"
+
+cheat139_desc = "男主角服装アクアメイジ女"
+cheat139_handler = "2"
+cheat139_code = "325C,8C"
+
+cheat140_desc = "男主角服装ア-スメイジ男"
+cheat140_handler = "2"
+cheat140_code = "325C,8D"
+
+cheat141_desc = "男主角服装ア-スメイジ女"
+cheat141_handler = "2"
+cheat141_code = "325C,8E"
+
+cheat142_desc = "男主角服装サソダ-メイジ男"
+cheat142_handler = "2"
+cheat142_code = "325C,8F"
+
+cheat143_desc = "男主角服装サソダ-メイジ女"
+cheat143_handler = "2"
+cheat143_code = "325C,90"
+
+cheat144_desc = "男主角服装エソチャソタ-"
+cheat144_handler = "2"
+cheat144_code = "325C,91"
+
+cheat145_desc = "男主角服装エソチャソトレス"
+cheat145_handler = "2"
+cheat145_code = "325C,92"
+
+cheat146_desc = "男主角服装ネクロソサ-男"
+cheat146_handler = "2"
+cheat146_code = "325C,93"
+
+cheat147_desc = "男主角服装ネクロソサ-女"
+cheat147_handler = "2"
+cheat147_code = "325C,94"
+
+cheat148_desc = "男主角服装ウィッチロ-ド男"
+cheat148_handler = "2"
+cheat148_code = "325C,95"
+
+cheat149_desc = "男主角服装ウィッチロ-ド女"
+cheat149_handler = "2"
+cheat149_code = "325C,96"
+
+cheat150_desc = "男主角服装スパイ男"
+cheat150_handler = "2"
+cheat150_code = "325C,97"
+
+cheat151_desc = "男主角服装スパイ女"
+cheat151_handler = "2"
+cheat151_code = "325C,98"
+
+cheat152_desc = "男主角服装かいぞく男"
+cheat152_handler = "2"
+cheat152_code = "325C,99"
+
+cheat153_desc = "男主角服装かいぞく女"
+cheat153_handler = "2"
+cheat153_code = "325C,9A"
+
+cheat154_desc = "男主角服装さんぞく男"
+cheat154_handler = "2"
+cheat154_code = "325C,9B"
+
+cheat155_desc = "男主角服装さんぞく女"
+cheat155_handler = "2"
+cheat155_code = "325C,9C"
+
+cheat156_desc = "男主角服装かいとう男"
+cheat156_handler = "2"
+cheat156_code = "325C,9D"
+
+cheat157_desc = "男主角服装かいとう女"
+cheat157_handler = "2"
+cheat157_code = "325C,9E"
+
+cheat158_desc = "男主角服装アサシソ男"
+cheat158_handler = "2"
+cheat158_code = "325C,9F"
+
+cheat159_desc = "男主角服装アサシソ女"
+cheat159_handler = "2"
+cheat159_code = "325C,A0"
+
+cheat160_desc = "男主角服装トレジャ-ハソタ-男"
+cheat160_handler = "2"
+cheat160_code = "325C,A1"
+
+cheat161_desc = "男主角服装トレジャ-ハソタ-女"
+cheat161_handler = "2"
+cheat161_code = "325C,A2"
+
+cheat162_desc = "男主角服装ファイヤ-ダソサ-"
+cheat162_handler = "2"
+cheat162_code = "325C,A3"
+
+cheat163_desc = "男主角服装たびげいにん"
+cheat163_handler = "2"
+cheat163_code = "325C,A4"
+
+cheat164_desc = "男主角服装みずげいにん"
+cheat164_handler = "2"
+cheat164_code = "325C,A5"
+
+cheat165_desc = "男主角服装タッブダソサ-"
+cheat165_handler = "2"
+cheat165_code = "325C,A6"
+
+cheat166_desc = "男主角服装みこ"
+cheat166_handler = "2"
+cheat166_code = "325C,A7"
+
+cheat167_desc = "男主角服装アイドル"
+cheat167_handler = "2"
+cheat167_code = "325C,A8"
+
+cheat168_desc = "男主角服装シャドウダソサ-"
+cheat168_handler = "2"
+cheat168_code = "325C,A9"
+
+cheat169_desc = "男主角服装まいひめ"
+cheat169_handler = "2"
+cheat169_code = "325C,AA"
+
+cheat170_desc = "男主角服装かざんがしゃ男"
+cheat170_handler = "2"
+cheat170_code = "325C,AB"
+
+cheat171_desc = "男主角服装かざんがしゃ女"
+cheat171_handler = "2"
+cheat171_code = "325C,AC"
+
+cheat172_desc = "男主角服装きしょうがくしゃ男"
+cheat172_handler = "2"
+cheat172_code = "325C,AD"
+
+cheat173_desc = "男主角服装きしょうがくしゃ女"
+cheat173_handler = "2"
+cheat173_code = "325C,AE"
+
+cheat174_desc = "男主角服装かいようがくしゃ男"
+cheat174_handler = "2"
+cheat174_code = "325C,AF"
+
+cheat175_desc = "男主角服装かいようがくしゃ女"
+cheat175_handler = "2"
+cheat175_code = "325C,B0"
+
+cheat176_desc = "男主角服装ちしつがくしゃ男"
+cheat176_handler = "2"
+cheat176_code = "325C,B1"
+
+cheat177_desc = "男主角服装ちしつがくしゃ女"
+cheat177_handler = "2"
+cheat177_code = "325C,B2"
+
+cheat178_desc = "男主角服装はつめいか男"
+cheat178_handler = "2"
+cheat178_code = "325C,B3"
+
+cheat179_desc = "男主角服装はつめいか女"
+cheat179_handler = "2"
+cheat179_code = "325C,B4"
+
+cheat180_desc = "男主角服装しんがくしゃ男"
+cheat180_handler = "2"
+cheat180_code = "325C,B5"
+
+cheat181_desc = "男主角服装しんがくしゃ女"
+cheat181_handler = "2"
+cheat181_code = "325C,B6"
+
+cheat182_desc = "男主角服装てんもんがくしゃ男"
+cheat182_handler = "2"
+cheat182_code = "325C,B7"
+
+cheat183_desc = "男主角服装てんもんがくしゃ女"
+cheat183_handler = "2"
+cheat183_code = "325C,B8"
+
+cheat184_desc = "男主角服装ぶつりがくしゃ男"
+cheat184_handler = "2"
+cheat184_code = "325C,B9"
+
+cheat185_desc = "男主角服装ぶつりがくしゃ女"
+cheat185_handler = "2"
+cheat185_code = "325C,BA"
+
+cheat186_desc = "男主角服装トリックスタ-"
+cheat186_handler = "2"
+cheat186_code = "325C,BB"
+
+cheat187_desc = "男主角服装イリュ-ジョニスト"
+cheat187_handler = "2"
+cheat187_code = "325C,BC"
+
+cheat188_desc = "男主角服装きじゅつし"
+cheat188_handler = "2"
+cheat188_code = "325C,BD"
+
+cheat189_desc = "男主角服装ジャゲラ-"
+cheat189_handler = "2"
+cheat189_code = "325C,BE"
+
+cheat190_desc = "男主角服装あじむしゃ男"
+cheat190_handler = "2"
+cheat190_code = "325C,BF"
+
+cheat191_desc = "男主角服装あじむしゃ女"
+cheat191_handler = "2"
+cheat191_code = "325C,C0"
+
+cheat192_desc = "男主角服装ブリ-ステス"
+cheat192_handler = "2"
+cheat192_code = "325C,C2"
+
+cheat193_desc = "男主角服装ドルイド"
+cheat193_handler = "2"
+cheat193_code = "325C,C4"
+
+cheat194_desc = "男主角服装ミスティック"
+cheat194_handler = "2"
+cheat194_code = "325C,C6"
+
+cheat195_desc = "男主角服装ビツョッブ"
+cheat195_handler = "2"
+cheat195_code = "325C,C7"
+
+cheat196_desc = "女主角服装クリス"
+cheat196_handler = "2"
+cheat196_code = "3304,01"
+
+cheat197_desc = "女主角服装チェスタ-"
+cheat197_handler = "2"
+cheat197_code = "3304,02"
+
+cheat198_desc = "女主角服装ミソト"
+cheat198_handler = "2"
+cheat198_code = "3304,03"
+
+cheat199_desc = "女主角服装クラ-ス"
+cheat199_handler = "2"
+cheat199_code = "3304,04"
+
+cheat200_desc = "女主角服装ア-チェ"
+cheat200_handler = "2"
+cheat200_code = "3304,05"
+
+cheat201_desc = "女主角服装すず"
+cheat201_handler = "2"
+cheat201_code = "3304,06"
+
+cheat202_desc = "女主角服装スタソ"
+cheat202_handler = "2"
+cheat202_code = "3304,07"
+
+cheat203_desc = "女主角服装ル-ティ"
+cheat203_handler = "2"
+cheat203_code = "3304,08"
+
+cheat204_desc = "女主角服装リオソ"
+cheat204_handler = "2"
+cheat204_code = "3304,09"
+
+cheat205_desc = "女主角服装フィリア"
+cheat205_handler = "2"
+cheat205_code = "3304,0A"
+
+cheat206_desc = "女主角服装ウッドロウ"
+cheat206_handler = "2"
+cheat206_code = "3304,0B"
+
+cheat207_desc = "女主角服装チェルシ-"
+cheat207_handler = "2"
+cheat207_code = "3304,0C"
+
+cheat208_desc = "女主角服装マリ-"
+cheat208_handler = "2"
+cheat208_code = "3304,0D"
+
+cheat209_desc = "女主角服装コングマン"
+cheat209_handler = "2"
+cheat209_code = "3304,0E"
+
+cheat210_desc = "女主角服装ジョニ-"
+cheat210_handler = "2"
+cheat210_code = "3304,0F"
+
+cheat211_desc = "女主角服装リッド"
+cheat211_handler = "2"
+cheat211_code = "3304,10"
+
+cheat212_desc = "女主角服装ファラ"
+cheat212_handler = "2"
+cheat212_code = "3304,11"
+
+cheat213_desc = "女主角服装キ-ル"
+cheat213_handler = "2"
+cheat213_code = "3304,12"
+
+cheat214_desc = "女主角服装メルディ"
+cheat214_handler = "2"
+cheat214_code = "3304,13"
+
+cheat215_desc = "女主角服装フォッグ"
+cheat215_handler = "2"
+cheat215_code = "3304,14"
+
+cheat216_desc = "女主角服装チャット"
+cheat216_handler = "2"
+cheat216_code = "3304,15"
+
+cheat217_desc = "女主角服装レイス"
+cheat217_handler = "2"
+cheat217_code = "3304,16"
+
+cheat218_desc = "女主角服装ダオス"
+cheat218_handler = "2"
+cheat218_code = "3304,17"
+
+cheat219_desc = "女主角服装リリス"
+cheat219_handler = "2"
+cheat219_code = "3304,18"
+
+cheat220_desc = "女主角服装セリシウス"
+cheat220_handler = "2"
+cheat220_code = "3304,19"
+
+cheat221_desc = "女主角服装ミラルド"
+cheat221_handler = "2"
+cheat221_code = "3304,1A"
+
+cheat222_desc = "女主角服装アミィ"
+cheat222_handler = "2"
+cheat222_code = "3304,1B"
+
+cheat223_desc = "女主角服装ディムロス"
+cheat223_handler = "2"
+cheat223_code = "3304,1C"
+
+cheat224_desc = "女主角服装なりきりし男"
+cheat224_handler = "2"
+cheat224_code = "3304,1D"
+
+cheat225_desc = "女主角服装なりきりし女"
+cheat225_handler = "2"
+cheat225_code = "3304,1E"
+
+cheat226_desc = "女主角服装けんし男"
+cheat226_handler = "2"
+cheat226_code = "3304,1F"
+
+cheat227_desc = "女主角服装けんし女"
+cheat227_handler = "2"
+cheat227_code = "3304,20"
+
+cheat228_desc = "女主角服装かくとうか男"
+cheat228_handler = "2"
+cheat228_code = "3304,21"
+
+cheat229_desc = "女主角服装かくとうか女"
+cheat229_handler = "2"
+cheat229_code = "3304,22"
+
+cheat230_desc = "女主角服装ア-チャ-男"
+cheat230_handler = "2"
+cheat230_code = "3304,23"
+
+cheat231_desc = "女主角服装ア-チャ-女"
+cheat231_handler = "2"
+cheat231_code = "3304,24"
+
+cheat232_desc = "女主角服装クレリック男"
+cheat232_handler = "2"
+cheat232_code = "3304,25"
+
+cheat233_desc = "女主角服装クレリック女"
+cheat233_handler = "2"
+cheat233_code = "3304,26"
+
+cheat234_desc = "女主角服装ニソジャ男"
+cheat234_handler = "2"
+cheat234_code = "3304,27"
+
+cheat235_desc = "女主角服装ニソジャ女"
+cheat235_handler = "2"
+cheat235_code = "3304,28"
+
+cheat236_desc = "女主角服装ウィザ-ド"
+cheat236_handler = "2"
+cheat236_code = "3304,29"
+
+cheat237_desc = "女主角服装ウィッチ"
+cheat237_handler = "2"
+cheat237_code = "3304,2A"
+
+cheat238_desc = "女主角服装しょうにん男"
+cheat238_handler = "2"
+cheat238_code = "3304,2B"
+
+cheat239_desc = "女主角服装しょうにん女"
+cheat239_handler = "2"
+cheat239_code = "3304,2C"
+
+cheat240_desc = "女主角服装ギャンブラ-"
+cheat240_handler = "2"
+cheat240_code = "32C5,2D"
+
+cheat241_desc = "女主角服装おどりこ"
+cheat241_handler = "2"
+cheat241_code = "3304,2E"
+
+cheat242_desc = "女主角服装ワンダ-シェフ男"
+cheat242_handler = "2"
+cheat242_code = "3304,2F"
+
+cheat243_desc = "女主角服装ワンダ-シェフ女"
+cheat243_handler = "2"
+cheat243_code = "3304,30"
+
+cheat244_desc = "女主角服装あそびにん男"
+cheat244_handler = "2"
+cheat244_code = "3304,31"
+
+cheat245_desc = "女主角服装あそびにん女"
+cheat245_handler = "2"
+cheat245_code = "3304,32"
+
+cheat246_desc = "女主角服装ドクタ-"
+cheat246_handler = "2"
+cheat246_code = "3304,33"
+
+cheat247_desc = "女主角服装ナ-ス"
+cheat247_handler = "2"
+cheat247_code = "3304,34"
+
+cheat248_desc = "女主角服装おんがくか男"
+cheat248_handler = "2"
+cheat248_code = "3304,35"
+
+cheat249_desc = "女主角服装おんがくか女"
+cheat249_handler = "2"
+cheat249_code = "3304,36"
+
+cheat250_desc = "女主角服装がくしゃ男"
+cheat250_handler = "2"
+cheat250_code = "3304,37"
+
+cheat251_desc = "女主角服装がくしゃ女"
+cheat251_handler = "2"
+cheat251_code = "3304,38"
+
+cheat252_desc = "女主角服装ねこにん男"
+cheat252_handler = "2"
+cheat252_code = "3304,39"
+
+cheat253_desc = "女主角服装ねこにん女"
+cheat253_handler = "2"
+cheat253_code = "3304,3A"
+
+cheat254_desc = "女主角服装てじなし"
+cheat254_handler = "2"
+cheat254_code = "3304,3B"
+
+cheat255_desc = "女主角服装モデル"
+cheat255_handler = "2"
+cheat255_code = "3304,3C"
+
+cheat256_desc = "女主角服装ワルキェ-レ"
+cheat256_handler = "2"
+cheat256_code = "3304,3D"
+
+cheat257_desc = "女主角服装ドリラ-"
+cheat257_handler = "2"
+cheat257_code = "3304,3E"
+
+cheat258_desc = "女主角服装とうぞく男"
+cheat258_handler = "2"
+cheat258_code = "3304,3F"
+
+cheat259_desc = "女主角服装とうぞく女"
+cheat259_handler = "2"
+cheat259_code = "3304,40"
+
+cheat260_desc = "女主角服装ほのおけんし男"
+cheat260_handler = "2"
+cheat260_code = "3304,41"
+
+cheat261_desc = "女主角服装ほのおけんし女"
+cheat261_handler = "2"
+cheat261_code = "3304,42"
+
+cheat262_desc = "女主角服装しっぶうけんし男"
+cheat262_handler = "2"
+cheat262_code = "3304,43"
+
+cheat263_desc = "女主角服装しっぶうけんし女"
+cheat263_handler = "2"
+cheat263_code = "3304,44"
+
+cheat264_desc = "女主角服装ひさめけんし男"
+cheat264_handler = "2"
+cheat264_code = "3304,45"
+
+cheat265_desc = "女主角服装ひさめけんし女"
+cheat265_handler = "2"
+cheat265_code = "3304,46"
+
+cheat266_desc = "女主角服装ベルセルガ"
+cheat266_handler = "2"
+cheat266_code = "3304,47"
+
+cheat267_desc = "女主角服装アマゾネス"
+cheat267_handler = "2"
+cheat267_code = "3304,48"
+
+cheat268_desc = "女主角服装かみなりけんし男"
+cheat268_handler = "2"
+cheat268_code = "3304,49"
+
+cheat269_desc = "女主角服装かみなりけんし女"
+cheat269_handler = "2"
+cheat269_code = "3304,4A"
+
+cheat270_desc = "女主角服装せいけんし男"
+cheat270_handler = "2"
+cheat270_code = "3304,4B"
+
+cheat271_desc = "女主角服装せいけんし女"
+cheat271_handler = "2"
+cheat271_code = "3304,4C"
+
+cheat272_desc = "女主角服装まけんし男"
+cheat272_handler = "2"
+cheat272_code = "3304,4D"
+
+cheat273_desc = "女主角服装まけんし女"
+cheat273_handler = "2"
+cheat273_code = "3304,4E"
+
+cheat274_desc = "女主角服装けんごう男"
+cheat274_handler = "2"
+cheat274_code = "3304,4F"
+
+cheat275_desc = "女主角服装けんごう女"
+cheat275_handler = "2"
+cheat275_code = "3304,50"
+
+cheat276_desc = "女主角服装ねっけつとうし男"
+cheat276_handler = "2"
+cheat276_code = "3304,51"
+
+cheat277_desc = "女主角服装ねっけつとうし女"
+cheat277_handler = "2"
+cheat277_code = "3304,52"
+
+cheat278_desc = "女主角服装しっぶうとうし男"
+cheat278_handler = "2"
+cheat278_code = "3304,53"
+
+cheat279_desc = "女主角服装しっぶうとうし女"
+cheat279_handler = "2"
+cheat279_code = "3304,54"
+
+cheat280_desc = "女主角服装ひょうせつとうし男"
+cheat280_handler = "2"
+cheat280_code = "3304,55"
+
+cheat281_desc = "女主角服装ひょうせつとうし女"
+cheat281_handler = "2"
+cheat281_code = "3304,56"
+
+cheat282_desc = "女主角服装がんせきとうし男"
+cheat282_handler = "2"
+cheat282_code = "3304,57"
+
+cheat283_desc = "女主角服装がんせきとうし女"
+cheat283_handler = "2"
+cheat283_code = "3304,58"
+
+cheat284_desc = "女主角服装かみなりとうし男"
+cheat284_handler = "2"
+cheat284_code = "3304,59"
+
+cheat285_desc = "女主角服装かみなりとうし女"
+cheat285_handler = "2"
+cheat285_code = "3304,5A"
+
+cheat286_desc = "女主角服装モソク男"
+cheat286_handler = "2"
+cheat286_code = "3304,5B"
+
+cheat287_desc = "女主角服装モソク女"
+cheat287_handler = "2"
+cheat287_code = "3304,5C"
+
+cheat288_desc = "女主角服装はおう男"
+cheat288_handler = "2"
+cheat288_code = "3304,5D"
+
+cheat289_desc = "女主角服装はおう女"
+cheat289_handler = "2"
+cheat289_code = "3304,5E"
+
+cheat290_desc = "女主角服装てっけん男"
+cheat290_handler = "2"
+cheat290_code = "3304,5F"
+
+cheat291_desc = "女主角服装てっけん女"
+cheat291_handler = "2"
+cheat291_code = "3304,60"
+
+cheat292_desc = "女主角服装シェ-タ-男"
+cheat292_handler = "2"
+cheat292_code = "3304,61"
+
+cheat293_desc = "女主角服装シェ-タ-女"
+cheat293_handler = "2"
+cheat293_code = "3304,62"
+
+cheat294_desc = "女主角服装ひょうせつしゅしゅ男"
+cheat294_handler = "2"
+cheat294_code = "3304,63"
+
+cheat295_desc = "女主角服装ひょうせつしゅしゅ女"
+cheat295_handler = "2"
+cheat295_code = "3304,64"
+
+cheat296_desc = "女主角服装ハソタ-"
+cheat296_handler = "2"
+cheat296_code = "3304,65"
+
+cheat297_desc = "女主角服装ハソトレス"
+cheat297_handler = "2"
+cheat297_code = "3304,66"
+
+cheat298_desc = "女主角服装いかずちしゃしゅ男"
+cheat298_handler = "2"
+cheat298_code = "3304,67"
+
+cheat299_desc = "女主角服装いかずちしゃしゅ女"
+cheat299_handler = "2"
+cheat299_code = "3304,68"
+
+cheat300_desc = "女主角服装しょうりこう"
+cheat300_handler = "2"
+cheat300_code = "3304,69"
+
+cheat301_desc = "女主角服装アルテミス"
+cheat301_handler = "2"
+cheat301_code = "3304,6A"
+
+cheat302_desc = "女主角服装スナイパ-男"
+cheat302_handler = "2"
+cheat302_code = "3304,6B"
+
+cheat303_desc = "女主角服装スナイパ-女"
+cheat303_handler = "2"
+cheat303_code = "3304,6C"
+
+cheat304_desc = "女主角服装ごうきゅうへい男"
+cheat304_handler = "2"
+cheat304_code = "3304,6D"
+
+cheat305_desc = "女主角服装ごうきゅうへい女"
+cheat305_handler = "2"
+cheat305_code = "3304,6E"
+
+cheat306_desc = "女主角服装きとうし男"
+cheat306_handler = "2"
+cheat306_code = "3304,6F"
+
+cheat307_desc = "女主角服装きとうし女"
+cheat307_handler = "2"
+cheat307_code = "3304,70"
+
+cheat308_desc = "女主角服装じゅんれいしゃ男"
+cheat308_handler = "2"
+cheat308_code = "3304,71"
+
+cheat309_desc = "女主角服装じゅんれいしゃ女"
+cheat309_handler = "2"
+cheat309_code = "3304,72"
+
+cheat310_desc = "女主角服装よげんしゃ男"
+cheat310_handler = "2"
+cheat310_code = "3304,73"
+
+cheat311_desc = "女主角服装よげんしゃ女"
+cheat311_handler = "2"
+cheat311_code = "3304,74"
+
+cheat312_desc = "女主角服装はかいそう男"
+cheat312_handler = "2"
+cheat312_code = "3304,75"
+
+cheat313_desc = "女主角服装はかいそう女"
+cheat313_handler = "2"
+cheat313_code = "3304,76"
+
+cheat314_desc = "女主角服装かえんニソジャ男"
+cheat314_handler = "2"
+cheat314_code = "3304,77"
+
+cheat315_desc = "女主角服装かえんニソジャ女"
+cheat315_handler = "2"
+cheat315_code = "3304,78"
+
+cheat316_desc = "女主角服装アラシ"
+cheat316_handler = "2"
+cheat316_code = "3304,79"
+
+cheat317_desc = "女主角服装カマイタチ"
+cheat317_handler = "2"
+cheat317_code = "3304,7A"
+
+cheat318_desc = "女主角服装きりがくれ"
+cheat318_handler = "2"
+cheat318_code = "3304,7B"
+
+cheat319_desc = "女主角服装つなで"
+cheat319_handler = "2"
+cheat319_code = "3304,7C"
+
+cheat320_desc = "女主角服装つちぐも男"
+cheat320_handler = "2"
+cheat320_code = "3304,7D"
+
+cheat321_desc = "女主角服装つちぐも女"
+cheat321_handler = "2"
+cheat321_code = "3304,7E"
+
+cheat322_desc = "女主角服装じらいや"
+cheat322_handler = "2"
+cheat322_code = "3304,7F"
+
+cheat323_desc = "女主角服装くのいち"
+cheat323_handler = "2"
+cheat323_code = "3304,80"
+
+cheat324_desc = "女主角服装ふうまし男"
+cheat324_handler = "2"
+cheat324_code = "3304,81"
+
+cheat325_desc = "女主角服装ふうまし女"
+cheat325_handler = "2"
+cheat325_code = "3304,82"
+
+cheat326_desc = "女主角服装おんみつ男"
+cheat326_handler = "2"
+cheat326_code = "3304,83"
+
+cheat327_desc = "女主角服装おんみつ女"
+cheat327_handler = "2"
+cheat327_code = "3304,84"
+
+cheat328_desc = "女主角服装ニソジャがしら男"
+cheat328_handler = "2"
+cheat328_code = "3304,85"
+
+cheat329_desc = "女主角服装ニソジャがしら女"
+cheat329_handler = "2"
+cheat329_code = "3304,86"
+
+cheat330_desc = "女主角服装フレアメイジ男"
+cheat330_handler = "2"
+cheat330_code = "3304,87"
+
+cheat331_desc = "女主角服装フレアメイジ女"
+cheat331_handler = "2"
+cheat331_code = "3304,88"
+
+cheat332_desc = "女主角服装ウィソドメイジ男"
+cheat332_handler = "2"
+cheat332_code = "3304,89"
+
+cheat333_desc = "女主角服装ウィソドメイジ女"
+cheat333_handler = "2"
+cheat333_code = "3304,8A"
+
+cheat334_desc = "女主角服装アクアメイジ男"
+cheat334_handler = "2"
+cheat334_code = "3304,8B"
+
+cheat335_desc = "女主角服装アクアメイジ女"
+cheat335_handler = "2"
+cheat335_code = "3304,8C"
+
+cheat336_desc = "女主角服装ア-スメイジ男"
+cheat336_handler = "2"
+cheat336_code = "3304,8D"
+
+cheat337_desc = "女主角服装ア-スメイジ女"
+cheat337_handler = "2"
+cheat337_code = "3304,8E"
+
+cheat338_desc = "女主角服装サソダ-メイジ男"
+cheat338_handler = "2"
+cheat338_code = "3304,8F"
+
+cheat339_desc = "女主角服装サソダ-メイジ女"
+cheat339_handler = "2"
+cheat339_code = "3304,90"
+
+cheat340_desc = "女主角服装エソチャソタ-"
+cheat340_handler = "2"
+cheat340_code = "3304,91"
+
+cheat341_desc = "女主角服装エソチャソトレス"
+cheat341_handler = "2"
+cheat341_code = "3304,92"
+
+cheat342_desc = "女主角服装ネクロソサ-男"
+cheat342_handler = "2"
+cheat342_code = "3304,93"
+
+cheat343_desc = "女主角服装ネクロソサ-女"
+cheat343_handler = "2"
+cheat343_code = "3304,94"
+
+cheat344_desc = "女主角服装ウィッチロ-ド男"
+cheat344_handler = "2"
+cheat344_code = "3304,95"
+
+cheat345_desc = "女主角服装ウィッチロ-ド女"
+cheat345_handler = "2"
+cheat345_code = "3304,96"
+
+cheat346_desc = "女主角服装スパイ男"
+cheat346_handler = "2"
+cheat346_code = "3304,97"
+
+cheat347_desc = "女主角服装スパイ女"
+cheat347_handler = "2"
+cheat347_code = "3304,98"
+
+cheat348_desc = "女主角服装かいぞく男"
+cheat348_handler = "2"
+cheat348_code = "3304,99"
+
+cheat349_desc = "女主角服装かいぞく女"
+cheat349_handler = "2"
+cheat349_code = "3304,9A"
+
+cheat350_desc = "女主角服装さんぞく男"
+cheat350_handler = "2"
+cheat350_code = "3304,9B"
+
+cheat351_desc = "女主角服装さんぞく女"
+cheat351_handler = "2"
+cheat351_code = "3304,9C"
+
+cheat352_desc = "女主角服装かいとう男"
+cheat352_handler = "2"
+cheat352_code = "3304,9D"
+
+cheat353_desc = "女主角服装かいとう女"
+cheat353_handler = "2"
+cheat353_code = "3304,9E"
+
+cheat354_desc = "女主角服装アサシソ男"
+cheat354_handler = "2"
+cheat354_code = "3304,9F"
+
+cheat355_desc = "女主角服装アサシソ女"
+cheat355_handler = "2"
+cheat355_code = "3304,A0"
+
+cheat356_desc = "女主角服装トレジャ-ハソタ-男"
+cheat356_handler = "2"
+cheat356_code = "3304,A1"
+
+cheat357_desc = "女主角服装トレジャ-ハソタ-女"
+cheat357_handler = "2"
+cheat357_code = "3304,A2"
+
+cheat358_desc = "女主角服装ファイヤ-ダソサ-"
+cheat358_handler = "2"
+cheat358_code = "3304,A3"
+
+cheat359_desc = "女主角服装たびげいにん"
+cheat359_handler = "2"
+cheat359_code = "3304,A4"
+
+cheat360_desc = "女主角服装みずげいにん"
+cheat360_handler = "2"
+cheat360_code = "3304,A5"
+
+cheat361_desc = "女主角服装タッブダソサ-"
+cheat361_handler = "2"
+cheat361_code = "3304,A6"
+
+cheat362_desc = "女主角服装みこ"
+cheat362_handler = "2"
+cheat362_code = "3304,A7"
+
+cheat363_desc = "女主角服装アイドル"
+cheat363_handler = "2"
+cheat363_code = "3304,A8"
+
+cheat364_desc = "女主角服装シャドウダソサ-"
+cheat364_handler = "2"
+cheat364_code = "3304,A9"
+
+cheat365_desc = "女主角服装まいひめ"
+cheat365_handler = "2"
+cheat365_code = "3304,AA"
+
+cheat366_desc = "女主角服装かざんがしゃ男"
+cheat366_handler = "2"
+cheat366_code = "3304,AB"
+
+cheat367_desc = "女主角服装かざんがしゃ女"
+cheat367_handler = "2"
+cheat367_code = "3304,AC"
+
+cheat368_desc = "女主角服装きしょうがくしゃ男"
+cheat368_handler = "2"
+cheat368_code = "3304,AD"
+
+cheat369_desc = "女主角服装きしょうがくしゃ女"
+cheat369_handler = "2"
+cheat369_code = "3304,AE"
+
+cheat370_desc = "女主角服装かいようがくしゃ男"
+cheat370_handler = "2"
+cheat370_code = "3304,AF"
+
+cheat371_desc = "女主角服装かいようがくしゃ女"
+cheat371_handler = "2"
+cheat371_code = "3304,B0"
+
+cheat372_desc = "女主角服装ちしつがくしゃ男"
+cheat372_handler = "2"
+cheat372_code = "3304,B1"
+
+cheat373_desc = "女主角服装ちしつがくしゃ女"
+cheat373_handler = "2"
+cheat373_code = "3304,B2"
+
+cheat374_desc = "女主角服装はつめいか男"
+cheat374_handler = "2"
+cheat374_code = "3304,B3"
+
+cheat375_desc = "女主角服装はつめいか女"
+cheat375_handler = "2"
+cheat375_code = "3304,B4"
+
+cheat376_desc = "女主角服装しんがくしゃ男"
+cheat376_handler = "2"
+cheat376_code = "3304,B5"
+
+cheat377_desc = "女主角服装しんがくしゃ女"
+cheat377_handler = "2"
+cheat377_code = "3304,B6"
+
+cheat378_desc = "女主角服装てんもんがくしゃ男"
+cheat378_handler = "2"
+cheat378_code = "3304,B7"
+
+cheat379_desc = "女主角服装てんもんがくしゃ女"
+cheat379_handler = "2"
+cheat379_code = "3304,B8"
+
+cheat380_desc = "女主角服装ぶつりがくしゃ男"
+cheat380_handler = "2"
+cheat380_code = "3304,B9"
+
+cheat381_desc = "女主角服装ぶつりがくしゃ女"
+cheat381_handler = "2"
+cheat381_code = "3304,BA"
+
+cheat382_desc = "女主角服装トリックスタ-"
+cheat382_handler = "2"
+cheat382_code = "3304,BB"
+
+cheat383_desc = "女主角服装イリュ-ジョニスト"
+cheat383_handler = "2"
+cheat383_code = "3304,BC"
+
+cheat384_desc = "女主角服装きじゅつし"
+cheat384_handler = "2"
+cheat384_code = "3304,BD"
+
+cheat385_desc = "女主角服装ジャゲラ-"
+cheat385_handler = "2"
+cheat385_code = "3304,BE"
+
+cheat386_desc = "女主角服装あじむしゃ男"
+cheat386_handler = "2"
+cheat386_code = "3304,BF"
+
+cheat387_desc = "女主角服装あじむしゃ女"
+cheat387_handler = "2"
+cheat387_code = "3304,C0"
+
+cheat388_desc = "女主角服装ブリ-ステス"
+cheat388_handler = "2"
+cheat388_code = "3304,C2"
+
+cheat389_desc = "女主角服装ドルイド"
+cheat389_handler = "2"
+cheat389_code = "3304,C4"
+
+cheat390_desc = "女主角服装ミスティック"
+cheat390_handler = "2"
+cheat390_code = "3304,C6"
+
+cheat391_desc = "女主角服装ビツョッブ"
+cheat391_handler = "2"
+cheat391_code = "3304,C7"
+
+cheats = 392

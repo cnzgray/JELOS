@@ -194,4 +194,11 @@ EOF
   fi
 
   enable_service bluetooth-agent.service
+
+  # copy ps1 bios
+  cp ${PKG_DIR}/sources/bios/* ${INSTALL}/usr/lib/
+  # copy fonts
+  cp -r ${PKG_DIR}/sources/fonts/* ${INSTALL}/usr/share/fonts/
+  # copy simplify-shaders
+  cp -r ${PKG_DIR}/sources/simplify-shaders ${INSTALL}/usr/share/
 }

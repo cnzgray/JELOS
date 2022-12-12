@@ -1,0 +1,9 @@
+cheat0_desc = "hp"
+cheat0_handler = "2"
+cheat0_code = "43840,E7,3,E7,3;4384C,E7,3;43848,E7,3;43844,E7,3;43846,E7,3;4384A,E7,3"
+
+cheat1_desc = "金錢"
+cheat1_handler = "2"
+cheat1_code = "43838,3F,42,F"
+
+cheats = 2

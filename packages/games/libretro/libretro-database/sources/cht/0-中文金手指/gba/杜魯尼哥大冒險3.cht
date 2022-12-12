@@ -1,0 +1,21 @@
+cheat0_desc = "HP"
+cheat0_handler = "2"
+cheat0_code = "2DAC0,E7,3;2DAC4,E7,3"
+
+cheat1_desc = "腹滿度"
+cheat1_handler = "2"
+cheat1_code = "6174,63"
+
+cheat2_desc = "力量"
+cheat2_handler = "2"
+cheat2_code = "2DAC8,E7,3,E7,3"
+
+cheat3_desc = "EXP"
+cheat3_handler = "2"
+cheat3_code = "2DB08,7F,96,98"
+
+cheat4_desc = "金錢"
+cheat4_handler = "2"
+cheat4_code = "14C0,7F,96,98"
+
+cheats = 5

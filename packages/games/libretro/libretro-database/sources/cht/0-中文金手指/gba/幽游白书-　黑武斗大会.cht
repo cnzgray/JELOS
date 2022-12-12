@@ -1,0 +1,137 @@
+cheat0_desc = "战斗中第1位角色能力HP"
+cheat0_handler = "2"
+cheat0_code = "4129C,F,27,F,27"
+
+cheat1_desc = "战斗中第1位角色能力SE"
+cheat1_handler = "2"
+cheat1_code = "412A0,F,27,F,27"
+
+cheat2_desc = "战斗中第2位角色能力HP"
+cheat2_handler = "2"
+cheat2_code = "412CC,F,27,F,27"
+
+cheat3_desc = "战斗中第2位角色能力SE"
+cheat3_handler = "2"
+cheat3_code = "412D0,F,27,F,27"
+
+cheat4_desc = "战斗中第3位角色能力HP"
+cheat4_handler = "2"
+cheat4_code = "412FC,F,27,F,27"
+
+cheat5_desc = "战斗中第3位角色能力SE"
+cheat5_handler = "2"
+cheat5_code = "41300,F,27,F,27"
+
+cheat6_desc = "战斗中第4位角色能力HP"
+cheat6_handler = "2"
+cheat6_code = "4132C,F,27,F,27"
+
+cheat7_desc = "战斗中第4位角色能力SE"
+cheat7_handler = "2"
+cheat7_code = "41330,F,27,F,27"
+
+cheat8_desc = "战斗中第5位角色能力HP"
+cheat8_handler = "2"
+cheat8_code = "4135C,F,27,F,27"
+
+cheat9_desc = "战斗中第5位角色能力SE"
+cheat9_handler = "2"
+cheat9_code = "41360,F,27,F,27"
+
+cheat10_desc = "全角色幽助"
+cheat10_handler = "2"
+cheat10_code = "41B49,1"
+
+cheat11_desc = "全角色桑原"
+cheat11_handler = "2"
+cheat11_code = "41B5D,1"
+
+cheat12_desc = "全角色飞影"
+cheat12_handler = "2"
+cheat12_code = "41B71,1"
+
+cheat13_desc = "全角色藏马"
+cheat13_handler = "2"
+cheat13_code = "41B85,1"
+
+cheat14_desc = "全角色蒙面选手"
+cheat14_handler = "2"
+cheat14_code = "41B99,1"
+
+cheat15_desc = "全角色驹"
+cheat15_handler = "2"
+cheat15_code = "41BAD,1"
+
+cheat16_desc = "全角色酎"
+cheat16_handler = "2"
+cheat16_code = "41BC1,1"
+
+cheat17_desc = "全角色阵"
+cheat17_handler = "2"
+cheat17_code = "41BD5,1"
+
+cheat18_desc = "全角色飞影之妹"
+cheat18_handler = "2"
+cheat18_code = "41BE9,1"
+
+cheat19_desc = "全角色冻矢"
+cheat19_handler = "2"
+cheat19_code = "41BFD,1"
+
+cheat20_desc = "能力点数"
+cheat20_handler = "2"
+cheat20_code = "41B56,32"
+
+cheat21_desc = "幽助全能力满"
+cheat21_handler = "2"
+cheat21_code = "41B45,8,8,8,8"
+
+cheat22_desc = "桑原全能力满"
+cheat22_handler = "2"
+cheat22_code = "41B59,8,8,8,8"
+
+cheat23_desc = "飞影全能力满"
+cheat23_handler = "2"
+cheat23_code = "41B6D,8,8,8,8"
+
+cheat24_desc = "藏马全能力满"
+cheat24_handler = "2"
+cheat24_code = "41B81,8,8,8,8"
+
+cheat25_desc = "蒙面选手全能力满"
+cheat25_handler = "2"
+cheat25_code = "41B95,8,8,8,8"
+
+cheat26_desc = "驹全能力满"
+cheat26_handler = "2"
+cheat26_code = "41BA9,8,8,8,8"
+
+cheat27_desc = "酎全能力满"
+cheat27_handler = "2"
+cheat27_code = "41BBD,8,8,8,8"
+
+cheat28_desc = "阵全能力满"
+cheat28_handler = "2"
+cheat28_code = "41BD1,8,8,8,8"
+
+cheat29_desc = "飞影之妹全能力满"
+cheat29_handler = "2"
+cheat29_code = "41BE5,8,8,8,8"
+
+cheat30_desc = "冻矢全能力满"
+cheat30_handler = "2"
+cheat30_code = "41BF9,8,8,8,8"
+
+cheat31_desc = "GAMEINFONAME"
+cheat31_handler = "2"
+cheat31_code = "幽游白书-暗黑武斗大会"
+
+cheat32_desc = "GAMEINFOSYSTEM"
+cheat32_handler = "2"
+cheat32_code = "GBA"
+
+cheat33_desc = "GAMEINFOTEXT"
+cheat33_handler = "2"
+cheat33_code = "1783 - Yu-Yu-Hakusho Tournament Tactics (U) BY KRIZAL"
+
+cheats = 34

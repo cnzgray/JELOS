@@ -1,0 +1,49 @@
+cheat0_desc = "金钱MAX"
+cheat0_handler = "2"
+cheat0_code = "10D0,7F,96,98"
+
+cheat1_desc = "回合数"
+cheat1_handler = "2"
+cheat1_code = "10D0,7F,96,98;10D4,1"
+
+cheat2_desc = "总回合数"
+cheat2_handler = "2"
+cheat2_code = "10D0,7F,96,98;10D4,1;10D6,1"
+
+cheat3_desc = "sp不减on"
+cheat3_handler = "2"
+cheat3_code = "11f6c,f6;11f90,a,1;11fb4,f6;11fd8,fb;11ffc,5,1;12020,f6;12044,1e,1;"
+
+cheat4_desc = "sp不减[残弹不减] on"
+cheat4_handler = "2"
+cheat4_code = "136dc,14,a;136df,3;14618,a;1464c,4,4;14750,14,a,8;14fa4,a,8;"
+
+cheat5_desc = "sp不减[en不减] on"
+cheat5_handler = "2"
+cheat5_code = "136cc,cc,1;13a74,40,1;14504,30,1;14670,b5,1;14d24,18,1;14dc0,18,1;"
+
+cheat6_desc = "气力150"
+cheat6_handler = "2"
+cheat6_code = "120E3,96;1212b,96;1214F,96;12173,96;1265F,96;12683,96;126A7,96;12713,96;"
+
+cheat7_desc = "无限移动on"
+cheat7_handler = "2"
+cheat7_code = "164d6,1;16512,1;1654e,1;1658a,1;165c6,1;16602,1;1663e,1;1667a,1;166b6,1;"
+
+cheat8_desc = "出击人数不减on"
+cheat8_handler = "2"
+cheat8_code = "173ac,f"
+
+cheat9_desc = "歌魂不减on"
+cheat9_handler = "2"
+cheat9_code = "128b6,f5,1;128da,f0,1"
+
+cheat10_desc = "气力255on"
+cheat10_handler = "2"
+cheat10_code = "11f7b,ff;11f9f,ff;11fc3,ff;11fe7,ff;1200b,ff;1202f,ff;12053,ff;12077,ff;"
+
+cheat11_desc = "攻击援护次数不减on"
+cheat11_handler = "2"
+cheat11_code = "11f7c,1;11fc4,1;11fe8,1;12030,1;12054,2;12078,1;1209c,1;120c0,1;120e4,1;"
+
+cheats = 12

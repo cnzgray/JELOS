@@ -1,0 +1,13 @@
+cheat0_desc = "人数无限"
+cheat0_handler = "0"
+cheat0_code = "D0033DA4#0002;80033DA4#0001"
+
+cheat1_desc = "自动补血"
+cheat1_handler = "0"
+cheat1_code = "D0128FB4#0000;D0128FB4#00C8"
+
+cheat2_desc = "Extra Red Dragons"
+cheat2_handler = "0"
+cheat2_code = "D00E7230#0000;800E7230#0900"
+
+cheats = 3

@@ -1,0 +1,45 @@
+cheat0_desc = "最大Mana"
+cheat0_handler = "0"
+cheat0_code = "D000E218#0000;800D93AA#0002;D000E218#0000;800D93AE#0002"
+
+cheat1_desc = "最大Magic Protection"
+cheat1_handler = "0"
+cheat1_code = "D000E218#0000;800D93CE#0064"
+
+cheat2_desc = "最大Lightning Protection"
+cheat2_handler = "0"
+cheat2_code = "D000E218#0000;800D93CF#0064"
+
+cheat3_desc = "最大Life"
+cheat3_handler = "0"
+cheat3_code = "D000E218#0000;800D9396#0002;D000E218#0000;800D93AE#0002"
+
+cheat4_desc = "最大AC"
+cheat4_handler = "0"
+cheat4_code = "D000E218#0000;800DAC18#FFFF"
+
+cheat5_desc = "游戏者1拥有所有Spells"
+cheat5_handler = "0"
+cheat5_code = "800dacd8#ffff;800dacda#ffff;800dacdc#ffff"
+
+cheat6_desc = "大量Distribution Points"
+cheat6_handler = "0"
+cheat6_code = "800D9340#029B"
+
+cheat7_desc = "快速升级 Gain Warrior"
+cheat7_handler = "0"
+cheat7_code = "d00047ac#0000;800d937a#5fff"
+
+cheat8_desc = "无限金钱"
+cheat8_handler = "0"
+cheat8_code = "d00047ac#0000;800d9388#ffff;d00047ac#0000;8007014c#0000;d00047ac#0000;80070150#0000"
+
+cheat9_desc = "快速升级Sorcerer"
+cheat9_handler = "0"
+cheat9_code = "d00047ac#0000;800d937a#3fff"
+
+cheat10_desc = "快速升级Gain Rogue"
+cheat10_handler = "0"
+cheat10_code = "d00047ac#0000;800d937a#4fff"
+
+cheats = 11

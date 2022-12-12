@@ -1,0 +1,61 @@
+cheat0_desc = "小敵人不出現"
+cheat0_handler = "0"
+cheat0_code = "800C5808#0000"
+
+cheat1_desc = "快速升級(技巧)"
+cheat1_handler = "0"
+cheat1_code = "D00CBF1C#0014;300CBF1C#0001"
+
+cheat2_desc = "全ITEM"
+cheat2_handler = "0"
+cheat2_code = "B0030002#00000000,800A2168#270F;B0060002#00000000,800A2184#270F;B00B0002#00000000,800A21A0#270F"
+
+cheat3_desc = "全魔法LEVEL最高"
+cheat3_handler = "0"
+cheat3_code = "B0080002#00000000,800A2190#0001;B0040002#00000000,800A21B6#0303"
+
+cheat4_desc = "开机码NO"
+cheat4_handler = "0"
+cheat4_code = "D01BF172#1040;801BF172#1000;D00FAA36#1040;800FAA36#1000"
+
+cheat5_desc = "快速LV UPNO"
+cheat5_handler = "0"
+cheat5_code = "D010B678#001A;3010B5F8#0001"
+
+cheat6_desc = "无限金钱NO"
+cheat6_handler = "0"
+cheat6_code = "800B995C#967F;800B995E#0098"
+
+cheat7_desc = "战斗后金钱多多NO"
+cheat7_handler = "0"
+cheat7_code = "800BB620#FFFF"
+
+cheat8_desc = "战斗后经验多多NO"
+cheat8_handler = "0"
+cheat8_code = "800BB65C#423F;800BB65E#000F"
+
+cheat9_desc = "游戏时间00:00NO"
+cheat9_handler = "0"
+cheat9_code = "800B9968#0000;800B996A#0000"
+
+cheat10_desc = "随时SAVENO"
+cheat10_handler = "0"
+cheat10_code = "30059068#0001"
+
+cheat11_desc = "自动连打NO"
+cheat11_handler = "0"
+cheat11_code = "D0105F00#565F;80105F9C#0001"
+
+cheat12_desc = "龙骑士状态下SP MP MAXNO"
+cheat12_handler = "0"
+cheat12_code = "D00F2FFC#0007;800F2FFC#0001;D00F3FC8#1023;800F3FCA#0040"
+
+cheat13_desc = "所有重要道具NO"
+cheat13_handler = "0"
+cheat13_code = "800B9A64#FFFF;800B9A66#FFFF;300B9A68#001F"
+
+cheat14_desc = "全武器NO"
+cheat14_handler = "0"
+cheat14_code = "8000781E#03E0;8000781C#0008;8000781A#2442;80007818#0001;80007816#1460;80007814#FFFC;80007812#2C43;80007810#009A;8000780E#2484;8000780C#0001;8000780A#A082;80007808#9AB0;80007804#1021;80007802#3C04;80007800#800C;8003766E#0800;8003766C#1E00;300B9B4B#00FF;800B9AAC#009B"
+
+cheats = 15

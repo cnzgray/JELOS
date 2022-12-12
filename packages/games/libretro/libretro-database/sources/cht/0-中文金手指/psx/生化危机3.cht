@@ -1,0 +1,113 @@
+cheat0_desc = "启动破解"
+cheat0_handler = "0"
+cheat0_code = "801840E2#1000"
+
+cheat1_desc = "无限体力"
+cheat1_handler = "0"
+cheat1_code = "8003E6AA#0060"
+
+cheat2_desc = "最佳狀態"
+cheat2_handler = "0"
+cheat2_code = "800CC33F#0004"
+
+cheat3_desc = "速度加快"
+cheat3_handler = "0"
+cheat3_code = "80000700#0001;800D3BF4#00FF"
+
+cheat4_desc = "子彈不減"
+cheat4_handler = "0"
+cheat4_code = "80022c5e#00,1400"
+
+cheat5_desc = "彈藥不減-HBP"
+cheat5_handler = "0"
+cheat5_code = "8006D970#000E"
+
+cheat6_desc = "一擊必殺-HBP"
+cheat6_handler = "0"
+cheat6_code = "80045720#0001"
+
+cheat7_desc = "無限 SAVE 帶"
+cheat7_handler = "0"
+cheat7_code = "800D18C4#FF81"
+
+cheat8_desc = "過關時間為零"
+cheat8_handler = "0"
+cheat8_code = "801940D2#AE00"
+
+cheat9_desc = "記錄次数為零"
+cheat9_handler = "0"
+cheat9_code = "800D15E8#0000"
+
+cheat10_desc = "更換服裝造形原装"
+cheat10_handler = "0"
+cheat10_code = "800D162E#0000"
+
+cheat11_desc = "更換服裝造形原装贴加背包"
+cheat11_handler = "0"
+cheat11_code = "800D162E#0001"
+
+cheat12_desc = "更換服裝造形皮甲装扮"
+cheat12_handler = "0"
+cheat12_code = "800D162E#0002"
+
+cheat13_desc = "更換服裝造形秘书装扮"
+cheat13_handler = "0"
+cheat13_code = "800D162E#0003"
+
+cheat14_desc = "更換服裝造形军装"
+cheat14_handler = "0"
+cheat14_code = "800D162E#0004"
+
+cheat15_desc = "更換服裝造形短裙军装"
+cheat15_handler = "0"
+cheat15_code = "800D162E#0005"
+
+cheat16_desc = "更換服裝造形恐龙危机中的 Regina"
+cheat16_handler = "0"
+cheat16_code = "800D162E#0006"
+
+cheat17_desc = "更換服裝造形卡洛斯 Carlos"
+cheat17_handler = "0"
+cheat17_code = "800D162E#0008"
+
+cheat18_desc = "更換服裝造形米哈尔 Mikhail"
+cheat18_handler = "0"
+cheat18_code = "800D162E#0009"
+
+cheat19_desc = "更換服裝造形尼古拉 Nicholai"
+cheat19_handler = "0"
+cheat19_code = "800D162E#000A"
+
+cheat20_desc = "更換服裝造形豆腐 Toufu"
+cheat20_handler = "0"
+cheat20_code = "800D162E#000F"
+
+cheat21_desc = "加大隨身道具格到十格解锁(成功后需解锁)"
+cheat21_handler = "0"
+cheat21_code = "0000,0"
+
+cheat22_desc = "加大隨身道具格到十格锁定"
+cheat22_handler = "0"
+cheat22_code = "800D1906#000A"
+
+cheat23_desc = "第一隨身道具格为火箭炮解锁(请备份第一格的物品)"
+cheat23_handler = "0"
+cheat23_code = "0000,0"
+
+cheat24_desc = "第一隨身道具格为火箭炮锁定"
+cheat24_handler = "0"
+cheat24_code = "800D17DC#FF0A"
+
+cheat25_desc = "儲物柜中全武器及無限子彈"
+cheat25_handler = "0"
+cheat25_code = "800D1884#FF01;800D189C#FF0A;800D18B0#FF10"
+
+cheat26_desc = "隨時隨地 SAVE  <同時按□+L1>"
+cheat26_handler = "0"
+cheat26_code = "800D13C0#1D00;800D13C2#8005"
+
+cheat27_desc = "隨時呼出儲物柜 <同時按□+L2>"
+cheat27_handler = "0"
+cheat27_code = "800D13C0#1E24;800D13C2#8005;800DF874#0002"
+
+cheats = 28

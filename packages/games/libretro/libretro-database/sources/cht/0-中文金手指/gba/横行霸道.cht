@@ -1,0 +1,77 @@
+cheat0_desc = "护甲"
+cheat0_handler = "2"
+cheat0_code = "25828,64"
+
+cheat1_desc = "生命"
+cheat1_handler = "2"
+cheat1_code = "F22,64"
+
+cheat2_desc = "全武器"
+cheat2_handler = "2"
+cheat2_code = "1084,0,1,FF;108C,1,1,FF;1094,2,1,FF;109C,3,1,FF;10A4,4,1,FF;10AC,5,1,FF;10B4,6,1,FF;10BC,7,1,FF;10C4,8,1,FF;10CC,9,1,FF;10D4,A,1,FF;10DC,B,1,FF"
+
+cheat3_desc = "STATECARS EXPLODED"
+cheat3_handler = "2"
+cheat3_code = "DB4,0"
+
+cheat4_desc = "STATETIMES BUSTED"
+cheat4_handler = "2"
+cheat4_code = "DB6,0"
+
+cheat5_desc = "STATEWASTED"
+cheat5_handler = "2"
+cheat5_code = "DB8,0"
+
+cheat6_desc = "STATEWASTED BY OTHERS"
+cheat6_handler = "2"
+cheat6_code = "DBA,0"
+
+cheat7_desc = "STATETHUG WASTED"
+cheat7_handler = "2"
+cheat7_code = "DBC,0"
+
+cheat8_desc = "STATECRIMINALS WASTED"
+cheat8_handler = "2"
+cheat8_code = "DD5,0"
+
+cheat9_desc = "STATEMILES WALKED"
+cheat9_handler = "2"
+cheat9_code = "DC4,F,27"
+
+cheat10_desc = "STATEMILES DRIVEN"
+cheat10_handler = "2"
+cheat10_code = "DC6,F,27"
+
+cheat11_desc = "STATEPATIENTS RESCURED"
+cheat11_handler = "2"
+cheat11_code = "DCF,F,27"
+
+cheat12_desc = "时间游戏时间"
+cheat12_handler = "2"
+cheat12_code = "25818,0,0"
+
+cheat13_desc = "时间任务剩余时间"
+cheat13_handler = "2"
+cheat13_code = "25815,59"
+
+cheat14_desc = "金钱"
+cheat14_handler = "2"
+cheat14_code = "25824,FF,E0,F5,5"
+
+cheat15_desc = "警星全灭"
+cheat15_handler = "2"
+cheat15_code = "2581A,0;30340,0"
+
+cheat16_desc = "警星全开"
+cheat16_handler = "2"
+cheat16_code = "2581A,6;30340,6"
+
+cheat17_desc = "初始赛车速度"
+cheat17_handler = "2"
+cheat17_code = "7248,2B,6F,4"
+
+cheat18_desc = "车辆损坏程度降低"
+cheat18_handler = "2"
+cheat18_code = "2AFA,37"
+
+cheats = 19

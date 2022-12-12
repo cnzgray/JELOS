@@ -1,0 +1,2369 @@
+cheat0_desc = "SP不减"
+cheat0_handler = "0"
+cheat0_code = "D00B65EA#0072,800B65EA#0060;D00B663E#0092,800B663E#0080;D00B6686#0045,800B6686#0040;D00B66D6#0067,800B66D6#0060"
+
+cheat1_desc = "EN不减"
+cheat1_handler = "0"
+cheat1_code = "D00B8602#0062,800B8602#0060;D00B868A#0062,800B868A#0060;D00B8CBA#0065,800B8CBA#0060;D012952C#0008,80129530#0000"
+
+cheat2_desc = "残弹不减"
+cheat2_handler = "0"
+cheat2_code = "D00B9160#007F,800B9164#0000"
+
+cheat3_desc = "无限使用卫星激光炮"
+cheat3_handler = "0"
+cheat3_code = "D00C03D8#12C2,800C03D8#1021;D00C03DA#0010,800C03DA#0000"
+
+cheat4_desc = "操纵敌机、上帝之手～给BOSS自己用精神吧"
+cheat4_handler = "0"
+cheat4_code = "D010A5D2#1462,8010A5D2#1400;D00BF842#1400,800BF842#1000"
+
+cheat5_desc = "可攻击已方"
+cheat5_handler = "0"
+cheat5_code = "D00C6066#1040,800C6066#1400;D00C64E6#1040,800C64E6#1400"
+
+cheat6_desc = "无限射程，古兰森全地图范围大加农～"
+cheat6_handler = "0"
+cheat6_code = "D00BEB0A#1602,800BEB0A#1400"
+
+cheat7_desc = "无限移动,8用再动、觉醒，可以一直走～"
+cheat7_handler = "0"
+cheat7_code = "D00BF842#1440,800BF842#1000"
+
+cheat8_desc = "援护回数不减"
+cheat8_handler = "0"
+cheat8_code = "D00C3E30#000F,800C3E34#0000"
+
+cheat9_desc = "上限FF击坠后的击坠数×倍2倍"
+cheat9_handler = "0"
+cheat9_code = "D00C5620#1300,800C5620#1340"
+
+cheat10_desc = "上限FF击坠后的击坠数×倍4倍"
+cheat10_handler = "0"
+cheat10_code = "D00C5620#1300,800C5620#1380"
+
+cheat11_desc = "上限FF击坠后的击坠数×倍8倍"
+cheat11_handler = "0"
+cheat11_code = "D00C5620#1300,800C5620#13C0"
+
+cheat12_desc = "上限FF击坠后的击坠数×倍16倍"
+cheat12_handler = "0"
+cheat12_code = "D00C5620#1300,800C5620#1400"
+
+cheat13_desc = "上限FF击坠后的击坠数×倍32倍"
+cheat13_handler = "0"
+cheat13_code = "D00C5620#1300,800C5620#1440"
+
+cheat14_desc = "上限FF击坠后的击坠数×倍64倍"
+cheat14_handler = "0"
+cheat14_code = "D00C5620#1300,800C5620#1480"
+
+cheat15_desc = "经验值入手后1LVUP"
+cheat15_handler = "0"
+cheat15_code = "D00B58C8#0002,800B58CC#01F4;D00B58C8#0002,800B58CE#2405"
+
+cheat16_desc = "经验值入手后LVMAX，好像效果持续"
+cheat16_handler = "0"
+cheat16_code = "D00B58EC#0002,800B58EC#0001"
+
+cheat17_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机0_Debug?第零话?"
+cheat17_handler = "0"
+cheat17_code = "80074D44#0000"
+
+cheat18_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机1_START_战火、再び"
+cheat18_handler = "0"
+cheat18_code = "80074D44#0001"
+
+cheat19_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机2_あえて污名を"
+cheat19_handler = "0"
+cheat19_code = "80074D44#0002"
+
+cheat20_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机3_胜利へのVサイン"
+cheat20_handler = "0"
+cheat20_code = "80074D44#0003"
+
+cheat21_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机4A_リーンホース队(月へ)_13番目の星座"
+cheat21_handler = "0"
+cheat21_code = "80074D44#0004"
+
+cheat22_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机5A_月のゆりかご"
+cheat22_handler = "0"
+cheat22_code = "80074D44#0005"
+
+cheat23_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机6A_情け无用のJ9"
+cheat23_handler = "0"
+cheat23_code = "80074D44#0006"
+
+cheat24_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机4B_アーガマ队(极东支部へ)_正义は我zにあり"
+cheat24_handler = "0"
+cheat24_code = "80074D44#0007"
+
+cheat25_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机5B_锁を解き放て"
+cheat25_handler = "0"
+cheat25_code = "80074D44#0008"
+
+cheat26_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机6B_お呼びとあらば即参上"
+cheat26_handler = "0"
+cheat26_code = "80074D44#0009"
+
+cheat27_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机7_终わらない圆舞曲"
+cheat27_handler = "0"
+cheat27_code = "80074D44#000A"
+
+cheat28_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机8_ヌビアは笑う"
+cheat28_handler = "0"
+cheat28_code = "80074D44#000B"
+
+cheat29_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机9_愚者の祭典"
+cheat29_handler = "0"
+cheat29_code = "80074D44#000C"
+
+cheat30_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机10_遥かなる时の彼方"
+cheat30_handler = "0"
+cheat30_code = "80074D44#000D"
+
+cheat31_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机11_何で掟をやぶるのさ"
+cheat31_handler = "0"
+cheat31_code = "80074D44#000E"
+
+cheat32_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机12_谜また谜のイノセント"
+cheat32_handler = "0"
+cheat32_code = "80074D44#000F"
+
+cheat33_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机13_罪なき者の圣域"
+cheat33_handler = "0"
+cheat33_code = "80074D44#0010"
+
+cheat34_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机14B_直行しない(TURN A向)_招かれざる客"
+cheat34_handler = "0"
+cheat34_code = "80074D44#0011"
+
+cheat35_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机15B_ディアナ降临"
+cheat35_handler = "0"
+cheat35_code = "80074D44#0012"
+
+cheat36_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机16B_ローラ＝ローラ"
+cheat36_handler = "0"
+cheat36_code = "80074D44#0013"
+
+cheat37_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机17B_白い恶魔"
+cheat37_handler = "0"
+cheat37_code = "80074D44#0014"
+
+cheat38_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机14A_直行する(X GUNDAM向)_月は出ているか"
+cheat38_handler = "0"
+cheat38_code = "80074D44#0015"
+
+cheat39_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机15A_あなたに、力を"
+cheat39_handler = "0"
+cheat39_code = "80074D44#0016"
+
+cheat40_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机16A_ガンダム、卖るよ"
+cheat40_handler = "0"
+cheat40_code = "80074D44#0017"
+
+cheat41_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机17A_月の民"
+cheat41_handler = "0"
+cheat41_code = "80074D44#0018"
+
+cheat42_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机18A_フォートセバーンへ行く(真实系货车向)_仆がニュータイプだ"
+cheat42_handler = "0"
+cheat42_code = "80074D44#0019"
+
+cheat43_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机19A_共鸣する力"
+cheat43_handler = "0"
+cheat43_code = "80074D44#001A"
+
+cheat44_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机20A_过去からの侵略"
+cheat44_handler = "0"
+cheat44_code = "80074D44#001B"
+
+cheat45_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机18B_ビシニティに残る_机械の兽たち"
+cheat45_handler = "0"
+cheat45_code = "80074D44#001C"
+
+cheat46_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机19B_百年の恋"
+cheat46_handler = "0"
+cheat46_code = "80074D44#001D"
+
+cheat47_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机20B_黑历史の遗产"
+cheat47_handler = "0"
+cheat47_code = "80074D44#001E"
+
+cheat48_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机21_地上をこの手に"
+cheat48_handler = "0"
+cheat48_code = "80074D44#001F"
+
+cheat49_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机22_谜のランドシップ"
+cheat49_handler = "0"
+cheat49_code = "80074D44#0020"
+
+cheat50_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机23_Loreleiの海"
+cheat50_handler = "0"
+cheat50_code = "80074D44#0021"
+
+cheat51_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机24_大地の守护神"
+cheat51_handler = "0"
+cheat51_code = "80074D44#0022"
+
+cheat52_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机25_もう逢えない气がして"
+cheat52_handler = "0"
+cheat52_code = "80074D44#0027"
+
+cheat53_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机26A_熟练度14以下_破れかぶれのラグ"
+cheat53_handler = "0"
+cheat53_code = "80074D44#0028"
+
+cheat54_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机27A_舍て身と舍て身の大战斗"
+cheat54_handler = "0"
+cheat54_code = "80074D44#0029"
+
+cheat55_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机28A_暗黑大将军の挑战"
+cheat55_handler = "0"
+cheat55_code = "80074D44#002A"
+
+cheat56_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机29A_女の心をあやつれば"
+cheat56_handler = "0"
+cheat56_code = "80074D44#002B"
+
+cheat57_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机26B_熟练度15以上_果てしなき大空に誓う"
+cheat57_handler = "0"
+cheat57_code = "80074D44#002C"
+
+cheat58_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机27B_ホーラの意地"
+cheat58_handler = "0"
+cheat58_code = "80074D44#002D"
+
+cheat59_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机28B_イノセントの黑历史"
+cheat59_handler = "0"
+cheat59_code = "80074D44#002E"
+
+cheat60_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机29B_女いろいろ万华镜"
+cheat60_handler = "0"
+cheat60_code = "80074D44#002F"
+
+cheat61_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机30_イノセントを总べる者"
+cheat61_handler = "0"
+cheat61_code = "80074D44#0030"
+
+cheat62_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机31_天地を烧く剑"
+cheat62_handler = "0"
+cheat62_code = "80074D44#0031"
+
+cheat63_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机32A_月へ向かう _飞べ、宇宙へ"
+cheat63_handler = "0"
+cheat63_code = "80074D44#0032"
+
+cheat64_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机33A_ターンX起动"
+cheat64_handler = "0"
+cheat64_code = "80074D44#0033"
+
+cheat65_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机34A_时を超えた対决"
+cheat65_handler = "0"
+cheat65_code = "80074D44#0034"
+
+cheat66_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机35A_私はＤ．Ｏ．Ｍ．Ｅ…黑历史を封印するもの"
+cheat66_handler = "0"
+cheat66_code = "80074D44#0035"
+
+cheat67_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机32B_Xポイントへ向かう _姿なき恐龙空爆队"
+cheat67_handler = "0"
+cheat67_code = "80074D44#0036"
+
+cheat68_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机33B_エルチ目觉めよ"
+cheat68_handler = "0"
+cheat68_code = "80074D44#0037"
+
+cheat69_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机34B_この星は仆らのものだ"
+cheat69_handler = "0"
+cheat69_code = "80074D44#0038"
+
+cheat70_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机35B_战斗神降临"
+cheat70_handler = "0"
+cheat70_code = "80074D44#0039"
+
+cheat71_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机36A_夺われた真·ゲッターロボ"
+cheat71_handler = "0"
+cheat71_code = "80074D44#003E"
+
+cheat72_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机36B_真ゲッターロボ対マジンカイザー"
+cheat72_handler = "0"
+cheat72_code = "80074D44#003F"
+
+cheat73_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机37_仆らが求めた战争だ"
+cheat73_handler = "0"
+cheat73_code = "80074D44#0040"
+
+cheat74_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机38_月光蝶"
+cheat74_handler = "0"
+cheat74_code = "80074D44#0041"
+
+cheat75_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机39_决战！Ｘポイント"
+cheat75_handler = "0"
+cheat75_code = "80074D44#0042"
+
+cheat76_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机40_ＡＢＡＹＯ"
+cheat76_handler = "0"
+cheat76_code = "80074D44#0043"
+
+cheat77_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机41B_ＥＮＤ－１向(难易度：易)_恐龙帝国の灭びる日"
+cheat77_handler = "0"
+cheat77_code = "80074D44#0044"
+
+cheat78_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机42B_歪んだ未来"
+cheat78_handler = "0"
+cheat78_code = "80074D44#0045"
+
+cheat79_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机43B_最终话_眠れ、地の底に"
+cheat79_handler = "0"
+cheat79_code = "80074D44#0046"
+
+cheat80_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机41AC_难易度：普、难_黑历史の终焉"
+cheat80_handler = "0"
+cheat80_code = "80074D44#0047"
+
+cheat81_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机42C_ＥＮＤ－２向(难易度：普)_地球の后继者"
+cheat81_handler = "0"
+cheat81_code = "80074D44#0048"
+
+cheat82_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机43C_最终话_时の流の果てに"
+cheat82_handler = "0"
+cheat82_code = "80074D44#0049"
+
+cheat83_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机42A_ＥＮＤ－３向(难易度：难)_龙が灭ぶ日"
+cheat83_handler = "0"
+cheat83_code = "80074D44#004A"
+
+cheat84_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机43A_人类死すべし"
+cheat84_handler = "0"
+cheat84_code = "80074D44#004B"
+
+cheat85_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机44A_未来は谁のために"
+cheat85_handler = "0"
+cheat85_code = "80074D44#004C"
+
+cheat86_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机45A_真最终话(回合数500以下，熟练度35以上)_ラグナロク"
+cheat86_handler = "0"
+cheat86_code = "80074D44#004D"
+
+cheat87_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机4Eh~空的，前面不少空的大概打算做后来砍掉了"
+cheat87_handler = "0"
+cheat87_code = "0000,00"
+
+cheat88_desc = "搭乘限制解除，Reset后用"
+cheat88_handler = "0"
+cheat88_code = "D00B2342#1040,800B2342#1400;D00B1DAE#1040,800B1DAE#1400"
+
+cheat89_desc = "金钱9999999,内存占4格"
+cheat89_handler = "0"
+cheat89_code = "80073168#967F;8007316A#0098"
+
+cheat90_desc = "总回合数0合数"
+cheat90_handler = "0"
+cheat90_code = "8007316C#0000"
+
+cheat91_desc = "总回合数99"
+cheat91_handler = "0"
+cheat91_code = "8007316C#0063"
+
+cheat92_desc = "本关回合数置0，用于重复出击"
+cheat92_handler = "0"
+cheat92_code = "3007316E#0000"
+
+cheat93_desc = "商店出现,在商店项不可用时用"
+cheat93_handler = "0"
+cheat93_code = "30073175#0000"
+
+cheat94_desc = "无限蓝石BS"
+cheat94_handler = "0"
+cheat94_code = "80073178#270F;8007317A#0000"
+
+cheat95_desc = "难易度普"
+cheat95_handler = "0"
+cheat95_code = "30073182#0000"
+
+cheat96_desc = "难易度易"
+cheat96_handler = "0"
+cheat96_code = "30073182#0001"
+
+cheat97_desc = "难易度难"
+cheat97_handler = "0"
+cheat97_code = "30073182#0002"
+
+cheat98_desc = "熟练度0"
+cheat98_handler = "0"
+cheat98_code = "80073188#0000"
+
+cheat99_desc = "熟练度9"
+cheat99_handler = "0"
+cheat99_code = "80073188#0009"
+
+cheat100_desc = "熟练度37"
+cheat100_handler = "0"
+cheat100_code = "80073188#0025"
+
+cheat101_desc = "熟练度255"
+cheat101_handler = "0"
+cheat101_code = "80073188#00FF"
+
+cheat102_desc = "全部动画"
+cheat102_handler = "0"
+cheat102_code = "D00E9B9E#1040,800E9B9E#1400"
+
+cheat103_desc = "全部音乐"
+cheat103_handler = "0"
+cheat103_code = "8005EE08#FFFF"
+
+cheat104_desc = "游戏加速"
+cheat104_handler = "0"
+cheat104_code = "D0024B38#FFE9,80024B3A#1400"
+
+cheat105_desc = "高速化"
+cheat105_handler = "0"
+cheat105_code = "D0024B3A#1440,80024B3A#1400"
+
+cheat106_desc = "按△键高速化，按选择键恢复正常"
+cheat106_handler = "0"
+cheat106_code = "D005EA9C#0010,80024B3A#1400;D005EA9C#0100,80024B3A#1440"
+
+cheat107_desc = "回合数不增加"
+cheat107_handler = "0"
+cheat107_code = "D00EAC0C#0001,800EAC0C#0000"
+
+cheat108_desc = "100%机体图鉴"
+cheat108_handler = "0"
+cheat108_code = "D00EEEA0#000A,800EEEA0#0001"
+
+cheat109_desc = "100%人物图鉴"
+cheat109_handler = "0"
+cheat109_code = "D00EC764#000A,800EC764#0001"
+
+cheat110_desc = "全部强化芯片"
+cheat110_handler = "0"
+cheat110_code = "B0030002#00000000,801704AC#FFFF;B05F0001#00000000,301704BC#0009"
+
+cheat111_desc = "强化芯片用中文版的可以输入"
+cheat111_handler = "0"
+cheat111_code = "801704AC#FFFF;801704AE#FFFF;801704B0#FFFF;B0320002#00000000,801704BC#0909"
+
+cheat112_desc = "不死机"第20话不死机""
+cheat112_handler = "0"
+cheat112_code = "3016F81E#0003;8016F94E#0000"
+
+cheat113_desc = "不死机"第36话不死机""
+cheat113_handler = "0"
+cheat113_code = "3016F81E#0003;3016F94E#0000"
+
+cheat114_desc = "YF19"
+cheat114_handler = "0"
+cheat114_code = "8016EC90#0120;8016F824#01A0"
+
+cheat115_desc = "龙虎王"
+cheat115_handler = "0"
+cheat115_code = "8016F8F4#01DB;8016F904#01DC;8016F914#01D9;8016F924#01DA;3016F8FB#0000;3016F90B#0000;3016F91B#0000;3016F92B#0000;3016F8FC#00FF;3016F90C#00FF;3016F91C#00FF;3016F92C#00FF;3016F8FD#00FF;3016F90D#000E;3016F91D#000E;3016F92D#0010;8016F8FE#A02B;8016F90E#A02C;8016F91E#A028;8016F92E#A02C;8016ED44#0147;8016ED58#013B;3016ED49#000F;3016ED5D#000F;3016ED4B#0000;3016ED5F#0000"
+
+cheat116_desc = "斩舰刀NO"
+cheat116_handler = "0"
+cheat116_code = "8016F934#01D0;3016F93B#0000;3016F93C#00FF;8016F93E#A033;8016ED6C#014C;3016ED71#000F;3016ED73#0000"
+
+cheat117_desc = "晓击霸mark3-MANO"
+cheat117_handler = "0"
+cheat117_code = "8016F934#01E6;3016F93B#0000;3016F93C#00FF;8016F93E#A033;8016ED6C#0138;3016ED71#000F;3016ED73#0000"
+
+cheat118_desc = "击坠一机，我方气力+50"
+cheat118_handler = "0"
+cheat118_code = "D00C3AA0#0001,800C3AA0#0032"
+
+cheat119_desc = "更换机体アーガマ"
+cheat119_handler = "0"
+cheat119_code = "8016F814#0000"
+
+cheat120_desc = "更换机体リーンホースJRON"
+cheat120_handler = "0"
+cheat120_code = "8016F814#0001"
+
+cheat121_desc = "更换机体ラー·カイラム"
+cheat121_handler = "0"
+cheat121_code = "8016F814#0002"
+
+cheat122_desc = "更换机体ガンダム试作1号机FB"
+cheat122_handler = "0"
+cheat122_code = "8016F814#0003"
+
+cheat123_desc = "更换机体コアファイター2FB"
+cheat123_handler = "0"
+cheat123_code = "8016F814#0004"
+
+cheat124_desc = "更换机体ガンダム试作2号机"
+cheat124_handler = "0"
+cheat124_code = "8016F814#0005"
+
+cheat125_desc = "更换机体ガンダム试作3号机"
+cheat125_handler = "0"
+cheat125_code = "8016F814#0006"
+
+cheat126_desc = "更换机体ガンダム·ステイメン"
+cheat126_handler = "0"
+cheat126_code = "8016F814#0007"
+
+cheat127_desc = "更换机体ジム·キャノン2"
+cheat127_handler = "0"
+cheat127_code = "8016F814#0008"
+
+cheat128_desc = "更换机体ジム·カスタム"
+cheat128_handler = "0"
+cheat128_code = "8016F814#0009"
+
+cheat129_desc = "更换机体ジム·クゥエル（HP3300）"
+cheat129_handler = "0"
+cheat129_code = "8016F814#000A"
+
+cheat130_desc = "更换机体ジム·クゥエル（HP3000）"
+cheat130_handler = "0"
+cheat130_code = "8016F814#000B"
+
+cheat131_desc = "更换机体ザメル"
+cheat131_handler = "0"
+cheat131_code = "8016F814#000C"
+
+cheat132_desc = "更换机体ヴァル·ヴァロ"
+cheat132_handler = "0"
+cheat132_code = "8016F814#000D"
+
+cheat133_desc = "更换机体ガーベラ·テトラ"
+cheat133_handler = "0"
+cheat133_code = "8016F814#000E"
+
+cheat134_desc = "更换机体ノイエ·ジール"
+cheat134_handler = "0"
+cheat134_code = "8016F814#000F"
+
+cheat135_desc = "更换机体ゲルググ·M"
+cheat135_handler = "0"
+cheat135_code = "8016F814#0010"
+
+cheat136_desc = "更换机体Zガンダム（HP3800）"
+cheat136_handler = "0"
+cheat136_code = "8016F814#0011"
+
+cheat137_desc = "更换机体ウェイブライダー"
+cheat137_handler = "0"
+cheat137_code = "8016F814#0012"
+
+cheat138_desc = "更换机体Zガンダム（HP4200）"
+cheat138_handler = "0"
+cheat138_code = "8016F814#0013"
+
+cheat139_desc = "更换机体ウェイブライダー"
+cheat139_handler = "0"
+cheat139_code = "8016F814#0014"
+
+cheat140_desc = "更换机体ノイエ·ジール"
+cheat140_handler = "0"
+cheat140_code = "8016F814#000F"
+
+cheat141_desc = "更换机体ゲルググ·M"
+cheat141_handler = "0"
+cheat141_code = "8016F814#0010"
+
+cheat142_desc = "更换机体Zガンダム（HP3800）"
+cheat142_handler = "0"
+cheat142_code = "8016F814#0011"
+
+cheat143_desc = "更换机体ウェイブライダー"
+cheat143_handler = "0"
+cheat143_code = "8016F814#0012"
+
+cheat144_desc = "更换机体Zガンダム（HP4200）"
+cheat144_handler = "0"
+cheat144_code = "8016F814#0013"
+
+cheat145_desc = "更换机体ウェイブライダー"
+cheat145_handler = "0"
+cheat145_code = "8016F814#0014"
+
+cheat146_desc = "更换机体Z2"
+cheat146_handler = "0"
+cheat146_code = "8016F814#0015"
+
+cheat147_desc = "更换机体Z2（MA）"
+cheat147_handler = "0"
+cheat147_code = "8016F814#0016"
+
+cheat148_desc = "更换机体ガンダムMK2"
+cheat148_handler = "0"
+cheat148_code = "8016F814#0017"
+
+cheat149_desc = "更换机体ガンダムMK2"
+cheat149_handler = "0"
+cheat149_code = "8016F814#0018"
+
+cheat150_desc = "更换机体Gディフェンサー"
+cheat150_handler = "0"
+cheat150_code = "8016F814#0019"
+
+cheat151_desc = "更换机体スーパーガンダム"
+cheat151_handler = "0"
+cheat151_code = "8016F814#001A"
+
+cheat152_desc = "更换机体百式"
+cheat152_handler = "0"
+cheat152_code = "8016F814#001B"
+
+cheat153_desc = "更换机体百式改"
+cheat153_handler = "0"
+cheat153_code = "8016F814#001C"
+
+cheat154_desc = "更换机体フルアーマー百式改"
+cheat154_handler = "0"
+cheat154_code = "8016F814#001D"
+
+cheat155_desc = "更换机体リック·ディアス"
+cheat155_handler = "0"
+cheat155_code = "8016F814#001E"
+
+cheat156_desc = "更换机体メタス"
+cheat156_handler = "0"
+cheat156_code = "8016F814#001F"
+
+cheat157_desc = "更换机体メタス（MA）"
+cheat157_handler = "0"
+cheat157_code = "8016F814#0020"
+
+cheat158_desc = "更换机体マラサイ"
+cheat158_handler = "0"
+cheat158_code = "8016F814#0021"
+
+cheat159_desc = "更换机体バイアラン"
+cheat159_handler = "0"
+cheat159_code = "8016F814#0022"
+
+cheat160_desc = "更换机体パラス·アテネ"
+cheat160_handler = "0"
+cheat160_code = "8016F814#0023"
+
+cheat161_desc = "更换机体キュベレイ"
+cheat161_handler = "0"
+cheat161_code = "8016F814#0024"
+
+cheat162_desc = "更换机体ジ·O"
+cheat162_handler = "0"
+cheat162_code = "8016F814#0025"
+
+cheat163_desc = "更换机体メッサーラ"
+cheat163_handler = "0"
+cheat163_code = "8016F814#0026"
+
+cheat164_desc = "更换机体メッサーラ（MA）"
+cheat164_handler = "0"
+cheat164_code = "8016F814#0027"
+
+cheat165_desc = "更换机体ギャプラン"
+cheat165_handler = "0"
+cheat165_code = "8016F814#0028"
+
+cheat166_desc = "更换机体ギャプラン（MA）"
+cheat166_handler = "0"
+cheat166_code = "8016F814#0029"
+
+cheat167_desc = "更换机体ギャプラン"
+cheat167_handler = "0"
+cheat167_code = "8016F814#002A"
+
+cheat168_desc = "更换机体ギャプラン（MA）"
+cheat168_handler = "0"
+cheat168_code = "8016F814#002B"
+
+cheat169_desc = "更换机体アッシマー"
+cheat169_handler = "0"
+cheat169_code = "8016F814#002C"
+
+cheat170_desc = "更换机体アッシマー（MA）"
+cheat170_handler = "0"
+cheat170_code = "8016F814#002D"
+
+cheat171_desc = "更换机体アッシマー"
+cheat171_handler = "0"
+cheat171_code = "8016F814#002E"
+
+cheat172_desc = "更换机体アッシマー（MA）"
+cheat172_handler = "0"
+cheat172_code = "8016F814#002F"
+
+cheat173_desc = "更换机体ガブスレイ"
+cheat173_handler = "0"
+cheat173_code = "8016F814#0030"
+
+cheat174_desc = "更换机体ガブスレイ（MA）"
+cheat174_handler = "0"
+cheat174_code = "8016F814#0031"
+
+cheat175_desc = "更换机体ガブスレイ"
+cheat175_handler = "0"
+cheat175_code = "8016F814#0032"
+
+cheat176_desc = "更换机体ガブスレイ（MA）"
+cheat176_handler = "0"
+cheat176_code = "8016F814#0033"
+
+cheat177_desc = "更换机体ハンブラビ"
+cheat177_handler = "0"
+cheat177_code = "8016F814#0034"
+
+cheat178_desc = "更换机体ハンブラビ（MA）"
+cheat178_handler = "0"
+cheat178_code = "8016F814#0035"
+
+cheat179_desc = "更换机体ハンブラビ"
+cheat179_handler = "0"
+cheat179_code = "8016F814#0036"
+
+cheat180_desc = "更换机体ハンブラビ（MA）"
+cheat180_handler = "0"
+cheat180_code = "8016F814#0037"
+
+cheat181_desc = "更换机体バウンド·ドッグ"
+cheat181_handler = "0"
+cheat181_code = "8016F814#0038"
+
+cheat182_desc = "更换机体バウンド·ドッグ（MA）"
+cheat182_handler = "0"
+cheat182_code = "8016F814#0039"
+
+cheat183_desc = "更换机体バウンド·ドッグ"
+cheat183_handler = "0"
+cheat183_code = "8016F814#003A"
+
+cheat184_desc = "更换机体バウンド·ドッグ（MA）"
+cheat184_handler = "0"
+cheat184_code = "8016F814#003B"
+
+cheat185_desc = "更换机体サイコガンダム"
+cheat185_handler = "0"
+cheat185_code = "8016F814#003C"
+
+cheat186_desc = "更换机体サイコガンダム（MA）"
+cheat186_handler = "0"
+cheat186_code = "8016F814#003D"
+
+cheat187_desc = "更换机体サイコガンダム"
+cheat187_handler = "0"
+cheat187_code = "8016F814#003E"
+
+cheat188_desc = "更换机体サイコガンダム（MA）"
+cheat188_handler = "0"
+cheat188_code = "8016F814#003F"
+
+cheat189_desc = "更换机体サイコガンダムMK2"
+cheat189_handler = "0"
+cheat189_code = "8016F814#0040"
+
+cheat190_desc = "更换机体サイコガンダムMK2（MA）"
+cheat190_handler = "0"
+cheat190_code = "8016F814#0041"
+
+cheat191_desc = "更换机体サイコガンダムMK2"
+cheat191_handler = "0"
+cheat191_code = "8016F814#0042"
+
+cheat192_desc = "更换机体サイコガンダムMK2（MA）"
+cheat192_handler = "0"
+cheat192_code = "8016F814#0043"
+
+cheat193_desc = "更换机体ドゴス·ギア"
+cheat193_handler = "0"
+cheat193_code = "8016F814#0044"
+
+cheat194_desc = "更换机体アレキサンドリア"
+cheat194_handler = "0"
+cheat194_code = "8016F814#0045"
+
+cheat195_desc = "更换机体アウドムラ"
+cheat195_handler = "0"
+cheat195_code = "8016F814#0046"
+
+cheat196_desc = "更换机体スードリ"
+cheat196_handler = "0"
+cheat196_code = "8016F814#0047"
+
+cheat197_desc = "更换机体Gビット"
+cheat197_handler = "0"
+cheat197_code = "8016F814#0048"
+
+cheat198_desc = "更换机体ZZガンダム"
+cheat198_handler = "0"
+cheat198_code = "8016F814#0049"
+
+cheat199_desc = "更换机体フルアーマーZZガンダム"
+cheat199_handler = "0"
+cheat199_code = "8016F814#004A"
+
+cheat200_desc = "更换机体Gフォートレス"
+cheat200_handler = "0"
+cheat200_code = "8016F814#004B"
+
+cheat201_desc = "更换机体Gフォートレス"
+cheat201_handler = "0"
+cheat201_code = "8016F814#004C"
+
+cheat202_desc = "更换机体コアファイター（ZZ）"
+cheat202_handler = "0"
+cheat202_code = "8016F814#004D"
+
+cheat203_desc = "更换机体キュベレイMK2"
+cheat203_handler = "0"
+cheat203_code = "8016F814#004E"
+
+cheat204_desc = "更换机体キュベレイMK2"
+cheat204_handler = "0"
+cheat204_code = "8016F814#004F"
+
+cheat205_desc = "更换机体キュベレイMK2"
+cheat205_handler = "0"
+cheat205_code = "8016F814#0050"
+
+cheat206_desc = "更换机体ガザD"
+cheat206_handler = "0"
+cheat206_code = "8016F814#0051"
+
+cheat207_desc = "更换机体ガザD（MA）"
+cheat207_handler = "0"
+cheat207_code = "8016F814#0052"
+
+cheat208_desc = "更换机体ガザD"
+cheat208_handler = "0"
+cheat208_code = "8016F814#0053"
+
+cheat209_desc = "更换机体ガザD（MA）"
+cheat209_handler = "0"
+cheat209_code = "8016F814#0054 ）"
+
+cheat210_desc = "更换机体ガルスJ"
+cheat210_handler = "0"
+cheat210_code = "8016F814#0055"
+
+cheat211_desc = "更换机体ズサ"
+cheat211_handler = "0"
+cheat211_code = "8016F814#0056"
+
+cheat212_desc = "更换机体R·ジャジャ"
+cheat212_handler = "0"
+cheat212_code = "8016F814#0057"
+
+cheat213_desc = "更换机体ハンマ·ハンマ"
+cheat213_handler = "0"
+cheat213_code = "8016F814#0058"
+
+cheat214_desc = "更换机体ドライセン"
+cheat214_handler = "0"
+cheat214_code = "8016F814#0059"
+
+cheat215_desc = "更换机体バウ"
+cheat215_handler = "0"
+cheat215_code = "8016F814#005A"
+
+cheat216_desc = "更换机体ザク3"
+cheat216_handler = "0"
+cheat216_code = "8016F814#005B"
+
+cheat217_desc = "更换机体ザク3改"
+cheat217_handler = "0"
+cheat217_code = "8016F814#005C"
+
+cheat218_desc = "更换机体ドーベン·ウルフ"
+cheat218_handler = "0"
+cheat218_code = "8016F814#005D"
+
+cheat219_desc = "更换机体ゲーマルク"
+cheat219_handler = "0"
+cheat219_code = "8016F814#005E"
+
+cheat220_desc = "更换机体クイン·マンサ"
+cheat220_handler = "0"
+cheat220_code = "8016F814#005F"
+
+cheat221_desc = "更换机体エンドラ"
+cheat221_handler = "0"
+cheat221_code = "8016F814#0060"
+
+cheat222_desc = "更换机体ダミー"
+cheat222_handler = "0"
+cheat222_code = "8016F814#0061"
+
+cheat223_desc = "更换机体NUガンダム"
+cheat223_handler = "0"
+cheat223_code = "8016F814#0062"
+
+cheat224_desc = "更换机体NUガンダムHWS装着型"
+cheat224_handler = "0"
+cheat224_code = "8016F814#0063"
+
+cheat225_desc = "更换机体HI－NUガンダム"
+cheat225_handler = "0"
+cheat225_code = "8016F814#0064"
+
+cheat226_desc = "更换机体リ·ガズィ（BWS）"
+cheat226_handler = "0"
+cheat226_code = "8016F814#0065"
+
+cheat227_desc = "更换机体リ·ガズィ"
+cheat227_handler = "0"
+cheat227_code = "8016F814#0066"
+
+cheat228_desc = "更换机体リ·ガズィ"
+cheat228_handler = "0"
+cheat228_code = "8016F814#0067"
+
+cheat229_desc = "更换机体ギラ·ドーガ"
+cheat229_handler = "0"
+cheat229_code = "8016F814#0068"
+
+cheat230_desc = "更换机体サザビー"
+cheat230_handler = "0"
+cheat230_code = "8016F814#0069"
+
+cheat231_desc = "更换机体サザビー"
+cheat231_handler = "0"
+cheat231_code = "8016F814#006A"
+
+cheat232_desc = "更换机体ダミー"
+cheat232_handler = "0"
+cheat232_code = "8016F814#006B"
+
+cheat233_desc = "更换机体ダミー"
+cheat233_handler = "0"
+cheat233_code = "8016F814#006C"
+
+cheat234_desc = "更换机体Vダッシュガンダム"
+cheat234_handler = "0"
+cheat234_code = "8016F814#006D"
+
+cheat235_desc = "更换机体トップファイター（VD）"
+cheat235_handler = "0"
+cheat235_code = "8016F814#006E"
+
+cheat236_desc = "更换机体コアファイター（VD）"
+cheat236_handler = "0"
+cheat236_code = "8016F814#006F"
+
+cheat237_desc = "更换机体V2ガンダム"
+cheat237_handler = "0"
+cheat237_code = "8016F814#0070"
+
+cheat238_desc = "更换机体V2アサルトガンダム"
+cheat238_handler = "0"
+cheat238_code = "8016F814#0071"
+
+cheat239_desc = "更换机体V2バスターガンダム"
+cheat239_handler = "0"
+cheat239_code = "8016F814#0072"
+
+cheat240_desc = "更换机体V2アサルトバスターガンダム"
+cheat240_handler = "0"
+cheat240_code = "8016F814#0073"
+
+cheat241_desc = "更换机体コアファイター（V2）"
+cheat241_handler = "0"
+cheat241_code = "8016F814#0074"
+
+cheat242_desc = "更换机体Vガンダムヘキサ"
+cheat242_handler = "0"
+cheat242_code = "8016F814#0075"
+
+cheat243_desc = "更换机体トップファイター（VH）"
+cheat243_handler = "0"
+cheat243_code = "8016F814#0076"
+
+cheat244_desc = "更换机体コアファイター（VH）"
+cheat244_handler = "0"
+cheat244_code = "8016F814#0077"
+
+cheat245_desc = "更换机体ガンイージ"
+cheat245_handler = "0"
+cheat245_code = "8016F814#0078"
+
+cheat246_desc = "更换机体ガンブラスター"
+cheat246_handler = "0"
+cheat246_code = "8016F814#0079"
+
+cheat247_desc = "更换机体ホワイトアーク"
+cheat247_handler = "0"
+cheat247_code = "8016F814#007A"
+
+cheat248_desc = "更换机体コンティオ"
+cheat248_handler = "0"
+cheat248_code = "8016F814#007B"
+
+cheat249_desc = "更换机体シャッコー"
+cheat249_handler = "0"
+cheat249_code = "8016F814#007C"
+
+cheat250_desc = "更换机体リグ·シャッコー"
+cheat250_handler = "0"
+cheat250_code = "8016F814#007D"
+
+cheat251_desc = "更换机体ゲドラフ"
+cheat251_handler = "0"
+cheat251_code = "8016F814#007E"
+
+cheat252_desc = "更换机体リカール"
+cheat252_handler = "0"
+cheat252_code = "8016F814#007F"
+
+cheat253_desc = "更换机体ザンネック"
+cheat253_handler = "0"
+cheat253_code = "8016F814#0080"
+
+cheat254_desc = "更换机体リグ·コンティオ"
+cheat254_handler = "0"
+cheat254_code = "8016F814#0081"
+
+cheat255_desc = "更换机体ゴトラタン"
+cheat255_handler = "0"
+cheat255_code = "8016F814#0082"
+
+cheat256_desc = "更换机体ドッゴーラ"
+cheat256_handler = "0"
+cheat256_code = "8016F814#0083"
+
+cheat257_desc = "更换机体アドラステア"
+cheat257_handler = "0"
+cheat257_code = "8016F814#0084"
+
+cheat258_desc = "更换机体ダミー"
+cheat258_handler = "0"
+cheat258_code = "8016F814#0085"
+
+cheat259_desc = "更换机体ガンダム"
+cheat259_handler = "0"
+cheat259_code = "8016F814#0086"
+
+cheat260_desc = "更换机体ガンダム"
+cheat260_handler = "0"
+cheat260_code = "8016F814#0087"
+
+cheat261_desc = "更换机体ダミー"
+cheat261_handler = "0"
+cheat261_code = "8016F814#0089"
+
+cheat262_desc = "更换机体ダミー"
+cheat262_handler = "0"
+cheat262_code = "8016F814#008A"
+
+cheat263_desc = "更换机体ダミー"
+cheat263_handler = "0"
+cheat263_code = "8016F814#008B"
+
+cheat264_desc = "更换机体ガンダム"
+cheat264_handler = "0"
+cheat264_code = "8016F814#008C"
+
+cheat265_desc = "更换机体ガンダム"
+cheat265_handler = "0"
+cheat265_code = "8016F814#008D"
+
+cheat266_desc = "更换机体ダミー"
+cheat266_handler = "0"
+cheat266_code = "8016F814#008E"
+
+cheat267_desc = "更换机体コアファイター"
+cheat267_handler = "0"
+cheat267_code = "8016F814#008F"
+
+cheat268_desc = "更换机体カプル"
+cheat268_handler = "0"
+cheat268_code = "8016F814#0090"
+
+cheat269_desc = "更换机体カプル"
+cheat269_handler = "0"
+cheat269_code = "8016F814#0091"
+
+cheat270_desc = "更换机体ボルジャーノン"
+cheat270_handler = "0"
+cheat270_code = "8016F814#0092"
+
+cheat271_desc = "更换机体ボルジャーノン"
+cheat271_handler = "0"
+cheat271_code = "8016F814#0093"
+
+cheat272_desc = "更换机体スモー"
+cheat272_handler = "0"
+cheat272_code = "8016F814#0094"
+
+cheat273_desc = "更换机体スモー"
+cheat273_handler = "0"
+cheat273_code = "8016F814#0095"
+
+cheat274_desc = "更换机体スモー"
+cheat274_handler = "0"
+cheat274_code = "8016F814#0096"
+
+cheat275_desc = "更换机体ウォドム"
+cheat275_handler = "0"
+cheat275_code = "8016F814#0097"
+
+cheat276_desc = "更换机体ウォドム"
+cheat276_handler = "0"
+cheat276_code = "8016F814#0098"
+
+cheat277_desc = "更换机体イーゲル"
+cheat277_handler = "0"
+cheat277_code = "8016F814#0099"
+
+cheat278_desc = "更换机体ターンX"
+cheat278_handler = "0"
+cheat278_code = "8016F814#009A"
+
+cheat279_desc = "更换机体ターンX"
+cheat279_handler = "0"
+cheat279_code = "8016F814#009B"
+
+cheat280_desc = "更换机体マヒロー"
+cheat280_handler = "0"
+cheat280_code = "8016F814#009C"
+
+cheat281_desc = "更换机体バンデット"
+cheat281_handler = "0"
+cheat281_code = "8016F814#009D"
+
+cheat282_desc = "更换机体ソレイユ"
+cheat282_handler = "0"
+cheat282_code = "8016F814#009E"
+
+cheat283_desc = "更换机体アルマイヤー"
+cheat283_handler = "0"
+cheat283_code = "8016F814#009F"
+
+cheat284_desc = "更换机体ウイングガンダムゼロカスタム"
+cheat284_handler = "0"
+cheat284_code = "8016F814#00A0"
+
+cheat285_desc = "更换机体ガンダムデスサイズヘルカスタム"
+cheat285_handler = "0"
+cheat285_code = "8016F814#00A1"
+
+cheat286_desc = "更换机体ガンダムヘビーアームズカスタム"
+cheat286_handler = "0"
+cheat286_code = "8016F814#00A2"
+
+cheat287_desc = "更换机体ガンダムサンドロックカスタム"
+cheat287_handler = "0"
+cheat287_code = "8016F814#00A3"
+
+cheat288_desc = "更换机体アルトロンガンダムカスタム"
+cheat288_handler = "0"
+cheat288_code = "8016F814#00A4"
+
+cheat289_desc = "更换机体トールギス3"
+cheat289_handler = "0"
+cheat289_code = "8016F814#00A5"
+
+cheat290_desc = "更换机体トーラス"
+cheat290_handler = "0"
+cheat290_code = "8016F814#00A6"
+
+cheat291_desc = "更换机体トーラス·飞行形态"
+cheat291_handler = "0"
+cheat291_code = "8016F814#00A7"
+
+cheat292_desc = "更换机体トーラス（MD）"
+cheat292_handler = "0"
+cheat292_code = "8016F814#00A8"
+
+cheat293_desc = "更换机体トーラス（MD）·飞行形态"
+cheat293_handler = "0"
+cheat293_code = "8016F814#00A9"
+
+cheat294_desc = "更换机体サーペント"
+cheat294_handler = "0"
+cheat294_code = "8016F814#00AA"
+
+cheat295_desc = "更换机体リーオー"
+cheat295_handler = "0"
+cheat295_code = "8016F814#00AB"
+
+cheat296_desc = "更换机体リーオー"
+cheat296_handler = "0"
+cheat296_code = "8016F814#00AC"
+
+cheat297_desc = "更换机体ウイングガンダムゼロカスタム"
+cheat297_handler = "0"
+cheat297_code = "8016F814#00AD"
+
+cheat298_desc = "更换机体アルトロンガンダムカスタム"
+cheat298_handler = "0"
+cheat298_code = "8016F814#00AE"
+
+cheat299_desc = "更换机体ガンダムエックス"
+cheat299_handler = "0"
+cheat299_code = "8016F814#00AF"
+
+cheat300_desc = "更换机体ガンダムエックス"
+cheat300_handler = "0"
+cheat300_code = "8016F814#00B0"
+
+cheat301_desc = "更换机体ガンダムエックスディバイダー"
+cheat301_handler = "0"
+cheat301_code = "8016F814#00B1"
+
+cheat302_desc = "更换机体ガンダムエックス"
+cheat302_handler = "0"
+cheat302_code = "8016F814#00B2"
+
+cheat303_desc = "更换机体ガンダムエックスディバイダー"
+cheat303_handler = "0"
+cheat303_code = "8016F814#00B3"
+
+cheat304_desc = "更换机体ダムエアマスター"
+cheat304_handler = "0"
+cheat304_code = "8016F814#00B4"
+
+cheat305_desc = "更换机体ガンダムエアマスター（FM）"
+cheat305_handler = "0"
+cheat305_code = "8016F814#00B5"
+
+cheat306_desc = "更换机体ガンダムレオパルド"
+cheat306_handler = "0"
+cheat306_code = "8016F814#00B6"
+
+cheat307_desc = "更换机体ガンダムダブルエックス"
+cheat307_handler = "0"
+cheat307_code = "8016F814#00B7"
+
+cheat308_desc = "更换机体ガンダムDX＋Gファルコン"
+cheat308_handler = "0"
+cheat308_code = "8016F814#00B8"
+
+cheat309_desc = "更换机体ガンダムダブルエックス"
+cheat309_handler = "0"
+cheat309_code = "8016F814#00B9"
+
+cheat310_desc = "更换机体ガンダムDX＋Gファルコン"
+cheat310_handler = "0"
+cheat310_code = "8016F814#00BA"
+
+cheat311_desc = "更换机体ガンダムエアマスター·バースト"
+cheat311_handler = "0"
+cheat311_code = "8016F814#00BB"
+
+cheat312_desc = "更换机体ガンダムAM·バースト（FM）"
+cheat312_handler = "0"
+cheat312_code = "8016F814#00BC"
+
+cheat313_desc = "更换机体ガンダムAMB＋Gファルコン"
+cheat313_handler = "0"
+cheat313_code = "8016F814#00BD"
+
+cheat314_desc = "更换机体ガンダムレオパルド·デストロイ"
+cheat314_handler = "0"
+cheat314_code = "8016F814#00BE"
+
+cheat315_desc = "更换机体ダムLD＋Gファルコン"
+cheat315_handler = "0"
+cheat315_code = "8016F814#00BF"
+
+cheat316_desc = "更换机体Gファルコン"
+cheat316_handler = "0"
+cheat316_code = "8016F814#00C0"
+
+cheat317_desc = "更换机体ジェニス"
+cheat317_handler = "0"
+cheat317_code = "8016F814#00C1"
+
+cheat318_desc = "更换机体ジェニス改エニルカスタム"
+cheat318_handler = "0"
+cheat318_code = "8016F814#00C2"
+
+cheat319_desc = "更换机体ガンダムヴァサーゴ"
+cheat319_handler = "0"
+cheat319_code = "8016F814#00C3"
+
+cheat320_desc = "更换机体ガンダムアシュタロン"
+cheat320_handler = "0"
+cheat320_code = "8016F814#00C4"
+
+cheat321_desc = "更换机体ガンダムアシュタロン（MA）"
+cheat321_handler = "0"
+cheat321_code = "8016F814#00C5"
+
+cheat322_desc = "更换机体ベルティゴ"
+cheat322_handler = "0"
+cheat322_code = "8016F814#00C6"
+
+cheat323_desc = "更换机体パトゥーリア"
+cheat323_handler = "0"
+cheat323_code = "8016F814#00C7"
+
+cheat324_desc = "更换机体Gビット"
+cheat324_handler = "0"
+cheat324_code = "8016F814#00C8"
+
+cheat325_desc = "更换机体ガンダムエックス"
+cheat325_handler = "0"
+cheat325_code = "8016F814#00C9"
+
+cheat326_desc = "更换机体ガンダムダブルエックス"
+cheat326_handler = "0"
+cheat326_code = "8016F814#00CA"
+
+cheat327_desc = "更换机体ザブングル"
+cheat327_handler = "0"
+cheat327_code = "8016F814#00CC"
+
+cheat328_desc = "更换机体ザブングル（フル装备）"
+cheat328_handler = "0"
+cheat328_code = "8016F814#00CD"
+
+cheat329_desc = "更换机体ブングルスキッパー"
+cheat329_handler = "0"
+cheat329_code = "8016F814#00CE"
+
+cheat330_desc = "更换机体ブングルスキッパー（フル装备）"
+cheat330_handler = "0"
+cheat330_code = "8016F814#00CF"
+
+cheat331_desc = "更换机体ブングルローバー"
+cheat331_handler = "0"
+cheat331_code = "8016F814#00D0"
+
+cheat332_desc = "更换机体ブングルローバー（フル装备）"
+cheat332_handler = "0"
+cheat332_code = "8016F814#00D1"
+
+cheat333_desc = "更换机体ザブングル2"
+cheat333_handler = "0"
+cheat333_code = "8016F814#00D2"
+
+cheat334_desc = "更换机体ザブングル2"
+cheat334_handler = "0"
+cheat334_code = "8016F814#00D3"
+
+cheat335_desc = "更换机体ウォーカーギャリア"
+cheat335_handler = "0"
+cheat335_code = "8016F814#00D4"
+
+cheat336_desc = "更换机体ウォーカーギャリア（フル装备）"
+cheat336_handler = "0"
+cheat336_code = "8016F814#00D5"
+
+cheat337_desc = "更换机体ギャリィホバー"
+cheat337_handler = "0"
+cheat337_code = "8016F814#00D6"
+
+cheat338_desc = "更换机体ギャリィホバー（フル装备）"
+cheat338_handler = "0"
+cheat338_code = "8016F814#00D7"
+
+cheat339_desc = "更换机体ギャリィウィル"
+cheat339_handler = "0"
+cheat339_code = "8016F814#00D8"
+
+cheat340_desc = "更换机体ギャリィウィル（フル装备）"
+cheat340_handler = "0"
+cheat340_code = "8016F814#00D9"
+
+cheat341_desc = "更换机体アイアン·ギア（LS）"
+cheat341_handler = "0"
+cheat341_code = "8016F814#00DA"
+
+cheat342_desc = "更换机体アイアン·ギア（LS）"
+cheat342_handler = "0"
+cheat342_code = "8016F814#00DB"
+
+cheat343_desc = "更换机体アイアン·ギア（WM）"
+cheat343_handler = "0"
+cheat343_code = "8016F814#00DC"
+
+cheat344_desc = "更换机体アイアン·ギア（LS）"
+cheat344_handler = "0"
+cheat344_code = "8016F814#00DD"
+
+cheat345_desc = "更换机体アイアン·ギア（WM）"
+cheat345_handler = "0"
+cheat345_code = "8016F814#00DE"
+
+cheat346_desc = "更换机体アイアン·ギア（LS）"
+cheat346_handler = "0"
+cheat346_code = "8016F814#00DF"
+
+cheat347_desc = "更换机体アイアン·ギア（WM）"
+cheat347_handler = "0"
+cheat347_code = "8016F814#00E0"
+
+cheat348_desc = "更换机体グレタ·ガリー（LS）"
+cheat348_handler = "0"
+cheat348_code = "8016F814#00E1"
+
+cheat349_desc = "更换机体グレタ·ガリー（WM）"
+cheat349_handler = "0"
+cheat349_code = "8016F814#00E2"
+
+cheat350_desc = "更换机体ギア·ギア（LS）"
+cheat350_handler = "0"
+cheat350_code = "8016F814#00E3"
+
+cheat351_desc = "更换机体ギア·ギア（WM）"
+cheat351_handler = "0"
+cheat351_code = "8016F814#00E4"
+
+cheat352_desc = "更换机体ギャロップ"
+cheat352_handler = "0"
+cheat352_code = "8016F814#00E5"
+
+cheat353_desc = "更换机体ギャロップ"
+cheat353_handler = "0"
+cheat353_code = "8016F814#00E6"
+
+cheat354_desc = "更换机体ギャロップ"
+cheat354_handler = "0"
+cheat354_code = "8016F814#00E7"
+
+cheat355_desc = "更换机体ダッガー"
+cheat355_handler = "0"
+cheat355_code = "8016F814#00E8"
+
+cheat356_desc = "更换机体ダッガー"
+cheat356_handler = "0"
+cheat356_code = "8016F814#00E9"
+
+cheat357_desc = "更换机体ダッガー"
+cheat357_handler = "0"
+cheat357_code = "8016F814#00EA"
+
+cheat358_desc = "更换机体ダッガー"
+cheat358_handler = "0"
+cheat358_code = "8016F814#00EB"
+
+cheat359_desc = "更换机体ガバメント"
+cheat359_handler = "0"
+cheat359_code = "8016F814#00EC"
+
+cheat360_desc = "更换机体ガバメント"
+cheat360_handler = "0"
+cheat360_code = "8016F814#00ED"
+
+cheat361_desc = "更换机体ガバメント"
+cheat361_handler = "0"
+cheat361_code = "8016F814#00EE"
+
+cheat362_desc = "更换机体プロメウス"
+cheat362_handler = "0"
+cheat362_code = "8016F814#00EF"
+
+cheat363_desc = "更换机体プロメウス"
+cheat363_handler = "0"
+cheat363_code = "8016F814#00F0"
+
+cheat364_desc = "更换机体カプリコ"
+cheat364_handler = "0"
+cheat364_code = "8016F814#00F1"
+
+cheat365_desc = "更换机体カプリコ"
+cheat365_handler = "0"
+cheat365_code = "8016F814#00F2"
+
+cheat366_desc = "更换机体カプリコ"
+cheat366_handler = "0"
+cheat366_code = "8016F814#00F3"
+
+cheat367_desc = "更换机体ドラン"
+cheat367_handler = "0"
+cheat367_code = "8016F814#00F4"
+
+cheat368_desc = "更换机体ドラン"
+cheat368_handler = "0"
+cheat368_code = "8016F814#00F5"
+
+cheat369_desc = "更换机体ガラバゴス"
+cheat369_handler = "0"
+cheat369_code = "8016F814#00F6"
+
+cheat370_desc = "更换机体ガラバゴス"
+cheat370_handler = "0"
+cheat370_code = "8016F814#00F7"
+
+cheat371_desc = "更换机体ブラン"
+cheat371_handler = "0"
+cheat371_code = "8016F814#00F8"
+
+cheat372_desc = "更换机体ブラッカリィ"
+cheat372_handler = "0"
+cheat372_code = "8016F814#00F9"
+
+cheat373_desc = "更换机体デラバスギャラン"
+cheat373_handler = "0"
+cheat373_code = "8016F814#00FA"
+
+cheat374_desc = "更换机体ギブロス"
+cheat374_handler = "0"
+cheat374_code = "8016F814#00FB"
+
+cheat375_desc = "更换机体ガバリエ"
+cheat375_handler = "0"
+cheat375_code = "8016F814#00FC"
+
+cheat376_desc = "更换机体エンペラー改"
+cheat376_handler = "0"
+cheat376_code = "8016F814#00FD"
+
+cheat377_desc = "更换机体キャリング"
+cheat377_handler = "0"
+cheat377_code = "8016F814#00FE"
+
+cheat378_desc = "更换机体ダイターン3"
+cheat378_handler = "0"
+cheat378_code = "8016F814#00FF"
+
+cheat379_desc = "更换机体ダイファイター"
+cheat379_handler = "0"
+cheat379_code = "8016F814#0100"
+
+cheat380_desc = "更换机体ダイタンク"
+cheat380_handler = "0"
+cheat380_code = "8016F814#0101"
+
+cheat381_desc = "更换机体マッハアタッカー"
+cheat381_handler = "0"
+cheat381_code = "8016F814#0102"
+
+cheat382_desc = "更换机体ダイターン3"
+cheat382_handler = "0"
+cheat382_code = "8016F814#0103"
+
+cheat383_desc = "更换机体マジンガーZ"
+cheat383_handler = "0"
+cheat383_code = "8016F814#0104"
+
+cheat384_desc = "更换机体マジンガーZ"
+cheat384_handler = "0"
+cheat384_code = "8016F814#0105"
+
+cheat385_desc = "更换机体マジンカイザー"
+cheat385_handler = "0"
+cheat385_code = "8016F814#0106"
+
+cheat386_desc = "更换机体ジェットパイルダー"
+cheat386_handler = "0"
+cheat386_code = "8016F814#0107"
+
+cheat387_desc = "更换机体カイザーパイルダー"
+cheat387_handler = "0"
+cheat387_code = "8016F814#0108"
+
+cheat388_desc = "更换机体ダイアナンA"
+cheat388_handler = "0"
+cheat388_code = "8016F814#0109"
+
+cheat389_desc = "更换机体ボスボロット"
+cheat389_handler = "0"
+cheat389_code = "8016F814#010A"
+
+cheat390_desc = "更换机体ガラダK7"
+cheat390_handler = "0"
+cheat390_code = "8016F814#010B"
+
+cheat391_desc = "更换机体ダブラスM2"
+cheat391_handler = "0"
+cheat391_code = "8016F814#010C"
+
+cheat392_desc = "更换机体トロスD7"
+cheat392_handler = "0"
+cheat392_code = "8016F814#010D"
+
+cheat393_desc = "更换机体アブドラU6"
+cheat393_handler = "0"
+cheat393_code = "8016F814#010E"
+
+cheat394_desc = "更换机体グロッサムX2"
+cheat394_handler = "0"
+cheat394_code = "8016F814#010F"
+
+cheat395_desc = "更换机体ジェノサイダーF9"
+cheat395_handler = "0"
+cheat395_code = "8016F814#0110"
+
+cheat396_desc = "更换机体ジェノバM9"
+cheat396_handler = "0"
+cheat396_code = "8016F814#0111"
+
+cheat397_desc = "更换机体グシオスβ3"
+cheat397_handler = "0"
+cheat397_code = "8016F814#0112"
+
+cheat398_desc = "更换机体ジェットファイアーP1"
+cheat398_handler = "0"
+cheat398_code = "8016F814#0113"
+
+cheat399_desc = "更换机体ハリビューンV6"
+cheat399_handler = "0"
+cheat399_code = "8016F814#0114"
+
+cheat400_desc = "更换机体ダミー"
+cheat400_handler = "0"
+cheat400_code = "8016F814#0115"
+
+cheat401_desc = "更换机体ジェットパイルダー"
+cheat401_handler = "0"
+cheat401_code = "8016F814#0116"
+
+cheat402_desc = "更换机体マジンカイザー"
+cheat402_handler = "0"
+cheat402_code = "8016F814#0117"
+
+cheat403_desc = "更换机体グレートマジンガー"
+cheat403_handler = "0"
+cheat403_code = "8016F814#0118"
+
+cheat404_desc = "更换机体ブレーンコンドル"
+cheat404_handler = "0"
+cheat404_code = "8016F814#0119"
+
+cheat405_desc = "更换机体ビューナスA"
+cheat405_handler = "0"
+cheat405_code = "8016F814#011A"
+
+cheat406_desc = "更换机体クインスター"
+cheat406_handler = "0"
+cheat406_code = "8016F814#011B"
+
+cheat407_desc = "更换机体オベリウス"
+cheat407_handler = "0"
+cheat407_code = "8016F814#011C"
+
+cheat408_desc = "更换机体ズガール"
+cheat408_handler = "0"
+cheat408_code = "8016F814#011D"
+
+cheat409_desc = "更换机体アルソス"
+cheat409_handler = "0"
+cheat409_code = "8016F814#011E"
+
+cheat410_desc = "更换机体ダンテ"
+cheat410_handler = "0"
+cheat410_code = "8016F814#011F"
+
+cheat411_desc = "更换机体ジャラガ"
+cheat411_handler = "0"
+cheat411_code = "8016F814#0120"
+
+cheat412_desc = "更换机体暗黑大将军"
+cheat412_handler = "0"
+cheat412_code = "8016F814#0121"
+
+cheat413_desc = "更换机体ミケロス"
+cheat413_handler = "0"
+cheat413_code = "8016F814#0122"
+
+cheat414_desc = "更换机体量产型グレートマジンガー"
+cheat414_handler = "0"
+cheat414_code = "8016F814#0123"
+
+cheat415_desc = "更换机体ギルギルガン"
+cheat415_handler = "0"
+cheat415_code = "8016F814#0124"
+
+cheat416_desc = "更换机体メカギルギルガン"
+cheat416_handler = "0"
+cheat416_code = "8016F814#0125"
+
+cheat417_desc = "更换机体ドラゴノザウルス"
+cheat417_handler = "0"
+cheat417_code = "8016F814#0126"
+
+cheat418_desc = "更换机体ビクドロン"
+cheat418_handler = "0"
+cheat418_code = "8016F814#0127"
+
+cheat419_desc = "更换机体ゲッタードラゴン"
+cheat419_handler = "0"
+cheat419_code = "8016F814#0128"
+
+cheat420_desc = "更换机体ゲッターライガー"
+cheat420_handler = "0"
+cheat420_code = "8016F814#0129"
+
+cheat421_desc = "更换机体ゲッターポセイドン"
+cheat421_handler = "0"
+cheat421_code = "8016F814#012A"
+
+cheat422_desc = "更换机体ドラゴン号"
+cheat422_handler = "0"
+cheat422_code = "8016F814#012B"
+
+cheat423_desc = "更换机体ライガー号"
+cheat423_handler = "0"
+cheat423_code = "8016F814#012C"
+
+cheat424_desc = "更换机体ポセイドン号"
+cheat424_handler = "0"
+cheat424_code = "8016F814#012D"
+
+cheat425_desc = "更换机体ゲッタードラゴン"
+cheat425_handler = "0"
+cheat425_code = "8016F814#012E"
+
+cheat426_desc = "更换机体ゲッターライガー"
+cheat426_handler = "0"
+cheat426_code = "8016F814#012F"
+
+cheat427_desc = "更换机体ゲッターポセイドン"
+cheat427_handler = "0"
+cheat427_code = "8016F814#0130"
+
+cheat428_desc = "更换机体ドラゴン号"
+cheat428_handler = "0"
+cheat428_code = "8016F814#0131"
+
+cheat429_desc = "更换机体ライガー号"
+cheat429_handler = "0"
+cheat429_code = "8016F814#0132"
+
+cheat430_desc = "更换机体ポセイドン号"
+cheat430_handler = "0"
+cheat430_code = "8016F814#0133"
+
+cheat431_desc = "更换机体真·ゲッター1"
+cheat431_handler = "0"
+cheat431_code = "8016F814#0134"
+
+cheat432_desc = "更换机体真·ゲッター2"
+cheat432_handler = "0"
+cheat432_code = "8016F814#0135"
+
+cheat433_desc = "更换机体真·ゲッター3"
+cheat433_handler = "0"
+cheat433_code = "8016F814#0136"
+
+cheat434_desc = "更换机体真·イーグル号"
+cheat434_handler = "0"
+cheat434_code = "8016F814#0137"
+
+cheat435_desc = "更换机体真·ジャガー号"
+cheat435_handler = "0"
+cheat435_code = "8016F814#0138"
+
+cheat436_desc = "更换机体真·ベアー号"
+cheat436_handler = "0"
+cheat436_code = "8016F814#0139"
+
+cheat437_desc = "更换机体ゲッター1"
+cheat437_handler = "0"
+cheat437_code = "8016F814#013A"
+
+cheat438_desc = "更换机体テキサスマック"
+cheat438_handler = "0"
+cheat438_code = "8016F814#013B"
+
+cheat439_desc = "更换机体ダイ"
+cheat439_handler = "0"
+cheat439_code = "8016F814#013C"
+
+cheat440_desc = "更换机体サキ"
+cheat440_handler = "0"
+cheat440_code = "8016F814#013D"
+
+cheat441_desc = "更换机体ゼン2"
+cheat441_handler = "0"
+cheat441_code = "8016F814#013E"
+
+cheat442_desc = "更换机体ザイ"
+cheat442_handler = "0"
+cheat442_code = "8016F814#013F"
+
+cheat443_desc = "更换机体ズー"
+cheat443_handler = "0"
+cheat443_code = "8016F814#0140"
+
+cheat444_desc = "更换机体バド"
+cheat444_handler = "0"
+cheat444_code = "8016F814#0141"
+
+cheat445_desc = "更换机体グダ"
+cheat445_handler = "0"
+cheat445_code = "8016F814#0142"
+
+cheat446_desc = "更换机体ゾリ"
+cheat446_handler = "0"
+cheat446_code = "8016F814#0143"
+
+cheat447_desc = "更换机体恐龙ジェット机"
+cheat447_handler = "0"
+cheat447_code = "8016F814#0144"
+
+cheat448_desc = "更换机体量产型ゲッタードラゴン"
+cheat448_handler = "0"
+cheat448_code = "8016F814#0145"
+
+cheat449_desc = "更换机体真·ゲッター1"
+cheat449_handler = "0"
+cheat449_code = "8016F814#0146"
+
+cheat450_desc = "更换机体コン·バトラーV"
+cheat450_handler = "0"
+cheat450_code = "8016F814#0147"
+
+cheat451_desc = "更换机体コン·バトラーV"
+cheat451_handler = "0"
+cheat451_code = "8016F814#0148"
+
+cheat452_desc = "更换机体バトルジェット"
+cheat452_handler = "0"
+cheat452_code = "8016F814#0149"
+
+cheat453_desc = "更换机体バトルクラッシャー"
+cheat453_handler = "0"
+cheat453_code = "8016F814#014A"
+
+cheat454_desc = "更换机体バトルタンク"
+cheat454_handler = "0"
+cheat454_code = "8016F814#014B"
+
+cheat455_desc = "更换机体バトルマリン"
+cheat455_handler = "0"
+cheat455_code = "8016F814#014C"
+
+cheat456_desc = "更换机体バトルクラフト"
+cheat456_handler = "0"
+cheat456_code = "8016F814#014D"
+
+cheat457_desc = "更换机体ガルムス"
+cheat457_handler = "0"
+cheat457_code = "8016F814#014E"
+
+cheat458_desc = "更换机体グレイドン"
+cheat458_handler = "0"
+cheat458_code = "8016F814#014F"
+
+cheat459_desc = "更换机体コン·バトラーV"
+cheat459_handler = "0"
+cheat459_code = "8016F814#0150"
+
+cheat460_desc = "更换机体ダミー"
+cheat460_handler = "0"
+cheat460_code = "8016F814#0151"
+
+cheat461_desc = "更换机体ダミー"
+cheat461_handler = "0"
+cheat461_code = "8016F814#0152"
+
+cheat462_desc = "更换机体ボルテスV"
+cheat462_handler = "0"
+cheat462_code = "8016F814#0153"
+
+cheat463_desc = "更换机体ボルテスV"
+cheat463_handler = "0"
+cheat463_code = "8016F814#0154"
+
+cheat464_desc = "更换机体ボルト·クルーザー"
+cheat464_handler = "0"
+cheat464_code = "8016F814#0155"
+
+cheat465_desc = "更换机体ボルト·ボンバー"
+cheat465_handler = "0"
+cheat465_code = "8016F814#0156"
+
+cheat466_desc = "更换机体ボルト·パンサー"
+cheat466_handler = "0"
+cheat466_code = "8016F814#0157"
+
+cheat467_desc = "更换机体ボルト·フリゲート"
+cheat467_handler = "0"
+cheat467_code = "8016F814#0158"
+
+cheat468_desc = "更换机体ボルト·ランダー"
+cheat468_handler = "0"
+cheat468_code = "8016F814#0159"
+
+cheat469_desc = "更换机体ボアザン圆盘"
+cheat469_handler = "0"
+cheat469_code = "8016F814#015A"
+
+cheat470_desc = "更换机体ドクガガ"
+cheat470_handler = "0"
+cheat470_code = "8016F814#015B"
+
+cheat471_desc = "更换机体バイザンガ"
+cheat471_handler = "0"
+cheat471_code = "8016F814#015C"
+
+cheat472_desc = "更换机体ダイモン"
+cheat472_handler = "0"
+cheat472_code = "8016F814#015D"
+
+cheat473_desc = "更换机体サイモン"
+cheat473_handler = "0"
+cheat473_code = "8016F814#015E"
+
+cheat474_desc = "更换机体强力ナマズンゴ"
+cheat474_handler = "0"
+cheat474_code = "8016F814#015F"
+
+cheat475_desc = "更换机体スカールーク"
+cheat475_handler = "0"
+cheat475_code = "8016F814#0160"
+
+cheat476_desc = "更换机体ボルテスV"
+cheat476_handler = "0"
+cheat476_code = "8016F814#0161"
+
+cheat477_desc = "更换机体ライディーン"
+cheat477_handler = "0"
+cheat477_code = "8016F814#0162"
+
+cheat478_desc = "更换机体ライディーン"
+cheat478_handler = "0"
+cheat478_code = "8016F814#0163"
+
+cheat479_desc = "更换机体ブルーガー"
+cheat479_handler = "0"
+cheat479_code = "8016F814#0164"
+
+cheat480_desc = "更换机体化石兽バストドン"
+cheat480_handler = "0"
+cheat480_code = "8016F814#0165"
+
+cheat481_desc = "更换机体ガンテ"
+cheat481_handler = "0"
+cheat481_code = "8016F814#0166"
+
+cheat482_desc = "更换机体巨大シャーキン"
+cheat482_handler = "0"
+cheat482_code = "8016F814#0167"
+
+cheat483_desc = "更换机体ドローメ"
+cheat483_handler = "0"
+cheat483_code = "8016F814#0168"
+
+cheat484_desc = "更换机体ライディーン"
+cheat484_handler = "0"
+cheat484_code = "8016F814#0169"
+
+cheat485_desc = "更换机体ダンクーガ"
+cheat485_handler = "0"
+cheat485_code = "8016F814#016A"
+
+cheat486_desc = "更换机体イーグルファイターN"
+cheat486_handler = "0"
+cheat486_code = "8016F814#016B"
+
+cheat487_desc = "更换机体イーグルファイターH"
+cheat487_handler = "0"
+cheat487_code = "8016F814#016C"
+
+cheat488_desc = "更换机体イーグルファイターA"
+cheat488_handler = "0"
+cheat488_code = "8016F814#016D"
+
+cheat489_desc = "更换机体ランドクーガーN"
+cheat489_handler = "0"
+cheat489_code = "8016F814#016E"
+
+cheat490_desc = "更换机体ランドクーガーH"
+cheat490_handler = "0"
+cheat490_code = "8016F814#016F"
+
+cheat491_desc = "更换机体ランドクーガーA"
+cheat491_handler = "0"
+cheat491_code = "8016F814#0170"
+
+cheat492_desc = "更换机体ランドライガーN"
+cheat492_handler = "0"
+cheat492_code = "8016F814#0171"
+
+cheat493_desc = "更换机体ランドライガーH"
+cheat493_handler = "0"
+cheat493_code = "8016F814#0172"
+
+cheat494_desc = "更换机体ランドライガーA"
+cheat494_handler = "0"
+cheat494_code = "8016F814#0173"
+
+cheat495_desc = "更换机体ビッグモスN"
+cheat495_handler = "0"
+cheat495_code = "8016F814#0174"
+
+cheat496_desc = "更换机体ビッグモスH"
+cheat496_handler = "0"
+cheat496_code = "8016F814#0175"
+
+cheat497_desc = "更换机体ビッグモスA"
+cheat497_handler = "0"
+cheat497_code = "8016F814#0176"
+
+cheat498_desc = "更换机体ブラックウイングN"
+cheat498_handler = "0"
+cheat498_code = "8016F814#0177"
+
+cheat499_desc = "更换机体ブラックウイングH"
+cheat499_handler = "0"
+cheat499_code = "8016F814#0178"
+
+cheat500_desc = "更换机体ブライサンダー"
+cheat500_handler = "0"
+cheat500_code = "8016F814#0179"
+
+cheat501_desc = "更换机体ブライスター"
+cheat501_handler = "0"
+cheat501_code = "8016F814#017A"
+
+cheat502_desc = "更换机体ブライガー"
+cheat502_handler = "0"
+cheat502_code = "8016F814#017B"
+
+cheat503_desc = "更换机体カーメン·カーメン旗舰"
+cheat503_handler = "0"
+cheat503_code = "8016F814#017C"
+
+cheat504_desc = "更换机体バンブルビXO"
+cheat504_handler = "0"
+cheat504_code = "8016F814#017D"
+
+cheat505_desc = "更换机体VF1Sファイター"
+cheat505_handler = "0"
+cheat505_code = "8016F814#017E"
+
+cheat506_desc = "更换机体VF1Sガウォーク"
+cheat506_handler = "0"
+cheat506_code = "8016F814#017F"
+
+cheat507_desc = "更换机体VF1Sバトロイド"
+cheat507_handler = "0"
+cheat507_code = "8016F814#0180"
+
+cheat508_desc = "更换机体VF1S（S）ファイター"
+cheat508_handler = "0"
+cheat508_code = "8016F814#0181"
+
+cheat509_desc = "更换机体VF1S（S）ガウォーク"
+cheat509_handler = "0"
+cheat509_code = "8016F814#0182"
+
+cheat510_desc = "更换机体VF1S（S）バトロイド"
+cheat510_handler = "0"
+cheat510_code = "8016F814#0183"
+
+cheat511_desc = "更换机体VF1Sファイター"
+cheat511_handler = "0"
+cheat511_code = "8016F814#0184"
+
+cheat512_desc = "更换机体VF1Sガウォーク"
+cheat512_handler = "0"
+cheat512_code = "8016F814#0185"
+
+cheat513_desc = "更换机体VF1Sバトロイド"
+cheat513_handler = "0"
+cheat513_code = "8016F814#0186"
+
+cheat514_desc = "更换机体VF1S（S）ファイター"
+cheat514_handler = "0"
+cheat514_code = "8016F814#0187"
+
+cheat515_desc = "更换机体VF1S（S）ガウォーク"
+cheat515_handler = "0"
+cheat515_code = "8016F814#0188"
+
+cheat516_desc = "更换机体VF1S（S）バトロイド"
+cheat516_handler = "0"
+cheat516_code = "8016F814#0189"
+
+cheat517_desc = "更换机体VF1JバルキリーF"
+cheat517_handler = "0"
+cheat517_code = "8016F814#018A"
+
+cheat518_desc = "更换机体VF1JバルキリーG"
+cheat518_handler = "0"
+cheat518_code = "8016F814#018B"
+
+cheat519_desc = "更换机体VF1JバルキリーB"
+cheat519_handler = "0"
+cheat519_code = "8016F814#018C"
+
+cheat520_desc = "更换机体VF1J（S）ファイター"
+cheat520_handler = "0"
+cheat520_code = "8016F814#018D"
+
+cheat521_desc = "更换机体VF1J（S）ガウォーク"
+cheat521_handler = "0"
+cheat521_code = "8016F814#018E"
+
+cheat522_desc = "更换机体VF1J（S）バトロイド"
+cheat522_handler = "0"
+cheat522_code = "8016F814#018F"
+
+cheat523_desc = "更换机体VF1JバルキリーF"
+cheat523_handler = "0"
+cheat523_code = "8016F814#0190"
+
+cheat524_desc = "更换机体VF1JバルキリーG"
+cheat524_handler = "0"
+cheat524_code = "8016F814#0191"
+
+cheat525_desc = "更换机体VF1JバルキリーB"
+cheat525_handler = "0"
+cheat525_code = "8016F814#0192"
+
+cheat526_desc = "更换机体VF1J（S）ファイター"
+cheat526_handler = "0"
+cheat526_code = "8016F814#0193"
+
+cheat527_desc = "更换机体VF1J（S）ガウォーク"
+cheat527_handler = "0"
+cheat527_code = "8016F814#0194"
+
+cheat528_desc = "更换机体VF1J（S）バトロイド"
+cheat528_handler = "0"
+cheat528_code = "8016F814#0195"
+
+cheat529_desc = "更换机体VF1Aファイター"
+cheat529_handler = "0"
+cheat529_code = "8016F814#0196"
+
+cheat530_desc = "更换机体VF1Aガウォーク"
+cheat530_handler = "0"
+cheat530_code = "8016F814#0197"
+
+cheat531_desc = "更换机体VF1Aバトロイド"
+cheat531_handler = "0"
+cheat531_code = "8016F814#0198"
+
+cheat532_desc = "更换机体VF1A（S）ファイター"
+cheat532_handler = "0"
+cheat532_code = "8016F814#0199"
+
+cheat533_desc = "更换机体VF1A（S）ガウォーク"
+cheat533_handler = "0"
+cheat533_code = "8016F814#019A"
+
+cheat534_desc = "更换机体VF1A（S）バトロイド"
+cheat534_handler = "0"
+cheat534_code = "8016F814#019B"
+
+cheat535_desc = "更换机体VF1Jアーマードバルキリー"
+cheat535_handler = "0"
+cheat535_code = "8016F814#019C"
+
+cheat536_desc = "更换机体デストロイド·モンスター"
+cheat536_handler = "0"
+cheat536_code = "8016F814#019D"
+
+cheat537_desc = "更换机体YF19ファイター"
+cheat537_handler = "0"
+cheat537_code = "8016F814#019E"
+
+cheat538_desc = "更换机体YF19ガウォーク"
+cheat538_handler = "0"
+cheat538_code = "8016F814#019F"
+
+cheat539_desc = "更换机体YF19バトロイド"
+cheat539_handler = "0"
+cheat539_code = "8016F814#01A0"
+
+cheat540_desc = "更换机体YF21ファイター"
+cheat540_handler = "0"
+cheat540_code = "8016F814#01A1"
+
+cheat541_desc = "更换机体YF21ガウォーク"
+cheat541_handler = "0"
+cheat541_code = "8016F814#01A2"
+
+cheat542_desc = "更换机体YF21バトロイド"
+cheat542_handler = "0"
+cheat542_code = "8016F814#01A3"
+
+cheat543_desc = "更换机体VF11Bファイター"
+cheat543_handler = "0"
+cheat543_code = "8016F814#01A4"
+
+cheat544_desc = "更换机体VF11Bガウォーク"
+cheat544_handler = "0"
+cheat544_code = "8016F814#01A5"
+
+cheat545_desc = "更换机体VF11Bバトロイド"
+cheat545_handler = "0"
+cheat545_code = "8016F814#01A6"
+
+cheat546_desc = "更换机体ゴーストX9"
+cheat546_handler = "0"
+cheat546_code = "8016F814#01A7"
+
+cheat547_desc = "更换机体サイバスター"
+cheat547_handler = "0"
+cheat547_code = "8016F814#01A8"
+
+cheat548_desc = "更换机体サイバード"
+cheat548_handler = "0"
+cheat548_code = "8016F814#01A9"
+
+cheat549_desc = "更换机体サイバスター"
+cheat549_handler = "0"
+cheat549_code = "8016F814#01AA"
+
+cheat550_desc = "更换机体サイバード"
+cheat550_handler = "0"
+cheat550_code = "8016F814#01AB"
+
+cheat551_desc = "更换机体グランヴェール"
+cheat551_handler = "0"
+cheat551_code = "8016F814#01AC"
+
+cheat552_desc = "更换机体グランヴェール"
+cheat552_handler = "0"
+cheat552_code = "8016F814#01AD"
+
+cheat553_desc = "更换机体ガッデス"
+cheat553_handler = "0"
+cheat553_code = "8016F814#01AE"
+
+cheat554_desc = "更换机体ガッデス"
+cheat554_handler = "0"
+cheat554_code = "8016F814#01AF"
+
+cheat555_desc = "更换机体ザムジード"
+cheat555_handler = "0"
+cheat555_code = "8016F814#01B0"
+
+cheat556_desc = "更换机体ザムジード"
+cheat556_handler = "0"
+cheat556_code = "8016F814#01B1"
+
+cheat557_desc = "更换机体ヴァルシオーネR"
+cheat557_handler = "0"
+cheat557_code = "8016F814#01B2"
+
+cheat558_desc = "更换机体ヴァルシオーネR"
+cheat558_handler = "0"
+cheat558_code = "8016F814#01B3"
+
+cheat559_desc = "更换机体ディアブロ"
+cheat559_handler = "0"
+cheat559_code = "8016F814#01B4"
+
+cheat560_desc = "更换机体ディアブロ"
+cheat560_handler = "0"
+cheat560_code = "8016F814#01B5"
+
+cheat561_desc = "更换机体ジャオーム"
+cheat561_handler = "0"
+cheat561_code = "8016F814#01B6"
+
+cheat562_desc = "更换机体ノルス·レイ"
+cheat562_handler = "0"
+cheat562_code = "8016F814#01B7"
+
+cheat563_desc = "更换机体ノルス·レイ"
+cheat563_handler = "0"
+cheat563_code = "8016F814#01B8"
+
+cheat564_desc = "更换机体グランゾン"
+cheat564_handler = "0"
+cheat564_code = "8016F814#01B9"
+
+cheat565_desc = "更换机体ネオ·グランゾン"
+cheat565_handler = "0"
+cheat565_code = "8016F814#01BA"
+
+cheat566_desc = "更换机体ネオ·グランゾン"
+cheat566_handler = "0"
+cheat566_code = "8016F814#01BB"
+
+cheat567_desc = "更换机体ウィーゾル改"
+cheat567_handler = "0"
+cheat567_code = "8016F814#01BC"
+
+cheat568_desc = "更换机体R1改"
+cheat568_handler = "0"
+cheat568_code = "8016F814#01BD"
+
+cheat569_desc = "更换机体Rウィング改"
+cheat569_handler = "0"
+cheat569_code = "8016F814#01BE"
+
+cheat570_desc = "更换机体R3パワード"
+cheat570_handler = "0"
+cheat570_code = "8016F814#01BF"
+
+cheat571_desc = "更换机体RGUNパワード"
+cheat571_handler = "0"
+cheat571_code = "8016F814#01C0"
+
+cheat572_desc = "更换机体量产型ゲシュペンストMK2"
+cheat572_handler = "0"
+cheat572_code = "8016F814#01C1"
+
+cheat573_desc = "更换机体量产型ゲシュペンストMK2"
+cheat573_handler = "0"
+cheat573_code = "8016F814#01C2"
+
+cheat574_desc = "更换机体量产型ヒュッケバインMK2"
+cheat574_handler = "0"
+cheat574_code = "8016F814#01C3"
+
+cheat575_desc = "更换机体量产型ヒュッケバインMK2"
+cheat575_handler = "0"
+cheat575_code = "8016F814#01C4"
+
+cheat576_desc = "更换机体量产型グルンガスト庙型"
+cheat576_handler = "0"
+cheat576_code = "8016F814#01C5"
+
+cheat577_desc = "更换机体量产型Gホーク"
+cheat577_handler = "0"
+cheat577_code = "8016F814#01C6"
+
+cheat578_desc = "更换机体量产型グルンガスト庙型"
+cheat578_handler = "0"
+cheat578_code = "8016F814#01C7"
+
+cheat579_desc = "更换机体ベルゲルミル"
+cheat579_handler = "0"
+cheat579_code = "8016F814#01C8"
+
+cheat580_desc = "更换机体ベルゲルミル"
+cheat580_handler = "0"
+cheat580_code = "8016F814#01C9"
+
+cheat581_desc = "更换机体ベルゲルミル"
+cheat581_handler = "0"
+cheat581_code = "8016F814#01CA"
+
+cheat582_desc = "更换机体ベルゲルミル"
+cheat582_handler = "0"
+cheat582_code = "8016F814#01CB"
+
+cheat583_desc = "更换机体ベルゲルミル"
+cheat583_handler = "0"
+cheat583_code = "8016F814#01CC"
+
+cheat584_desc = "更换机体ベルゲルミル"
+cheat584_handler = "0"
+cheat584_code = "8016F814#01CD"
+
+cheat585_desc = "更换机体ベルゲルミル"
+cheat585_handler = "0"
+cheat585_code = "8016F814#01CE"
+
+cheat586_desc = "更换机体ベルゲルミル"
+cheat586_handler = "0"
+cheat586_code = "8016F814#01CF"
+
+cheat587_desc = "更换机体スレードゲルミル"
+cheat587_handler = "0"
+cheat587_code = "8016F814#01D0"
+
+cheat588_desc = "更换机体スレードゲルミル"
+cheat588_handler = "0"
+cheat588_code = "8016F814#01D1"
+
+cheat589_desc = "更换机体アウルゲルミル"
+cheat589_handler = "0"
+cheat589_code = "8016F814#01D2"
+
+cheat590_desc = "更换机体核ミサイル"
+cheat590_handler = "0"
+cheat590_code = "8016F814#01D3"
+
+cheat591_desc = "商店卖全机体"
+cheat591_handler = "0"
+cheat591_code = "D00B65E8#1823,800B65EA#0060;D00B6686#2823,800B6686#0040"
+
+cheats = 592

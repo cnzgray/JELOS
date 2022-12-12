@@ -1,0 +1,721 @@
+cheat0_desc = "总资金"
+cheat0_handler = "2"
+cheat0_code = "25924,3F,42,F"
+
+cheat1_desc = "资金不减"
+cheat1_handler = "2"
+cheat1_code = "3839C,0,0,0,0"
+
+cheat2_desc = "普通物品伤药（体力恢复20）"
+cheat2_handler = "2"
+cheat2_code = "259F4,D,0,63"
+
+cheat3_desc = "普通物品解毒药（恢复毒状态）"
+cheat3_handler = "2"
+cheat3_code = "259F4,E,0,63"
+
+cheat4_desc = "普通物品烧伤恢复（恢复烧伤状态）"
+cheat4_handler = "2"
+cheat4_code = "259F4,F,0,63"
+
+cheat5_desc = "普通物品解冻药（恢复冻状态）"
+cheat5_handler = "2"
+cheat5_code = "259F4,10,0,63"
+
+cheat6_desc = "普通物品清醒药（恢复沉睡状态）"
+cheat6_handler = "2"
+cheat6_code = "259F4,11,0,63"
+
+cheat7_desc = "普通物品麻痹恢复（恢复麻痹状态）"
+cheat7_handler = "2"
+cheat7_code = "259F4,12,0,63"
+
+cheat8_desc = "普通物品恢复药（全恢复体力与所有状态）"
+cheat8_handler = "2"
+cheat8_code = "259F4,13,0,63"
+
+cheat9_desc = "普通物品慢谈药（体力全恢复）"
+cheat9_handler = "2"
+cheat9_code = "259F4,14,0,63"
+
+cheat10_desc = "普通物品伤药（体力恢复200）"
+cheat10_handler = "2"
+cheat10_code = "259F4,15,0,63"
+
+cheat11_desc = "普通物品好伤药（体力恢复50）"
+cheat11_handler = "2"
+cheat11_code = "259F4,16,0,63"
+
+cheat12_desc = "普通物品万能恢复（全部恢复）"
+cheat12_handler = "2"
+cheat12_code = "259F4,17,0,63"
+
+cheat13_desc = "普通物品精神片（死亡恢复体力一半）"
+cheat13_handler = "2"
+cheat13_code = "259F4,18,0,63"
+
+cheat14_desc = "普通物品精神草（死亡全恢复体力）"
+cheat14_handler = "2"
+cheat14_code = "259F4,19,0,63"
+
+cheat15_desc = "普通物品美味水（恢复体力50）"
+cheat15_handler = "2"
+cheat15_code = "259F4,1A,0,63"
+
+cheat16_desc = "普通物品精神汽水（恢复体力60）"
+cheat16_handler = "2"
+cheat16_code = "259F4,1B,0,63"
+
+cheat17_desc = "普通物品米力液（恢复体力80）"
+cheat17_handler = "2"
+cheat17_code = "259F4,1C,0,63"
+
+cheat18_desc = "普通物品木木奶（恢复体力100）"
+cheat18_handler = "2"
+cheat18_code = "259F4,1D,0,63"
+
+cheat19_desc = "普通物品力量粉（恢复体力50，很苦粉，减底怪兽亲密度）"
+cheat19_handler = "2"
+cheat19_code = "259F4,1E,0,63"
+
+cheat20_desc = "普通物品力量根（恢复体力200，很苦根，减底怪兽亲密度）"
+cheat20_handler = "2"
+cheat20_code = "259F4,1F,0,63"
+
+cheat21_desc = "普通物品万能粉（全恢复状态，非常苦的粉，大大减低与怪兽的亲密度）"
+cheat21_handler = "2"
+cheat21_code = "259F4,20,0,63"
+
+cheat22_desc = "普通物品复活草（死亡复活，很苦的草）"
+cheat22_handler = "2"
+cheat22_code = "259F4,21,0,63"
+
+cheat23_desc = "普通物品pp艾依（1种技能值恢复10）"
+cheat23_handler = "2"
+cheat23_code = "259F4,22,0,63"
+
+cheat24_desc = "普通物品pp力卡（1种技能值全恢复）"
+cheat24_handler = "2"
+cheat24_code = "259F4,23,0,63"
+
+cheat25_desc = "普通物品pp最大（1只怪兽的全部技能值全恢复）"
+cheat25_handler = "2"
+cheat25_code = "259F4,25,0,63"
+
+cheat26_desc = "普通物品飞音饼（恢复全部异常状态）"
+cheat26_handler = "2"
+cheat26_code = "259F4,26,0,63"
+
+cheat27_desc = "普通物品蓝玻璃（恢复沉睡状态，可用无限次）"
+cheat27_handler = "2"
+cheat27_code = "259F4,27,0,63"
+
+cheat28_desc = "普通物品黄玻璃（恢复混乱状态，可用无限次）"
+cheat28_handler = "2"
+cheat28_code = "259F4,28,0,63"
+
+cheat29_desc = "普通物品红玻璃（恢复颓废状态，可用无限次）"
+cheat29_handler = "2"
+cheat29_code = "259F4,29,0,63"
+
+cheat30_desc = "普通物品黑玻璃（不遇野生怪兽）"
+cheat30_handler = "2"
+cheat30_code = "259F4,2A,0,63"
+
+cheat31_desc = "普通物品白玻璃（容易遇野生怪兽）"
+cheat31_handler = "2"
+cheat31_code = "259F4,2B,0,63"
+
+cheat32_desc = "普通物品树果汁（恢复体力20）"
+cheat32_handler = "2"
+cheat32_code = "259F4,2C,0,63"
+
+cheat33_desc = "普通物品圣是（死亡恢复全部体力，异常状态恢复）"
+cheat33_handler = "2"
+cheat33_code = "259F4,2D,0,63"
+
+cheat34_desc = "普通物品浅水盐（看看洞用的道具）"
+cheat34_handler = "2"
+cheat34_code = "259F4,2E,0,63"
+
+cheat35_desc = "普通物品浅水贝（看看洞用的道具）"
+cheat35_handler = "2"
+cheat35_code = "259F4,2F,0,63"
+
+cheat36_desc = "普通物品红碎片（换进化石的道具）"
+cheat36_handler = "2"
+cheat36_code = "259F4,30,0,63"
+
+cheat37_desc = "普通物品蓝碎片（换进化石的道具）"
+cheat37_handler = "2"
+cheat37_code = "259F4,31,0,63"
+
+cheat38_desc = "普通物品黄碎片（换进化石的道具）"
+cheat38_handler = "2"
+cheat38_code = "259F4,32,0,63"
+
+cheat39_desc = "普通物品绿碎片（换进化石的道具）"
+cheat39_handler = "2"
+cheat39_code = "259F4,33,0,63"
+
+cheat40_desc = "普通物品最大上升（体力基础值提高）"
+cheat40_handler = "2"
+cheat40_code = "259F4,3F,0,63"
+
+cheat41_desc = "普通物品赞美语（攻击基础值提高）"
+cheat41_handler = "2"
+cheat41_code = "259F4,40,0,63"
+
+cheat42_desc = "普通物品落海夫（防御基础值提高）"
+cheat42_handler = "2"
+cheat42_code = "259F4,41,0,63"
+
+cheat43_desc = "普通物品因得西（敏捷基础值提高）"
+cheat43_handler = "2"
+cheat43_code = "259F4,42,0,63"
+
+cheat44_desc = "普通物品立麦森（特攻基础值提高）"
+cheat44_handler = "2"
+cheat44_code = "259F4,43,0,63"
+
+cheat45_desc = "普通物品奇异甜食（怪兽升1级）"
+cheat45_handler = "2"
+cheat45_code = "259F4,44,0,63"
+
+cheat46_desc = "普通物品值上升（技能值的最大值上升）"
+cheat46_handler = "2"
+cheat46_code = "259F4,45,0,63"
+
+cheat47_desc = "普通物品极道山果（德望基础值提高）"
+cheat47_handler = "2"
+cheat47_code = "259F4,46,0,63"
+
+cheat48_desc = "普通物品值最大（技能值提高到最大）"
+cheat48_handler = "2"
+cheat48_code = "259F4,47,0,63"
+
+cheat49_desc = "普通物品效果卡（战斗中…能避开对方的攻击，用于装备）"
+cheat49_handler = "2"
+cheat49_code = "259F4,49,0,63"
+
+cheat50_desc = "普通物品清洗物（战斗中…容易命中要害，用于装备）"
+cheat50_handler = "2"
+cheat50_code = "259F4,4A,0,63"
+
+cheat51_desc = "普通物品布拉斯力量（战斗中…攻击力上升，用于装备）"
+cheat51_handler = "2"
+cheat51_code = "259F4,4B,0,63"
+
+cheat52_desc = "普通物品力道（战斗中…防御力上升，用于装备）"
+cheat52_handler = "2"
+cheat52_code = "259F4,4C,0,63"
+
+cheat53_desc = "普通物品敏捷力（战斗中…敏捷上升，用于装备）"
+cheat53_handler = "2"
+cheat53_code = "259F4,4D,0,63"
+
+cheat54_desc = "普通物品纪念打（战斗中…技能容易命中，用于装备）"
+cheat54_handler = "2"
+cheat54_code = "259F4,4E,0,63"
+
+cheat55_desc = "普通物品特别上升（战斗中…特攻的威力上升，用于装备）"
+cheat55_handler = "2"
+cheat55_code = "259F4,4F,0,63"
+
+cheat56_desc = "普通物品皮皮木偶（在战斗中逃脱）"
+cheat56_handler = "2"
+cheat56_code = "259F4,50,0,63"
+
+cheat57_desc = "普通物品小松鼠尾（在战斗中逃脱）"
+cheat57_handler = "2"
+cheat57_code = "259F4,51,0,63"
+
+cheat58_desc = "普通物品太阳石（让独特的怪兽进化）"
+cheat58_handler = "2"
+cheat58_code = "259F4,5D,0,63"
+
+cheat59_desc = "普通物品月亮石（让独特的怪兽进化）"
+cheat59_handler = "2"
+cheat59_code = "259F4,5E,0,63"
+
+cheat60_desc = "普通物品火焰石（让独特的怪兽进化）"
+cheat60_handler = "2"
+cheat60_code = "259F4,5F,0,63"
+
+cheat61_desc = "普通物品雷电石（让独特的怪兽进化）"
+cheat61_handler = "2"
+cheat61_code = "259F4,60,0,63"
+
+cheat62_desc = "普通物品水石（让独特的怪兽进化）"
+cheat62_handler = "2"
+cheat62_code = "259F4,61,0,63"
+
+cheat63_desc = "普通物品珊瑚石（让独特的怪兽进化）"
+cheat63_handler = "2"
+cheat63_code = "259F4,62,0,63"
+
+cheat64_desc = "普通物品小的树果（普通的树果容易成熟）"
+cheat64_handler = "2"
+cheat64_code = "259F4,67,0,63"
+
+cheat65_desc = "普通物品大的树果（珍贵的树果难成熟）"
+cheat65_handler = "2"
+cheat65_code = "259F4,68,0,63"
+
+cheat66_desc = "普通物品珍珠（美丽的珍珠容易成熟）"
+cheat66_handler = "2"
+cheat66_code = "259F4,6A,0,63"
+
+cheat67_desc = "普通物品大珍珠（很美丽的大珍珠难成熟）"
+cheat67_handler = "2"
+cheat67_code = "259F4,6B,0,63"
+
+cheat68_desc = "普通物品星沙（美丽的红色的沙子）"
+cheat68_handler = "2"
+cheat68_code = "259F4,6C,0,63"
+
+cheat69_desc = "普通物品星星碎片（美丽的红宝石碎片）"
+cheat69_handler = "2"
+cheat69_code = "259F4,6D,0,63"
+
+cheat70_desc = "普通物品金珠（金星）"
+cheat70_handler = "2"
+cheat70_code = "259F4,6E,0,63"
+
+cheat71_desc = "普通物品心灵碎片（可以恢复忘却的技能）"
+cheat71_handler = "2"
+cheat71_code = "259F4,6F,0,63"
+
+cheat72_desc = "普通物品彩色邮件（针鼠模样的信件）"
+cheat72_handler = "2"
+cheat72_code = "259F4,79,0,63"
+
+cheat73_desc = "普通物品哈伯邮件（海鸥模样的信件）"
+cheat73_handler = "2"
+cheat73_code = "259F4,7A,0,63"
+
+cheat74_desc = "普通物品闪光邮件（皮卡丘模样的信件）"
+cheat74_handler = "2"
+cheat74_code = "259F4,7B,0,63"
+
+cheat75_desc = "普通物品机械邮件（小磁怪模样的信件）"
+cheat75_handler = "2"
+cheat75_code = "259F4,7C,0,63"
+
+cheat76_desc = "普通物品鸟烟邮件（食叶兽模样的信件）"
+cheat76_handler = "2"
+cheat76_code = "259F4,7D,0,63"
+
+cheat77_desc = "普通物品十字邮件（皮皮鲸模样的信件）"
+cheat77_handler = "2"
+cheat77_code = "259F4,7E,0,63"
+
+cheat78_desc = "普通物品珍贵邮件（有持有怪兽模样的信件）"
+cheat78_handler = "2"
+cheat78_code = "259F4,7F,0,63"
+
+cheat79_desc = "普通物品阴影邮件（钻墙怪模样的信件）"
+cheat79_handler = "2"
+cheat79_code = "259F4,80,0,63"
+
+cheat80_desc = "普通物品热带邮件（美丽花模样的信件）"
+cheat80_handler = "2"
+cheat80_code = "259F4,81,0,63"
+
+cheat81_desc = "普通物品花边邮件（有持有怪兽模样的信件）"
+cheat81_handler = "2"
+cheat81_code = "259F4,82,0,63"
+
+cheat82_desc = "普通物品神奇邮件（豪华的信件）"
+cheat82_handler = "2"
+cheat82_code = "259F4,83,0,63"
+
+cheat83_desc = "普通物品怀旧邮件（3只怪兽的信件）"
+cheat83_handler = "2"
+cheat83_code = "259F4,84,0,63"
+
+cheat84_desc = "普通物品光粉（降低对手命中率）"
+cheat84_handler = "2"
+cheat84_code = "259F4,B3,0,63"
+
+cheat85_desc = "普通物品白色海石花（下降能力复原）"
+cheat85_handler = "2"
+cheat85_code = "259F4,B4,0,63"
+
+cheat86_desc = "普通物品竞争背心（敏捷下降，好好饲育）"
+cheat86_handler = "2"
+cheat86_code = "259F4,B5,0,63"
+
+cheat87_desc = "普通物品学习装置（持有的怪兽得到经验值）"
+cheat87_handler = "2"
+cheat87_code = "259F4,B6,0,63"
+
+cheat88_desc = "普通物品老师指甲（偶尔能先发出攻击）"
+cheat88_handler = "2"
+cheat88_code = "259F4,B7,0,63"
+
+cheat89_desc = "普通物品安闲玲（持有的怪兽变亲密）"
+cheat89_handler = "2"
+cheat89_code = "259F4,B8,0,63"
+
+cheat90_desc = "普通物品精神海石花（持有的怪兽恢复颓废状态）"
+cheat90_handler = "2"
+cheat90_code = "259F4,B9,0,63"
+
+cheat91_desc = "普通物品守日器（攻击的威力提高）"
+cheat91_handler = "2"
+cheat91_code = "259F4,BA,0,63"
+
+cheat92_desc = "普通物品王者之证（有时能让对手沉睡）"
+cheat92_handler = "2"
+cheat92_code = "259F4,BB,0,63"
+
+cheat93_desc = "普通物品银粉（虫类技能的威力上升）"
+cheat93_handler = "2"
+cheat93_code = "259F4,BC,0,63"
+
+cheat94_desc = "普通物品守卫饭（持有的怪兽参战能得到2倍金钱）"
+cheat94_handler = "2"
+cheat94_code = "259F4,BD,0,63"
+
+cheat95_desc = "普通物品清符（难以与野生怪兽）"
+cheat95_handler = "2"
+cheat95_code = "259F4,BE,0,63"
+
+cheat96_desc = "普通物品心珠（特攻和德望上升，限于雄奇怪和木皮怪）"
+cheat96_handler = "2"
+cheat96_code = "259F4,BF,0,63"
+
+cheat97_desc = "普通物品进化牙（特攻上升，限于海贝）"
+cheat97_handler = "2"
+cheat97_code = "259F4,C0,0,63"
+
+cheat98_desc = "普通物品进化鳞片（德望上升，限于海贝）"
+cheat98_handler = "2"
+cheat98_code = "259F4,C1,0,63"
+
+cheat99_desc = "普通物品烟珠（遇到野生的怪兽能逃脱）"
+cheat99_handler = "2"
+cheat99_code = "259F4,C2,0,63"
+
+cheat100_desc = "普通物品不变石（持有的怪兽不会进化）"
+cheat100_handler = "2"
+cheat100_code = "259F4,C3,0,63"
+
+cheat101_desc = "普通物品精神器（偶尔能防御）"
+cheat101_handler = "2"
+cheat101_code = "259F4,C4,0,63"
+
+cheat102_desc = "普通物品幸福怪兽蛋（怪兽经验值更容易上升）"
+cheat102_handler = "2"
+cheat102_code = "259F4,C5,0,63"
+
+cheat103_desc = "普通物品焦点镜（容易命中要害）"
+cheat103_handler = "2"
+cheat103_code = "259F4,C6,0,63"
+
+cheat104_desc = "普通物品杯衣（钢类技能威力上升）"
+cheat104_handler = "2"
+cheat104_code = "259F4,C7,0,63"
+
+cheat105_desc = "普通物品余物（体力能在战斗间慢慢恢复）"
+cheat105_handler = "2"
+cheat105_code = "259F4,C8,0,63"
+
+cheat106_desc = "普通物品龙鳞（飞龙类怪兽持有的奇异鳞片）"
+cheat106_handler = "2"
+cheat106_code = "259F4,C9,0,63"
+
+cheat107_desc = "普通物品电珠（特攻上升，限于皮卡丘）"
+cheat107_handler = "2"
+cheat107_code = "259F4,CA,0,63"
+
+cheat108_desc = "普通物品软沙（地面类技能的威力上升）"
+cheat108_handler = "2"
+cheat108_code = "259F4,CB,0,63"
+
+cheat109_desc = "普通物品坚硬石头（岩石类技能的威力上升）"
+cheat109_handler = "2"
+cheat109_code = "259F4,CC,0,63"
+
+cheat110_desc = "普通物品奇迹种（草类技能的威力上升）"
+cheat110_handler = "2"
+cheat110_code = "259F4,CD,0,63"
+
+cheat111_desc = "普通物品黑色眼镜（恶类技能的威力上升）"
+cheat111_handler = "2"
+cheat111_code = "259F4,CE,0,63"
+
+cheat112_desc = "普通物品黑带（格斗类技能的威力上升）"
+cheat112_handler = "2"
+cheat112_code = "259F4,CF,0,63"
+
+cheat113_desc = "普通物品磁铁（电类技能的威力上升）"
+cheat113_handler = "2"
+cheat113_code = "259F4,D0,0,63"
+
+cheat114_desc = "普通物品神秘水珠（水类技能的威力上升）"
+cheat114_handler = "2"
+cheat114_code = "259F4,D1,0,63"
+
+cheat115_desc = "普通物品尖嘴（飞行类技能的威力上升）"
+cheat115_handler = "2"
+cheat115_code = "259F4,D2,0,63"
+
+cheat116_desc = "普通物品毒针（毒类技能的威力上升）"
+cheat116_handler = "2"
+cheat116_code = "259F4,D3,0,63"
+
+cheat117_desc = "普通物品不化冰（冰冻技能的威力上升）"
+cheat117_handler = "2"
+cheat117_code = "259F4,D4,0,63"
+
+cheat118_desc = "普通物品诅咒符（幽灵类技能的威力上升）"
+cheat118_handler = "2"
+cheat118_code = "259F4,D5,0,63"
+
+cheat119_desc = "普通物品银勺（超能技能的威力上升）"
+cheat119_handler = "2"
+cheat119_code = "259F4,D6,0,63"
+
+cheat120_desc = "普通物品木炭（火焰类技能的威力上升）"
+cheat120_handler = "2"
+cheat120_code = "259F4,D7,0,63"
+
+cheat121_desc = "普通物品龙牙（飞龙类技能的威力上升）"
+cheat121_handler = "2"
+cheat121_code = "259F4,D8,0,63"
+
+cheat122_desc = "普通物品西库头巾（正常类技能的威力上升）"
+cheat122_handler = "2"
+cheat122_code = "259F4,D9,0,63"
+
+cheat123_desc = "普通物品上升叶片（奇异箱子，收集用）"
+cheat123_handler = "2"
+cheat123_code = "259F4,DA,0,63"
+
+cheat124_desc = "普通物品空贝（对敌人损伤时体力会恢复）"
+cheat124_handler = "2"
+cheat124_code = "259F4,DB,0,63"
+
+cheat125_desc = "普通物品潮物（水类技能的威力上升一点）"
+cheat125_handler = "2"
+cheat125_code = "259F4,DC,0,63"
+
+cheat126_desc = "普通物品气物（敌人的命中率下降一点）"
+cheat126_handler = "2"
+cheat126_code = "259F4,DD,0,63"
+
+cheat127_desc = "普通物品吉利蛋钳（容易命中要害，限于吉利蛋）"
+cheat127_handler = "2"
+cheat127_code = "259F4,DE,0,63"
+
+cheat128_desc = "普通物品木物（防御力上升，限于百变怪）"
+cheat128_handler = "2"
+cheat128_code = "259F4,DF,0,63"
+
+cheat129_desc = "全怪兽球99个"
+cheat129_handler = "2"
+cheat129_code = "25A94,1,0,63;25A98,2,0,63;25A9C,3,0,63;25AA0,4,0,63;25AA4,5,0,63;25AA8,6,0,63;25AAC,7,0,63;25AB0,8,0,63;25AB4,9,0,63;25AB8,A,0,63;25ABC,B,0,63;25AC0,C,0,63"
+
+cheat130_desc = "全招式机器99个"
+cheat130_handler = "2"
+cheat130_code = "25AD4,21,1,63;25AD8,22,1,63;25ADC,23,1,63;25AE0,24,1,63;25AE4,25,1,63;25AE8,26,1,63;25AEC,27,1,63;25AF0,28,1,63;25AF4,29,1,63;25AF8,2A,1,63;25AFC,2B,1,63;25B00,2C,1,63;25B04,2D,1,63;25B08,2E,1,63;25B0C,2F,1,63;25B10,30,1,63;25B14,31,1,63;25B18,32,1,63;25B1C,33,1,63;25B20,34,1,63;25B24,35,1,63;25B28,36,1,63;25B2C,37,1,63;25B30,38,1,63;25B34,39,1,63;25B38,3A,1,63;25B3C,3B,1,63;25B40,3C,1,63;25B44,3D,1,63;25B48,3E,1,63;25B4C,3F,1,63;25B50,40,1,63;25B54,41,1,63;25B58,42,1,63;25B5C,43,1,63;25B60,44,1,63;25B64,45,1,63;25B68,46,1,63;25B6C,47,1,63;25B70,48,1,63;25B74,49,1,63;25B78,4A,1,63;25B7C,4B,1,63;25B80,4C,1,63;25B84,4D,1,63;25B88,4E,1,63;25B8C,4F,1,63;25B90,50,1,63;25B94,51,1,63;25B98,52,1,63"
+
+cheat131_desc = "全密传机"
+cheat131_handler = "2"
+cheat131_code = "25B9C,53,1,1;25BA0,54,1,1;25BA4,55,1,1;25BA8,56,1,1;25BAC,57,1,1;25BB0,58,1,1;25BB4,59,1,1;25BB8,5A,1,1"
+
+cheat132_desc = "全果实255个"
+cheat132_handler = "2"
+cheat132_code = "25BD4,85,0,FF;25BD8,86,0,FF;25BDC,87,0,FF;25BE0,88,0,FF;25BE4,89,0,FF;25BE8,8A,0,FF;25BEC,8B,0,FF;25BF0,8C,0,FF;25BF4,8D,0,FF;25BF8,8E,0,FF;25BFC,8F,0,FF;25C00,90,0,FF;25C04,91,0,FF;25C08,92,0,FF;25C0C,93,0,FF;25C10,94,0,FF;25C14,95,0,FF;25C18,96,0,FF;25C1C,97,0,FF;25C20,98,0,FF;25C24,99,0,FF;25C28,9A,0,FF;25C2C,9B,0,FF;25C30,9C,0,FF;25C34,9D,0,FF;25C38,9E,0,FF;25C3C,9F,0,FF;25C40,A0,0,FF;25C44,A1,0,FF;25C48,A2,0,FF;25C4C,A3,0,FF;25C50,A4,0,FF;25C54,A5,0,FF;25C58,A6,0,FF;25C5C,A7,0,FF;25C60,A8,0,FF;25C64,A9,0,FF;25C68,AA,0,FF;25C6C,AB,0,FF;25C70,AC,0,FF;25C74,AD,0,FF;25C78,AE,0,FF;25C7C,AF,0,FF"
+
+cheat133_desc = "重要道具红手巾"
+cheat133_handler = "2"
+cheat133_code = "25A44,FE,0"
+
+cheat134_desc = "重要道具蓝手巾"
+cheat134_handler = "2"
+cheat134_code = "25A44,FF,0"
+
+cheat135_desc = "重要道具粉手巾"
+cheat135_handler = "2"
+cheat135_code = "25A44,0,1"
+
+cheat136_desc = "重要道具绿手巾"
+cheat136_handler = "2"
+cheat136_code = "25A44,1,1"
+
+cheat137_desc = "重要道具黄手巾"
+cheat137_handler = "2"
+cheat137_code = "25A44,2,1"
+
+cheat138_desc = "重要道具风马自行车"
+cheat138_handler = "2"
+cheat138_code = "25A44,3,1"
+
+cheat139_desc = "重要道具硬币盒子"
+cheat139_handler = "2"
+cheat139_code = "25A44,4,1"
+
+cheat140_desc = "重要道具探宝器"
+cheat140_handler = "2"
+cheat140_code = "25A44,5,1"
+
+cheat141_desc = "重要道具普通钓竿"
+cheat141_handler = "2"
+cheat141_code = "25A44,6,1"
+
+cheat142_desc = "重要道具好钓竿"
+cheat142_handler = "2"
+cheat142_code = "25A44,7,1"
+
+cheat143_desc = "重要道具超级钓竿"
+cheat143_handler = "2"
+cheat143_code = "25A44,8,1"
+
+cheat144_desc = "重要道具船票"
+cheat144_handler = "2"
+cheat144_code = "25A44,9,1"
+
+cheat145_desc = "重要道具比赛通行证"
+cheat145_handler = "2"
+cheat145_code = "25A44,A,1"
+
+cheat146_desc = "重要道具皮皮鲸喷壶"
+cheat146_handler = "2"
+cheat146_code = "25A44,C,1"
+
+cheat147_desc = "重要道具天力行李"
+cheat147_handler = "2"
+cheat147_code = "25A44,D,1"
+
+cheat148_desc = "重要道具背包"
+cheat148_handler = "2"
+cheat148_code = "25A44,E,1"
+
+cheat149_desc = "重要道具地下钥匙"
+cheat149_handler = "2"
+cheat149_code = "25A44,F,1"
+
+cheat150_desc = "重要道具沙道自行车"
+cheat150_handler = "2"
+cheat150_code = "25A44,10,1"
+
+cheat151_desc = "重要道具怪兽盒"
+cheat151_handler = "2"
+cheat151_code = "25A44,11,1"
+
+cheat152_desc = "重要道具代后的信"
+cheat152_handler = "2"
+cheat152_code = "25A44,12,1"
+
+cheat153_desc = "重要道具梦幻船票"
+cheat153_handler = "2"
+cheat153_code = "25A44,13,1"
+
+cheat154_desc = "重要道具红色玉石"
+cheat154_handler = "2"
+cheat154_code = "25A44,14,1"
+
+cheat155_desc = "重要道具蓝色玉石"
+cheat155_handler = "2"
+cheat155_code = "25A44,15,1"
+
+cheat156_desc = "重要道具探知器"
+cheat156_handler = "2"
+cheat156_code = "25A44,16,1"
+
+cheat157_desc = "重要道具沙道眼睛"
+cheat157_handler = "2"
+cheat157_code = "25A44,17,1"
+
+cheat158_desc = "重要道具陨石"
+cheat158_handler = "2"
+cheat158_code = "25A44,18,1"
+
+cheat159_desc = "重要道具1室钥匙"
+cheat159_handler = "2"
+cheat159_code = "25A44,19,1"
+
+cheat160_desc = "重要道具2室钥匙"
+cheat160_handler = "2"
+cheat160_code = "25A44,1A,1"
+
+cheat161_desc = "重要道具4室钥匙"
+cheat161_handler = "2"
+cheat161_code = "25A44,1B,1"
+
+cheat162_desc = "重要道具6室钥匙"
+cheat162_handler = "2"
+cheat162_code = "25A44,1C,1"
+
+cheat163_desc = "重要道具仓库钥匙"
+cheat163_handler = "2"
+cheat163_code = "25A44,1D,1"
+
+cheat164_desc = "重要道具木根化石"
+cheat164_handler = "2"
+cheat164_code = "25A44,1E,1"
+
+cheat165_desc = "重要道具指甲化石"
+cheat165_handler = "2"
+cheat165_code = "25A44,1F,1"
+
+cheat166_desc = "重要道具天力思奇"
+cheat166_handler = "2"
+cheat166_code = "25A44,20,1"
+
+cheat167_desc = "喷雾剂剩余歩数"
+cheat167_handler = "2"
+cheat167_code = "26816,FF,0"
+
+cheat168_desc = "喷雾剂剩余歩数0FF"
+cheat168_handler = "2"
+cheat168_code = "26816,0,0"
+
+cheat169_desc = "游戏币MAX"
+cheat169_handler = "2"
+cheat169_code = "25928,F,27"
+
+cheat170_desc = "火山灰MAX"
+cheat170_handler = "2"
+cheat170_code = "26864,40,1F"
+
+cheat171_desc = "南之孤岛"
+cheat171_handler = "2"
+cheat171_code = "267BE,FF,FF"
+
+cheat172_desc = "用飞天技能去全部地点"
+cheat172_handler = "2"
+cheat172_code = "267B6,FF,7F"
+
+cheat173_desc = "地图中的地点情报全部显示"
+cheat173_handler = "2"
+cheat173_code = "267B6,2F,FF,FF,9F"
+
+cheat174_desc = "再次与红/蓝神兽战斗"
+cheat174_handler = "2"
+cheat174_code = "2690A,0"
+
+cheat175_desc = "193,194,195号三个机器人所在洞穴的洞口打开"
+cheat175_handler = "2"
+cheat175_code = "266D0,DF"
+
+cheat176_desc = "193,194,195号三个机器人再次出现"
+cheat176_handler = "2"
+cheat176_code = "26728,5E,EC"
+
+cheat177_desc = "ダイゴ家中装有190号的精灵球再次出现"
+cheat177_handler = "2"
+cheat177_code = "2672D,FE"
+
+cheat178_desc = "空之柱顶层再次出现200号"
+cheat178_handler = "2"
+cheat178_code = "26714,CF"
+
+cheat179_desc = "狩猎区剩余歩数"
+cheat179_handler = "2"
+cheat179_code = "38506,C8,0"
+
+cheats = 180

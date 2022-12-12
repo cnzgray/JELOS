@@ -1,0 +1,69 @@
+cheat0_desc = "金钱"
+cheat0_handler = "2"
+cheat0_code = "4080,3F,42,F"
+
+cheat1_desc = "木材"
+cheat1_handler = "2"
+cheat1_code = "25FC,E7,3"
+
+cheat2_desc = "疲劳度0"
+cheat2_handler = "2"
+cheat2_code = "41F6,0"
+
+cheat3_desc = "时钟（分）10分"
+cheat3_handler = "2"
+cheat3_code = "25EB,11"
+
+cheat4_desc = "时钟（分）20分"
+cheat4_handler = "2"
+cheat4_code = "25EB,12"
+
+cheat5_desc = "时钟（分）30分"
+cheat5_handler = "2"
+cheat5_code = "25EB,13"
+
+cheat6_desc = "时钟（分）40分"
+cheat6_handler = "2"
+cheat6_code = "25EB,14"
+
+cheat7_desc = "时钟（分）50分"
+cheat7_handler = "2"
+cheat7_code = "25EB,16"
+
+cheat8_desc = "支出"
+cheat8_handler = "2"
+cheat8_code = "4184,0"
+
+cheat9_desc = "收入"
+cheat9_handler = "2"
+cheat9_code = "4180,0f,27"
+
+cheat10_desc = "冷藏库1"
+cheat10_handler = "2"
+cheat10_code = "5008,0;500B,63,1;500F,63,2;5013,63,3;5017,63,4;501B,63,5;501F,63,6;5023,"
+
+cheat11_desc = "冷藏库2"
+cheat11_handler = "2"
+cheat11_code = "5008,40;500B,63,41;500F,63,42;5013,63,43;5017,63,44;501B,63,45;501F,63,"
+
+cheat12_desc = "冷藏库3"
+cheat12_handler = "2"
+cheat12_code = "5008,80;500B,63,81;500F,63,82;5013,63,83;5017,63,84;501B,63,85;501F,"
+
+cheat13_desc = "道具变成改造可能"
+cheat13_handler = "2"
+cheat13_code = "41dc,ff;41dd,ff;41e0,ff;41e1,ff;41e4,ff;41e5,ff;41e8,ff;41e9,ff;41ec,"
+
+cheat14_desc = "主角苹果数"
+cheat14_handler = "2"
+cheat14_code = "41f4,ff"
+
+cheat15_desc = "狗的心数"
+cheat15_handler = "2"
+cheat15_code = "4262,ff,ff"
+
+cheat16_desc = "狗的心数"
+cheat16_handler = "2"
+cheat16_code = "4359,ff,ff"
+
+cheats = 17

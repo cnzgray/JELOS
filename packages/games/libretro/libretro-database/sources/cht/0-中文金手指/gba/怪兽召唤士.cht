@@ -1,0 +1,89 @@
+cheat0_desc = "战斗中MP"
+cheat0_handler = "2"
+cheat0_code = "35930,3C;35932,3C"
+
+cheat1_desc = "主角LV"
+cheat1_handler = "2"
+cheat1_code = "A40,63"
+
+cheat2_desc = "主角HP MAX"
+cheat2_handler = "2"
+cheat2_code = "A44,F,27"
+
+cheat3_desc = "主角MP MAX"
+cheat3_handler = "2"
+cheat3_code = "A64,F,27"
+
+cheat4_desc = "主角ATTACK"
+cheat4_handler = "2"
+cheat4_code = "A58,E0,7"
+
+cheat5_desc = "主角SPEED"
+cheat5_handler = "2"
+cheat5_code = "A49,4"
+
+cheat6_desc = "主角MOVE"
+cheat6_handler = "2"
+cheat6_code = "A4A,A"
+
+cheat7_desc = "主角RANGE"
+cheat7_handler = "2"
+cheat7_code = "A5,F"
+
+cheat8_desc = "主角EXP"
+cheat8_handler = "2"
+cheat8_code = "A68,9F,86,1"
+
+cheat9_desc = "主角TOTAL+WIN"
+cheat9_handler = "2"
+cheat9_code = "A70,E7,3"
+
+cheat10_desc = "主角LOSE"
+cheat10_handler = "2"
+cheat10_code = "A72,0"
+
+cheat11_desc = "全道具"
+cheat11_handler = "2"
+cheat11_code = "A6C,FF,FF"
+
+cheat12_desc = "战绩结果房子"
+cheat12_handler = "2"
+cheat12_code = "C22,E7,3"
+
+cheat13_desc = "战绩结果士兵"
+cheat13_handler = "2"
+cheat13_code = "C2A,E7,3"
+
+cheat14_desc = "战绩结果旗帜"
+cheat14_handler = "2"
+cheat14_code = "C2E,E7,3"
+
+cheat15_desc = "战绩结果时间"
+cheat15_handler = "2"
+cheat15_code = "C34,0,0"
+
+cheat16_desc = "被害房子"
+cheat16_handler = "2"
+cheat16_code = "C24,0,0"
+
+cheat17_desc = "被害士兵"
+cheat17_handler = "2"
+cheat17_code = "C2C,0,0"
+
+cheat18_desc = "被害旗帜"
+cheat18_handler = "2"
+cheat18_code = "C30,0,0"
+
+cheat19_desc = "GAMEINFONAME"
+cheat19_handler = "2"
+cheat19_code = "怪兽召唤士"
+
+cheat20_desc = "GAMEINFOSYSTEM"
+cheat20_handler = "2"
+cheat20_code = "GBA"
+
+cheat21_desc = "GAMEINFOTEXT"
+cheat21_handler = "2"
+cheat21_code = "1581"
+
+cheats = 22

@@ -1,0 +1,21 @@
+cheat0_desc = "HP MAX"
+cheat0_handler = "0"
+cheat0_code = "801AE43C#0032;801AE440#0032"
+
+cheat1_desc = "MP MAX"
+cheat1_handler = "0"
+cheat1_code = "801DE5A4#0004;801DE5A6#0004"
+
+cheat2_desc = "所持金 MAX"
+cheat2_handler = "0"
+cheat2_code = "801DE5A8#270F"
+
+cheat3_desc = "金鹰 MAX"
+cheat3_handler = "0"
+cheat3_code = "801DE5AE#0063"
+
+cheat4_desc = "键 MAX"
+cheat4_handler = "0"
+cheat4_code = "801DE6A8#0063"
+
+cheats = 5

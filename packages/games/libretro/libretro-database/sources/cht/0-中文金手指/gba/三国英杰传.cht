@@ -1,0 +1,8073 @@
+cheat0_desc = "金钱"
+cheat0_handler = "2"
+cheat0_code = "3C9E0,60,EA"
+
+cheat1_desc = "刘备武、统、智255"
+cheat1_handler = "2"
+cheat1_code = "14E93,FF,FF,FF"
+
+cheat2_desc = "刘备经验"
+cheat2_handler = "2"
+cheat2_code = "3B1E3,63"
+
+cheat3_desc = "刘备第一格道具遁甲天書"
+cheat3_handler = "2"
+cheat3_code = "3B1E8,00"
+
+cheat4_desc = "刘备第一格道具青囊書"
+cheat4_handler = "2"
+cheat4_code = "3B1E8,01"
+
+cheat5_desc = "刘备第一格道具軍樂譜"
+cheat5_handler = "2"
+cheat5_code = "3B1E8,02"
+
+cheat6_desc = "刘备第一格道具孫子の兵法書"
+cheat6_handler = "2"
+cheat6_code = "3B1E8,03"
+
+cheat7_desc = "刘备第一格道具孟德新書"
+cheat7_handler = "2"
+cheat7_code = "3B1E8,04"
+
+cheat8_desc = "刘备第一格道具爪黄飛電"
+cheat8_handler = "2"
+cheat8_code = "3B1E8,05"
+
+cheat9_desc = "刘备第一格道具的盧"
+cheat9_handler = "2"
+cheat9_code = "3B1E8,06"
+
+cheat10_desc = "刘备第一格道具赤兔馬"
+cheat10_handler = "2"
+cheat10_code = "3B1E8,07"
+
+cheat11_desc = "刘备第一格道具玉璽"
+cheat11_handler = "2"
+cheat11_code = "3B1E8,08"
+
+cheat12_desc = "刘备第一格道具倚天の剣"
+cheat12_handler = "2"
+cheat12_code = "3B1E8,09"
+
+cheat13_desc = "刘备第一格道具青釭の剣"
+cheat13_handler = "2"
+cheat13_code = "3B1E8,0A"
+
+cheat14_desc = "刘备第一格道具七星の劍"
+cheat14_handler = "2"
+cheat14_code = "3B1E8,0B"
+
+cheat15_desc = "刘备第一格道具青龍偃月刀"
+cheat15_handler = "2"
+cheat15_code = "3B1E8,0C"
+
+cheat16_desc = "刘备第一格道具三尖刀"
+cheat16_handler = "2"
+cheat16_code = "3B1E8,0D"
+
+cheat17_desc = "刘备第一格道具方天畫戟"
+cheat17_handler = "2"
+cheat17_code = "3B1E8,0E"
+
+cheat18_desc = "刘备第一格道具蛇矛"
+cheat18_handler = "2"
+cheat18_code = "3B1E8,0F"
+
+cheat19_desc = "刘备第一格道具弓術指南書"
+cheat19_handler = "2"
+cheat19_code = "3B1E8,10"
+
+cheat20_desc = "刘备第一格道具馬術指南書"
+cheat20_handler = "2"
+cheat20_code = "3B1E8,11"
+
+cheat21_desc = "刘备第一格道具剣術指南書"
+cheat21_handler = "2"
+cheat21_code = "3B1E8,12"
+
+cheat22_desc = "刘备第一格道具長槍術奥義"
+cheat22_handler = "2"
+cheat22_code = "3B1E8,13"
+
+cheat23_desc = "刘备第一格道具戦車術奥義"
+cheat23_handler = "2"
+cheat23_code = "3B1E8,14"
+
+cheat24_desc = "刘备第一格道具連弩術極義"
+cheat24_handler = "2"
+cheat24_code = "3B1E8,15"
+
+cheat25_desc = "刘备第一格道具發石術極義"
+cheat25_handler = "2"
+cheat25_code = "3B1E8,16"
+
+cheat26_desc = "刘备第一格道具重騎兵の印綬"
+cheat26_handler = "2"
+cheat26_code = "3B1E8,17"
+
+cheat27_desc = "刘备第一格道具親衛隊の印綬"
+cheat27_handler = "2"
+cheat27_code = "3B1E8,18"
+
+cheat28_desc = "刘备第一格道具無賴の心得"
+cheat28_handler = "2"
+cheat28_code = "3B1E8,19"
+
+cheat29_desc = "刘备第一格道具義俠の心得"
+cheat29_handler = "2"
+cheat29_code = "3B1E8,1A"
+
+cheat30_desc = "刘备第一格道具豆"
+cheat30_handler = "2"
+cheat30_code = "3B1E8,1B"
+
+cheat31_desc = "刘备第一格道具麥"
+cheat31_handler = "2"
+cheat31_code = "3B1E8,1F"
+
+cheat32_desc = "刘备第一格道具米"
+cheat32_handler = "2"
+cheat32_code = "3B1E8,20"
+
+cheat33_desc = "刘备第一格道具爆弾"
+cheat33_handler = "2"
+cheat33_code = "3B1E8,21"
+
+cheat34_desc = "刘备第一格道具傷藥"
+cheat34_handler = "2"
+cheat34_code = "3B1E8,2E"
+
+cheat35_desc = "刘备第一格道具漢方藥"
+cheat35_handler = "2"
+cheat35_code = "3B1E8,2F"
+
+cheat36_desc = "刘备第一格道具救命藥"
+cheat36_handler = "2"
+cheat36_code = "3B1E8,30"
+
+cheat37_desc = "刘备第一格道具赦命書"
+cheat37_handler = "2"
+cheat37_code = "3B1E8,37"
+
+cheat38_desc = "刘备第一格道具援軍報告"
+cheat38_handler = "2"
+cheat38_code = "3B1E8,38"
+
+cheat39_desc = "刘备第一格道具雌雄一对の剣"
+cheat39_handler = "2"
+cheat39_code = "3B1E8,39"
+
+cheat40_desc = "刘备第一格道具英傑の剣"
+cheat40_handler = "2"
+cheat40_code = "3B1E8,3A"
+
+cheat41_desc = "刘备第一格道具霸者の剣"
+cheat41_handler = "2"
+cheat41_code = "3B1E8,3B"
+
+cheat42_desc = "刘备第一格道具六韜"
+cheat42_handler = "2"
+cheat42_code = "3B1E8,3C"
+
+cheat43_desc = "刘备第一格道具三略"
+cheat43_handler = "2"
+cheat43_code = "3B1E8,3D"
+
+cheat44_desc = "刘备第一格道具吳子の兵法"
+cheat44_handler = "2"
+cheat44_code = "3B1E8,3E"
+
+cheat45_desc = "刘备第一格道具斧"
+cheat45_handler = "2"
+cheat45_code = "3B1E8,3F"
+
+cheat46_desc = "刘备第一格道具板斧"
+cheat46_handler = "2"
+cheat46_code = "3B1E8,40"
+
+cheat47_desc = "刘备第一格道具宣花斧"
+cheat47_handler = "2"
+cheat47_code = "3B1E8,41"
+
+cheat48_desc = "刘备第一格道具火焰斧"
+cheat48_handler = "2"
+cheat48_code = "3B1E8,42"
+
+cheat49_desc = "刘备第一格道具鳯頭斧"
+cheat49_handler = "2"
+cheat49_code = "3B1E8,43"
+
+cheat50_desc = "刘备第一格道具直刀"
+cheat50_handler = "2"
+cheat50_code = "3B1E8,44"
+
+cheat51_desc = "刘备第一格道具鋼刀"
+cheat51_handler = "2"
+cheat51_code = "3B1E8,45"
+
+cheat52_desc = "刘备第一格道具環刀"
+cheat52_handler = "2"
+cheat52_code = "3B1E8,46"
+
+cheat53_desc = "刘备第一格道具虎牙刀"
+cheat53_handler = "2"
+cheat53_code = "3B1E8,47"
+
+cheat54_desc = "刘备第一格道具鳯嘴刀"
+cheat54_handler = "2"
+cheat54_code = "3B1E8,48"
+
+cheat55_desc = "刘备第一格道具神刀"
+cheat55_handler = "2"
+cheat55_code = "3B1E8,49"
+
+cheat56_desc = "刘备第一格道具鉤"
+cheat56_handler = "2"
+cheat56_code = "3B1E8,4A"
+
+cheat57_desc = "刘备第一格道具鉤鐮"
+cheat57_handler = "2"
+cheat57_code = "3B1E8,4B"
+
+cheat58_desc = "刘备第一格道具護手鉤"
+cheat58_handler = "2"
+cheat58_code = "3B1E8,4C"
+
+cheat59_desc = "刘备第一格道具鉄鉤距"
+cheat59_handler = "2"
+cheat59_code = "3B1E8,4D"
+
+cheat60_desc = "刘备第一格道具山賊の誓い"
+cheat60_handler = "2"
+cheat60_code = "3B1E8,4E"
+
+cheat61_desc = "刘备第一格道具武術指南書"
+cheat61_handler = "2"
+cheat61_code = "3B1E8,4F"
+
+cheat62_desc = "刘备第一格道具異文化の印"
+cheat62_handler = "2"
+cheat62_code = "3B1E8,50"
+
+cheat63_desc = "刘备第一格道具操術指南書"
+cheat63_handler = "2"
+cheat63_code = "3B1E8,51"
+
+cheat64_desc = "刘备第一格道具焦熱書"
+cheat64_handler = "2"
+cheat64_code = "3B1E8,52"
+
+cheat65_desc = "刘备第一格道具嶪火の書"
+cheat65_handler = "2"
+cheat65_code = "3B1E8,53"
+
+cheat66_desc = "刘备第一格道具小赤龍の書"
+cheat66_handler = "2"
+cheat66_code = "3B1E8,54"
+
+cheat67_desc = "刘备第一格道具大焦熱の書"
+cheat67_handler = "2"
+cheat67_code = "3B1E8,55"
+
+cheat68_desc = "刘备第一格道具大嶪火の書"
+cheat68_handler = "2"
+cheat68_code = "3B1E8,56"
+
+cheat69_desc = "刘备第一格道具渦潮の書"
+cheat69_handler = "2"
+cheat69_code = "3B1E8,58"
+
+cheat70_desc = "刘备第一格道具水刃の書"
+cheat70_handler = "2"
+cheat70_code = "3B1E8,59"
+
+cheat71_desc = "刘备第一格道具小黒龍の書"
+cheat71_handler = "2"
+cheat71_code = "3B1E8,5A"
+
+cheat72_desc = "刘备第一格道具大渦潮の書"
+cheat72_handler = "2"
+cheat72_code = "3B1E8,5B"
+
+cheat73_desc = "刘备第一格道具大水刃の書"
+cheat73_handler = "2"
+cheat73_code = "3B1E8,5C"
+
+cheat74_desc = "刘备第一格道具落石の書"
+cheat74_handler = "2"
+cheat74_code = "3B1E8,5E"
+
+cheat75_desc = "刘备第一格道具落穴の書"
+cheat75_handler = "2"
+cheat75_code = "3B1E8,5F"
+
+cheat76_desc = "刘备第一格道具小青龍の書"
+cheat76_handler = "2"
+cheat76_code = "3B1E8,60"
+
+cheat77_desc = "刘备第一格道具土石流の書"
+cheat77_handler = "2"
+cheat77_code = "3B1E8,61"
+
+cheat78_desc = "刘备第一格道具大地割の書"
+cheat78_handler = "2"
+cheat78_code = "3B1E8,62"
+
+cheat79_desc = "刘备第一格道具風無の書"
+cheat79_handler = "2"
+cheat79_code = "3B1E8,64"
+
+cheat80_desc = "刘备第一格道具旋風の書"
+cheat80_handler = "2"
+cheat80_code = "3B1E8,65"
+
+cheat81_desc = "刘备第一格道具小白龍の書"
+cheat81_handler = "2"
+cheat81_code = "3B1E8,66"
+
+cheat82_desc = "刘备第一格道具大旋風の書"
+cheat82_handler = "2"
+cheat82_code = "3B1E8,67"
+
+cheat83_desc = "刘备第一格道具風気の書"
+cheat83_handler = "2"
+cheat83_code = "3B1E8,68"
+
+cheat84_desc = "刘备第一格道具酒"
+cheat84_handler = "2"
+cheat84_code = "3B1E8,6A"
+
+cheat85_desc = "刘备第一格道具土の壁"
+cheat85_handler = "2"
+cheat85_code = "3B1E8,6B"
+
+cheat86_desc = "刘备第一格道具火の幻"
+cheat86_handler = "2"
+cheat86_code = "3B1E8,6C"
+
+cheat87_desc = "刘备第一格道具木の光"
+cheat87_handler = "2"
+cheat87_code = "3B1E8,6D"
+
+cheat88_desc = "刘备第一格道具水の力"
+cheat88_handler = "2"
+cheat88_code = "3B1E8,6E"
+
+cheat89_desc = "刘备第一格道具特級酒"
+cheat89_handler = "2"
+cheat89_code = "3B1E8,6F"
+
+cheat90_desc = "刘备第一格道具金の毒"
+cheat90_handler = "2"
+cheat90_code = "3B1E8,70"
+
+cheat91_desc = "刘备第一格道具老酒"
+cheat91_handler = "2"
+cheat91_code = "3B1E8,71"
+
+cheat92_desc = "刘备第一格道具妖術の藥"
+cheat92_handler = "2"
+cheat92_code = "3B1E8,72"
+
+cheat93_desc = "刘备第一格道具仙術の藥"
+cheat93_handler = "2"
+cheat93_code = "3B1E8,73"
+
+cheat94_desc = "刘备第一格道具駿馬"
+cheat94_handler = "2"
+cheat94_code = "3B1E8,74"
+
+cheat95_desc = "刘备第一格道具皮甲"
+cheat95_handler = "2"
+cheat95_code = "3B1E8,75"
+
+cheat96_desc = "刘备第一格道具藤甲"
+cheat96_handler = "2"
+cheat96_code = "3B1E8,76"
+
+cheat97_desc = "刘备第一格道具鎖子甲"
+cheat97_handler = "2"
+cheat97_code = "3B1E8,77"
+
+cheat98_desc = "刘备第一格道具鉄甲"
+cheat98_handler = "2"
+cheat98_code = "3B1E8,78"
+
+cheat99_desc = "刘备第一格道具鋼子連鐶甲"
+cheat99_handler = "2"
+cheat99_code = "3B1E8,79"
+
+cheat100_desc = "刘备第一格道具金鎖の甲"
+cheat100_handler = "2"
+cheat100_code = "3B1E8,7A"
+
+cheat101_desc = "刘备第一格道具白銀の甲"
+cheat101_handler = "2"
+cheat101_code = "3B1E8,7B"
+
+cheat102_desc = "刘备第一格道具連鐶の鎧"
+cheat102_handler = "2"
+cheat102_code = "3B1E8,7C"
+
+cheat103_desc = "刘备第一格道具筒袖鎧"
+cheat103_handler = "2"
+cheat103_code = "3B1E8,7D"
+
+cheat104_desc = "刘备第一格道具明光鎧"
+cheat104_handler = "2"
+cheat104_code = "3B1E8,7E"
+
+cheat105_desc = "刘备第一格道具手牌"
+cheat105_handler = "2"
+cheat105_code = "3B1E8,7F"
+
+cheat106_desc = "刘备第一格道具団牌"
+cheat106_handler = "2"
+cheat106_code = "3B1E8,80"
+
+cheat107_desc = "刘备第一格道具推牌"
+cheat107_handler = "2"
+cheat107_code = "3B1E8,81"
+
+cheat108_desc = "刘备第一格道具燕尾牌"
+cheat108_handler = "2"
+cheat108_code = "3B1E8,82"
+
+cheat109_desc = "刘备第一格道具無敵神牌"
+cheat109_handler = "2"
+cheat109_code = "3B1E8,83"
+
+cheat110_desc = "刘备第一格道具槍"
+cheat110_handler = "2"
+cheat110_code = "3B1E8,84"
+
+cheat111_desc = "刘备第一格道具半月槍"
+cheat111_handler = "2"
+cheat111_code = "3B1E8,85"
+
+cheat112_desc = "刘备第一格道具鉄槍"
+cheat112_handler = "2"
+cheat112_code = "3B1E8,86"
+
+cheat113_desc = "刘备第一格道具環子槍"
+cheat113_handler = "2"
+cheat113_code = "3B1E8,87"
+
+cheat114_desc = "刘备第一格道具鉤鐮槍"
+cheat114_handler = "2"
+cheat114_code = "3B1E8,88"
+
+cheat115_desc = "刘备第一格道具红の槍"
+cheat115_handler = "2"
+cheat115_code = "3B1E8,89"
+
+cheat116_desc = "刘备第一格道具戟"
+cheat116_handler = "2"
+cheat116_code = "3B1E8,8A"
+
+cheat117_desc = "刘备第一格道具長戟"
+cheat117_handler = "2"
+cheat117_code = "3B1E8,8B"
+
+cheat118_desc = "刘备第一格道具大戟"
+cheat118_handler = "2"
+cheat118_code = "3B1E8,8C"
+
+cheat119_desc = "刘备第一格道具青龍戟"
+cheat119_handler = "2"
+cheat119_code = "3B1E8,8D"
+
+cheat120_desc = "刘备第一格道具半弓"
+cheat120_handler = "2"
+cheat120_code = "3B1E8,8E"
+
+cheat121_desc = "刘备第一格道具弯弓"
+cheat121_handler = "2"
+cheat121_code = "3B1E8,8F"
+
+cheat122_desc = "刘备第一格道具李满弓"
+cheat122_handler = "2"
+cheat122_code = "3B1E8,90"
+
+cheat123_desc = "刘备第一格道具强弓"
+cheat123_handler = "2"
+cheat123_code = "3B1E8,91"
+
+cheat124_desc = "刘备第一格道具鉄弓"
+cheat124_handler = "2"
+cheat124_code = "3B1E8,92"
+
+cheat125_desc = "刘备第一格道具双弓床弩"
+cheat125_handler = "2"
+cheat125_code = "3B1E8,93"
+
+cheat126_desc = "刘备第一格道具斗子弩"
+cheat126_handler = "2"
+cheat126_code = "3B1E8,94"
+
+cheat127_desc = "刘备第一格道具三弓斗子弩"
+cheat127_handler = "2"
+cheat127_code = "3B1E8,95"
+
+cheat128_desc = "刘备第一格道具神弩"
+cheat128_handler = "2"
+cheat128_code = "3B1E8,96"
+
+cheat129_desc = "刘备第一格道具手砲"
+cheat129_handler = "2"
+cheat129_code = "3B1E8,97"
+
+cheat130_desc = "刘备第一格道具合砲"
+cheat130_handler = "2"
+cheat130_code = "3B1E8,98"
+
+cheat131_desc = "刘备第一格道具単梢砲"
+cheat131_handler = "2"
+cheat131_code = "3B1E8,99"
+
+cheat132_desc = "刘备第一格道具双梢砲"
+cheat132_handler = "2"
+cheat132_code = "3B1E8,9A"
+
+cheat133_desc = "刘备第一格道具霹雳車"
+cheat133_handler = "2"
+cheat133_code = "3B1E8,9B"
+
+cheat134_desc = "刘备第一格道具旋風砲"
+cheat134_handler = "2"
+cheat134_code = "3B1E8,9C"
+
+cheat135_desc = "刘备第一格道具独角旋風砲"
+cheat135_handler = "2"
+cheat135_code = "3B1E8,9D"
+
+cheat136_desc = "刘备第一格道具旋風五砲"
+cheat136_handler = "2"
+cheat136_code = "3B1E8,9E"
+
+cheat137_desc = "刘备第一格道具圈"
+cheat137_handler = "2"
+cheat137_code = "3B1E8,9F"
+
+cheat138_desc = "刘备第一格道具乾坤烏亀圈"
+cheat138_handler = "2"
+cheat138_code = "3B1E8,A0"
+
+cheat139_desc = "刘备第一格道具日月乾坤圈"
+cheat139_handler = "2"
+cheat139_code = "3B1E8,A1"
+
+cheat140_desc = "刘备第一格道具鶏爪鉞"
+cheat140_handler = "2"
+cheat140_code = "3B1E8,A2"
+
+cheat141_desc = "刘备第一格道具鶏爪駌鴦鉞"
+cheat141_handler = "2"
+cheat141_code = "3B1E8,A3"
+
+cheat142_desc = "刘备第一格道具子母駌鴦鉞"
+cheat142_handler = "2"
+cheat142_code = "3B1E8,A4"
+
+cheat143_desc = "刘备第一格道具流星錘"
+cheat143_handler = "2"
+cheat143_code = "3B1E8,A5"
+
+cheat144_desc = "刘备第一格道具狼牙錘"
+cheat144_handler = "2"
+cheat144_code = "3B1E8,A6"
+
+cheat145_desc = "刘备第一格道具鞭"
+cheat145_handler = "2"
+cheat145_code = "3B1E8,A7"
+
+cheat146_desc = "刘备第一格道具柳鞭"
+cheat146_handler = "2"
+cheat146_code = "3B1E8,A8"
+
+cheat147_desc = "刘备第一格道具鯨鞭"
+cheat147_handler = "2"
+cheat147_code = "3B1E8,A9"
+
+cheat148_desc = "刘备第一格道具鉄笛"
+cheat148_handler = "2"
+cheat148_code = "3B1E8,AA"
+
+cheat149_desc = "刘备第一格道具銅鑼"
+cheat149_handler = "2"
+cheat149_code = "3B1E8,AB"
+
+cheat150_desc = "刘备第一格道具鼓角"
+cheat150_handler = "2"
+cheat150_code = "3B1E8,AC"
+
+cheat151_desc = "刘备第一格道具兵鼓"
+cheat151_handler = "2"
+cheat151_code = "3B1E8,AD"
+
+cheat152_desc = "刘备第一格道具鉦鼓"
+cheat152_handler = "2"
+cheat152_code = "3B1E8,AE"
+
+cheat153_desc = "刘备第一格道具金鼓"
+cheat153_handler = "2"
+cheat153_code = "3B1E8,AF"
+
+cheat154_desc = "刘备第一格道具鉄扇"
+cheat154_handler = "2"
+cheat154_code = "3B1E8,B0"
+
+cheat155_desc = "刘备第一格道具羽扇"
+cheat155_handler = "2"
+cheat155_code = "3B1E8,B1"
+
+cheat156_desc = "刘备第一格道具白羽扇"
+cheat156_handler = "2"
+cheat156_code = "3B1E8,B2"
+
+cheat157_desc = "刘备第一格道具木牛"
+cheat157_handler = "2"
+cheat157_code = "3B1E8,B3"
+
+cheat158_desc = "刘备第一格道具流馬"
+cheat158_handler = "2"
+cheat158_code = "3B1E8,B4"
+
+cheat159_desc = "刘备第一格道具扁厢車"
+cheat159_handler = "2"
+cheat159_code = "3B1E8,B5"
+
+cheat160_desc = "刘备第一格道具正廂車"
+cheat160_handler = "2"
+cheat160_code = "3B1E8,B6"
+
+cheat161_desc = "刘备第二格道具遁甲天書"
+cheat161_handler = "2"
+cheat161_code = "3B1E9,00"
+
+cheat162_desc = "刘备第二格道具青囊書"
+cheat162_handler = "2"
+cheat162_code = "3B1E9,01"
+
+cheat163_desc = "刘备第二格道具軍樂譜"
+cheat163_handler = "2"
+cheat163_code = "3B1E9,02"
+
+cheat164_desc = "刘备第二格道具孫子の兵法書"
+cheat164_handler = "2"
+cheat164_code = "3B1E9,03"
+
+cheat165_desc = "刘备第二格道具孟德新書"
+cheat165_handler = "2"
+cheat165_code = "3B1E9,04"
+
+cheat166_desc = "刘备第二格道具爪黄飛電"
+cheat166_handler = "2"
+cheat166_code = "3B1E9,05"
+
+cheat167_desc = "刘备第二格道具的盧"
+cheat167_handler = "2"
+cheat167_code = "3B1E9,06"
+
+cheat168_desc = "刘备第二格道具赤兔馬"
+cheat168_handler = "2"
+cheat168_code = "3B1E9,07"
+
+cheat169_desc = "刘备第二格道具玉璽"
+cheat169_handler = "2"
+cheat169_code = "3B1E9,08"
+
+cheat170_desc = "刘备第二格道具倚天の剣"
+cheat170_handler = "2"
+cheat170_code = "3B1E9,09"
+
+cheat171_desc = "刘备第二格道具青釭の剣"
+cheat171_handler = "2"
+cheat171_code = "3B1E9,0A"
+
+cheat172_desc = "刘备第二格道具七星の劍"
+cheat172_handler = "2"
+cheat172_code = "3B1E9,0B"
+
+cheat173_desc = "刘备第二格道具青龍偃月刀"
+cheat173_handler = "2"
+cheat173_code = "3B1E9,0C"
+
+cheat174_desc = "刘备第二格道具三尖刀"
+cheat174_handler = "2"
+cheat174_code = "3B1E9,0D"
+
+cheat175_desc = "刘备第二格道具方天畫戟"
+cheat175_handler = "2"
+cheat175_code = "3B1E9,0E"
+
+cheat176_desc = "刘备第二格道具蛇矛"
+cheat176_handler = "2"
+cheat176_code = "3B1E9,0F"
+
+cheat177_desc = "刘备第二格道具弓術指南書"
+cheat177_handler = "2"
+cheat177_code = "3B1E9,10"
+
+cheat178_desc = "刘备第二格道具馬術指南書"
+cheat178_handler = "2"
+cheat178_code = "3B1E9,11"
+
+cheat179_desc = "刘备第二格道具剣術指南書"
+cheat179_handler = "2"
+cheat179_code = "3B1E9,12"
+
+cheat180_desc = "刘备第二格道具長槍術奥義"
+cheat180_handler = "2"
+cheat180_code = "3B1E9,13"
+
+cheat181_desc = "刘备第二格道具戦車術奥義"
+cheat181_handler = "2"
+cheat181_code = "3B1E9,14"
+
+cheat182_desc = "刘备第二格道具連弩術極義"
+cheat182_handler = "2"
+cheat182_code = "3B1E9,15"
+
+cheat183_desc = "刘备第二格道具發石術極義"
+cheat183_handler = "2"
+cheat183_code = "3B1E9,16"
+
+cheat184_desc = "刘备第二格道具重騎兵の印綬"
+cheat184_handler = "2"
+cheat184_code = "3B1E9,17"
+
+cheat185_desc = "刘备第二格道具親衛隊の印綬"
+cheat185_handler = "2"
+cheat185_code = "3B1E9,18"
+
+cheat186_desc = "刘备第二格道具無賴の心得"
+cheat186_handler = "2"
+cheat186_code = "3B1E9,19"
+
+cheat187_desc = "刘备第二格道具義俠の心得"
+cheat187_handler = "2"
+cheat187_code = "3B1E9,1A"
+
+cheat188_desc = "刘备第二格道具豆"
+cheat188_handler = "2"
+cheat188_code = "3B1E9,1B"
+
+cheat189_desc = "刘备第二格道具麥"
+cheat189_handler = "2"
+cheat189_code = "3B1E9,1F"
+
+cheat190_desc = "刘备第二格道具米"
+cheat190_handler = "2"
+cheat190_code = "3B1E9,20"
+
+cheat191_desc = "刘备第二格道具爆弾"
+cheat191_handler = "2"
+cheat191_code = "3B1E9,21"
+
+cheat192_desc = "刘备第二格道具傷藥"
+cheat192_handler = "2"
+cheat192_code = "3B1E9,2E"
+
+cheat193_desc = "刘备第二格道具漢方藥"
+cheat193_handler = "2"
+cheat193_code = "3B1E9,2F"
+
+cheat194_desc = "刘备第二格道具救命藥"
+cheat194_handler = "2"
+cheat194_code = "3B1E9,30"
+
+cheat195_desc = "刘备第二格道具赦命書"
+cheat195_handler = "2"
+cheat195_code = "3B1E9,37"
+
+cheat196_desc = "刘备第二格道具援軍報告"
+cheat196_handler = "2"
+cheat196_code = "3B1E9,38"
+
+cheat197_desc = "刘备第二格道具雌雄一对の剣"
+cheat197_handler = "2"
+cheat197_code = "3B1E9,39"
+
+cheat198_desc = "刘备第二格道具英傑の剣"
+cheat198_handler = "2"
+cheat198_code = "3B1E9,3A"
+
+cheat199_desc = "刘备第二格道具霸者の剣"
+cheat199_handler = "2"
+cheat199_code = "3B1E9,3B"
+
+cheat200_desc = "刘备第二格道具六韜"
+cheat200_handler = "2"
+cheat200_code = "3B1E9,3C"
+
+cheat201_desc = "刘备第二格道具三略"
+cheat201_handler = "2"
+cheat201_code = "3B1E9,3D"
+
+cheat202_desc = "刘备第二格道具吳子の兵法"
+cheat202_handler = "2"
+cheat202_code = "3B1E9,3E"
+
+cheat203_desc = "刘备第二格道具斧"
+cheat203_handler = "2"
+cheat203_code = "3B1E9,3F"
+
+cheat204_desc = "刘备第二格道具板斧"
+cheat204_handler = "2"
+cheat204_code = "3B1E9,40"
+
+cheat205_desc = "刘备第二格道具宣花斧"
+cheat205_handler = "2"
+cheat205_code = "3B1E9,41"
+
+cheat206_desc = "刘备第二格道具火焰斧"
+cheat206_handler = "2"
+cheat206_code = "3B1E9,42"
+
+cheat207_desc = "刘备第二格道具鳯頭斧"
+cheat207_handler = "2"
+cheat207_code = "3B1E9,43"
+
+cheat208_desc = "刘备第二格道具直刀"
+cheat208_handler = "2"
+cheat208_code = "3B1E9,44"
+
+cheat209_desc = "刘备第二格道具鋼刀"
+cheat209_handler = "2"
+cheat209_code = "3B1E9,45"
+
+cheat210_desc = "刘备第二格道具環刀"
+cheat210_handler = "2"
+cheat210_code = "3B1E9,46"
+
+cheat211_desc = "刘备第二格道具虎牙刀"
+cheat211_handler = "2"
+cheat211_code = "3B1E9,47"
+
+cheat212_desc = "刘备第二格道具鳯嘴刀"
+cheat212_handler = "2"
+cheat212_code = "3B1E9,48"
+
+cheat213_desc = "刘备第二格道具神刀"
+cheat213_handler = "2"
+cheat213_code = "3B1E9,49"
+
+cheat214_desc = "刘备第二格道具鉤"
+cheat214_handler = "2"
+cheat214_code = "3B1E9,4A"
+
+cheat215_desc = "刘备第二格道具鉤鐮"
+cheat215_handler = "2"
+cheat215_code = "3B1E9,4B"
+
+cheat216_desc = "刘备第二格道具護手鉤"
+cheat216_handler = "2"
+cheat216_code = "3B1E9,4C"
+
+cheat217_desc = "刘备第二格道具鉄鉤距"
+cheat217_handler = "2"
+cheat217_code = "3B1E9,4D"
+
+cheat218_desc = "刘备第二格道具山賊の誓い"
+cheat218_handler = "2"
+cheat218_code = "3B1E9,4E"
+
+cheat219_desc = "刘备第二格道具武術指南書"
+cheat219_handler = "2"
+cheat219_code = "3B1E9,4F"
+
+cheat220_desc = "刘备第二格道具異文化の印"
+cheat220_handler = "2"
+cheat220_code = "3B1E9,50"
+
+cheat221_desc = "刘备第二格道具操術指南書"
+cheat221_handler = "2"
+cheat221_code = "3B1E9,51"
+
+cheat222_desc = "刘备第二格道具焦熱書"
+cheat222_handler = "2"
+cheat222_code = "3B1E9,52"
+
+cheat223_desc = "刘备第二格道具嶪火の書"
+cheat223_handler = "2"
+cheat223_code = "3B1E9,53"
+
+cheat224_desc = "刘备第二格道具小赤龍の書"
+cheat224_handler = "2"
+cheat224_code = "3B1E9,54"
+
+cheat225_desc = "刘备第二格道具大焦熱の書"
+cheat225_handler = "2"
+cheat225_code = "3B1E9,55"
+
+cheat226_desc = "刘备第二格道具大嶪火の書"
+cheat226_handler = "2"
+cheat226_code = "3B1E9,56"
+
+cheat227_desc = "刘备第二格道具渦潮の書"
+cheat227_handler = "2"
+cheat227_code = "3B1E9,58"
+
+cheat228_desc = "刘备第二格道具水刃の書"
+cheat228_handler = "2"
+cheat228_code = "3B1E9,59"
+
+cheat229_desc = "刘备第二格道具小黒龍の書"
+cheat229_handler = "2"
+cheat229_code = "3B1E9,5A"
+
+cheat230_desc = "刘备第二格道具大渦潮の書"
+cheat230_handler = "2"
+cheat230_code = "3B1E9,5B"
+
+cheat231_desc = "刘备第二格道具大水刃の書"
+cheat231_handler = "2"
+cheat231_code = "3B1E9,5C"
+
+cheat232_desc = "刘备第二格道具落石の書"
+cheat232_handler = "2"
+cheat232_code = "3B1E9,5E"
+
+cheat233_desc = "刘备第二格道具落穴の書"
+cheat233_handler = "2"
+cheat233_code = "3B1E9,5F"
+
+cheat234_desc = "刘备第二格道具小青龍の書"
+cheat234_handler = "2"
+cheat234_code = "3B1E9,60"
+
+cheat235_desc = "刘备第二格道具土石流の書"
+cheat235_handler = "2"
+cheat235_code = "3B1E9,61"
+
+cheat236_desc = "刘备第二格道具大地割の書"
+cheat236_handler = "2"
+cheat236_code = "3B1E9,62"
+
+cheat237_desc = "刘备第二格道具風無の書"
+cheat237_handler = "2"
+cheat237_code = "3B1E9,64"
+
+cheat238_desc = "刘备第二格道具旋風の書"
+cheat238_handler = "2"
+cheat238_code = "3B1E9,65"
+
+cheat239_desc = "刘备第二格道具小白龍の書"
+cheat239_handler = "2"
+cheat239_code = "3B1E9,66"
+
+cheat240_desc = "刘备第二格道具大旋風の書"
+cheat240_handler = "2"
+cheat240_code = "3B1E9,67"
+
+cheat241_desc = "刘备第二格道具風気の書"
+cheat241_handler = "2"
+cheat241_code = "3B1E9,68"
+
+cheat242_desc = "刘备第二格道具酒"
+cheat242_handler = "2"
+cheat242_code = "3B1E9,6A"
+
+cheat243_desc = "刘备第二格道具土の壁"
+cheat243_handler = "2"
+cheat243_code = "3B1E9,6B"
+
+cheat244_desc = "刘备第二格道具火の幻"
+cheat244_handler = "2"
+cheat244_code = "3B1E9,6C"
+
+cheat245_desc = "刘备第二格道具木の光"
+cheat245_handler = "2"
+cheat245_code = "3B1E9,6D"
+
+cheat246_desc = "刘备第二格道具水の力"
+cheat246_handler = "2"
+cheat246_code = "3B1E9,6E"
+
+cheat247_desc = "刘备第二格道具特級酒"
+cheat247_handler = "2"
+cheat247_code = "3B1E9,6F"
+
+cheat248_desc = "刘备第二格道具金の毒"
+cheat248_handler = "2"
+cheat248_code = "3B1E9,70"
+
+cheat249_desc = "刘备第二格道具老酒"
+cheat249_handler = "2"
+cheat249_code = "3B1E9,71"
+
+cheat250_desc = "刘备第二格道具妖術の藥"
+cheat250_handler = "2"
+cheat250_code = "3B1E9,72"
+
+cheat251_desc = "刘备第二格道具仙術の藥"
+cheat251_handler = "2"
+cheat251_code = "3B1E9,73"
+
+cheat252_desc = "刘备第二格道具駿馬"
+cheat252_handler = "2"
+cheat252_code = "3B1E9,74"
+
+cheat253_desc = "刘备第二格道具皮甲"
+cheat253_handler = "2"
+cheat253_code = "3B1E9,75"
+
+cheat254_desc = "刘备第二格道具藤甲"
+cheat254_handler = "2"
+cheat254_code = "3B1E9,76"
+
+cheat255_desc = "刘备第二格道具鎖子甲"
+cheat255_handler = "2"
+cheat255_code = "3B1E9,77"
+
+cheat256_desc = "刘备第二格道具鉄甲"
+cheat256_handler = "2"
+cheat256_code = "3B1E9,78"
+
+cheat257_desc = "刘备第二格道具鋼子連鐶甲"
+cheat257_handler = "2"
+cheat257_code = "3B1E9,79"
+
+cheat258_desc = "刘备第二格道具金鎖の甲"
+cheat258_handler = "2"
+cheat258_code = "3B1E9,7A"
+
+cheat259_desc = "刘备第二格道具白銀の甲"
+cheat259_handler = "2"
+cheat259_code = "3B1E9,7B"
+
+cheat260_desc = "刘备第二格道具連鐶の鎧"
+cheat260_handler = "2"
+cheat260_code = "3B1E9,7C"
+
+cheat261_desc = "刘备第二格道具筒袖鎧"
+cheat261_handler = "2"
+cheat261_code = "3B1E9,7D"
+
+cheat262_desc = "刘备第二格道具明光鎧"
+cheat262_handler = "2"
+cheat262_code = "3B1E9,7E"
+
+cheat263_desc = "刘备第二格道具手牌"
+cheat263_handler = "2"
+cheat263_code = "3B1E9,7F"
+
+cheat264_desc = "刘备第二格道具団牌"
+cheat264_handler = "2"
+cheat264_code = "3B1E9,80"
+
+cheat265_desc = "刘备第二格道具推牌"
+cheat265_handler = "2"
+cheat265_code = "3B1E9,81"
+
+cheat266_desc = "刘备第二格道具燕尾牌"
+cheat266_handler = "2"
+cheat266_code = "3B1E9,82"
+
+cheat267_desc = "刘备第二格道具無敵神牌"
+cheat267_handler = "2"
+cheat267_code = "3B1E9,83"
+
+cheat268_desc = "刘备第二格道具槍"
+cheat268_handler = "2"
+cheat268_code = "3B1E9,84"
+
+cheat269_desc = "刘备第二格道具半月槍"
+cheat269_handler = "2"
+cheat269_code = "3B1E9,85"
+
+cheat270_desc = "刘备第二格道具鉄槍"
+cheat270_handler = "2"
+cheat270_code = "3B1E9,86"
+
+cheat271_desc = "刘备第二格道具環子槍"
+cheat271_handler = "2"
+cheat271_code = "3B1E9,87"
+
+cheat272_desc = "刘备第二格道具鉤鐮槍"
+cheat272_handler = "2"
+cheat272_code = "3B1E9,88"
+
+cheat273_desc = "刘备第二格道具红の槍"
+cheat273_handler = "2"
+cheat273_code = "3B1E9,89"
+
+cheat274_desc = "刘备第二格道具戟"
+cheat274_handler = "2"
+cheat274_code = "3B1E9,8A"
+
+cheat275_desc = "刘备第二格道具長戟"
+cheat275_handler = "2"
+cheat275_code = "3B1E9,8B"
+
+cheat276_desc = "刘备第二格道具大戟"
+cheat276_handler = "2"
+cheat276_code = "3B1E9,8C"
+
+cheat277_desc = "刘备第二格道具青龍戟"
+cheat277_handler = "2"
+cheat277_code = "3B1E9,8D"
+
+cheat278_desc = "刘备第二格道具半弓"
+cheat278_handler = "2"
+cheat278_code = "3B1E9,8E"
+
+cheat279_desc = "刘备第二格道具弯弓"
+cheat279_handler = "2"
+cheat279_code = "3B1E9,8F"
+
+cheat280_desc = "刘备第二格道具李满弓"
+cheat280_handler = "2"
+cheat280_code = "3B1E9,90"
+
+cheat281_desc = "刘备第二格道具强弓"
+cheat281_handler = "2"
+cheat281_code = "3B1E9,91"
+
+cheat282_desc = "刘备第二格道具鉄弓"
+cheat282_handler = "2"
+cheat282_code = "3B1E9,92"
+
+cheat283_desc = "刘备第二格道具双弓床弩"
+cheat283_handler = "2"
+cheat283_code = "3B1E9,93"
+
+cheat284_desc = "刘备第二格道具斗子弩"
+cheat284_handler = "2"
+cheat284_code = "3B1E9,94"
+
+cheat285_desc = "刘备第二格道具三弓斗子弩"
+cheat285_handler = "2"
+cheat285_code = "3B1E9,95"
+
+cheat286_desc = "刘备第二格道具神弩"
+cheat286_handler = "2"
+cheat286_code = "3B1E9,96"
+
+cheat287_desc = "刘备第二格道具手砲"
+cheat287_handler = "2"
+cheat287_code = "3B1E9,97"
+
+cheat288_desc = "刘备第二格道具合砲"
+cheat288_handler = "2"
+cheat288_code = "3B1E9,98"
+
+cheat289_desc = "刘备第二格道具単梢砲"
+cheat289_handler = "2"
+cheat289_code = "3B1E9,99"
+
+cheat290_desc = "刘备第二格道具双梢砲"
+cheat290_handler = "2"
+cheat290_code = "3B1E9,9A"
+
+cheat291_desc = "刘备第二格道具霹雳車"
+cheat291_handler = "2"
+cheat291_code = "3B1E9,9B"
+
+cheat292_desc = "刘备第二格道具旋風砲"
+cheat292_handler = "2"
+cheat292_code = "3B1E9,9C"
+
+cheat293_desc = "刘备第二格道具独角旋風砲"
+cheat293_handler = "2"
+cheat293_code = "3B1E9,9D"
+
+cheat294_desc = "刘备第二格道具旋風五砲"
+cheat294_handler = "2"
+cheat294_code = "3B1E9,9E"
+
+cheat295_desc = "刘备第二格道具圈"
+cheat295_handler = "2"
+cheat295_code = "3B1E9,9F"
+
+cheat296_desc = "刘备第二格道具乾坤烏亀圈"
+cheat296_handler = "2"
+cheat296_code = "3B1E9,A0"
+
+cheat297_desc = "刘备第二格道具日月乾坤圈"
+cheat297_handler = "2"
+cheat297_code = "3B1E9,A1"
+
+cheat298_desc = "刘备第二格道具鶏爪鉞"
+cheat298_handler = "2"
+cheat298_code = "3B1E9,A2"
+
+cheat299_desc = "刘备第二格道具鶏爪駌鴦鉞"
+cheat299_handler = "2"
+cheat299_code = "3B1E9,A3"
+
+cheat300_desc = "刘备第二格道具子母駌鴦鉞"
+cheat300_handler = "2"
+cheat300_code = "3B1E9,A4"
+
+cheat301_desc = "刘备第二格道具流星錘"
+cheat301_handler = "2"
+cheat301_code = "3B1E9,A5"
+
+cheat302_desc = "刘备第二格道具狼牙錘"
+cheat302_handler = "2"
+cheat302_code = "3B1E9,A6"
+
+cheat303_desc = "刘备第二格道具鞭"
+cheat303_handler = "2"
+cheat303_code = "3B1E9,A7"
+
+cheat304_desc = "刘备第二格道具柳鞭"
+cheat304_handler = "2"
+cheat304_code = "3B1E9,A8"
+
+cheat305_desc = "刘备第二格道具鯨鞭"
+cheat305_handler = "2"
+cheat305_code = "3B1E9,A9"
+
+cheat306_desc = "刘备第二格道具鉄笛"
+cheat306_handler = "2"
+cheat306_code = "3B1E9,AA"
+
+cheat307_desc = "刘备第二格道具銅鑼"
+cheat307_handler = "2"
+cheat307_code = "3B1E9,AB"
+
+cheat308_desc = "刘备第二格道具鼓角"
+cheat308_handler = "2"
+cheat308_code = "3B1E9,AC"
+
+cheat309_desc = "刘备第二格道具兵鼓"
+cheat309_handler = "2"
+cheat309_code = "3B1E9,AD"
+
+cheat310_desc = "刘备第二格道具鉦鼓"
+cheat310_handler = "2"
+cheat310_code = "3B1E9,AE"
+
+cheat311_desc = "刘备第二格道具金鼓"
+cheat311_handler = "2"
+cheat311_code = "3B1E9,AF"
+
+cheat312_desc = "刘备第二格道具鉄扇"
+cheat312_handler = "2"
+cheat312_code = "3B1E9,B0"
+
+cheat313_desc = "刘备第二格道具羽扇"
+cheat313_handler = "2"
+cheat313_code = "3B1E9,B1"
+
+cheat314_desc = "刘备第二格道具白羽扇"
+cheat314_handler = "2"
+cheat314_code = "3B1E9,B2"
+
+cheat315_desc = "刘备第二格道具木牛"
+cheat315_handler = "2"
+cheat315_code = "3B1E9,B3"
+
+cheat316_desc = "刘备第二格道具流馬"
+cheat316_handler = "2"
+cheat316_code = "3B1E9,B4"
+
+cheat317_desc = "刘备第二格道具扁厢車"
+cheat317_handler = "2"
+cheat317_code = "3B1E9,B5"
+
+cheat318_desc = "刘备第二格道具正廂車"
+cheat318_handler = "2"
+cheat318_code = "3B1E9,B6"
+
+cheat319_desc = "刘备第三格道具遁甲天書"
+cheat319_handler = "2"
+cheat319_code = "3B1EA,00"
+
+cheat320_desc = "刘备第三格道具青囊書"
+cheat320_handler = "2"
+cheat320_code = "3B1EA,01"
+
+cheat321_desc = "刘备第三格道具軍樂譜"
+cheat321_handler = "2"
+cheat321_code = "3B1EA,02"
+
+cheat322_desc = "刘备第三格道具孫子の兵法書"
+cheat322_handler = "2"
+cheat322_code = "3B1EA,03"
+
+cheat323_desc = "刘备第三格道具孟德新書"
+cheat323_handler = "2"
+cheat323_code = "3B1EA,04"
+
+cheat324_desc = "刘备第三格道具爪黄飛電"
+cheat324_handler = "2"
+cheat324_code = "3B1EA,05"
+
+cheat325_desc = "刘备第三格道具的盧"
+cheat325_handler = "2"
+cheat325_code = "3B1EA,06"
+
+cheat326_desc = "刘备第三格道具赤兔馬"
+cheat326_handler = "2"
+cheat326_code = "3B1EA,07"
+
+cheat327_desc = "刘备第三格道具玉璽"
+cheat327_handler = "2"
+cheat327_code = "3B1EA,08"
+
+cheat328_desc = "刘备第三格道具倚天の剣"
+cheat328_handler = "2"
+cheat328_code = "3B1EA,09"
+
+cheat329_desc = "刘备第三格道具青釭の剣"
+cheat329_handler = "2"
+cheat329_code = "3B1EA,0A"
+
+cheat330_desc = "刘备第三格道具七星の劍"
+cheat330_handler = "2"
+cheat330_code = "3B1EA,0B"
+
+cheat331_desc = "刘备第三格道具青龍偃月刀"
+cheat331_handler = "2"
+cheat331_code = "3B1EA,0C"
+
+cheat332_desc = "刘备第三格道具三尖刀"
+cheat332_handler = "2"
+cheat332_code = "3B1EA,0D"
+
+cheat333_desc = "刘备第三格道具方天畫戟"
+cheat333_handler = "2"
+cheat333_code = "3B1EA,0E"
+
+cheat334_desc = "刘备第三格道具蛇矛"
+cheat334_handler = "2"
+cheat334_code = "3B1EA,0F"
+
+cheat335_desc = "刘备第三格道具弓術指南書"
+cheat335_handler = "2"
+cheat335_code = "3B1EA,10"
+
+cheat336_desc = "刘备第三格道具馬術指南書"
+cheat336_handler = "2"
+cheat336_code = "3B1EA,11"
+
+cheat337_desc = "刘备第三格道具剣術指南書"
+cheat337_handler = "2"
+cheat337_code = "3B1EA,12"
+
+cheat338_desc = "刘备第三格道具長槍術奥義"
+cheat338_handler = "2"
+cheat338_code = "3B1EA,13"
+
+cheat339_desc = "刘备第三格道具戦車術奥義"
+cheat339_handler = "2"
+cheat339_code = "3B1EA,14"
+
+cheat340_desc = "刘备第三格道具連弩術極義"
+cheat340_handler = "2"
+cheat340_code = "3B1EA,15"
+
+cheat341_desc = "刘备第三格道具發石術極義"
+cheat341_handler = "2"
+cheat341_code = "3B1EA,16"
+
+cheat342_desc = "刘备第三格道具重騎兵の印綬"
+cheat342_handler = "2"
+cheat342_code = "3B1EA,17"
+
+cheat343_desc = "刘备第三格道具親衛隊の印綬"
+cheat343_handler = "2"
+cheat343_code = "3B1EA,18"
+
+cheat344_desc = "刘备第三格道具無賴の心得"
+cheat344_handler = "2"
+cheat344_code = "3B1EA,19"
+
+cheat345_desc = "刘备第三格道具義俠の心得"
+cheat345_handler = "2"
+cheat345_code = "3B1EA,1A"
+
+cheat346_desc = "刘备第三格道具豆"
+cheat346_handler = "2"
+cheat346_code = "3B1EA,1B"
+
+cheat347_desc = "刘备第三格道具麥"
+cheat347_handler = "2"
+cheat347_code = "3B1EA,1F"
+
+cheat348_desc = "刘备第三格道具米"
+cheat348_handler = "2"
+cheat348_code = "3B1EA,20"
+
+cheat349_desc = "刘备第三格道具爆弾"
+cheat349_handler = "2"
+cheat349_code = "3B1EA,21"
+
+cheat350_desc = "刘备第三格道具傷藥"
+cheat350_handler = "2"
+cheat350_code = "3B1EA,2E"
+
+cheat351_desc = "刘备第三格道具漢方藥"
+cheat351_handler = "2"
+cheat351_code = "3B1EA,2F"
+
+cheat352_desc = "刘备第三格道具救命藥"
+cheat352_handler = "2"
+cheat352_code = "3B1EA,30"
+
+cheat353_desc = "刘备第三格道具赦命書"
+cheat353_handler = "2"
+cheat353_code = "3B1EA,37"
+
+cheat354_desc = "刘备第三格道具援軍報告"
+cheat354_handler = "2"
+cheat354_code = "3B1EA,38"
+
+cheat355_desc = "刘备第三格道具雌雄一对の剣"
+cheat355_handler = "2"
+cheat355_code = "3B1EA,39"
+
+cheat356_desc = "刘备第三格道具英傑の剣"
+cheat356_handler = "2"
+cheat356_code = "3B1EA,3A"
+
+cheat357_desc = "刘备第三格道具霸者の剣"
+cheat357_handler = "2"
+cheat357_code = "3B1EA,3B"
+
+cheat358_desc = "刘备第三格道具六韜"
+cheat358_handler = "2"
+cheat358_code = "3B1EA,3C"
+
+cheat359_desc = "刘备第三格道具三略"
+cheat359_handler = "2"
+cheat359_code = "3B1EA,3D"
+
+cheat360_desc = "刘备第三格道具吳子の兵法"
+cheat360_handler = "2"
+cheat360_code = "3B1EA,3E"
+
+cheat361_desc = "刘备第三格道具斧"
+cheat361_handler = "2"
+cheat361_code = "3B1EA,3F"
+
+cheat362_desc = "刘备第三格道具板斧"
+cheat362_handler = "2"
+cheat362_code = "3B1EA,40"
+
+cheat363_desc = "刘备第三格道具宣花斧"
+cheat363_handler = "2"
+cheat363_code = "3B1EA,41"
+
+cheat364_desc = "刘备第三格道具火焰斧"
+cheat364_handler = "2"
+cheat364_code = "3B1EA,42"
+
+cheat365_desc = "刘备第三格道具鳯頭斧"
+cheat365_handler = "2"
+cheat365_code = "3B1EA,43"
+
+cheat366_desc = "刘备第三格道具直刀"
+cheat366_handler = "2"
+cheat366_code = "3B1EA,44"
+
+cheat367_desc = "刘备第三格道具鋼刀"
+cheat367_handler = "2"
+cheat367_code = "3B1EA,45"
+
+cheat368_desc = "刘备第三格道具環刀"
+cheat368_handler = "2"
+cheat368_code = "3B1EA,46"
+
+cheat369_desc = "刘备第三格道具虎牙刀"
+cheat369_handler = "2"
+cheat369_code = "3B1EA,47"
+
+cheat370_desc = "刘备第三格道具鳯嘴刀"
+cheat370_handler = "2"
+cheat370_code = "3B1EA,48"
+
+cheat371_desc = "刘备第三格道具神刀"
+cheat371_handler = "2"
+cheat371_code = "3B1EA,49"
+
+cheat372_desc = "刘备第三格道具鉤"
+cheat372_handler = "2"
+cheat372_code = "3B1EA,4A"
+
+cheat373_desc = "刘备第三格道具鉤鐮"
+cheat373_handler = "2"
+cheat373_code = "3B1EA,4B"
+
+cheat374_desc = "刘备第三格道具護手鉤"
+cheat374_handler = "2"
+cheat374_code = "3B1EA,4C"
+
+cheat375_desc = "刘备第三格道具鉄鉤距"
+cheat375_handler = "2"
+cheat375_code = "3B1EA,4D"
+
+cheat376_desc = "刘备第三格道具山賊の誓い"
+cheat376_handler = "2"
+cheat376_code = "3B1EA,4E"
+
+cheat377_desc = "刘备第三格道具武術指南書"
+cheat377_handler = "2"
+cheat377_code = "3B1EA,4F"
+
+cheat378_desc = "刘备第三格道具異文化の印"
+cheat378_handler = "2"
+cheat378_code = "3B1EA,50"
+
+cheat379_desc = "刘备第三格道具操術指南書"
+cheat379_handler = "2"
+cheat379_code = "3B1EA,51"
+
+cheat380_desc = "刘备第三格道具焦熱書"
+cheat380_handler = "2"
+cheat380_code = "3B1EA,52"
+
+cheat381_desc = "刘备第三格道具嶪火の書"
+cheat381_handler = "2"
+cheat381_code = "3B1EA,53"
+
+cheat382_desc = "刘备第三格道具小赤龍の書"
+cheat382_handler = "2"
+cheat382_code = "3B1EA,54"
+
+cheat383_desc = "刘备第三格道具大焦熱の書"
+cheat383_handler = "2"
+cheat383_code = "3B1EA,55"
+
+cheat384_desc = "刘备第三格道具大嶪火の書"
+cheat384_handler = "2"
+cheat384_code = "3B1EA,56"
+
+cheat385_desc = "刘备第三格道具渦潮の書"
+cheat385_handler = "2"
+cheat385_code = "3B1EA,58"
+
+cheat386_desc = "刘备第三格道具水刃の書"
+cheat386_handler = "2"
+cheat386_code = "3B1EA,59"
+
+cheat387_desc = "刘备第三格道具小黒龍の書"
+cheat387_handler = "2"
+cheat387_code = "3B1EA,5A"
+
+cheat388_desc = "刘备第三格道具大渦潮の書"
+cheat388_handler = "2"
+cheat388_code = "3B1EA,5B"
+
+cheat389_desc = "刘备第三格道具大水刃の書"
+cheat389_handler = "2"
+cheat389_code = "3B1EA,5C"
+
+cheat390_desc = "刘备第三格道具落石の書"
+cheat390_handler = "2"
+cheat390_code = "3B1EA,5E"
+
+cheat391_desc = "刘备第三格道具落穴の書"
+cheat391_handler = "2"
+cheat391_code = "3B1EA,5F"
+
+cheat392_desc = "刘备第三格道具小青龍の書"
+cheat392_handler = "2"
+cheat392_code = "3B1EA,60"
+
+cheat393_desc = "刘备第三格道具土石流の書"
+cheat393_handler = "2"
+cheat393_code = "3B1EA,61"
+
+cheat394_desc = "刘备第三格道具大地割の書"
+cheat394_handler = "2"
+cheat394_code = "3B1EA,62"
+
+cheat395_desc = "刘备第三格道具風無の書"
+cheat395_handler = "2"
+cheat395_code = "3B1EA,64"
+
+cheat396_desc = "刘备第三格道具旋風の書"
+cheat396_handler = "2"
+cheat396_code = "3B1EA,65"
+
+cheat397_desc = "刘备第三格道具小白龍の書"
+cheat397_handler = "2"
+cheat397_code = "3B1EA,66"
+
+cheat398_desc = "刘备第三格道具大旋風の書"
+cheat398_handler = "2"
+cheat398_code = "3B1EA,67"
+
+cheat399_desc = "刘备第三格道具風気の書"
+cheat399_handler = "2"
+cheat399_code = "3B1EA,68"
+
+cheat400_desc = "刘备第三格道具酒"
+cheat400_handler = "2"
+cheat400_code = "3B1EA,6A"
+
+cheat401_desc = "刘备第三格道具土の壁"
+cheat401_handler = "2"
+cheat401_code = "3B1EA,6B"
+
+cheat402_desc = "刘备第三格道具火の幻"
+cheat402_handler = "2"
+cheat402_code = "3B1EA,6C"
+
+cheat403_desc = "刘备第三格道具木の光"
+cheat403_handler = "2"
+cheat403_code = "3B1EA,6D"
+
+cheat404_desc = "刘备第三格道具水の力"
+cheat404_handler = "2"
+cheat404_code = "3B1EA,6E"
+
+cheat405_desc = "刘备第三格道具特級酒"
+cheat405_handler = "2"
+cheat405_code = "3B1EA,6F"
+
+cheat406_desc = "刘备第三格道具金の毒"
+cheat406_handler = "2"
+cheat406_code = "3B1EA,70"
+
+cheat407_desc = "刘备第三格道具老酒"
+cheat407_handler = "2"
+cheat407_code = "3B1EA,71"
+
+cheat408_desc = "刘备第三格道具妖術の藥"
+cheat408_handler = "2"
+cheat408_code = "3B1EA,72"
+
+cheat409_desc = "刘备第三格道具仙術の藥"
+cheat409_handler = "2"
+cheat409_code = "3B1EA,73"
+
+cheat410_desc = "刘备第三格道具駿馬"
+cheat410_handler = "2"
+cheat410_code = "3B1EA,74"
+
+cheat411_desc = "刘备第三格道具皮甲"
+cheat411_handler = "2"
+cheat411_code = "3B1EA,75"
+
+cheat412_desc = "刘备第三格道具藤甲"
+cheat412_handler = "2"
+cheat412_code = "3B1EA,76"
+
+cheat413_desc = "刘备第三格道具鎖子甲"
+cheat413_handler = "2"
+cheat413_code = "3B1EA,77"
+
+cheat414_desc = "刘备第三格道具鉄甲"
+cheat414_handler = "2"
+cheat414_code = "3B1EA,78"
+
+cheat415_desc = "刘备第三格道具鋼子連鐶甲"
+cheat415_handler = "2"
+cheat415_code = "3B1EA,79"
+
+cheat416_desc = "刘备第三格道具金鎖の甲"
+cheat416_handler = "2"
+cheat416_code = "3B1EA,7A"
+
+cheat417_desc = "刘备第三格道具白銀の甲"
+cheat417_handler = "2"
+cheat417_code = "3B1EA,7B"
+
+cheat418_desc = "刘备第三格道具連鐶の鎧"
+cheat418_handler = "2"
+cheat418_code = "3B1EA,7C"
+
+cheat419_desc = "刘备第三格道具筒袖鎧"
+cheat419_handler = "2"
+cheat419_code = "3B1EA,7D"
+
+cheat420_desc = "刘备第三格道具明光鎧"
+cheat420_handler = "2"
+cheat420_code = "3B1EA,7E"
+
+cheat421_desc = "刘备第三格道具手牌"
+cheat421_handler = "2"
+cheat421_code = "3B1EA,7F"
+
+cheat422_desc = "刘备第三格道具団牌"
+cheat422_handler = "2"
+cheat422_code = "3B1EA,80"
+
+cheat423_desc = "刘备第三格道具推牌"
+cheat423_handler = "2"
+cheat423_code = "3B1EA,81"
+
+cheat424_desc = "刘备第三格道具燕尾牌"
+cheat424_handler = "2"
+cheat424_code = "3B1EA,82"
+
+cheat425_desc = "刘备第三格道具無敵神牌"
+cheat425_handler = "2"
+cheat425_code = "3B1EA,83"
+
+cheat426_desc = "刘备第三格道具槍"
+cheat426_handler = "2"
+cheat426_code = "3B1EA,84"
+
+cheat427_desc = "刘备第三格道具半月槍"
+cheat427_handler = "2"
+cheat427_code = "3B1EA,85"
+
+cheat428_desc = "刘备第三格道具鉄槍"
+cheat428_handler = "2"
+cheat428_code = "3B1EA,86"
+
+cheat429_desc = "刘备第三格道具環子槍"
+cheat429_handler = "2"
+cheat429_code = "3B1EA,87"
+
+cheat430_desc = "刘备第三格道具鉤鐮槍"
+cheat430_handler = "2"
+cheat430_code = "3B1EA,88"
+
+cheat431_desc = "刘备第三格道具红の槍"
+cheat431_handler = "2"
+cheat431_code = "3B1EA,89"
+
+cheat432_desc = "刘备第三格道具戟"
+cheat432_handler = "2"
+cheat432_code = "3B1EA,8A"
+
+cheat433_desc = "刘备第三格道具長戟"
+cheat433_handler = "2"
+cheat433_code = "3B1EA,8B"
+
+cheat434_desc = "刘备第三格道具大戟"
+cheat434_handler = "2"
+cheat434_code = "3B1EA,8C"
+
+cheat435_desc = "刘备第三格道具青龍戟"
+cheat435_handler = "2"
+cheat435_code = "3B1EA,8D"
+
+cheat436_desc = "刘备第三格道具半弓"
+cheat436_handler = "2"
+cheat436_code = "3B1EA,8E"
+
+cheat437_desc = "刘备第三格道具弯弓"
+cheat437_handler = "2"
+cheat437_code = "3B1EA,8F"
+
+cheat438_desc = "刘备第三格道具李满弓"
+cheat438_handler = "2"
+cheat438_code = "3B1EA,90"
+
+cheat439_desc = "刘备第三格道具强弓"
+cheat439_handler = "2"
+cheat439_code = "3B1EA,91"
+
+cheat440_desc = "刘备第三格道具鉄弓"
+cheat440_handler = "2"
+cheat440_code = "3B1EA,92"
+
+cheat441_desc = "刘备第三格道具双弓床弩"
+cheat441_handler = "2"
+cheat441_code = "3B1EA,93"
+
+cheat442_desc = "刘备第三格道具斗子弩"
+cheat442_handler = "2"
+cheat442_code = "3B1EA,94"
+
+cheat443_desc = "刘备第三格道具三弓斗子弩"
+cheat443_handler = "2"
+cheat443_code = "3B1EA,95"
+
+cheat444_desc = "刘备第三格道具神弩"
+cheat444_handler = "2"
+cheat444_code = "3B1EA,96"
+
+cheat445_desc = "刘备第三格道具手砲"
+cheat445_handler = "2"
+cheat445_code = "3B1EA,97"
+
+cheat446_desc = "刘备第三格道具合砲"
+cheat446_handler = "2"
+cheat446_code = "3B1EA,98"
+
+cheat447_desc = "刘备第三格道具単梢砲"
+cheat447_handler = "2"
+cheat447_code = "3B1EA,99"
+
+cheat448_desc = "刘备第三格道具双梢砲"
+cheat448_handler = "2"
+cheat448_code = "3B1EA,9A"
+
+cheat449_desc = "刘备第三格道具霹雳車"
+cheat449_handler = "2"
+cheat449_code = "3B1EA,9B"
+
+cheat450_desc = "刘备第三格道具旋風砲"
+cheat450_handler = "2"
+cheat450_code = "3B1EA,9C"
+
+cheat451_desc = "刘备第三格道具独角旋風砲"
+cheat451_handler = "2"
+cheat451_code = "3B1EA,9D"
+
+cheat452_desc = "刘备第三格道具旋風五砲"
+cheat452_handler = "2"
+cheat452_code = "3B1EA,9E"
+
+cheat453_desc = "刘备第三格道具圈"
+cheat453_handler = "2"
+cheat453_code = "3B1EA,9F"
+
+cheat454_desc = "刘备第三格道具乾坤烏亀圈"
+cheat454_handler = "2"
+cheat454_code = "3B1EA,A0"
+
+cheat455_desc = "刘备第三格道具日月乾坤圈"
+cheat455_handler = "2"
+cheat455_code = "3B1EA,A1"
+
+cheat456_desc = "刘备第三格道具鶏爪鉞"
+cheat456_handler = "2"
+cheat456_code = "3B1EA,A2"
+
+cheat457_desc = "刘备第三格道具鶏爪駌鴦鉞"
+cheat457_handler = "2"
+cheat457_code = "3B1EA,A3"
+
+cheat458_desc = "刘备第三格道具子母駌鴦鉞"
+cheat458_handler = "2"
+cheat458_code = "3B1EA,A4"
+
+cheat459_desc = "刘备第三格道具流星錘"
+cheat459_handler = "2"
+cheat459_code = "3B1EA,A5"
+
+cheat460_desc = "刘备第三格道具狼牙錘"
+cheat460_handler = "2"
+cheat460_code = "3B1EA,A6"
+
+cheat461_desc = "刘备第三格道具鞭"
+cheat461_handler = "2"
+cheat461_code = "3B1EA,A7"
+
+cheat462_desc = "刘备第三格道具柳鞭"
+cheat462_handler = "2"
+cheat462_code = "3B1EA,A8"
+
+cheat463_desc = "刘备第三格道具鯨鞭"
+cheat463_handler = "2"
+cheat463_code = "3B1EA,A9"
+
+cheat464_desc = "刘备第三格道具鉄笛"
+cheat464_handler = "2"
+cheat464_code = "3B1EA,AA"
+
+cheat465_desc = "刘备第三格道具銅鑼"
+cheat465_handler = "2"
+cheat465_code = "3B1EA,AB"
+
+cheat466_desc = "刘备第三格道具鼓角"
+cheat466_handler = "2"
+cheat466_code = "3B1EA,AC"
+
+cheat467_desc = "刘备第三格道具兵鼓"
+cheat467_handler = "2"
+cheat467_code = "3B1EA,AD"
+
+cheat468_desc = "刘备第三格道具鉦鼓"
+cheat468_handler = "2"
+cheat468_code = "3B1EA,AE"
+
+cheat469_desc = "刘备第三格道具金鼓"
+cheat469_handler = "2"
+cheat469_code = "3B1EA,AF"
+
+cheat470_desc = "刘备第三格道具鉄扇"
+cheat470_handler = "2"
+cheat470_code = "3B1EA,B0"
+
+cheat471_desc = "刘备第三格道具羽扇"
+cheat471_handler = "2"
+cheat471_code = "3B1EA,B1"
+
+cheat472_desc = "刘备第三格道具白羽扇"
+cheat472_handler = "2"
+cheat472_code = "3B1EA,B2"
+
+cheat473_desc = "刘备第三格道具木牛"
+cheat473_handler = "2"
+cheat473_code = "3B1EA,B3"
+
+cheat474_desc = "刘备第三格道具流馬"
+cheat474_handler = "2"
+cheat474_code = "3B1EA,B4"
+
+cheat475_desc = "刘备第三格道具扁厢車"
+cheat475_handler = "2"
+cheat475_code = "3B1EA,B5"
+
+cheat476_desc = "刘备第三格道具正廂車"
+cheat476_handler = "2"
+cheat476_code = "3B1EA,B6"
+
+cheat477_desc = "刘备第四格道具遁甲天書"
+cheat477_handler = "2"
+cheat477_code = "3B1EB,00"
+
+cheat478_desc = "刘备第四格道具青囊書"
+cheat478_handler = "2"
+cheat478_code = "3B1EB,01"
+
+cheat479_desc = "刘备第四格道具軍樂譜"
+cheat479_handler = "2"
+cheat479_code = "3B1EB,02"
+
+cheat480_desc = "刘备第四格道具孫子の兵法書"
+cheat480_handler = "2"
+cheat480_code = "3B1EB,03"
+
+cheat481_desc = "刘备第四格道具孟德新書"
+cheat481_handler = "2"
+cheat481_code = "3B1EB,04"
+
+cheat482_desc = "刘备第四格道具爪黄飛電"
+cheat482_handler = "2"
+cheat482_code = "3B1EB,05"
+
+cheat483_desc = "刘备第四格道具的盧"
+cheat483_handler = "2"
+cheat483_code = "3B1EB,06"
+
+cheat484_desc = "刘备第四格道具赤兔馬"
+cheat484_handler = "2"
+cheat484_code = "3B1EB,07"
+
+cheat485_desc = "刘备第四格道具玉璽"
+cheat485_handler = "2"
+cheat485_code = "3B1EB,08"
+
+cheat486_desc = "刘备第四格道具倚天の剣"
+cheat486_handler = "2"
+cheat486_code = "3B1EB,09"
+
+cheat487_desc = "刘备第四格道具青釭の剣"
+cheat487_handler = "2"
+cheat487_code = "3B1EB,0A"
+
+cheat488_desc = "刘备第四格道具七星の劍"
+cheat488_handler = "2"
+cheat488_code = "3B1EB,0B"
+
+cheat489_desc = "刘备第四格道具青龍偃月刀"
+cheat489_handler = "2"
+cheat489_code = "3B1EB,0C"
+
+cheat490_desc = "刘备第四格道具三尖刀"
+cheat490_handler = "2"
+cheat490_code = "3B1EB,0D"
+
+cheat491_desc = "刘备第四格道具方天畫戟"
+cheat491_handler = "2"
+cheat491_code = "3B1EB,0E"
+
+cheat492_desc = "刘备第四格道具蛇矛"
+cheat492_handler = "2"
+cheat492_code = "3B1EB,0F"
+
+cheat493_desc = "刘备第四格道具弓術指南書"
+cheat493_handler = "2"
+cheat493_code = "3B1EB,10"
+
+cheat494_desc = "刘备第四格道具馬術指南書"
+cheat494_handler = "2"
+cheat494_code = "3B1EB,11"
+
+cheat495_desc = "刘备第四格道具剣術指南書"
+cheat495_handler = "2"
+cheat495_code = "3B1EB,12"
+
+cheat496_desc = "刘备第四格道具長槍術奥義"
+cheat496_handler = "2"
+cheat496_code = "3B1EB,13"
+
+cheat497_desc = "刘备第四格道具戦車術奥義"
+cheat497_handler = "2"
+cheat497_code = "3B1EB,14"
+
+cheat498_desc = "刘备第四格道具連弩術極義"
+cheat498_handler = "2"
+cheat498_code = "3B1EB,15"
+
+cheat499_desc = "刘备第四格道具發石術極義"
+cheat499_handler = "2"
+cheat499_code = "3B1EB,16"
+
+cheat500_desc = "刘备第四格道具重騎兵の印綬"
+cheat500_handler = "2"
+cheat500_code = "3B1EB,17"
+
+cheat501_desc = "刘备第四格道具親衛隊の印綬"
+cheat501_handler = "2"
+cheat501_code = "3B1EB,18"
+
+cheat502_desc = "刘备第四格道具無賴の心得"
+cheat502_handler = "2"
+cheat502_code = "3B1EB,19"
+
+cheat503_desc = "刘备第四格道具義俠の心得"
+cheat503_handler = "2"
+cheat503_code = "3B1EB,1A"
+
+cheat504_desc = "刘备第四格道具豆"
+cheat504_handler = "2"
+cheat504_code = "3B1EB,1B"
+
+cheat505_desc = "刘备第四格道具麥"
+cheat505_handler = "2"
+cheat505_code = "3B1EB,1F"
+
+cheat506_desc = "刘备第四格道具米"
+cheat506_handler = "2"
+cheat506_code = "3B1EB,20"
+
+cheat507_desc = "刘备第四格道具爆弾"
+cheat507_handler = "2"
+cheat507_code = "3B1EB,21"
+
+cheat508_desc = "刘备第四格道具傷藥"
+cheat508_handler = "2"
+cheat508_code = "3B1EB,2E"
+
+cheat509_desc = "刘备第四格道具漢方藥"
+cheat509_handler = "2"
+cheat509_code = "3B1EB,2F"
+
+cheat510_desc = "刘备第四格道具救命藥"
+cheat510_handler = "2"
+cheat510_code = "3B1EB,30"
+
+cheat511_desc = "刘备第四格道具赦命書"
+cheat511_handler = "2"
+cheat511_code = "3B1EB,37"
+
+cheat512_desc = "刘备第四格道具援軍報告"
+cheat512_handler = "2"
+cheat512_code = "3B1EB,38"
+
+cheat513_desc = "刘备第四格道具雌雄一对の剣"
+cheat513_handler = "2"
+cheat513_code = "3B1EB,39"
+
+cheat514_desc = "刘备第四格道具英傑の剣"
+cheat514_handler = "2"
+cheat514_code = "3B1EB,3A"
+
+cheat515_desc = "刘备第四格道具霸者の剣"
+cheat515_handler = "2"
+cheat515_code = "3B1EB,3B"
+
+cheat516_desc = "刘备第四格道具六韜"
+cheat516_handler = "2"
+cheat516_code = "3B1EB,3C"
+
+cheat517_desc = "刘备第四格道具三略"
+cheat517_handler = "2"
+cheat517_code = "3B1EB,3D"
+
+cheat518_desc = "刘备第四格道具吳子の兵法"
+cheat518_handler = "2"
+cheat518_code = "3B1EB,3E"
+
+cheat519_desc = "刘备第四格道具斧"
+cheat519_handler = "2"
+cheat519_code = "3B1EB,3F"
+
+cheat520_desc = "刘备第四格道具板斧"
+cheat520_handler = "2"
+cheat520_code = "3B1EB,40"
+
+cheat521_desc = "刘备第四格道具宣花斧"
+cheat521_handler = "2"
+cheat521_code = "3B1EB,41"
+
+cheat522_desc = "刘备第四格道具火焰斧"
+cheat522_handler = "2"
+cheat522_code = "3B1EB,42"
+
+cheat523_desc = "刘备第四格道具鳯頭斧"
+cheat523_handler = "2"
+cheat523_code = "3B1EB,43"
+
+cheat524_desc = "刘备第四格道具直刀"
+cheat524_handler = "2"
+cheat524_code = "3B1EB,44"
+
+cheat525_desc = "刘备第四格道具鋼刀"
+cheat525_handler = "2"
+cheat525_code = "3B1EB,45"
+
+cheat526_desc = "刘备第四格道具環刀"
+cheat526_handler = "2"
+cheat526_code = "3B1EB,46"
+
+cheat527_desc = "刘备第四格道具虎牙刀"
+cheat527_handler = "2"
+cheat527_code = "3B1EB,47"
+
+cheat528_desc = "刘备第四格道具鳯嘴刀"
+cheat528_handler = "2"
+cheat528_code = "3B1EB,48"
+
+cheat529_desc = "刘备第四格道具神刀"
+cheat529_handler = "2"
+cheat529_code = "3B1EB,49"
+
+cheat530_desc = "刘备第四格道具鉤"
+cheat530_handler = "2"
+cheat530_code = "3B1EB,4A"
+
+cheat531_desc = "刘备第四格道具鉤鐮"
+cheat531_handler = "2"
+cheat531_code = "3B1EB,4B"
+
+cheat532_desc = "刘备第四格道具護手鉤"
+cheat532_handler = "2"
+cheat532_code = "3B1EB,4C"
+
+cheat533_desc = "刘备第四格道具鉄鉤距"
+cheat533_handler = "2"
+cheat533_code = "3B1EB,4D"
+
+cheat534_desc = "刘备第四格道具山賊の誓い"
+cheat534_handler = "2"
+cheat534_code = "3B1EB,4E"
+
+cheat535_desc = "刘备第四格道具武術指南書"
+cheat535_handler = "2"
+cheat535_code = "3B1EB,4F"
+
+cheat536_desc = "刘备第四格道具異文化の印"
+cheat536_handler = "2"
+cheat536_code = "3B1EB,50"
+
+cheat537_desc = "刘备第四格道具操術指南書"
+cheat537_handler = "2"
+cheat537_code = "3B1EB,51"
+
+cheat538_desc = "刘备第四格道具焦熱書"
+cheat538_handler = "2"
+cheat538_code = "3B1EB,52"
+
+cheat539_desc = "刘备第四格道具嶪火の書"
+cheat539_handler = "2"
+cheat539_code = "3B1EB,53"
+
+cheat540_desc = "刘备第四格道具小赤龍の書"
+cheat540_handler = "2"
+cheat540_code = "3B1EB,54"
+
+cheat541_desc = "刘备第四格道具大焦熱の書"
+cheat541_handler = "2"
+cheat541_code = "3B1EB,55"
+
+cheat542_desc = "刘备第四格道具大嶪火の書"
+cheat542_handler = "2"
+cheat542_code = "3B1EB,56"
+
+cheat543_desc = "刘备第四格道具渦潮の書"
+cheat543_handler = "2"
+cheat543_code = "3B1EB,58"
+
+cheat544_desc = "刘备第四格道具水刃の書"
+cheat544_handler = "2"
+cheat544_code = "3B1EB,59"
+
+cheat545_desc = "刘备第四格道具小黒龍の書"
+cheat545_handler = "2"
+cheat545_code = "3B1EB,5A"
+
+cheat546_desc = "刘备第四格道具大渦潮の書"
+cheat546_handler = "2"
+cheat546_code = "3B1EB,5B"
+
+cheat547_desc = "刘备第四格道具大水刃の書"
+cheat547_handler = "2"
+cheat547_code = "3B1EB,5C"
+
+cheat548_desc = "刘备第四格道具落石の書"
+cheat548_handler = "2"
+cheat548_code = "3B1EB,5E"
+
+cheat549_desc = "刘备第四格道具落穴の書"
+cheat549_handler = "2"
+cheat549_code = "3B1EB,5F"
+
+cheat550_desc = "刘备第四格道具小青龍の書"
+cheat550_handler = "2"
+cheat550_code = "3B1EB,60"
+
+cheat551_desc = "刘备第四格道具土石流の書"
+cheat551_handler = "2"
+cheat551_code = "3B1EB,61"
+
+cheat552_desc = "刘备第四格道具大地割の書"
+cheat552_handler = "2"
+cheat552_code = "3B1EB,62"
+
+cheat553_desc = "刘备第四格道具風無の書"
+cheat553_handler = "2"
+cheat553_code = "3B1EB,64"
+
+cheat554_desc = "刘备第四格道具旋風の書"
+cheat554_handler = "2"
+cheat554_code = "3B1EB,65"
+
+cheat555_desc = "刘备第四格道具小白龍の書"
+cheat555_handler = "2"
+cheat555_code = "3B1EB,66"
+
+cheat556_desc = "刘备第四格道具大旋風の書"
+cheat556_handler = "2"
+cheat556_code = "3B1EB,67"
+
+cheat557_desc = "刘备第四格道具風気の書"
+cheat557_handler = "2"
+cheat557_code = "3B1EB,68"
+
+cheat558_desc = "刘备第四格道具酒"
+cheat558_handler = "2"
+cheat558_code = "3B1EB,6A"
+
+cheat559_desc = "刘备第四格道具土の壁"
+cheat559_handler = "2"
+cheat559_code = "3B1EB,6B"
+
+cheat560_desc = "刘备第四格道具火の幻"
+cheat560_handler = "2"
+cheat560_code = "3B1EB,6C"
+
+cheat561_desc = "刘备第四格道具木の光"
+cheat561_handler = "2"
+cheat561_code = "3B1EB,6D"
+
+cheat562_desc = "刘备第四格道具水の力"
+cheat562_handler = "2"
+cheat562_code = "3B1EB,6E"
+
+cheat563_desc = "刘备第四格道具特級酒"
+cheat563_handler = "2"
+cheat563_code = "3B1EB,6F"
+
+cheat564_desc = "刘备第四格道具金の毒"
+cheat564_handler = "2"
+cheat564_code = "3B1EB,70"
+
+cheat565_desc = "刘备第四格道具老酒"
+cheat565_handler = "2"
+cheat565_code = "3B1EB,71"
+
+cheat566_desc = "刘备第四格道具妖術の藥"
+cheat566_handler = "2"
+cheat566_code = "3B1EB,72"
+
+cheat567_desc = "刘备第四格道具仙術の藥"
+cheat567_handler = "2"
+cheat567_code = "3B1EB,73"
+
+cheat568_desc = "刘备第四格道具駿馬"
+cheat568_handler = "2"
+cheat568_code = "3B1EB,74"
+
+cheat569_desc = "刘备第四格道具皮甲"
+cheat569_handler = "2"
+cheat569_code = "3B1EB,75"
+
+cheat570_desc = "刘备第四格道具藤甲"
+cheat570_handler = "2"
+cheat570_code = "3B1EB,76"
+
+cheat571_desc = "刘备第四格道具鎖子甲"
+cheat571_handler = "2"
+cheat571_code = "3B1EB,77"
+
+cheat572_desc = "刘备第四格道具鉄甲"
+cheat572_handler = "2"
+cheat572_code = "3B1EB,78"
+
+cheat573_desc = "刘备第四格道具鋼子連鐶甲"
+cheat573_handler = "2"
+cheat573_code = "3B1EB,79"
+
+cheat574_desc = "刘备第四格道具金鎖の甲"
+cheat574_handler = "2"
+cheat574_code = "3B1EB,7A"
+
+cheat575_desc = "刘备第四格道具白銀の甲"
+cheat575_handler = "2"
+cheat575_code = "3B1EB,7B"
+
+cheat576_desc = "刘备第四格道具連鐶の鎧"
+cheat576_handler = "2"
+cheat576_code = "3B1EB,7C"
+
+cheat577_desc = "刘备第四格道具筒袖鎧"
+cheat577_handler = "2"
+cheat577_code = "3B1EB,7D"
+
+cheat578_desc = "刘备第四格道具明光鎧"
+cheat578_handler = "2"
+cheat578_code = "3B1EB,7E"
+
+cheat579_desc = "刘备第四格道具手牌"
+cheat579_handler = "2"
+cheat579_code = "3B1EB,7F"
+
+cheat580_desc = "刘备第四格道具団牌"
+cheat580_handler = "2"
+cheat580_code = "3B1EB,80"
+
+cheat581_desc = "刘备第四格道具推牌"
+cheat581_handler = "2"
+cheat581_code = "3B1EB,81"
+
+cheat582_desc = "刘备第四格道具燕尾牌"
+cheat582_handler = "2"
+cheat582_code = "3B1EB,82"
+
+cheat583_desc = "刘备第四格道具無敵神牌"
+cheat583_handler = "2"
+cheat583_code = "3B1EB,83"
+
+cheat584_desc = "刘备第四格道具槍"
+cheat584_handler = "2"
+cheat584_code = "3B1EB,84"
+
+cheat585_desc = "刘备第四格道具半月槍"
+cheat585_handler = "2"
+cheat585_code = "3B1EB,85"
+
+cheat586_desc = "刘备第四格道具鉄槍"
+cheat586_handler = "2"
+cheat586_code = "3B1EB,86"
+
+cheat587_desc = "刘备第四格道具環子槍"
+cheat587_handler = "2"
+cheat587_code = "3B1EB,87"
+
+cheat588_desc = "刘备第四格道具鉤鐮槍"
+cheat588_handler = "2"
+cheat588_code = "3B1EB,88"
+
+cheat589_desc = "刘备第四格道具红の槍"
+cheat589_handler = "2"
+cheat589_code = "3B1EB,89"
+
+cheat590_desc = "刘备第四格道具戟"
+cheat590_handler = "2"
+cheat590_code = "3B1EB,8A"
+
+cheat591_desc = "刘备第四格道具長戟"
+cheat591_handler = "2"
+cheat591_code = "3B1EB,8B"
+
+cheat592_desc = "刘备第四格道具大戟"
+cheat592_handler = "2"
+cheat592_code = "3B1EB,8C"
+
+cheat593_desc = "刘备第四格道具青龍戟"
+cheat593_handler = "2"
+cheat593_code = "3B1EB,8D"
+
+cheat594_desc = "刘备第四格道具半弓"
+cheat594_handler = "2"
+cheat594_code = "3B1EB,8E"
+
+cheat595_desc = "刘备第四格道具弯弓"
+cheat595_handler = "2"
+cheat595_code = "3B1EB,8F"
+
+cheat596_desc = "刘备第四格道具李满弓"
+cheat596_handler = "2"
+cheat596_code = "3B1EB,90"
+
+cheat597_desc = "刘备第四格道具强弓"
+cheat597_handler = "2"
+cheat597_code = "3B1EB,91"
+
+cheat598_desc = "刘备第四格道具鉄弓"
+cheat598_handler = "2"
+cheat598_code = "3B1EB,92"
+
+cheat599_desc = "刘备第四格道具双弓床弩"
+cheat599_handler = "2"
+cheat599_code = "3B1EB,93"
+
+cheat600_desc = "刘备第四格道具斗子弩"
+cheat600_handler = "2"
+cheat600_code = "3B1EB,94"
+
+cheat601_desc = "刘备第四格道具三弓斗子弩"
+cheat601_handler = "2"
+cheat601_code = "3B1EB,95"
+
+cheat602_desc = "刘备第四格道具神弩"
+cheat602_handler = "2"
+cheat602_code = "3B1EB,96"
+
+cheat603_desc = "刘备第四格道具手砲"
+cheat603_handler = "2"
+cheat603_code = "3B1EB,97"
+
+cheat604_desc = "刘备第四格道具合砲"
+cheat604_handler = "2"
+cheat604_code = "3B1EB,98"
+
+cheat605_desc = "刘备第四格道具単梢砲"
+cheat605_handler = "2"
+cheat605_code = "3B1EB,99"
+
+cheat606_desc = "刘备第四格道具双梢砲"
+cheat606_handler = "2"
+cheat606_code = "3B1EB,9A"
+
+cheat607_desc = "刘备第四格道具霹雳車"
+cheat607_handler = "2"
+cheat607_code = "3B1EB,9B"
+
+cheat608_desc = "刘备第四格道具旋風砲"
+cheat608_handler = "2"
+cheat608_code = "3B1EB,9C"
+
+cheat609_desc = "刘备第四格道具独角旋風砲"
+cheat609_handler = "2"
+cheat609_code = "3B1EB,9D"
+
+cheat610_desc = "刘备第四格道具旋風五砲"
+cheat610_handler = "2"
+cheat610_code = "3B1EB,9E"
+
+cheat611_desc = "刘备第四格道具圈"
+cheat611_handler = "2"
+cheat611_code = "3B1EB,9F"
+
+cheat612_desc = "刘备第四格道具乾坤烏亀圈"
+cheat612_handler = "2"
+cheat612_code = "3B1EB,A0"
+
+cheat613_desc = "刘备第四格道具日月乾坤圈"
+cheat613_handler = "2"
+cheat613_code = "3B1EB,A1"
+
+cheat614_desc = "刘备第四格道具鶏爪鉞"
+cheat614_handler = "2"
+cheat614_code = "3B1EB,A2"
+
+cheat615_desc = "刘备第四格道具鶏爪駌鴦鉞"
+cheat615_handler = "2"
+cheat615_code = "3B1EB,A3"
+
+cheat616_desc = "刘备第四格道具子母駌鴦鉞"
+cheat616_handler = "2"
+cheat616_code = "3B1EB,A4"
+
+cheat617_desc = "刘备第四格道具流星錘"
+cheat617_handler = "2"
+cheat617_code = "3B1EB,A5"
+
+cheat618_desc = "刘备第四格道具狼牙錘"
+cheat618_handler = "2"
+cheat618_code = "3B1EB,A6"
+
+cheat619_desc = "刘备第四格道具鞭"
+cheat619_handler = "2"
+cheat619_code = "3B1EB,A7"
+
+cheat620_desc = "刘备第四格道具柳鞭"
+cheat620_handler = "2"
+cheat620_code = "3B1EB,A8"
+
+cheat621_desc = "刘备第四格道具鯨鞭"
+cheat621_handler = "2"
+cheat621_code = "3B1EB,A9"
+
+cheat622_desc = "刘备第四格道具鉄笛"
+cheat622_handler = "2"
+cheat622_code = "3B1EB,AA"
+
+cheat623_desc = "刘备第四格道具銅鑼"
+cheat623_handler = "2"
+cheat623_code = "3B1EB,AB"
+
+cheat624_desc = "刘备第四格道具鼓角"
+cheat624_handler = "2"
+cheat624_code = "3B1EB,AC"
+
+cheat625_desc = "刘备第四格道具兵鼓"
+cheat625_handler = "2"
+cheat625_code = "3B1EB,AD"
+
+cheat626_desc = "刘备第四格道具鉦鼓"
+cheat626_handler = "2"
+cheat626_code = "3B1EB,AE"
+
+cheat627_desc = "刘备第四格道具金鼓"
+cheat627_handler = "2"
+cheat627_code = "3B1EB,AF"
+
+cheat628_desc = "刘备第四格道具鉄扇"
+cheat628_handler = "2"
+cheat628_code = "3B1EB,B0"
+
+cheat629_desc = "刘备第四格道具羽扇"
+cheat629_handler = "2"
+cheat629_code = "3B1EB,B1"
+
+cheat630_desc = "刘备第四格道具白羽扇"
+cheat630_handler = "2"
+cheat630_code = "3B1EB,B2"
+
+cheat631_desc = "刘备第四格道具木牛"
+cheat631_handler = "2"
+cheat631_code = "3B1EB,B3"
+
+cheat632_desc = "刘备第四格道具流馬"
+cheat632_handler = "2"
+cheat632_code = "3B1EB,B4"
+
+cheat633_desc = "刘备第四格道具扁厢車"
+cheat633_handler = "2"
+cheat633_code = "3B1EB,B5"
+
+cheat634_desc = "刘备第四格道具正廂車"
+cheat634_handler = "2"
+cheat634_code = "3B1EB,B6"
+
+cheat635_desc = "刘备第五格道具遁甲天書"
+cheat635_handler = "2"
+cheat635_code = "3B1EC,00"
+
+cheat636_desc = "刘备第五格道具青囊書"
+cheat636_handler = "2"
+cheat636_code = "3B1EC,01"
+
+cheat637_desc = "刘备第五格道具軍樂譜"
+cheat637_handler = "2"
+cheat637_code = "3B1EC,02"
+
+cheat638_desc = "刘备第五格道具孫子の兵法書"
+cheat638_handler = "2"
+cheat638_code = "3B1EC,03"
+
+cheat639_desc = "刘备第五格道具孟德新書"
+cheat639_handler = "2"
+cheat639_code = "3B1EC,04"
+
+cheat640_desc = "刘备第五格道具爪黄飛電"
+cheat640_handler = "2"
+cheat640_code = "3B1EC,05"
+
+cheat641_desc = "刘备第五格道具的盧"
+cheat641_handler = "2"
+cheat641_code = "3B1EC,06"
+
+cheat642_desc = "刘备第五格道具赤兔馬"
+cheat642_handler = "2"
+cheat642_code = "3B1EC,07"
+
+cheat643_desc = "刘备第五格道具玉璽"
+cheat643_handler = "2"
+cheat643_code = "3B1EC,08"
+
+cheat644_desc = "刘备第五格道具倚天の剣"
+cheat644_handler = "2"
+cheat644_code = "3B1EC,09"
+
+cheat645_desc = "刘备第五格道具青釭の剣"
+cheat645_handler = "2"
+cheat645_code = "3B1EC,0A"
+
+cheat646_desc = "刘备第五格道具七星の劍"
+cheat646_handler = "2"
+cheat646_code = "3B1EC,0B"
+
+cheat647_desc = "刘备第五格道具青龍偃月刀"
+cheat647_handler = "2"
+cheat647_code = "3B1EC,0C"
+
+cheat648_desc = "刘备第五格道具三尖刀"
+cheat648_handler = "2"
+cheat648_code = "3B1EC,0D"
+
+cheat649_desc = "刘备第五格道具方天畫戟"
+cheat649_handler = "2"
+cheat649_code = "3B1EC,0E"
+
+cheat650_desc = "刘备第五格道具蛇矛"
+cheat650_handler = "2"
+cheat650_code = "3B1EC,0F"
+
+cheat651_desc = "刘备第五格道具弓術指南書"
+cheat651_handler = "2"
+cheat651_code = "3B1EC,10"
+
+cheat652_desc = "刘备第五格道具馬術指南書"
+cheat652_handler = "2"
+cheat652_code = "3B1EC,11"
+
+cheat653_desc = "刘备第五格道具剣術指南書"
+cheat653_handler = "2"
+cheat653_code = "3B1EC,12"
+
+cheat654_desc = "刘备第五格道具長槍術奥義"
+cheat654_handler = "2"
+cheat654_code = "3B1EC,13"
+
+cheat655_desc = "刘备第五格道具戦車術奥義"
+cheat655_handler = "2"
+cheat655_code = "3B1EC,14"
+
+cheat656_desc = "刘备第五格道具連弩術極義"
+cheat656_handler = "2"
+cheat656_code = "3B1EC,15"
+
+cheat657_desc = "刘备第五格道具發石術極義"
+cheat657_handler = "2"
+cheat657_code = "3B1EC,16"
+
+cheat658_desc = "刘备第五格道具重騎兵の印綬"
+cheat658_handler = "2"
+cheat658_code = "3B1EC,17"
+
+cheat659_desc = "刘备第五格道具親衛隊の印綬"
+cheat659_handler = "2"
+cheat659_code = "3B1EC,18"
+
+cheat660_desc = "刘备第五格道具無賴の心得"
+cheat660_handler = "2"
+cheat660_code = "3B1EC,19"
+
+cheat661_desc = "刘备第五格道具義俠の心得"
+cheat661_handler = "2"
+cheat661_code = "3B1EC,1A"
+
+cheat662_desc = "刘备第五格道具豆"
+cheat662_handler = "2"
+cheat662_code = "3B1EC,1B"
+
+cheat663_desc = "刘备第五格道具麥"
+cheat663_handler = "2"
+cheat663_code = "3B1EC,1F"
+
+cheat664_desc = "刘备第五格道具米"
+cheat664_handler = "2"
+cheat664_code = "3B1EC,20"
+
+cheat665_desc = "刘备第五格道具爆弾"
+cheat665_handler = "2"
+cheat665_code = "3B1EC,21"
+
+cheat666_desc = "刘备第五格道具傷藥"
+cheat666_handler = "2"
+cheat666_code = "3B1EC,2E"
+
+cheat667_desc = "刘备第五格道具漢方藥"
+cheat667_handler = "2"
+cheat667_code = "3B1EC,2F"
+
+cheat668_desc = "刘备第五格道具救命藥"
+cheat668_handler = "2"
+cheat668_code = "3B1EC,30"
+
+cheat669_desc = "刘备第五格道具赦命書"
+cheat669_handler = "2"
+cheat669_code = "3B1EC,37"
+
+cheat670_desc = "刘备第五格道具援軍報告"
+cheat670_handler = "2"
+cheat670_code = "3B1EC,38"
+
+cheat671_desc = "刘备第五格道具雌雄一对の剣"
+cheat671_handler = "2"
+cheat671_code = "3B1EC,39"
+
+cheat672_desc = "刘备第五格道具英傑の剣"
+cheat672_handler = "2"
+cheat672_code = "3B1EC,3A"
+
+cheat673_desc = "刘备第五格道具霸者の剣"
+cheat673_handler = "2"
+cheat673_code = "3B1EC,3B"
+
+cheat674_desc = "刘备第五格道具六韜"
+cheat674_handler = "2"
+cheat674_code = "3B1EC,3C"
+
+cheat675_desc = "刘备第五格道具三略"
+cheat675_handler = "2"
+cheat675_code = "3B1EC,3D"
+
+cheat676_desc = "刘备第五格道具吳子の兵法"
+cheat676_handler = "2"
+cheat676_code = "3B1EC,3E"
+
+cheat677_desc = "刘备第五格道具斧"
+cheat677_handler = "2"
+cheat677_code = "3B1EC,3F"
+
+cheat678_desc = "刘备第五格道具板斧"
+cheat678_handler = "2"
+cheat678_code = "3B1EC,40"
+
+cheat679_desc = "刘备第五格道具宣花斧"
+cheat679_handler = "2"
+cheat679_code = "3B1EC,41"
+
+cheat680_desc = "刘备第五格道具火焰斧"
+cheat680_handler = "2"
+cheat680_code = "3B1EC,42"
+
+cheat681_desc = "刘备第五格道具鳯頭斧"
+cheat681_handler = "2"
+cheat681_code = "3B1EC,43"
+
+cheat682_desc = "刘备第五格道具直刀"
+cheat682_handler = "2"
+cheat682_code = "3B1EC,44"
+
+cheat683_desc = "刘备第五格道具鋼刀"
+cheat683_handler = "2"
+cheat683_code = "3B1EC,45"
+
+cheat684_desc = "刘备第五格道具環刀"
+cheat684_handler = "2"
+cheat684_code = "3B1EC,46"
+
+cheat685_desc = "刘备第五格道具虎牙刀"
+cheat685_handler = "2"
+cheat685_code = "3B1EC,47"
+
+cheat686_desc = "刘备第五格道具鳯嘴刀"
+cheat686_handler = "2"
+cheat686_code = "3B1EC,48"
+
+cheat687_desc = "刘备第五格道具神刀"
+cheat687_handler = "2"
+cheat687_code = "3B1EC,49"
+
+cheat688_desc = "刘备第五格道具鉤"
+cheat688_handler = "2"
+cheat688_code = "3B1EC,4A"
+
+cheat689_desc = "刘备第五格道具鉤鐮"
+cheat689_handler = "2"
+cheat689_code = "3B1EC,4B"
+
+cheat690_desc = "刘备第五格道具護手鉤"
+cheat690_handler = "2"
+cheat690_code = "3B1EC,4C"
+
+cheat691_desc = "刘备第五格道具鉄鉤距"
+cheat691_handler = "2"
+cheat691_code = "3B1EC,4D"
+
+cheat692_desc = "刘备第五格道具山賊の誓い"
+cheat692_handler = "2"
+cheat692_code = "3B1EC,4E"
+
+cheat693_desc = "刘备第五格道具武術指南書"
+cheat693_handler = "2"
+cheat693_code = "3B1EC,4F"
+
+cheat694_desc = "刘备第五格道具異文化の印"
+cheat694_handler = "2"
+cheat694_code = "3B1EC,50"
+
+cheat695_desc = "刘备第五格道具操術指南書"
+cheat695_handler = "2"
+cheat695_code = "3B1EC,51"
+
+cheat696_desc = "刘备第五格道具焦熱書"
+cheat696_handler = "2"
+cheat696_code = "3B1EC,52"
+
+cheat697_desc = "刘备第五格道具嶪火の書"
+cheat697_handler = "2"
+cheat697_code = "3B1EC,53"
+
+cheat698_desc = "刘备第五格道具小赤龍の書"
+cheat698_handler = "2"
+cheat698_code = "3B1EC,54"
+
+cheat699_desc = "刘备第五格道具大焦熱の書"
+cheat699_handler = "2"
+cheat699_code = "3B1EC,55"
+
+cheat700_desc = "刘备第五格道具大嶪火の書"
+cheat700_handler = "2"
+cheat700_code = "3B1EC,56"
+
+cheat701_desc = "刘备第五格道具渦潮の書"
+cheat701_handler = "2"
+cheat701_code = "3B1EC,58"
+
+cheat702_desc = "刘备第五格道具水刃の書"
+cheat702_handler = "2"
+cheat702_code = "3B1EC,59"
+
+cheat703_desc = "刘备第五格道具小黒龍の書"
+cheat703_handler = "2"
+cheat703_code = "3B1EC,5A"
+
+cheat704_desc = "刘备第五格道具大渦潮の書"
+cheat704_handler = "2"
+cheat704_code = "3B1EC,5B"
+
+cheat705_desc = "刘备第五格道具大水刃の書"
+cheat705_handler = "2"
+cheat705_code = "3B1EC,5C"
+
+cheat706_desc = "刘备第五格道具落石の書"
+cheat706_handler = "2"
+cheat706_code = "3B1EC,5E"
+
+cheat707_desc = "刘备第五格道具落穴の書"
+cheat707_handler = "2"
+cheat707_code = "3B1EC,5F"
+
+cheat708_desc = "刘备第五格道具小青龍の書"
+cheat708_handler = "2"
+cheat708_code = "3B1EC,60"
+
+cheat709_desc = "刘备第五格道具土石流の書"
+cheat709_handler = "2"
+cheat709_code = "3B1EC,61"
+
+cheat710_desc = "刘备第五格道具大地割の書"
+cheat710_handler = "2"
+cheat710_code = "3B1EC,62"
+
+cheat711_desc = "刘备第五格道具風無の書"
+cheat711_handler = "2"
+cheat711_code = "3B1EC,64"
+
+cheat712_desc = "刘备第五格道具旋風の書"
+cheat712_handler = "2"
+cheat712_code = "3B1EC,65"
+
+cheat713_desc = "刘备第五格道具小白龍の書"
+cheat713_handler = "2"
+cheat713_code = "3B1EC,66"
+
+cheat714_desc = "刘备第五格道具大旋風の書"
+cheat714_handler = "2"
+cheat714_code = "3B1EC,67"
+
+cheat715_desc = "刘备第五格道具風気の書"
+cheat715_handler = "2"
+cheat715_code = "3B1EC,68"
+
+cheat716_desc = "刘备第五格道具酒"
+cheat716_handler = "2"
+cheat716_code = "3B1EC,6A"
+
+cheat717_desc = "刘备第五格道具土の壁"
+cheat717_handler = "2"
+cheat717_code = "3B1EC,6B"
+
+cheat718_desc = "刘备第五格道具火の幻"
+cheat718_handler = "2"
+cheat718_code = "3B1EC,6C"
+
+cheat719_desc = "刘备第五格道具木の光"
+cheat719_handler = "2"
+cheat719_code = "3B1EC,6D"
+
+cheat720_desc = "刘备第五格道具水の力"
+cheat720_handler = "2"
+cheat720_code = "3B1EC,6E"
+
+cheat721_desc = "刘备第五格道具特級酒"
+cheat721_handler = "2"
+cheat721_code = "3B1EC,6F"
+
+cheat722_desc = "刘备第五格道具金の毒"
+cheat722_handler = "2"
+cheat722_code = "3B1EC,70"
+
+cheat723_desc = "刘备第五格道具老酒"
+cheat723_handler = "2"
+cheat723_code = "3B1EC,71"
+
+cheat724_desc = "刘备第五格道具妖術の藥"
+cheat724_handler = "2"
+cheat724_code = "3B1EC,72"
+
+cheat725_desc = "刘备第五格道具仙術の藥"
+cheat725_handler = "2"
+cheat725_code = "3B1EC,73"
+
+cheat726_desc = "刘备第五格道具駿馬"
+cheat726_handler = "2"
+cheat726_code = "3B1EC,74"
+
+cheat727_desc = "刘备第五格道具皮甲"
+cheat727_handler = "2"
+cheat727_code = "3B1EC,75"
+
+cheat728_desc = "刘备第五格道具藤甲"
+cheat728_handler = "2"
+cheat728_code = "3B1EC,76"
+
+cheat729_desc = "刘备第五格道具鎖子甲"
+cheat729_handler = "2"
+cheat729_code = "3B1EC,77"
+
+cheat730_desc = "刘备第五格道具鉄甲"
+cheat730_handler = "2"
+cheat730_code = "3B1EC,78"
+
+cheat731_desc = "刘备第五格道具鋼子連鐶甲"
+cheat731_handler = "2"
+cheat731_code = "3B1EC,79"
+
+cheat732_desc = "刘备第五格道具金鎖の甲"
+cheat732_handler = "2"
+cheat732_code = "3B1EC,7A"
+
+cheat733_desc = "刘备第五格道具白銀の甲"
+cheat733_handler = "2"
+cheat733_code = "3B1EC,7B"
+
+cheat734_desc = "刘备第五格道具連鐶の鎧"
+cheat734_handler = "2"
+cheat734_code = "3B1EC,7C"
+
+cheat735_desc = "刘备第五格道具筒袖鎧"
+cheat735_handler = "2"
+cheat735_code = "3B1EC,7D"
+
+cheat736_desc = "刘备第五格道具明光鎧"
+cheat736_handler = "2"
+cheat736_code = "3B1EC,7E"
+
+cheat737_desc = "刘备第五格道具手牌"
+cheat737_handler = "2"
+cheat737_code = "3B1EC,7F"
+
+cheat738_desc = "刘备第五格道具団牌"
+cheat738_handler = "2"
+cheat738_code = "3B1EC,80"
+
+cheat739_desc = "刘备第五格道具推牌"
+cheat739_handler = "2"
+cheat739_code = "3B1EC,81"
+
+cheat740_desc = "刘备第五格道具燕尾牌"
+cheat740_handler = "2"
+cheat740_code = "3B1EC,82"
+
+cheat741_desc = "刘备第五格道具無敵神牌"
+cheat741_handler = "2"
+cheat741_code = "3B1EC,83"
+
+cheat742_desc = "刘备第五格道具槍"
+cheat742_handler = "2"
+cheat742_code = "3B1EC,84"
+
+cheat743_desc = "刘备第五格道具半月槍"
+cheat743_handler = "2"
+cheat743_code = "3B1EC,85"
+
+cheat744_desc = "刘备第五格道具鉄槍"
+cheat744_handler = "2"
+cheat744_code = "3B1EC,86"
+
+cheat745_desc = "刘备第五格道具環子槍"
+cheat745_handler = "2"
+cheat745_code = "3B1EC,87"
+
+cheat746_desc = "刘备第五格道具鉤鐮槍"
+cheat746_handler = "2"
+cheat746_code = "3B1EC,88"
+
+cheat747_desc = "刘备第五格道具红の槍"
+cheat747_handler = "2"
+cheat747_code = "3B1EC,89"
+
+cheat748_desc = "刘备第五格道具戟"
+cheat748_handler = "2"
+cheat748_code = "3B1EC,8A"
+
+cheat749_desc = "刘备第五格道具長戟"
+cheat749_handler = "2"
+cheat749_code = "3B1EC,8B"
+
+cheat750_desc = "刘备第五格道具大戟"
+cheat750_handler = "2"
+cheat750_code = "3B1EC,8C"
+
+cheat751_desc = "刘备第五格道具青龍戟"
+cheat751_handler = "2"
+cheat751_code = "3B1EC,8D"
+
+cheat752_desc = "刘备第五格道具半弓"
+cheat752_handler = "2"
+cheat752_code = "3B1EC,8E"
+
+cheat753_desc = "刘备第五格道具弯弓"
+cheat753_handler = "2"
+cheat753_code = "3B1EC,8F"
+
+cheat754_desc = "刘备第五格道具李满弓"
+cheat754_handler = "2"
+cheat754_code = "3B1EC,90"
+
+cheat755_desc = "刘备第五格道具强弓"
+cheat755_handler = "2"
+cheat755_code = "3B1EC,91"
+
+cheat756_desc = "刘备第五格道具鉄弓"
+cheat756_handler = "2"
+cheat756_code = "3B1EC,92"
+
+cheat757_desc = "刘备第五格道具双弓床弩"
+cheat757_handler = "2"
+cheat757_code = "3B1EC,93"
+
+cheat758_desc = "刘备第五格道具斗子弩"
+cheat758_handler = "2"
+cheat758_code = "3B1EC,94"
+
+cheat759_desc = "刘备第五格道具三弓斗子弩"
+cheat759_handler = "2"
+cheat759_code = "3B1EC,95"
+
+cheat760_desc = "刘备第五格道具神弩"
+cheat760_handler = "2"
+cheat760_code = "3B1EC,96"
+
+cheat761_desc = "刘备第五格道具手砲"
+cheat761_handler = "2"
+cheat761_code = "3B1EC,97"
+
+cheat762_desc = "刘备第五格道具合砲"
+cheat762_handler = "2"
+cheat762_code = "3B1EC,98"
+
+cheat763_desc = "刘备第五格道具単梢砲"
+cheat763_handler = "2"
+cheat763_code = "3B1EC,99"
+
+cheat764_desc = "刘备第五格道具双梢砲"
+cheat764_handler = "2"
+cheat764_code = "3B1EC,9A"
+
+cheat765_desc = "刘备第五格道具霹雳車"
+cheat765_handler = "2"
+cheat765_code = "3B1EC,9B"
+
+cheat766_desc = "刘备第五格道具旋風砲"
+cheat766_handler = "2"
+cheat766_code = "3B1EC,9C"
+
+cheat767_desc = "刘备第五格道具独角旋風砲"
+cheat767_handler = "2"
+cheat767_code = "3B1EC,9D"
+
+cheat768_desc = "刘备第五格道具旋風五砲"
+cheat768_handler = "2"
+cheat768_code = "3B1EC,9E"
+
+cheat769_desc = "刘备第五格道具圈"
+cheat769_handler = "2"
+cheat769_code = "3B1EC,9F"
+
+cheat770_desc = "刘备第五格道具乾坤烏亀圈"
+cheat770_handler = "2"
+cheat770_code = "3B1EC,A0"
+
+cheat771_desc = "刘备第五格道具日月乾坤圈"
+cheat771_handler = "2"
+cheat771_code = "3B1EC,A1"
+
+cheat772_desc = "刘备第五格道具鶏爪鉞"
+cheat772_handler = "2"
+cheat772_code = "3B1EC,A2"
+
+cheat773_desc = "刘备第五格道具鶏爪駌鴦鉞"
+cheat773_handler = "2"
+cheat773_code = "3B1EC,A3"
+
+cheat774_desc = "刘备第五格道具子母駌鴦鉞"
+cheat774_handler = "2"
+cheat774_code = "3B1EC,A4"
+
+cheat775_desc = "刘备第五格道具流星錘"
+cheat775_handler = "2"
+cheat775_code = "3B1EC,A5"
+
+cheat776_desc = "刘备第五格道具狼牙錘"
+cheat776_handler = "2"
+cheat776_code = "3B1EC,A6"
+
+cheat777_desc = "刘备第五格道具鞭"
+cheat777_handler = "2"
+cheat777_code = "3B1EC,A7"
+
+cheat778_desc = "刘备第五格道具柳鞭"
+cheat778_handler = "2"
+cheat778_code = "3B1EC,A8"
+
+cheat779_desc = "刘备第五格道具鯨鞭"
+cheat779_handler = "2"
+cheat779_code = "3B1EC,A9"
+
+cheat780_desc = "刘备第五格道具鉄笛"
+cheat780_handler = "2"
+cheat780_code = "3B1EC,AA"
+
+cheat781_desc = "刘备第五格道具銅鑼"
+cheat781_handler = "2"
+cheat781_code = "3B1EC,AB"
+
+cheat782_desc = "刘备第五格道具鼓角"
+cheat782_handler = "2"
+cheat782_code = "3B1EC,AC"
+
+cheat783_desc = "刘备第五格道具兵鼓"
+cheat783_handler = "2"
+cheat783_code = "3B1EC,AD"
+
+cheat784_desc = "刘备第五格道具鉦鼓"
+cheat784_handler = "2"
+cheat784_code = "3B1EC,AE"
+
+cheat785_desc = "刘备第五格道具金鼓"
+cheat785_handler = "2"
+cheat785_code = "3B1EC,AF"
+
+cheat786_desc = "刘备第五格道具鉄扇"
+cheat786_handler = "2"
+cheat786_code = "3B1EC,B0"
+
+cheat787_desc = "刘备第五格道具羽扇"
+cheat787_handler = "2"
+cheat787_code = "3B1EC,B1"
+
+cheat788_desc = "刘备第五格道具白羽扇"
+cheat788_handler = "2"
+cheat788_code = "3B1EC,B2"
+
+cheat789_desc = "刘备第五格道具木牛"
+cheat789_handler = "2"
+cheat789_code = "3B1EC,B3"
+
+cheat790_desc = "刘备第五格道具流馬"
+cheat790_handler = "2"
+cheat790_code = "3B1EC,B4"
+
+cheat791_desc = "刘备第五格道具扁厢車"
+cheat791_handler = "2"
+cheat791_code = "3B1EC,B5"
+
+cheat792_desc = "刘备第五格道具正廂車"
+cheat792_handler = "2"
+cheat792_code = "3B1EC,B6"
+
+cheat793_desc = "刘备第六格道具遁甲天書"
+cheat793_handler = "2"
+cheat793_code = "3B1ED,00"
+
+cheat794_desc = "刘备第六格道具青囊書"
+cheat794_handler = "2"
+cheat794_code = "3B1ED,01"
+
+cheat795_desc = "刘备第六格道具軍樂譜"
+cheat795_handler = "2"
+cheat795_code = "3B1ED,02"
+
+cheat796_desc = "刘备第六格道具孫子の兵法書"
+cheat796_handler = "2"
+cheat796_code = "3B1ED,03"
+
+cheat797_desc = "刘备第六格道具孟德新書"
+cheat797_handler = "2"
+cheat797_code = "3B1ED,04"
+
+cheat798_desc = "刘备第六格道具爪黄飛電"
+cheat798_handler = "2"
+cheat798_code = "3B1ED,05"
+
+cheat799_desc = "刘备第六格道具的盧"
+cheat799_handler = "2"
+cheat799_code = "3B1ED,06"
+
+cheat800_desc = "刘备第六格道具赤兔馬"
+cheat800_handler = "2"
+cheat800_code = "3B1ED,07"
+
+cheat801_desc = "刘备第六格道具玉璽"
+cheat801_handler = "2"
+cheat801_code = "3B1ED,08"
+
+cheat802_desc = "刘备第六格道具倚天の剣"
+cheat802_handler = "2"
+cheat802_code = "3B1ED,09"
+
+cheat803_desc = "刘备第六格道具青釭の剣"
+cheat803_handler = "2"
+cheat803_code = "3B1ED,0A"
+
+cheat804_desc = "刘备第六格道具七星の劍"
+cheat804_handler = "2"
+cheat804_code = "3B1ED,0B"
+
+cheat805_desc = "刘备第六格道具青龍偃月刀"
+cheat805_handler = "2"
+cheat805_code = "3B1ED,0C"
+
+cheat806_desc = "刘备第六格道具三尖刀"
+cheat806_handler = "2"
+cheat806_code = "3B1ED,0D"
+
+cheat807_desc = "刘备第六格道具方天畫戟"
+cheat807_handler = "2"
+cheat807_code = "3B1ED,0E"
+
+cheat808_desc = "刘备第六格道具蛇矛"
+cheat808_handler = "2"
+cheat808_code = "3B1ED,0F"
+
+cheat809_desc = "刘备第六格道具弓術指南書"
+cheat809_handler = "2"
+cheat809_code = "3B1ED,10"
+
+cheat810_desc = "刘备第六格道具馬術指南書"
+cheat810_handler = "2"
+cheat810_code = "3B1ED,11"
+
+cheat811_desc = "刘备第六格道具剣術指南書"
+cheat811_handler = "2"
+cheat811_code = "3B1ED,12"
+
+cheat812_desc = "刘备第六格道具長槍術奥義"
+cheat812_handler = "2"
+cheat812_code = "3B1ED,13"
+
+cheat813_desc = "刘备第六格道具戦車術奥義"
+cheat813_handler = "2"
+cheat813_code = "3B1ED,14"
+
+cheat814_desc = "刘备第六格道具連弩術極義"
+cheat814_handler = "2"
+cheat814_code = "3B1ED,15"
+
+cheat815_desc = "刘备第六格道具發石術極義"
+cheat815_handler = "2"
+cheat815_code = "3B1ED,16"
+
+cheat816_desc = "刘备第六格道具重騎兵の印綬"
+cheat816_handler = "2"
+cheat816_code = "3B1ED,17"
+
+cheat817_desc = "刘备第六格道具親衛隊の印綬"
+cheat817_handler = "2"
+cheat817_code = "3B1ED,18"
+
+cheat818_desc = "刘备第六格道具無賴の心得"
+cheat818_handler = "2"
+cheat818_code = "3B1ED,19"
+
+cheat819_desc = "刘备第六格道具義俠の心得"
+cheat819_handler = "2"
+cheat819_code = "3B1ED,1A"
+
+cheat820_desc = "刘备第六格道具豆"
+cheat820_handler = "2"
+cheat820_code = "3B1ED,1B"
+
+cheat821_desc = "刘备第六格道具麥"
+cheat821_handler = "2"
+cheat821_code = "3B1ED,1F"
+
+cheat822_desc = "刘备第六格道具米"
+cheat822_handler = "2"
+cheat822_code = "3B1ED,20"
+
+cheat823_desc = "刘备第六格道具爆弾"
+cheat823_handler = "2"
+cheat823_code = "3B1ED,21"
+
+cheat824_desc = "刘备第六格道具傷藥"
+cheat824_handler = "2"
+cheat824_code = "3B1ED,2E"
+
+cheat825_desc = "刘备第六格道具漢方藥"
+cheat825_handler = "2"
+cheat825_code = "3B1ED,2F"
+
+cheat826_desc = "刘备第六格道具救命藥"
+cheat826_handler = "2"
+cheat826_code = "3B1ED,30"
+
+cheat827_desc = "刘备第六格道具赦命書"
+cheat827_handler = "2"
+cheat827_code = "3B1ED,37"
+
+cheat828_desc = "刘备第六格道具援軍報告"
+cheat828_handler = "2"
+cheat828_code = "3B1ED,38"
+
+cheat829_desc = "刘备第六格道具雌雄一对の剣"
+cheat829_handler = "2"
+cheat829_code = "3B1ED,39"
+
+cheat830_desc = "刘备第六格道具英傑の剣"
+cheat830_handler = "2"
+cheat830_code = "3B1ED,3A"
+
+cheat831_desc = "刘备第六格道具霸者の剣"
+cheat831_handler = "2"
+cheat831_code = "3B1ED,3B"
+
+cheat832_desc = "刘备第六格道具六韜"
+cheat832_handler = "2"
+cheat832_code = "3B1ED,3C"
+
+cheat833_desc = "刘备第六格道具三略"
+cheat833_handler = "2"
+cheat833_code = "3B1ED,3D"
+
+cheat834_desc = "刘备第六格道具吳子の兵法"
+cheat834_handler = "2"
+cheat834_code = "3B1ED,3E"
+
+cheat835_desc = "刘备第六格道具斧"
+cheat835_handler = "2"
+cheat835_code = "3B1ED,3F"
+
+cheat836_desc = "刘备第六格道具板斧"
+cheat836_handler = "2"
+cheat836_code = "3B1ED,40"
+
+cheat837_desc = "刘备第六格道具宣花斧"
+cheat837_handler = "2"
+cheat837_code = "3B1ED,41"
+
+cheat838_desc = "刘备第六格道具火焰斧"
+cheat838_handler = "2"
+cheat838_code = "3B1ED,42"
+
+cheat839_desc = "刘备第六格道具鳯頭斧"
+cheat839_handler = "2"
+cheat839_code = "3B1ED,43"
+
+cheat840_desc = "刘备第六格道具直刀"
+cheat840_handler = "2"
+cheat840_code = "3B1ED,44"
+
+cheat841_desc = "刘备第六格道具鋼刀"
+cheat841_handler = "2"
+cheat841_code = "3B1ED,45"
+
+cheat842_desc = "刘备第六格道具環刀"
+cheat842_handler = "2"
+cheat842_code = "3B1ED,46"
+
+cheat843_desc = "刘备第六格道具虎牙刀"
+cheat843_handler = "2"
+cheat843_code = "3B1ED,47"
+
+cheat844_desc = "刘备第六格道具鳯嘴刀"
+cheat844_handler = "2"
+cheat844_code = "3B1ED,48"
+
+cheat845_desc = "刘备第六格道具神刀"
+cheat845_handler = "2"
+cheat845_code = "3B1ED,49"
+
+cheat846_desc = "刘备第六格道具鉤"
+cheat846_handler = "2"
+cheat846_code = "3B1ED,4A"
+
+cheat847_desc = "刘备第六格道具鉤鐮"
+cheat847_handler = "2"
+cheat847_code = "3B1ED,4B"
+
+cheat848_desc = "刘备第六格道具護手鉤"
+cheat848_handler = "2"
+cheat848_code = "3B1ED,4C"
+
+cheat849_desc = "刘备第六格道具鉄鉤距"
+cheat849_handler = "2"
+cheat849_code = "3B1ED,4D"
+
+cheat850_desc = "刘备第六格道具山賊の誓い"
+cheat850_handler = "2"
+cheat850_code = "3B1ED,4E"
+
+cheat851_desc = "刘备第六格道具武術指南書"
+cheat851_handler = "2"
+cheat851_code = "3B1ED,4F"
+
+cheat852_desc = "刘备第六格道具異文化の印"
+cheat852_handler = "2"
+cheat852_code = "3B1ED,50"
+
+cheat853_desc = "刘备第六格道具操術指南書"
+cheat853_handler = "2"
+cheat853_code = "3B1ED,51"
+
+cheat854_desc = "刘备第六格道具焦熱書"
+cheat854_handler = "2"
+cheat854_code = "3B1ED,52"
+
+cheat855_desc = "刘备第六格道具嶪火の書"
+cheat855_handler = "2"
+cheat855_code = "3B1ED,53"
+
+cheat856_desc = "刘备第六格道具小赤龍の書"
+cheat856_handler = "2"
+cheat856_code = "3B1ED,54"
+
+cheat857_desc = "刘备第六格道具大焦熱の書"
+cheat857_handler = "2"
+cheat857_code = "3B1ED,55"
+
+cheat858_desc = "刘备第六格道具大嶪火の書"
+cheat858_handler = "2"
+cheat858_code = "3B1ED,56"
+
+cheat859_desc = "刘备第六格道具渦潮の書"
+cheat859_handler = "2"
+cheat859_code = "3B1ED,58"
+
+cheat860_desc = "刘备第六格道具水刃の書"
+cheat860_handler = "2"
+cheat860_code = "3B1ED,59"
+
+cheat861_desc = "刘备第六格道具小黒龍の書"
+cheat861_handler = "2"
+cheat861_code = "3B1ED,5A"
+
+cheat862_desc = "刘备第六格道具大渦潮の書"
+cheat862_handler = "2"
+cheat862_code = "3B1ED,5B"
+
+cheat863_desc = "刘备第六格道具大水刃の書"
+cheat863_handler = "2"
+cheat863_code = "3B1ED,5C"
+
+cheat864_desc = "刘备第六格道具落石の書"
+cheat864_handler = "2"
+cheat864_code = "3B1ED,5E"
+
+cheat865_desc = "刘备第六格道具落穴の書"
+cheat865_handler = "2"
+cheat865_code = "3B1ED,5F"
+
+cheat866_desc = "刘备第六格道具小青龍の書"
+cheat866_handler = "2"
+cheat866_code = "3B1ED,60"
+
+cheat867_desc = "刘备第六格道具土石流の書"
+cheat867_handler = "2"
+cheat867_code = "3B1ED,61"
+
+cheat868_desc = "刘备第六格道具大地割の書"
+cheat868_handler = "2"
+cheat868_code = "3B1ED,62"
+
+cheat869_desc = "刘备第六格道具風無の書"
+cheat869_handler = "2"
+cheat869_code = "3B1ED,64"
+
+cheat870_desc = "刘备第六格道具旋風の書"
+cheat870_handler = "2"
+cheat870_code = "3B1ED,65"
+
+cheat871_desc = "刘备第六格道具小白龍の書"
+cheat871_handler = "2"
+cheat871_code = "3B1ED,66"
+
+cheat872_desc = "刘备第六格道具大旋風の書"
+cheat872_handler = "2"
+cheat872_code = "3B1ED,67"
+
+cheat873_desc = "刘备第六格道具風気の書"
+cheat873_handler = "2"
+cheat873_code = "3B1ED,68"
+
+cheat874_desc = "刘备第六格道具酒"
+cheat874_handler = "2"
+cheat874_code = "3B1ED,6A"
+
+cheat875_desc = "刘备第六格道具土の壁"
+cheat875_handler = "2"
+cheat875_code = "3B1ED,6B"
+
+cheat876_desc = "刘备第六格道具火の幻"
+cheat876_handler = "2"
+cheat876_code = "3B1ED,6C"
+
+cheat877_desc = "刘备第六格道具木の光"
+cheat877_handler = "2"
+cheat877_code = "3B1ED,6D"
+
+cheat878_desc = "刘备第六格道具水の力"
+cheat878_handler = "2"
+cheat878_code = "3B1ED,6E"
+
+cheat879_desc = "刘备第六格道具特級酒"
+cheat879_handler = "2"
+cheat879_code = "3B1ED,6F"
+
+cheat880_desc = "刘备第六格道具金の毒"
+cheat880_handler = "2"
+cheat880_code = "3B1ED,70"
+
+cheat881_desc = "刘备第六格道具老酒"
+cheat881_handler = "2"
+cheat881_code = "3B1ED,71"
+
+cheat882_desc = "刘备第六格道具妖術の藥"
+cheat882_handler = "2"
+cheat882_code = "3B1ED,72"
+
+cheat883_desc = "刘备第六格道具仙術の藥"
+cheat883_handler = "2"
+cheat883_code = "3B1ED,73"
+
+cheat884_desc = "刘备第六格道具駿馬"
+cheat884_handler = "2"
+cheat884_code = "3B1ED,74"
+
+cheat885_desc = "刘备第六格道具皮甲"
+cheat885_handler = "2"
+cheat885_code = "3B1ED,75"
+
+cheat886_desc = "刘备第六格道具藤甲"
+cheat886_handler = "2"
+cheat886_code = "3B1ED,76"
+
+cheat887_desc = "刘备第六格道具鎖子甲"
+cheat887_handler = "2"
+cheat887_code = "3B1ED,77"
+
+cheat888_desc = "刘备第六格道具鉄甲"
+cheat888_handler = "2"
+cheat888_code = "3B1ED,78"
+
+cheat889_desc = "刘备第六格道具鋼子連鐶甲"
+cheat889_handler = "2"
+cheat889_code = "3B1ED,79"
+
+cheat890_desc = "刘备第六格道具金鎖の甲"
+cheat890_handler = "2"
+cheat890_code = "3B1ED,7A"
+
+cheat891_desc = "刘备第六格道具白銀の甲"
+cheat891_handler = "2"
+cheat891_code = "3B1ED,7B"
+
+cheat892_desc = "刘备第六格道具連鐶の鎧"
+cheat892_handler = "2"
+cheat892_code = "3B1ED,7C"
+
+cheat893_desc = "刘备第六格道具筒袖鎧"
+cheat893_handler = "2"
+cheat893_code = "3B1ED,7D"
+
+cheat894_desc = "刘备第六格道具明光鎧"
+cheat894_handler = "2"
+cheat894_code = "3B1ED,7E"
+
+cheat895_desc = "刘备第六格道具手牌"
+cheat895_handler = "2"
+cheat895_code = "3B1ED,7F"
+
+cheat896_desc = "刘备第六格道具団牌"
+cheat896_handler = "2"
+cheat896_code = "3B1ED,80"
+
+cheat897_desc = "刘备第六格道具推牌"
+cheat897_handler = "2"
+cheat897_code = "3B1ED,81"
+
+cheat898_desc = "刘备第六格道具燕尾牌"
+cheat898_handler = "2"
+cheat898_code = "3B1ED,82"
+
+cheat899_desc = "刘备第六格道具無敵神牌"
+cheat899_handler = "2"
+cheat899_code = "3B1ED,83"
+
+cheat900_desc = "刘备第六格道具槍"
+cheat900_handler = "2"
+cheat900_code = "3B1ED,84"
+
+cheat901_desc = "刘备第六格道具半月槍"
+cheat901_handler = "2"
+cheat901_code = "3B1ED,85"
+
+cheat902_desc = "刘备第六格道具鉄槍"
+cheat902_handler = "2"
+cheat902_code = "3B1ED,86"
+
+cheat903_desc = "刘备第六格道具環子槍"
+cheat903_handler = "2"
+cheat903_code = "3B1ED,87"
+
+cheat904_desc = "刘备第六格道具鉤鐮槍"
+cheat904_handler = "2"
+cheat904_code = "3B1ED,88"
+
+cheat905_desc = "刘备第六格道具红の槍"
+cheat905_handler = "2"
+cheat905_code = "3B1ED,89"
+
+cheat906_desc = "刘备第六格道具戟"
+cheat906_handler = "2"
+cheat906_code = "3B1ED,8A"
+
+cheat907_desc = "刘备第六格道具長戟"
+cheat907_handler = "2"
+cheat907_code = "3B1ED,8B"
+
+cheat908_desc = "刘备第六格道具大戟"
+cheat908_handler = "2"
+cheat908_code = "3B1ED,8C"
+
+cheat909_desc = "刘备第六格道具青龍戟"
+cheat909_handler = "2"
+cheat909_code = "3B1ED,8D"
+
+cheat910_desc = "刘备第六格道具半弓"
+cheat910_handler = "2"
+cheat910_code = "3B1ED,8E"
+
+cheat911_desc = "刘备第六格道具弯弓"
+cheat911_handler = "2"
+cheat911_code = "3B1ED,8F"
+
+cheat912_desc = "刘备第六格道具李满弓"
+cheat912_handler = "2"
+cheat912_code = "3B1ED,90"
+
+cheat913_desc = "刘备第六格道具强弓"
+cheat913_handler = "2"
+cheat913_code = "3B1ED,91"
+
+cheat914_desc = "刘备第六格道具鉄弓"
+cheat914_handler = "2"
+cheat914_code = "3B1ED,92"
+
+cheat915_desc = "刘备第六格道具双弓床弩"
+cheat915_handler = "2"
+cheat915_code = "3B1ED,93"
+
+cheat916_desc = "刘备第六格道具斗子弩"
+cheat916_handler = "2"
+cheat916_code = "3B1ED,94"
+
+cheat917_desc = "刘备第六格道具三弓斗子弩"
+cheat917_handler = "2"
+cheat917_code = "3B1ED,95"
+
+cheat918_desc = "刘备第六格道具神弩"
+cheat918_handler = "2"
+cheat918_code = "3B1ED,96"
+
+cheat919_desc = "刘备第六格道具手砲"
+cheat919_handler = "2"
+cheat919_code = "3B1ED,97"
+
+cheat920_desc = "刘备第六格道具合砲"
+cheat920_handler = "2"
+cheat920_code = "3B1ED,98"
+
+cheat921_desc = "刘备第六格道具単梢砲"
+cheat921_handler = "2"
+cheat921_code = "3B1ED,99"
+
+cheat922_desc = "刘备第六格道具双梢砲"
+cheat922_handler = "2"
+cheat922_code = "3B1ED,9A"
+
+cheat923_desc = "刘备第六格道具霹雳車"
+cheat923_handler = "2"
+cheat923_code = "3B1ED,9B"
+
+cheat924_desc = "刘备第六格道具旋風砲"
+cheat924_handler = "2"
+cheat924_code = "3B1ED,9C"
+
+cheat925_desc = "刘备第六格道具独角旋風砲"
+cheat925_handler = "2"
+cheat925_code = "3B1ED,9D"
+
+cheat926_desc = "刘备第六格道具旋風五砲"
+cheat926_handler = "2"
+cheat926_code = "3B1ED,9E"
+
+cheat927_desc = "刘备第六格道具圈"
+cheat927_handler = "2"
+cheat927_code = "3B1ED,9F"
+
+cheat928_desc = "刘备第六格道具乾坤烏亀圈"
+cheat928_handler = "2"
+cheat928_code = "3B1ED,A0"
+
+cheat929_desc = "刘备第六格道具日月乾坤圈"
+cheat929_handler = "2"
+cheat929_code = "3B1ED,A1"
+
+cheat930_desc = "刘备第六格道具鶏爪鉞"
+cheat930_handler = "2"
+cheat930_code = "3B1ED,A2"
+
+cheat931_desc = "刘备第六格道具鶏爪駌鴦鉞"
+cheat931_handler = "2"
+cheat931_code = "3B1ED,A3"
+
+cheat932_desc = "刘备第六格道具子母駌鴦鉞"
+cheat932_handler = "2"
+cheat932_code = "3B1ED,A4"
+
+cheat933_desc = "刘备第六格道具流星錘"
+cheat933_handler = "2"
+cheat933_code = "3B1ED,A5"
+
+cheat934_desc = "刘备第六格道具狼牙錘"
+cheat934_handler = "2"
+cheat934_code = "3B1ED,A6"
+
+cheat935_desc = "刘备第六格道具鞭"
+cheat935_handler = "2"
+cheat935_code = "3B1ED,A7"
+
+cheat936_desc = "刘备第六格道具柳鞭"
+cheat936_handler = "2"
+cheat936_code = "3B1ED,A8"
+
+cheat937_desc = "刘备第六格道具鯨鞭"
+cheat937_handler = "2"
+cheat937_code = "3B1ED,A9"
+
+cheat938_desc = "刘备第六格道具鉄笛"
+cheat938_handler = "2"
+cheat938_code = "3B1ED,AA"
+
+cheat939_desc = "刘备第六格道具銅鑼"
+cheat939_handler = "2"
+cheat939_code = "3B1ED,AB"
+
+cheat940_desc = "刘备第六格道具鼓角"
+cheat940_handler = "2"
+cheat940_code = "3B1ED,AC"
+
+cheat941_desc = "刘备第六格道具兵鼓"
+cheat941_handler = "2"
+cheat941_code = "3B1ED,AD"
+
+cheat942_desc = "刘备第六格道具鉦鼓"
+cheat942_handler = "2"
+cheat942_code = "3B1ED,AE"
+
+cheat943_desc = "刘备第六格道具金鼓"
+cheat943_handler = "2"
+cheat943_code = "3B1ED,AF"
+
+cheat944_desc = "刘备第六格道具鉄扇"
+cheat944_handler = "2"
+cheat944_code = "3B1ED,B0"
+
+cheat945_desc = "刘备第六格道具羽扇"
+cheat945_handler = "2"
+cheat945_code = "3B1ED,B1"
+
+cheat946_desc = "刘备第六格道具白羽扇"
+cheat946_handler = "2"
+cheat946_code = "3B1ED,B2"
+
+cheat947_desc = "刘备第六格道具木牛"
+cheat947_handler = "2"
+cheat947_code = "3B1ED,B3"
+
+cheat948_desc = "刘备第六格道具流馬"
+cheat948_handler = "2"
+cheat948_code = "3B1ED,B4"
+
+cheat949_desc = "刘备第六格道具扁厢車"
+cheat949_handler = "2"
+cheat949_code = "3B1ED,B5"
+
+cheat950_desc = "刘备第六格道具正廂車"
+cheat950_handler = "2"
+cheat950_code = "3B1ED,B6"
+
+cheat951_desc = "道具交换中刘备第一格道具遁甲天書"
+cheat951_handler = "2"
+cheat951_code = "14E9C,00"
+
+cheat952_desc = "道具交换中刘备第一格道具青囊書"
+cheat952_handler = "2"
+cheat952_code = "14E9C,01"
+
+cheat953_desc = "道具交换中刘备第一格道具軍樂譜"
+cheat953_handler = "2"
+cheat953_code = "14E9C,02"
+
+cheat954_desc = "道具交换中刘备第一格道具孫子の兵法書"
+cheat954_handler = "2"
+cheat954_code = "14E9C,03"
+
+cheat955_desc = "道具交换中刘备第一格道具孟德新書"
+cheat955_handler = "2"
+cheat955_code = "14E9C,04"
+
+cheat956_desc = "道具交换中刘备第一格道具爪黄飛電"
+cheat956_handler = "2"
+cheat956_code = "14E9C,05"
+
+cheat957_desc = "道具交换中刘备第一格道具的盧"
+cheat957_handler = "2"
+cheat957_code = "14E9C,06"
+
+cheat958_desc = "道具交换中刘备第一格道具赤兔馬"
+cheat958_handler = "2"
+cheat958_code = "14E9C,07"
+
+cheat959_desc = "道具交换中刘备第一格道具玉璽"
+cheat959_handler = "2"
+cheat959_code = "14E9C,08"
+
+cheat960_desc = "道具交换中刘备第一格道具倚天の剣"
+cheat960_handler = "2"
+cheat960_code = "14E9C,09"
+
+cheat961_desc = "道具交换中刘备第一格道具青釭の剣"
+cheat961_handler = "2"
+cheat961_code = "14E9C,0A"
+
+cheat962_desc = "道具交换中刘备第一格道具七星の劍"
+cheat962_handler = "2"
+cheat962_code = "14E9C,0B"
+
+cheat963_desc = "道具交换中刘备第一格道具青龍偃月刀"
+cheat963_handler = "2"
+cheat963_code = "14E9C,0C"
+
+cheat964_desc = "道具交换中刘备第一格道具三尖刀"
+cheat964_handler = "2"
+cheat964_code = "14E9C,0D"
+
+cheat965_desc = "道具交换中刘备第一格道具方天畫戟"
+cheat965_handler = "2"
+cheat965_code = "14E9C,0E"
+
+cheat966_desc = "道具交换中刘备第一格道具蛇矛"
+cheat966_handler = "2"
+cheat966_code = "14E9C,0F"
+
+cheat967_desc = "道具交换中刘备第一格道具弓術指南書"
+cheat967_handler = "2"
+cheat967_code = "14E9C,10"
+
+cheat968_desc = "道具交换中刘备第一格道具馬術指南書"
+cheat968_handler = "2"
+cheat968_code = "14E9C,11"
+
+cheat969_desc = "道具交换中刘备第一格道具剣術指南書"
+cheat969_handler = "2"
+cheat969_code = "14E9C,12"
+
+cheat970_desc = "道具交换中刘备第一格道具長槍術奥義"
+cheat970_handler = "2"
+cheat970_code = "14E9C,13"
+
+cheat971_desc = "道具交换中刘备第一格道具戦車術奥義"
+cheat971_handler = "2"
+cheat971_code = "14E9C,14"
+
+cheat972_desc = "道具交换中刘备第一格道具連弩術極義"
+cheat972_handler = "2"
+cheat972_code = "14E9C,15"
+
+cheat973_desc = "道具交换中刘备第一格道具發石術極義"
+cheat973_handler = "2"
+cheat973_code = "14E9C,16"
+
+cheat974_desc = "道具交换中刘备第一格道具重騎兵の印綬"
+cheat974_handler = "2"
+cheat974_code = "14E9C,17"
+
+cheat975_desc = "道具交换中刘备第一格道具親衛隊の印綬"
+cheat975_handler = "2"
+cheat975_code = "14E9C,18"
+
+cheat976_desc = "道具交换中刘备第一格道具無賴の心得"
+cheat976_handler = "2"
+cheat976_code = "14E9C,19"
+
+cheat977_desc = "道具交换中刘备第一格道具義俠の心得"
+cheat977_handler = "2"
+cheat977_code = "14E9C,1A"
+
+cheat978_desc = "道具交换中刘备第一格道具豆"
+cheat978_handler = "2"
+cheat978_code = "14E9C,1B"
+
+cheat979_desc = "道具交换中刘备第一格道具麥"
+cheat979_handler = "2"
+cheat979_code = "14E9C,1F"
+
+cheat980_desc = "道具交换中刘备第一格道具米"
+cheat980_handler = "2"
+cheat980_code = "14E9C,20"
+
+cheat981_desc = "道具交换中刘备第一格道具爆弾"
+cheat981_handler = "2"
+cheat981_code = "14E9C,21"
+
+cheat982_desc = "道具交换中刘备第一格道具傷藥"
+cheat982_handler = "2"
+cheat982_code = "14E9C,2E"
+
+cheat983_desc = "道具交换中刘备第一格道具漢方藥"
+cheat983_handler = "2"
+cheat983_code = "14E9C,2F"
+
+cheat984_desc = "道具交换中刘备第一格道具救命藥"
+cheat984_handler = "2"
+cheat984_code = "14E9C,30"
+
+cheat985_desc = "道具交换中刘备第一格道具赦命書"
+cheat985_handler = "2"
+cheat985_code = "14E9C,37"
+
+cheat986_desc = "道具交换中刘备第一格道具援軍報告"
+cheat986_handler = "2"
+cheat986_code = "14E9C,38"
+
+cheat987_desc = "道具交换中刘备第一格道具雌雄一对の剣"
+cheat987_handler = "2"
+cheat987_code = "14E9C,39"
+
+cheat988_desc = "道具交换中刘备第一格道具英傑の剣"
+cheat988_handler = "2"
+cheat988_code = "14E9C,3A"
+
+cheat989_desc = "道具交换中刘备第一格道具霸者の剣"
+cheat989_handler = "2"
+cheat989_code = "14E9C,3B"
+
+cheat990_desc = "道具交换中刘备第一格道具六韜"
+cheat990_handler = "2"
+cheat990_code = "14E9C,3C"
+
+cheat991_desc = "道具交换中刘备第一格道具三略"
+cheat991_handler = "2"
+cheat991_code = "14E9C,3D"
+
+cheat992_desc = "道具交换中刘备第一格道具吳子の兵法"
+cheat992_handler = "2"
+cheat992_code = "14E9C,3E"
+
+cheat993_desc = "道具交换中刘备第一格道具斧"
+cheat993_handler = "2"
+cheat993_code = "14E9C,3F"
+
+cheat994_desc = "道具交换中刘备第一格道具板斧"
+cheat994_handler = "2"
+cheat994_code = "14E9C,40"
+
+cheat995_desc = "道具交换中刘备第一格道具宣花斧"
+cheat995_handler = "2"
+cheat995_code = "14E9C,41"
+
+cheat996_desc = "道具交换中刘备第一格道具火焰斧"
+cheat996_handler = "2"
+cheat996_code = "14E9C,42"
+
+cheat997_desc = "道具交换中刘备第一格道具鳯頭斧"
+cheat997_handler = "2"
+cheat997_code = "14E9C,43"
+
+cheat998_desc = "道具交换中刘备第一格道具直刀"
+cheat998_handler = "2"
+cheat998_code = "14E9C,44"
+
+cheat999_desc = "道具交换中刘备第一格道具鋼刀"
+cheat999_handler = "2"
+cheat999_code = "14E9C,45"
+
+cheat1000_desc = "道具交换中刘备第一格道具環刀"
+cheat1000_handler = "2"
+cheat1000_code = "14E9C,46"
+
+cheat1001_desc = "道具交换中刘备第一格道具虎牙刀"
+cheat1001_handler = "2"
+cheat1001_code = "14E9C,47"
+
+cheat1002_desc = "道具交换中刘备第一格道具鳯嘴刀"
+cheat1002_handler = "2"
+cheat1002_code = "14E9C,48"
+
+cheat1003_desc = "道具交换中刘备第一格道具神刀"
+cheat1003_handler = "2"
+cheat1003_code = "14E9C,49"
+
+cheat1004_desc = "道具交换中刘备第一格道具鉤"
+cheat1004_handler = "2"
+cheat1004_code = "14E9C,4A"
+
+cheat1005_desc = "道具交换中刘备第一格道具鉤鐮"
+cheat1005_handler = "2"
+cheat1005_code = "14E9C,4B"
+
+cheat1006_desc = "道具交换中刘备第一格道具護手鉤"
+cheat1006_handler = "2"
+cheat1006_code = "14E9C,4C"
+
+cheat1007_desc = "道具交换中刘备第一格道具鉄鉤距"
+cheat1007_handler = "2"
+cheat1007_code = "14E9C,4D"
+
+cheat1008_desc = "道具交换中刘备第一格道具山賊の誓い"
+cheat1008_handler = "2"
+cheat1008_code = "14E9C,4E"
+
+cheat1009_desc = "道具交换中刘备第一格道具武術指南書"
+cheat1009_handler = "2"
+cheat1009_code = "14E9C,4F"
+
+cheat1010_desc = "道具交换中刘备第一格道具異文化の印"
+cheat1010_handler = "2"
+cheat1010_code = "14E9C,50"
+
+cheat1011_desc = "道具交换中刘备第一格道具操術指南書"
+cheat1011_handler = "2"
+cheat1011_code = "14E9C,51"
+
+cheat1012_desc = "道具交换中刘备第一格道具焦熱書"
+cheat1012_handler = "2"
+cheat1012_code = "14E9C,52"
+
+cheat1013_desc = "道具交换中刘备第一格道具嶪火の書"
+cheat1013_handler = "2"
+cheat1013_code = "14E9C,53"
+
+cheat1014_desc = "道具交换中刘备第一格道具小赤龍の書"
+cheat1014_handler = "2"
+cheat1014_code = "14E9C,54"
+
+cheat1015_desc = "道具交换中刘备第一格道具大焦熱の書"
+cheat1015_handler = "2"
+cheat1015_code = "14E9C,55"
+
+cheat1016_desc = "道具交换中刘备第一格道具大嶪火の書"
+cheat1016_handler = "2"
+cheat1016_code = "14E9C,56"
+
+cheat1017_desc = "道具交换中刘备第一格道具渦潮の書"
+cheat1017_handler = "2"
+cheat1017_code = "14E9C,58"
+
+cheat1018_desc = "道具交换中刘备第一格道具水刃の書"
+cheat1018_handler = "2"
+cheat1018_code = "14E9C,59"
+
+cheat1019_desc = "道具交换中刘备第一格道具小黒龍の書"
+cheat1019_handler = "2"
+cheat1019_code = "14E9C,5A"
+
+cheat1020_desc = "道具交换中刘备第一格道具大渦潮の書"
+cheat1020_handler = "2"
+cheat1020_code = "14E9C,5B"
+
+cheat1021_desc = "道具交换中刘备第一格道具大水刃の書"
+cheat1021_handler = "2"
+cheat1021_code = "14E9C,5C"
+
+cheat1022_desc = "道具交换中刘备第一格道具落石の書"
+cheat1022_handler = "2"
+cheat1022_code = "14E9C,5E"
+
+cheat1023_desc = "道具交换中刘备第一格道具落穴の書"
+cheat1023_handler = "2"
+cheat1023_code = "14E9C,5F"
+
+cheat1024_desc = "道具交换中刘备第一格道具小青龍の書"
+cheat1024_handler = "2"
+cheat1024_code = "14E9C,60"
+
+cheat1025_desc = "道具交换中刘备第一格道具土石流の書"
+cheat1025_handler = "2"
+cheat1025_code = "14E9C,61"
+
+cheat1026_desc = "道具交换中刘备第一格道具大地割の書"
+cheat1026_handler = "2"
+cheat1026_code = "14E9C,62"
+
+cheat1027_desc = "道具交换中刘备第一格道具風無の書"
+cheat1027_handler = "2"
+cheat1027_code = "14E9C,64"
+
+cheat1028_desc = "道具交换中刘备第一格道具旋風の書"
+cheat1028_handler = "2"
+cheat1028_code = "14E9C,65"
+
+cheat1029_desc = "道具交换中刘备第一格道具小白龍の書"
+cheat1029_handler = "2"
+cheat1029_code = "14E9C,66"
+
+cheat1030_desc = "道具交换中刘备第一格道具大旋風の書"
+cheat1030_handler = "2"
+cheat1030_code = "14E9C,67"
+
+cheat1031_desc = "道具交换中刘备第一格道具風気の書"
+cheat1031_handler = "2"
+cheat1031_code = "14E9C,68"
+
+cheat1032_desc = "道具交换中刘备第一格道具酒"
+cheat1032_handler = "2"
+cheat1032_code = "14E9C,6A"
+
+cheat1033_desc = "道具交换中刘备第一格道具土の壁"
+cheat1033_handler = "2"
+cheat1033_code = "14E9C,6B"
+
+cheat1034_desc = "道具交换中刘备第一格道具火の幻"
+cheat1034_handler = "2"
+cheat1034_code = "14E9C,6C"
+
+cheat1035_desc = "道具交换中刘备第一格道具木の光"
+cheat1035_handler = "2"
+cheat1035_code = "14E9C,6D"
+
+cheat1036_desc = "道具交换中刘备第一格道具水の力"
+cheat1036_handler = "2"
+cheat1036_code = "14E9C,6E"
+
+cheat1037_desc = "道具交换中刘备第一格道具特級酒"
+cheat1037_handler = "2"
+cheat1037_code = "14E9C,6F"
+
+cheat1038_desc = "道具交换中刘备第一格道具金の毒"
+cheat1038_handler = "2"
+cheat1038_code = "14E9C,70"
+
+cheat1039_desc = "道具交换中刘备第一格道具老酒"
+cheat1039_handler = "2"
+cheat1039_code = "14E9C,71"
+
+cheat1040_desc = "道具交换中刘备第一格道具妖術の藥"
+cheat1040_handler = "2"
+cheat1040_code = "14E9C,72"
+
+cheat1041_desc = "道具交换中刘备第一格道具仙術の藥"
+cheat1041_handler = "2"
+cheat1041_code = "14E9C,73"
+
+cheat1042_desc = "道具交换中刘备第一格道具駿馬"
+cheat1042_handler = "2"
+cheat1042_code = "14E9C,74"
+
+cheat1043_desc = "道具交换中刘备第一格道具皮甲"
+cheat1043_handler = "2"
+cheat1043_code = "14E9C,75"
+
+cheat1044_desc = "道具交换中刘备第一格道具藤甲"
+cheat1044_handler = "2"
+cheat1044_code = "14E9C,76"
+
+cheat1045_desc = "道具交换中刘备第一格道具鎖子甲"
+cheat1045_handler = "2"
+cheat1045_code = "14E9C,77"
+
+cheat1046_desc = "道具交换中刘备第一格道具鉄甲"
+cheat1046_handler = "2"
+cheat1046_code = "14E9C,78"
+
+cheat1047_desc = "道具交换中刘备第一格道具鋼子連鐶甲"
+cheat1047_handler = "2"
+cheat1047_code = "14E9C,79"
+
+cheat1048_desc = "道具交换中刘备第一格道具金鎖の甲"
+cheat1048_handler = "2"
+cheat1048_code = "14E9C,7A"
+
+cheat1049_desc = "道具交换中刘备第一格道具白銀の甲"
+cheat1049_handler = "2"
+cheat1049_code = "14E9C,7B"
+
+cheat1050_desc = "道具交换中刘备第一格道具連鐶の鎧"
+cheat1050_handler = "2"
+cheat1050_code = "14E9C,7C"
+
+cheat1051_desc = "道具交换中刘备第一格道具筒袖鎧"
+cheat1051_handler = "2"
+cheat1051_code = "14E9C,7D"
+
+cheat1052_desc = "道具交换中刘备第一格道具明光鎧"
+cheat1052_handler = "2"
+cheat1052_code = "14E9C,7E"
+
+cheat1053_desc = "道具交换中刘备第一格道具手牌"
+cheat1053_handler = "2"
+cheat1053_code = "14E9C,7F"
+
+cheat1054_desc = "道具交换中刘备第一格道具団牌"
+cheat1054_handler = "2"
+cheat1054_code = "14E9C,80"
+
+cheat1055_desc = "道具交换中刘备第一格道具推牌"
+cheat1055_handler = "2"
+cheat1055_code = "14E9C,81"
+
+cheat1056_desc = "道具交换中刘备第一格道具燕尾牌"
+cheat1056_handler = "2"
+cheat1056_code = "14E9C,82"
+
+cheat1057_desc = "道具交换中刘备第一格道具無敵神牌"
+cheat1057_handler = "2"
+cheat1057_code = "14E9C,83"
+
+cheat1058_desc = "道具交换中刘备第一格道具槍"
+cheat1058_handler = "2"
+cheat1058_code = "14E9C,84"
+
+cheat1059_desc = "道具交换中刘备第一格道具半月槍"
+cheat1059_handler = "2"
+cheat1059_code = "14E9C,85"
+
+cheat1060_desc = "道具交换中刘备第一格道具鉄槍"
+cheat1060_handler = "2"
+cheat1060_code = "14E9C,86"
+
+cheat1061_desc = "道具交换中刘备第一格道具環子槍"
+cheat1061_handler = "2"
+cheat1061_code = "14E9C,87"
+
+cheat1062_desc = "道具交换中刘备第一格道具鉤鐮槍"
+cheat1062_handler = "2"
+cheat1062_code = "14E9C,88"
+
+cheat1063_desc = "道具交换中刘备第一格道具红の槍"
+cheat1063_handler = "2"
+cheat1063_code = "14E9C,89"
+
+cheat1064_desc = "道具交换中刘备第一格道具戟"
+cheat1064_handler = "2"
+cheat1064_code = "14E9C,8A"
+
+cheat1065_desc = "道具交换中刘备第一格道具長戟"
+cheat1065_handler = "2"
+cheat1065_code = "14E9C,8B"
+
+cheat1066_desc = "道具交换中刘备第一格道具大戟"
+cheat1066_handler = "2"
+cheat1066_code = "14E9C,8C"
+
+cheat1067_desc = "道具交换中刘备第一格道具青龍戟"
+cheat1067_handler = "2"
+cheat1067_code = "14E9C,8D"
+
+cheat1068_desc = "道具交换中刘备第一格道具半弓"
+cheat1068_handler = "2"
+cheat1068_code = "14E9C,8E"
+
+cheat1069_desc = "道具交换中刘备第一格道具弯弓"
+cheat1069_handler = "2"
+cheat1069_code = "14E9C,8F"
+
+cheat1070_desc = "道具交换中刘备第一格道具李满弓"
+cheat1070_handler = "2"
+cheat1070_code = "14E9C,90"
+
+cheat1071_desc = "道具交换中刘备第一格道具强弓"
+cheat1071_handler = "2"
+cheat1071_code = "14E9C,91"
+
+cheat1072_desc = "道具交换中刘备第一格道具鉄弓"
+cheat1072_handler = "2"
+cheat1072_code = "14E9C,92"
+
+cheat1073_desc = "道具交换中刘备第一格道具双弓床弩"
+cheat1073_handler = "2"
+cheat1073_code = "14E9C,93"
+
+cheat1074_desc = "道具交换中刘备第一格道具斗子弩"
+cheat1074_handler = "2"
+cheat1074_code = "14E9C,94"
+
+cheat1075_desc = "道具交换中刘备第一格道具三弓斗子弩"
+cheat1075_handler = "2"
+cheat1075_code = "14E9C,95"
+
+cheat1076_desc = "道具交换中刘备第一格道具神弩"
+cheat1076_handler = "2"
+cheat1076_code = "14E9C,96"
+
+cheat1077_desc = "道具交换中刘备第一格道具手砲"
+cheat1077_handler = "2"
+cheat1077_code = "14E9C,97"
+
+cheat1078_desc = "道具交换中刘备第一格道具合砲"
+cheat1078_handler = "2"
+cheat1078_code = "14E9C,98"
+
+cheat1079_desc = "道具交换中刘备第一格道具単梢砲"
+cheat1079_handler = "2"
+cheat1079_code = "14E9C,99"
+
+cheat1080_desc = "道具交换中刘备第一格道具双梢砲"
+cheat1080_handler = "2"
+cheat1080_code = "14E9C,9A"
+
+cheat1081_desc = "道具交换中刘备第一格道具霹雳車"
+cheat1081_handler = "2"
+cheat1081_code = "14E9C,9B"
+
+cheat1082_desc = "道具交换中刘备第一格道具旋風砲"
+cheat1082_handler = "2"
+cheat1082_code = "14E9C,9C"
+
+cheat1083_desc = "道具交换中刘备第一格道具独角旋風砲"
+cheat1083_handler = "2"
+cheat1083_code = "14E9C,9D"
+
+cheat1084_desc = "道具交换中刘备第一格道具旋風五砲"
+cheat1084_handler = "2"
+cheat1084_code = "14E9C,9E"
+
+cheat1085_desc = "道具交换中刘备第一格道具圈"
+cheat1085_handler = "2"
+cheat1085_code = "14E9C,9F"
+
+cheat1086_desc = "道具交换中刘备第一格道具乾坤烏亀圈"
+cheat1086_handler = "2"
+cheat1086_code = "14E9C,A0"
+
+cheat1087_desc = "道具交换中刘备第一格道具日月乾坤圈"
+cheat1087_handler = "2"
+cheat1087_code = "14E9C,A1"
+
+cheat1088_desc = "道具交换中刘备第一格道具鶏爪鉞"
+cheat1088_handler = "2"
+cheat1088_code = "14E9C,A2"
+
+cheat1089_desc = "道具交换中刘备第一格道具鶏爪駌鴦鉞"
+cheat1089_handler = "2"
+cheat1089_code = "14E9C,A3"
+
+cheat1090_desc = "道具交换中刘备第一格道具子母駌鴦鉞"
+cheat1090_handler = "2"
+cheat1090_code = "14E9C,A4"
+
+cheat1091_desc = "道具交换中刘备第一格道具流星錘"
+cheat1091_handler = "2"
+cheat1091_code = "14E9C,A5"
+
+cheat1092_desc = "道具交换中刘备第一格道具狼牙錘"
+cheat1092_handler = "2"
+cheat1092_code = "14E9C,A6"
+
+cheat1093_desc = "道具交换中刘备第一格道具鞭"
+cheat1093_handler = "2"
+cheat1093_code = "14E9C,A7"
+
+cheat1094_desc = "道具交换中刘备第一格道具柳鞭"
+cheat1094_handler = "2"
+cheat1094_code = "14E9C,A8"
+
+cheat1095_desc = "道具交换中刘备第一格道具鯨鞭"
+cheat1095_handler = "2"
+cheat1095_code = "14E9C,A9"
+
+cheat1096_desc = "道具交换中刘备第一格道具鉄笛"
+cheat1096_handler = "2"
+cheat1096_code = "14E9C,AA"
+
+cheat1097_desc = "道具交换中刘备第一格道具銅鑼"
+cheat1097_handler = "2"
+cheat1097_code = "14E9C,AB"
+
+cheat1098_desc = "道具交换中刘备第一格道具鼓角"
+cheat1098_handler = "2"
+cheat1098_code = "14E9C,AC"
+
+cheat1099_desc = "道具交换中刘备第一格道具兵鼓"
+cheat1099_handler = "2"
+cheat1099_code = "14E9C,AD"
+
+cheat1100_desc = "道具交换中刘备第一格道具鉦鼓"
+cheat1100_handler = "2"
+cheat1100_code = "14E9C,AE"
+
+cheat1101_desc = "道具交换中刘备第一格道具金鼓"
+cheat1101_handler = "2"
+cheat1101_code = "14E9C,AF"
+
+cheat1102_desc = "道具交换中刘备第一格道具鉄扇"
+cheat1102_handler = "2"
+cheat1102_code = "14E9C,B0"
+
+cheat1103_desc = "道具交换中刘备第一格道具羽扇"
+cheat1103_handler = "2"
+cheat1103_code = "14E9C,B1"
+
+cheat1104_desc = "道具交换中刘备第一格道具白羽扇"
+cheat1104_handler = "2"
+cheat1104_code = "14E9C,B2"
+
+cheat1105_desc = "道具交换中刘备第一格道具木牛"
+cheat1105_handler = "2"
+cheat1105_code = "14E9C,B3"
+
+cheat1106_desc = "道具交换中刘备第一格道具流馬"
+cheat1106_handler = "2"
+cheat1106_code = "14E9C,B4"
+
+cheat1107_desc = "道具交换中刘备第一格道具扁厢車"
+cheat1107_handler = "2"
+cheat1107_code = "14E9C,B5"
+
+cheat1108_desc = "道具交换中刘备第一格道具正廂車"
+cheat1108_handler = "2"
+cheat1108_code = "14E9C,B6"
+
+cheat1109_desc = "道具交换中刘备第二格道具遁甲天書"
+cheat1109_handler = "2"
+cheat1109_code = "14E9D,00"
+
+cheat1110_desc = "道具交换中刘备第二格道具青囊書"
+cheat1110_handler = "2"
+cheat1110_code = "14E9D,01"
+
+cheat1111_desc = "道具交换中刘备第二格道具軍樂譜"
+cheat1111_handler = "2"
+cheat1111_code = "14E9D,02"
+
+cheat1112_desc = "道具交换中刘备第二格道具孫子の兵法書"
+cheat1112_handler = "2"
+cheat1112_code = "14E9D,03"
+
+cheat1113_desc = "道具交换中刘备第二格道具孟德新書"
+cheat1113_handler = "2"
+cheat1113_code = "14E9D,04"
+
+cheat1114_desc = "道具交换中刘备第二格道具爪黄飛電"
+cheat1114_handler = "2"
+cheat1114_code = "14E9D,05"
+
+cheat1115_desc = "道具交换中刘备第二格道具的盧"
+cheat1115_handler = "2"
+cheat1115_code = "14E9D,06"
+
+cheat1116_desc = "道具交换中刘备第二格道具赤兔馬"
+cheat1116_handler = "2"
+cheat1116_code = "14E9D,07"
+
+cheat1117_desc = "道具交换中刘备第二格道具玉璽"
+cheat1117_handler = "2"
+cheat1117_code = "14E9D,08"
+
+cheat1118_desc = "道具交换中刘备第二格道具倚天の剣"
+cheat1118_handler = "2"
+cheat1118_code = "14E9D,09"
+
+cheat1119_desc = "道具交换中刘备第二格道具青釭の剣"
+cheat1119_handler = "2"
+cheat1119_code = "14E9D,0A"
+
+cheat1120_desc = "道具交换中刘备第二格道具七星の劍"
+cheat1120_handler = "2"
+cheat1120_code = "14E9D,0B"
+
+cheat1121_desc = "道具交换中刘备第二格道具青龍偃月刀"
+cheat1121_handler = "2"
+cheat1121_code = "14E9D,0C"
+
+cheat1122_desc = "道具交换中刘备第二格道具三尖刀"
+cheat1122_handler = "2"
+cheat1122_code = "14E9D,0D"
+
+cheat1123_desc = "道具交换中刘备第二格道具方天畫戟"
+cheat1123_handler = "2"
+cheat1123_code = "14E9D,0E"
+
+cheat1124_desc = "道具交换中刘备第二格道具蛇矛"
+cheat1124_handler = "2"
+cheat1124_code = "14E9D,0F"
+
+cheat1125_desc = "道具交换中刘备第二格道具弓術指南書"
+cheat1125_handler = "2"
+cheat1125_code = "14E9D,10"
+
+cheat1126_desc = "道具交换中刘备第二格道具馬術指南書"
+cheat1126_handler = "2"
+cheat1126_code = "14E9D,11"
+
+cheat1127_desc = "道具交换中刘备第二格道具剣術指南書"
+cheat1127_handler = "2"
+cheat1127_code = "14E9D,12"
+
+cheat1128_desc = "道具交换中刘备第二格道具長槍術奥義"
+cheat1128_handler = "2"
+cheat1128_code = "14E9D,13"
+
+cheat1129_desc = "道具交换中刘备第二格道具戦車術奥義"
+cheat1129_handler = "2"
+cheat1129_code = "14E9D,14"
+
+cheat1130_desc = "道具交换中刘备第二格道具連弩術極義"
+cheat1130_handler = "2"
+cheat1130_code = "14E9D,15"
+
+cheat1131_desc = "道具交换中刘备第二格道具發石術極義"
+cheat1131_handler = "2"
+cheat1131_code = "14E9D,16"
+
+cheat1132_desc = "道具交换中刘备第二格道具重騎兵の印綬"
+cheat1132_handler = "2"
+cheat1132_code = "14E9D,17"
+
+cheat1133_desc = "道具交换中刘备第二格道具親衛隊の印綬"
+cheat1133_handler = "2"
+cheat1133_code = "14E9D,18"
+
+cheat1134_desc = "道具交换中刘备第二格道具無賴の心得"
+cheat1134_handler = "2"
+cheat1134_code = "14E9D,19"
+
+cheat1135_desc = "道具交换中刘备第二格道具義俠の心得"
+cheat1135_handler = "2"
+cheat1135_code = "14E9D,1A"
+
+cheat1136_desc = "道具交换中刘备第二格道具豆"
+cheat1136_handler = "2"
+cheat1136_code = "14E9D,1B"
+
+cheat1137_desc = "道具交换中刘备第二格道具麥"
+cheat1137_handler = "2"
+cheat1137_code = "14E9D,1F"
+
+cheat1138_desc = "道具交换中刘备第二格道具米"
+cheat1138_handler = "2"
+cheat1138_code = "14E9D,20"
+
+cheat1139_desc = "道具交换中刘备第二格道具爆弾"
+cheat1139_handler = "2"
+cheat1139_code = "14E9D,21"
+
+cheat1140_desc = "道具交换中刘备第二格道具傷藥"
+cheat1140_handler = "2"
+cheat1140_code = "14E9D,2E"
+
+cheat1141_desc = "道具交换中刘备第二格道具漢方藥"
+cheat1141_handler = "2"
+cheat1141_code = "14E9D,2F"
+
+cheat1142_desc = "道具交换中刘备第二格道具救命藥"
+cheat1142_handler = "2"
+cheat1142_code = "14E9D,30"
+
+cheat1143_desc = "道具交换中刘备第二格道具赦命書"
+cheat1143_handler = "2"
+cheat1143_code = "14E9D,37"
+
+cheat1144_desc = "道具交换中刘备第二格道具援軍報告"
+cheat1144_handler = "2"
+cheat1144_code = "14E9D,38"
+
+cheat1145_desc = "道具交换中刘备第二格道具雌雄一对の剣"
+cheat1145_handler = "2"
+cheat1145_code = "14E9D,39"
+
+cheat1146_desc = "道具交换中刘备第二格道具英傑の剣"
+cheat1146_handler = "2"
+cheat1146_code = "14E9D,3A"
+
+cheat1147_desc = "道具交换中刘备第二格道具霸者の剣"
+cheat1147_handler = "2"
+cheat1147_code = "14E9D,3B"
+
+cheat1148_desc = "道具交换中刘备第二格道具六韜"
+cheat1148_handler = "2"
+cheat1148_code = "14E9D,3C"
+
+cheat1149_desc = "道具交换中刘备第二格道具三略"
+cheat1149_handler = "2"
+cheat1149_code = "14E9D,3D"
+
+cheat1150_desc = "道具交换中刘备第二格道具吳子の兵法"
+cheat1150_handler = "2"
+cheat1150_code = "14E9D,3E"
+
+cheat1151_desc = "道具交换中刘备第二格道具斧"
+cheat1151_handler = "2"
+cheat1151_code = "14E9D,3F"
+
+cheat1152_desc = "道具交换中刘备第二格道具板斧"
+cheat1152_handler = "2"
+cheat1152_code = "14E9D,40"
+
+cheat1153_desc = "道具交换中刘备第二格道具宣花斧"
+cheat1153_handler = "2"
+cheat1153_code = "14E9D,41"
+
+cheat1154_desc = "道具交换中刘备第二格道具火焰斧"
+cheat1154_handler = "2"
+cheat1154_code = "14E9D,42"
+
+cheat1155_desc = "道具交换中刘备第二格道具鳯頭斧"
+cheat1155_handler = "2"
+cheat1155_code = "14E9D,43"
+
+cheat1156_desc = "道具交换中刘备第二格道具直刀"
+cheat1156_handler = "2"
+cheat1156_code = "14E9D,44"
+
+cheat1157_desc = "道具交换中刘备第二格道具鋼刀"
+cheat1157_handler = "2"
+cheat1157_code = "14E9D,45"
+
+cheat1158_desc = "道具交换中刘备第二格道具環刀"
+cheat1158_handler = "2"
+cheat1158_code = "14E9D,46"
+
+cheat1159_desc = "道具交换中刘备第二格道具虎牙刀"
+cheat1159_handler = "2"
+cheat1159_code = "14E9D,47"
+
+cheat1160_desc = "道具交换中刘备第二格道具鳯嘴刀"
+cheat1160_handler = "2"
+cheat1160_code = "14E9D,48"
+
+cheat1161_desc = "道具交换中刘备第二格道具神刀"
+cheat1161_handler = "2"
+cheat1161_code = "14E9D,49"
+
+cheat1162_desc = "道具交换中刘备第二格道具鉤"
+cheat1162_handler = "2"
+cheat1162_code = "14E9D,4A"
+
+cheat1163_desc = "道具交换中刘备第二格道具鉤鐮"
+cheat1163_handler = "2"
+cheat1163_code = "14E9D,4B"
+
+cheat1164_desc = "道具交换中刘备第二格道具護手鉤"
+cheat1164_handler = "2"
+cheat1164_code = "14E9D,4C"
+
+cheat1165_desc = "道具交换中刘备第二格道具鉄鉤距"
+cheat1165_handler = "2"
+cheat1165_code = "14E9D,4D"
+
+cheat1166_desc = "道具交换中刘备第二格道具山賊の誓い"
+cheat1166_handler = "2"
+cheat1166_code = "14E9D,4E"
+
+cheat1167_desc = "道具交换中刘备第二格道具武術指南書"
+cheat1167_handler = "2"
+cheat1167_code = "14E9D,4F"
+
+cheat1168_desc = "道具交换中刘备第二格道具異文化の印"
+cheat1168_handler = "2"
+cheat1168_code = "14E9D,50"
+
+cheat1169_desc = "道具交换中刘备第二格道具操術指南書"
+cheat1169_handler = "2"
+cheat1169_code = "14E9D,51"
+
+cheat1170_desc = "道具交换中刘备第二格道具焦熱書"
+cheat1170_handler = "2"
+cheat1170_code = "14E9D,52"
+
+cheat1171_desc = "道具交换中刘备第二格道具嶪火の書"
+cheat1171_handler = "2"
+cheat1171_code = "14E9D,53"
+
+cheat1172_desc = "道具交换中刘备第二格道具小赤龍の書"
+cheat1172_handler = "2"
+cheat1172_code = "14E9D,54"
+
+cheat1173_desc = "道具交换中刘备第二格道具大焦熱の書"
+cheat1173_handler = "2"
+cheat1173_code = "14E9D,55"
+
+cheat1174_desc = "道具交换中刘备第二格道具大嶪火の書"
+cheat1174_handler = "2"
+cheat1174_code = "14E9D,56"
+
+cheat1175_desc = "道具交换中刘备第二格道具渦潮の書"
+cheat1175_handler = "2"
+cheat1175_code = "14E9D,58"
+
+cheat1176_desc = "道具交换中刘备第二格道具水刃の書"
+cheat1176_handler = "2"
+cheat1176_code = "14E9D,59"
+
+cheat1177_desc = "道具交换中刘备第二格道具小黒龍の書"
+cheat1177_handler = "2"
+cheat1177_code = "14E9D,5A"
+
+cheat1178_desc = "道具交换中刘备第二格道具大渦潮の書"
+cheat1178_handler = "2"
+cheat1178_code = "14E9D,5B"
+
+cheat1179_desc = "道具交换中刘备第二格道具大水刃の書"
+cheat1179_handler = "2"
+cheat1179_code = "14E9D,5C"
+
+cheat1180_desc = "道具交换中刘备第二格道具落石の書"
+cheat1180_handler = "2"
+cheat1180_code = "14E9D,5E"
+
+cheat1181_desc = "道具交换中刘备第二格道具落穴の書"
+cheat1181_handler = "2"
+cheat1181_code = "14E9D,5F"
+
+cheat1182_desc = "道具交换中刘备第二格道具小青龍の書"
+cheat1182_handler = "2"
+cheat1182_code = "14E9D,60"
+
+cheat1183_desc = "道具交换中刘备第二格道具土石流の書"
+cheat1183_handler = "2"
+cheat1183_code = "14E9D,61"
+
+cheat1184_desc = "道具交换中刘备第二格道具大地割の書"
+cheat1184_handler = "2"
+cheat1184_code = "14E9D,62"
+
+cheat1185_desc = "道具交换中刘备第二格道具風無の書"
+cheat1185_handler = "2"
+cheat1185_code = "14E9D,64"
+
+cheat1186_desc = "道具交换中刘备第二格道具旋風の書"
+cheat1186_handler = "2"
+cheat1186_code = "14E9D,65"
+
+cheat1187_desc = "道具交换中刘备第二格道具小白龍の書"
+cheat1187_handler = "2"
+cheat1187_code = "14E9D,66"
+
+cheat1188_desc = "道具交换中刘备第二格道具大旋風の書"
+cheat1188_handler = "2"
+cheat1188_code = "14E9D,67"
+
+cheat1189_desc = "道具交换中刘备第二格道具風気の書"
+cheat1189_handler = "2"
+cheat1189_code = "14E9D,68"
+
+cheat1190_desc = "道具交换中刘备第二格道具酒"
+cheat1190_handler = "2"
+cheat1190_code = "14E9D,6A"
+
+cheat1191_desc = "道具交换中刘备第二格道具土の壁"
+cheat1191_handler = "2"
+cheat1191_code = "14E9D,6B"
+
+cheat1192_desc = "道具交换中刘备第二格道具火の幻"
+cheat1192_handler = "2"
+cheat1192_code = "14E9D,6C"
+
+cheat1193_desc = "道具交换中刘备第二格道具木の光"
+cheat1193_handler = "2"
+cheat1193_code = "14E9D,6D"
+
+cheat1194_desc = "道具交换中刘备第二格道具水の力"
+cheat1194_handler = "2"
+cheat1194_code = "14E9D,6E"
+
+cheat1195_desc = "道具交换中刘备第二格道具特級酒"
+cheat1195_handler = "2"
+cheat1195_code = "14E9D,6F"
+
+cheat1196_desc = "道具交换中刘备第二格道具金の毒"
+cheat1196_handler = "2"
+cheat1196_code = "14E9D,70"
+
+cheat1197_desc = "道具交换中刘备第二格道具老酒"
+cheat1197_handler = "2"
+cheat1197_code = "14E9D,71"
+
+cheat1198_desc = "道具交换中刘备第二格道具妖術の藥"
+cheat1198_handler = "2"
+cheat1198_code = "14E9D,72"
+
+cheat1199_desc = "道具交换中刘备第二格道具仙術の藥"
+cheat1199_handler = "2"
+cheat1199_code = "14E9D,73"
+
+cheat1200_desc = "道具交换中刘备第二格道具駿馬"
+cheat1200_handler = "2"
+cheat1200_code = "14E9D,74"
+
+cheat1201_desc = "道具交换中刘备第二格道具皮甲"
+cheat1201_handler = "2"
+cheat1201_code = "14E9D,75"
+
+cheat1202_desc = "道具交换中刘备第二格道具藤甲"
+cheat1202_handler = "2"
+cheat1202_code = "14E9D,76"
+
+cheat1203_desc = "道具交换中刘备第二格道具鎖子甲"
+cheat1203_handler = "2"
+cheat1203_code = "14E9D,77"
+
+cheat1204_desc = "道具交换中刘备第二格道具鉄甲"
+cheat1204_handler = "2"
+cheat1204_code = "14E9D,78"
+
+cheat1205_desc = "道具交换中刘备第二格道具鋼子連鐶甲"
+cheat1205_handler = "2"
+cheat1205_code = "14E9D,79"
+
+cheat1206_desc = "道具交换中刘备第二格道具金鎖の甲"
+cheat1206_handler = "2"
+cheat1206_code = "14E9D,7A"
+
+cheat1207_desc = "道具交换中刘备第二格道具白銀の甲"
+cheat1207_handler = "2"
+cheat1207_code = "14E9D,7B"
+
+cheat1208_desc = "道具交换中刘备第二格道具連鐶の鎧"
+cheat1208_handler = "2"
+cheat1208_code = "14E9D,7C"
+
+cheat1209_desc = "道具交换中刘备第二格道具筒袖鎧"
+cheat1209_handler = "2"
+cheat1209_code = "14E9D,7D"
+
+cheat1210_desc = "道具交换中刘备第二格道具明光鎧"
+cheat1210_handler = "2"
+cheat1210_code = "14E9D,7E"
+
+cheat1211_desc = "道具交换中刘备第二格道具手牌"
+cheat1211_handler = "2"
+cheat1211_code = "14E9D,7F"
+
+cheat1212_desc = "道具交换中刘备第二格道具団牌"
+cheat1212_handler = "2"
+cheat1212_code = "14E9D,80"
+
+cheat1213_desc = "道具交换中刘备第二格道具推牌"
+cheat1213_handler = "2"
+cheat1213_code = "14E9D,81"
+
+cheat1214_desc = "道具交换中刘备第二格道具燕尾牌"
+cheat1214_handler = "2"
+cheat1214_code = "14E9D,82"
+
+cheat1215_desc = "道具交换中刘备第二格道具無敵神牌"
+cheat1215_handler = "2"
+cheat1215_code = "14E9D,83"
+
+cheat1216_desc = "道具交换中刘备第二格道具槍"
+cheat1216_handler = "2"
+cheat1216_code = "14E9D,84"
+
+cheat1217_desc = "道具交换中刘备第二格道具半月槍"
+cheat1217_handler = "2"
+cheat1217_code = "14E9D,85"
+
+cheat1218_desc = "道具交换中刘备第二格道具鉄槍"
+cheat1218_handler = "2"
+cheat1218_code = "14E9D,86"
+
+cheat1219_desc = "道具交换中刘备第二格道具環子槍"
+cheat1219_handler = "2"
+cheat1219_code = "14E9D,87"
+
+cheat1220_desc = "道具交换中刘备第二格道具鉤鐮槍"
+cheat1220_handler = "2"
+cheat1220_code = "14E9D,88"
+
+cheat1221_desc = "道具交换中刘备第二格道具红の槍"
+cheat1221_handler = "2"
+cheat1221_code = "14E9D,89"
+
+cheat1222_desc = "道具交换中刘备第二格道具戟"
+cheat1222_handler = "2"
+cheat1222_code = "14E9D,8A"
+
+cheat1223_desc = "道具交换中刘备第二格道具長戟"
+cheat1223_handler = "2"
+cheat1223_code = "14E9D,8B"
+
+cheat1224_desc = "道具交换中刘备第二格道具大戟"
+cheat1224_handler = "2"
+cheat1224_code = "14E9D,8C"
+
+cheat1225_desc = "道具交换中刘备第二格道具青龍戟"
+cheat1225_handler = "2"
+cheat1225_code = "14E9D,8D"
+
+cheat1226_desc = "道具交换中刘备第二格道具半弓"
+cheat1226_handler = "2"
+cheat1226_code = "14E9D,8E"
+
+cheat1227_desc = "道具交换中刘备第二格道具弯弓"
+cheat1227_handler = "2"
+cheat1227_code = "14E9D,8F"
+
+cheat1228_desc = "道具交换中刘备第二格道具李满弓"
+cheat1228_handler = "2"
+cheat1228_code = "14E9D,90"
+
+cheat1229_desc = "道具交换中刘备第二格道具强弓"
+cheat1229_handler = "2"
+cheat1229_code = "14E9D,91"
+
+cheat1230_desc = "道具交换中刘备第二格道具鉄弓"
+cheat1230_handler = "2"
+cheat1230_code = "14E9D,92"
+
+cheat1231_desc = "道具交换中刘备第二格道具双弓床弩"
+cheat1231_handler = "2"
+cheat1231_code = "14E9D,93"
+
+cheat1232_desc = "道具交换中刘备第二格道具斗子弩"
+cheat1232_handler = "2"
+cheat1232_code = "14E9D,94"
+
+cheat1233_desc = "道具交换中刘备第二格道具三弓斗子弩"
+cheat1233_handler = "2"
+cheat1233_code = "14E9D,95"
+
+cheat1234_desc = "道具交换中刘备第二格道具神弩"
+cheat1234_handler = "2"
+cheat1234_code = "14E9D,96"
+
+cheat1235_desc = "道具交换中刘备第二格道具手砲"
+cheat1235_handler = "2"
+cheat1235_code = "14E9D,97"
+
+cheat1236_desc = "道具交换中刘备第二格道具合砲"
+cheat1236_handler = "2"
+cheat1236_code = "14E9D,98"
+
+cheat1237_desc = "道具交换中刘备第二格道具単梢砲"
+cheat1237_handler = "2"
+cheat1237_code = "14E9D,99"
+
+cheat1238_desc = "道具交换中刘备第二格道具双梢砲"
+cheat1238_handler = "2"
+cheat1238_code = "14E9D,9A"
+
+cheat1239_desc = "道具交换中刘备第二格道具霹雳車"
+cheat1239_handler = "2"
+cheat1239_code = "14E9D,9B"
+
+cheat1240_desc = "道具交换中刘备第二格道具旋風砲"
+cheat1240_handler = "2"
+cheat1240_code = "14E9D,9C"
+
+cheat1241_desc = "道具交换中刘备第二格道具独角旋風砲"
+cheat1241_handler = "2"
+cheat1241_code = "14E9D,9D"
+
+cheat1242_desc = "道具交换中刘备第二格道具旋風五砲"
+cheat1242_handler = "2"
+cheat1242_code = "14E9D,9E"
+
+cheat1243_desc = "道具交换中刘备第二格道具圈"
+cheat1243_handler = "2"
+cheat1243_code = "14E9D,9F"
+
+cheat1244_desc = "道具交换中刘备第二格道具乾坤烏亀圈"
+cheat1244_handler = "2"
+cheat1244_code = "14E9D,A0"
+
+cheat1245_desc = "道具交换中刘备第二格道具日月乾坤圈"
+cheat1245_handler = "2"
+cheat1245_code = "14E9D,A1"
+
+cheat1246_desc = "道具交换中刘备第二格道具鶏爪鉞"
+cheat1246_handler = "2"
+cheat1246_code = "14E9D,A2"
+
+cheat1247_desc = "道具交换中刘备第二格道具鶏爪駌鴦鉞"
+cheat1247_handler = "2"
+cheat1247_code = "14E9D,A3"
+
+cheat1248_desc = "道具交换中刘备第二格道具子母駌鴦鉞"
+cheat1248_handler = "2"
+cheat1248_code = "14E9D,A4"
+
+cheat1249_desc = "道具交换中刘备第二格道具流星錘"
+cheat1249_handler = "2"
+cheat1249_code = "14E9D,A5"
+
+cheat1250_desc = "道具交换中刘备第二格道具狼牙錘"
+cheat1250_handler = "2"
+cheat1250_code = "14E9D,A6"
+
+cheat1251_desc = "道具交换中刘备第二格道具鞭"
+cheat1251_handler = "2"
+cheat1251_code = "14E9D,A7"
+
+cheat1252_desc = "道具交换中刘备第二格道具柳鞭"
+cheat1252_handler = "2"
+cheat1252_code = "14E9D,A8"
+
+cheat1253_desc = "道具交换中刘备第二格道具鯨鞭"
+cheat1253_handler = "2"
+cheat1253_code = "14E9D,A9"
+
+cheat1254_desc = "道具交换中刘备第二格道具鉄笛"
+cheat1254_handler = "2"
+cheat1254_code = "14E9D,AA"
+
+cheat1255_desc = "道具交换中刘备第二格道具銅鑼"
+cheat1255_handler = "2"
+cheat1255_code = "14E9D,AB"
+
+cheat1256_desc = "道具交换中刘备第二格道具鼓角"
+cheat1256_handler = "2"
+cheat1256_code = "14E9D,AC"
+
+cheat1257_desc = "道具交换中刘备第二格道具兵鼓"
+cheat1257_handler = "2"
+cheat1257_code = "14E9D,AD"
+
+cheat1258_desc = "道具交换中刘备第二格道具鉦鼓"
+cheat1258_handler = "2"
+cheat1258_code = "14E9D,AE"
+
+cheat1259_desc = "道具交换中刘备第二格道具金鼓"
+cheat1259_handler = "2"
+cheat1259_code = "14E9D,AF"
+
+cheat1260_desc = "道具交换中刘备第二格道具鉄扇"
+cheat1260_handler = "2"
+cheat1260_code = "14E9D,B0"
+
+cheat1261_desc = "道具交换中刘备第二格道具羽扇"
+cheat1261_handler = "2"
+cheat1261_code = "14E9D,B1"
+
+cheat1262_desc = "道具交换中刘备第二格道具白羽扇"
+cheat1262_handler = "2"
+cheat1262_code = "14E9D,B2"
+
+cheat1263_desc = "道具交换中刘备第二格道具木牛"
+cheat1263_handler = "2"
+cheat1263_code = "14E9D,B3"
+
+cheat1264_desc = "道具交换中刘备第二格道具流馬"
+cheat1264_handler = "2"
+cheat1264_code = "14E9D,B4"
+
+cheat1265_desc = "道具交换中刘备第二格道具扁厢車"
+cheat1265_handler = "2"
+cheat1265_code = "14E9D,B5"
+
+cheat1266_desc = "道具交换中刘备第二格道具正廂車"
+cheat1266_handler = "2"
+cheat1266_code = "14E9D,B6"
+
+cheat1267_desc = "道具交换中刘备第三格道具遁甲天書"
+cheat1267_handler = "2"
+cheat1267_code = "14E9E,00"
+
+cheat1268_desc = "道具交换中刘备第三格道具青囊書"
+cheat1268_handler = "2"
+cheat1268_code = "14E9E,01"
+
+cheat1269_desc = "道具交换中刘备第三格道具軍樂譜"
+cheat1269_handler = "2"
+cheat1269_code = "14E9E,02"
+
+cheat1270_desc = "道具交换中刘备第三格道具孫子の兵法書"
+cheat1270_handler = "2"
+cheat1270_code = "14E9E,03"
+
+cheat1271_desc = "道具交换中刘备第三格道具孟德新書"
+cheat1271_handler = "2"
+cheat1271_code = "14E9E,04"
+
+cheat1272_desc = "道具交换中刘备第三格道具爪黄飛電"
+cheat1272_handler = "2"
+cheat1272_code = "14E9E,05"
+
+cheat1273_desc = "道具交换中刘备第三格道具的盧"
+cheat1273_handler = "2"
+cheat1273_code = "14E9E,06"
+
+cheat1274_desc = "道具交换中刘备第三格道具赤兔馬"
+cheat1274_handler = "2"
+cheat1274_code = "14E9E,07"
+
+cheat1275_desc = "道具交换中刘备第三格道具玉璽"
+cheat1275_handler = "2"
+cheat1275_code = "14E9E,08"
+
+cheat1276_desc = "道具交换中刘备第三格道具倚天の剣"
+cheat1276_handler = "2"
+cheat1276_code = "14E9E,09"
+
+cheat1277_desc = "道具交换中刘备第三格道具青釭の剣"
+cheat1277_handler = "2"
+cheat1277_code = "14E9E,0A"
+
+cheat1278_desc = "道具交换中刘备第三格道具七星の劍"
+cheat1278_handler = "2"
+cheat1278_code = "14E9E,0B"
+
+cheat1279_desc = "道具交换中刘备第三格道具青龍偃月刀"
+cheat1279_handler = "2"
+cheat1279_code = "14E9E,0C"
+
+cheat1280_desc = "道具交换中刘备第三格道具三尖刀"
+cheat1280_handler = "2"
+cheat1280_code = "14E9E,0D"
+
+cheat1281_desc = "道具交换中刘备第三格道具方天畫戟"
+cheat1281_handler = "2"
+cheat1281_code = "14E9E,0E"
+
+cheat1282_desc = "道具交换中刘备第三格道具蛇矛"
+cheat1282_handler = "2"
+cheat1282_code = "14E9E,0F"
+
+cheat1283_desc = "道具交换中刘备第三格道具弓術指南書"
+cheat1283_handler = "2"
+cheat1283_code = "14E9E,10"
+
+cheat1284_desc = "道具交换中刘备第三格道具馬術指南書"
+cheat1284_handler = "2"
+cheat1284_code = "14E9E,11"
+
+cheat1285_desc = "道具交换中刘备第三格道具剣術指南書"
+cheat1285_handler = "2"
+cheat1285_code = "14E9E,12"
+
+cheat1286_desc = "道具交换中刘备第三格道具長槍術奥義"
+cheat1286_handler = "2"
+cheat1286_code = "14E9E,13"
+
+cheat1287_desc = "道具交换中刘备第三格道具戦車術奥義"
+cheat1287_handler = "2"
+cheat1287_code = "14E9E,14"
+
+cheat1288_desc = "道具交换中刘备第三格道具連弩術極義"
+cheat1288_handler = "2"
+cheat1288_code = "14E9E,15"
+
+cheat1289_desc = "道具交换中刘备第三格道具發石術極義"
+cheat1289_handler = "2"
+cheat1289_code = "14E9E,16"
+
+cheat1290_desc = "道具交换中刘备第三格道具重騎兵の印綬"
+cheat1290_handler = "2"
+cheat1290_code = "14E9E,17"
+
+cheat1291_desc = "道具交换中刘备第三格道具親衛隊の印綬"
+cheat1291_handler = "2"
+cheat1291_code = "14E9E,18"
+
+cheat1292_desc = "道具交换中刘备第三格道具無賴の心得"
+cheat1292_handler = "2"
+cheat1292_code = "14E9E,19"
+
+cheat1293_desc = "道具交换中刘备第三格道具義俠の心得"
+cheat1293_handler = "2"
+cheat1293_code = "14E9E,1A"
+
+cheat1294_desc = "道具交换中刘备第三格道具豆"
+cheat1294_handler = "2"
+cheat1294_code = "14E9E,1B"
+
+cheat1295_desc = "道具交换中刘备第三格道具麥"
+cheat1295_handler = "2"
+cheat1295_code = "14E9E,1F"
+
+cheat1296_desc = "道具交换中刘备第三格道具米"
+cheat1296_handler = "2"
+cheat1296_code = "14E9E,20"
+
+cheat1297_desc = "道具交换中刘备第三格道具爆弾"
+cheat1297_handler = "2"
+cheat1297_code = "14E9E,21"
+
+cheat1298_desc = "道具交换中刘备第三格道具傷藥"
+cheat1298_handler = "2"
+cheat1298_code = "14E9E,2E"
+
+cheat1299_desc = "道具交换中刘备第三格道具漢方藥"
+cheat1299_handler = "2"
+cheat1299_code = "14E9E,2F"
+
+cheat1300_desc = "道具交换中刘备第三格道具救命藥"
+cheat1300_handler = "2"
+cheat1300_code = "14E9E,30"
+
+cheat1301_desc = "道具交换中刘备第三格道具赦命書"
+cheat1301_handler = "2"
+cheat1301_code = "14E9E,37"
+
+cheat1302_desc = "道具交换中刘备第三格道具援軍報告"
+cheat1302_handler = "2"
+cheat1302_code = "14E9E,38"
+
+cheat1303_desc = "道具交换中刘备第三格道具雌雄一对の剣"
+cheat1303_handler = "2"
+cheat1303_code = "14E9E,39"
+
+cheat1304_desc = "道具交换中刘备第三格道具英傑の剣"
+cheat1304_handler = "2"
+cheat1304_code = "14E9E,3A"
+
+cheat1305_desc = "道具交换中刘备第三格道具霸者の剣"
+cheat1305_handler = "2"
+cheat1305_code = "14E9E,3B"
+
+cheat1306_desc = "道具交换中刘备第三格道具六韜"
+cheat1306_handler = "2"
+cheat1306_code = "14E9E,3C"
+
+cheat1307_desc = "道具交换中刘备第三格道具三略"
+cheat1307_handler = "2"
+cheat1307_code = "14E9E,3D"
+
+cheat1308_desc = "道具交换中刘备第三格道具吳子の兵法"
+cheat1308_handler = "2"
+cheat1308_code = "14E9E,3E"
+
+cheat1309_desc = "道具交换中刘备第三格道具斧"
+cheat1309_handler = "2"
+cheat1309_code = "14E9E,3F"
+
+cheat1310_desc = "道具交换中刘备第三格道具板斧"
+cheat1310_handler = "2"
+cheat1310_code = "14E9E,40"
+
+cheat1311_desc = "道具交换中刘备第三格道具宣花斧"
+cheat1311_handler = "2"
+cheat1311_code = "14E9E,41"
+
+cheat1312_desc = "道具交换中刘备第三格道具火焰斧"
+cheat1312_handler = "2"
+cheat1312_code = "14E9E,42"
+
+cheat1313_desc = "道具交换中刘备第三格道具鳯頭斧"
+cheat1313_handler = "2"
+cheat1313_code = "14E9E,43"
+
+cheat1314_desc = "道具交换中刘备第三格道具直刀"
+cheat1314_handler = "2"
+cheat1314_code = "14E9E,44"
+
+cheat1315_desc = "道具交换中刘备第三格道具鋼刀"
+cheat1315_handler = "2"
+cheat1315_code = "14E9E,45"
+
+cheat1316_desc = "道具交换中刘备第三格道具環刀"
+cheat1316_handler = "2"
+cheat1316_code = "14E9E,46"
+
+cheat1317_desc = "道具交换中刘备第三格道具虎牙刀"
+cheat1317_handler = "2"
+cheat1317_code = "14E9E,47"
+
+cheat1318_desc = "道具交换中刘备第三格道具鳯嘴刀"
+cheat1318_handler = "2"
+cheat1318_code = "14E9E,48"
+
+cheat1319_desc = "道具交换中刘备第三格道具神刀"
+cheat1319_handler = "2"
+cheat1319_code = "14E9E,49"
+
+cheat1320_desc = "道具交换中刘备第三格道具鉤"
+cheat1320_handler = "2"
+cheat1320_code = "14E9E,4A"
+
+cheat1321_desc = "道具交换中刘备第三格道具鉤鐮"
+cheat1321_handler = "2"
+cheat1321_code = "14E9E,4B"
+
+cheat1322_desc = "道具交换中刘备第三格道具護手鉤"
+cheat1322_handler = "2"
+cheat1322_code = "14E9E,4C"
+
+cheat1323_desc = "道具交换中刘备第三格道具鉄鉤距"
+cheat1323_handler = "2"
+cheat1323_code = "14E9E,4D"
+
+cheat1324_desc = "道具交换中刘备第三格道具山賊の誓い"
+cheat1324_handler = "2"
+cheat1324_code = "14E9E,4E"
+
+cheat1325_desc = "道具交换中刘备第三格道具武術指南書"
+cheat1325_handler = "2"
+cheat1325_code = "14E9E,4F"
+
+cheat1326_desc = "道具交换中刘备第三格道具異文化の印"
+cheat1326_handler = "2"
+cheat1326_code = "14E9E,50"
+
+cheat1327_desc = "道具交换中刘备第三格道具操術指南書"
+cheat1327_handler = "2"
+cheat1327_code = "14E9E,51"
+
+cheat1328_desc = "道具交换中刘备第三格道具焦熱書"
+cheat1328_handler = "2"
+cheat1328_code = "14E9E,52"
+
+cheat1329_desc = "道具交换中刘备第三格道具嶪火の書"
+cheat1329_handler = "2"
+cheat1329_code = "14E9E,53"
+
+cheat1330_desc = "道具交换中刘备第三格道具小赤龍の書"
+cheat1330_handler = "2"
+cheat1330_code = "14E9E,54"
+
+cheat1331_desc = "道具交换中刘备第三格道具大焦熱の書"
+cheat1331_handler = "2"
+cheat1331_code = "14E9E,55"
+
+cheat1332_desc = "道具交换中刘备第三格道具大嶪火の書"
+cheat1332_handler = "2"
+cheat1332_code = "14E9E,56"
+
+cheat1333_desc = "道具交换中刘备第三格道具渦潮の書"
+cheat1333_handler = "2"
+cheat1333_code = "14E9E,58"
+
+cheat1334_desc = "道具交换中刘备第三格道具水刃の書"
+cheat1334_handler = "2"
+cheat1334_code = "14E9E,59"
+
+cheat1335_desc = "道具交换中刘备第三格道具小黒龍の書"
+cheat1335_handler = "2"
+cheat1335_code = "14E9E,5A"
+
+cheat1336_desc = "道具交换中刘备第三格道具大渦潮の書"
+cheat1336_handler = "2"
+cheat1336_code = "14E9E,5B"
+
+cheat1337_desc = "道具交换中刘备第三格道具大水刃の書"
+cheat1337_handler = "2"
+cheat1337_code = "14E9E,5C"
+
+cheat1338_desc = "道具交换中刘备第三格道具落石の書"
+cheat1338_handler = "2"
+cheat1338_code = "14E9E,5E"
+
+cheat1339_desc = "道具交换中刘备第三格道具落穴の書"
+cheat1339_handler = "2"
+cheat1339_code = "14E9E,5F"
+
+cheat1340_desc = "道具交换中刘备第三格道具小青龍の書"
+cheat1340_handler = "2"
+cheat1340_code = "14E9E,60"
+
+cheat1341_desc = "道具交换中刘备第三格道具土石流の書"
+cheat1341_handler = "2"
+cheat1341_code = "14E9E,61"
+
+cheat1342_desc = "道具交换中刘备第三格道具大地割の書"
+cheat1342_handler = "2"
+cheat1342_code = "14E9E,62"
+
+cheat1343_desc = "道具交换中刘备第三格道具風無の書"
+cheat1343_handler = "2"
+cheat1343_code = "14E9E,64"
+
+cheat1344_desc = "道具交换中刘备第三格道具旋風の書"
+cheat1344_handler = "2"
+cheat1344_code = "14E9E,65"
+
+cheat1345_desc = "道具交换中刘备第三格道具小白龍の書"
+cheat1345_handler = "2"
+cheat1345_code = "14E9E,66"
+
+cheat1346_desc = "道具交换中刘备第三格道具大旋風の書"
+cheat1346_handler = "2"
+cheat1346_code = "14E9E,67"
+
+cheat1347_desc = "道具交换中刘备第三格道具風気の書"
+cheat1347_handler = "2"
+cheat1347_code = "14E9E,68"
+
+cheat1348_desc = "道具交换中刘备第三格道具酒"
+cheat1348_handler = "2"
+cheat1348_code = "14E9E,6A"
+
+cheat1349_desc = "道具交换中刘备第三格道具土の壁"
+cheat1349_handler = "2"
+cheat1349_code = "14E9E,6B"
+
+cheat1350_desc = "道具交换中刘备第三格道具火の幻"
+cheat1350_handler = "2"
+cheat1350_code = "14E9E,6C"
+
+cheat1351_desc = "道具交换中刘备第三格道具木の光"
+cheat1351_handler = "2"
+cheat1351_code = "14E9E,6D"
+
+cheat1352_desc = "道具交换中刘备第三格道具水の力"
+cheat1352_handler = "2"
+cheat1352_code = "14E9E,6E"
+
+cheat1353_desc = "道具交换中刘备第三格道具特級酒"
+cheat1353_handler = "2"
+cheat1353_code = "14E9E,6F"
+
+cheat1354_desc = "道具交换中刘备第三格道具金の毒"
+cheat1354_handler = "2"
+cheat1354_code = "14E9E,70"
+
+cheat1355_desc = "道具交换中刘备第三格道具老酒"
+cheat1355_handler = "2"
+cheat1355_code = "14E9E,71"
+
+cheat1356_desc = "道具交换中刘备第三格道具妖術の藥"
+cheat1356_handler = "2"
+cheat1356_code = "14E9E,72"
+
+cheat1357_desc = "道具交换中刘备第三格道具仙術の藥"
+cheat1357_handler = "2"
+cheat1357_code = "14E9E,73"
+
+cheat1358_desc = "道具交换中刘备第三格道具駿馬"
+cheat1358_handler = "2"
+cheat1358_code = "14E9E,74"
+
+cheat1359_desc = "道具交换中刘备第三格道具皮甲"
+cheat1359_handler = "2"
+cheat1359_code = "14E9E,75"
+
+cheat1360_desc = "道具交换中刘备第三格道具藤甲"
+cheat1360_handler = "2"
+cheat1360_code = "14E9E,76"
+
+cheat1361_desc = "道具交换中刘备第三格道具鎖子甲"
+cheat1361_handler = "2"
+cheat1361_code = "14E9E,77"
+
+cheat1362_desc = "道具交换中刘备第三格道具鉄甲"
+cheat1362_handler = "2"
+cheat1362_code = "14E9E,78"
+
+cheat1363_desc = "道具交换中刘备第三格道具鋼子連鐶甲"
+cheat1363_handler = "2"
+cheat1363_code = "14E9E,79"
+
+cheat1364_desc = "道具交换中刘备第三格道具金鎖の甲"
+cheat1364_handler = "2"
+cheat1364_code = "14E9E,7A"
+
+cheat1365_desc = "道具交换中刘备第三格道具白銀の甲"
+cheat1365_handler = "2"
+cheat1365_code = "14E9E,7B"
+
+cheat1366_desc = "道具交换中刘备第三格道具連鐶の鎧"
+cheat1366_handler = "2"
+cheat1366_code = "14E9E,7C"
+
+cheat1367_desc = "道具交换中刘备第三格道具筒袖鎧"
+cheat1367_handler = "2"
+cheat1367_code = "14E9E,7D"
+
+cheat1368_desc = "道具交换中刘备第三格道具明光鎧"
+cheat1368_handler = "2"
+cheat1368_code = "14E9E,7E"
+
+cheat1369_desc = "道具交换中刘备第三格道具手牌"
+cheat1369_handler = "2"
+cheat1369_code = "14E9E,7F"
+
+cheat1370_desc = "道具交换中刘备第三格道具団牌"
+cheat1370_handler = "2"
+cheat1370_code = "14E9E,80"
+
+cheat1371_desc = "道具交换中刘备第三格道具推牌"
+cheat1371_handler = "2"
+cheat1371_code = "14E9E,81"
+
+cheat1372_desc = "道具交换中刘备第三格道具燕尾牌"
+cheat1372_handler = "2"
+cheat1372_code = "14E9E,82"
+
+cheat1373_desc = "道具交换中刘备第三格道具無敵神牌"
+cheat1373_handler = "2"
+cheat1373_code = "14E9E,83"
+
+cheat1374_desc = "道具交换中刘备第三格道具槍"
+cheat1374_handler = "2"
+cheat1374_code = "14E9E,84"
+
+cheat1375_desc = "道具交换中刘备第三格道具半月槍"
+cheat1375_handler = "2"
+cheat1375_code = "14E9E,85"
+
+cheat1376_desc = "道具交换中刘备第三格道具鉄槍"
+cheat1376_handler = "2"
+cheat1376_code = "14E9E,86"
+
+cheat1377_desc = "道具交换中刘备第三格道具環子槍"
+cheat1377_handler = "2"
+cheat1377_code = "14E9E,87"
+
+cheat1378_desc = "道具交换中刘备第三格道具鉤鐮槍"
+cheat1378_handler = "2"
+cheat1378_code = "14E9E,88"
+
+cheat1379_desc = "道具交换中刘备第三格道具红の槍"
+cheat1379_handler = "2"
+cheat1379_code = "14E9E,89"
+
+cheat1380_desc = "道具交换中刘备第三格道具戟"
+cheat1380_handler = "2"
+cheat1380_code = "14E9E,8A"
+
+cheat1381_desc = "道具交换中刘备第三格道具長戟"
+cheat1381_handler = "2"
+cheat1381_code = "14E9E,8B"
+
+cheat1382_desc = "道具交换中刘备第三格道具大戟"
+cheat1382_handler = "2"
+cheat1382_code = "14E9E,8C"
+
+cheat1383_desc = "道具交换中刘备第三格道具青龍戟"
+cheat1383_handler = "2"
+cheat1383_code = "14E9E,8D"
+
+cheat1384_desc = "道具交换中刘备第三格道具半弓"
+cheat1384_handler = "2"
+cheat1384_code = "14E9E,8E"
+
+cheat1385_desc = "道具交换中刘备第三格道具弯弓"
+cheat1385_handler = "2"
+cheat1385_code = "14E9E,8F"
+
+cheat1386_desc = "道具交换中刘备第三格道具李满弓"
+cheat1386_handler = "2"
+cheat1386_code = "14E9E,90"
+
+cheat1387_desc = "道具交换中刘备第三格道具强弓"
+cheat1387_handler = "2"
+cheat1387_code = "14E9E,91"
+
+cheat1388_desc = "道具交换中刘备第三格道具鉄弓"
+cheat1388_handler = "2"
+cheat1388_code = "14E9E,92"
+
+cheat1389_desc = "道具交换中刘备第三格道具双弓床弩"
+cheat1389_handler = "2"
+cheat1389_code = "14E9E,93"
+
+cheat1390_desc = "道具交换中刘备第三格道具斗子弩"
+cheat1390_handler = "2"
+cheat1390_code = "14E9E,94"
+
+cheat1391_desc = "道具交换中刘备第三格道具三弓斗子弩"
+cheat1391_handler = "2"
+cheat1391_code = "14E9E,95"
+
+cheat1392_desc = "道具交换中刘备第三格道具神弩"
+cheat1392_handler = "2"
+cheat1392_code = "14E9E,96"
+
+cheat1393_desc = "道具交换中刘备第三格道具手砲"
+cheat1393_handler = "2"
+cheat1393_code = "14E9E,97"
+
+cheat1394_desc = "道具交换中刘备第三格道具合砲"
+cheat1394_handler = "2"
+cheat1394_code = "14E9E,98"
+
+cheat1395_desc = "道具交换中刘备第三格道具単梢砲"
+cheat1395_handler = "2"
+cheat1395_code = "14E9E,99"
+
+cheat1396_desc = "道具交换中刘备第三格道具双梢砲"
+cheat1396_handler = "2"
+cheat1396_code = "14E9E,9A"
+
+cheat1397_desc = "道具交换中刘备第三格道具霹雳車"
+cheat1397_handler = "2"
+cheat1397_code = "14E9E,9B"
+
+cheat1398_desc = "道具交换中刘备第三格道具旋風砲"
+cheat1398_handler = "2"
+cheat1398_code = "14E9E,9C"
+
+cheat1399_desc = "道具交换中刘备第三格道具独角旋風砲"
+cheat1399_handler = "2"
+cheat1399_code = "14E9E,9D"
+
+cheat1400_desc = "道具交换中刘备第三格道具旋風五砲"
+cheat1400_handler = "2"
+cheat1400_code = "14E9E,9E"
+
+cheat1401_desc = "道具交换中刘备第三格道具圈"
+cheat1401_handler = "2"
+cheat1401_code = "14E9E,9F"
+
+cheat1402_desc = "道具交换中刘备第三格道具乾坤烏亀圈"
+cheat1402_handler = "2"
+cheat1402_code = "14E9E,A0"
+
+cheat1403_desc = "道具交换中刘备第三格道具日月乾坤圈"
+cheat1403_handler = "2"
+cheat1403_code = "14E9E,A1"
+
+cheat1404_desc = "道具交换中刘备第三格道具鶏爪鉞"
+cheat1404_handler = "2"
+cheat1404_code = "14E9E,A2"
+
+cheat1405_desc = "道具交换中刘备第三格道具鶏爪駌鴦鉞"
+cheat1405_handler = "2"
+cheat1405_code = "14E9E,A3"
+
+cheat1406_desc = "道具交换中刘备第三格道具子母駌鴦鉞"
+cheat1406_handler = "2"
+cheat1406_code = "14E9E,A4"
+
+cheat1407_desc = "道具交换中刘备第三格道具流星錘"
+cheat1407_handler = "2"
+cheat1407_code = "14E9E,A5"
+
+cheat1408_desc = "道具交换中刘备第三格道具狼牙錘"
+cheat1408_handler = "2"
+cheat1408_code = "14E9E,A6"
+
+cheat1409_desc = "道具交换中刘备第三格道具鞭"
+cheat1409_handler = "2"
+cheat1409_code = "14E9E,A7"
+
+cheat1410_desc = "道具交换中刘备第三格道具柳鞭"
+cheat1410_handler = "2"
+cheat1410_code = "14E9E,A8"
+
+cheat1411_desc = "道具交换中刘备第三格道具鯨鞭"
+cheat1411_handler = "2"
+cheat1411_code = "14E9E,A9"
+
+cheat1412_desc = "道具交换中刘备第三格道具鉄笛"
+cheat1412_handler = "2"
+cheat1412_code = "14E9E,AA"
+
+cheat1413_desc = "道具交换中刘备第三格道具銅鑼"
+cheat1413_handler = "2"
+cheat1413_code = "14E9E,AB"
+
+cheat1414_desc = "道具交换中刘备第三格道具鼓角"
+cheat1414_handler = "2"
+cheat1414_code = "14E9E,AC"
+
+cheat1415_desc = "道具交换中刘备第三格道具兵鼓"
+cheat1415_handler = "2"
+cheat1415_code = "14E9E,AD"
+
+cheat1416_desc = "道具交换中刘备第三格道具鉦鼓"
+cheat1416_handler = "2"
+cheat1416_code = "14E9E,AE"
+
+cheat1417_desc = "道具交换中刘备第三格道具金鼓"
+cheat1417_handler = "2"
+cheat1417_code = "14E9E,AF"
+
+cheat1418_desc = "道具交换中刘备第三格道具鉄扇"
+cheat1418_handler = "2"
+cheat1418_code = "14E9E,B0"
+
+cheat1419_desc = "道具交换中刘备第三格道具羽扇"
+cheat1419_handler = "2"
+cheat1419_code = "14E9E,B1"
+
+cheat1420_desc = "道具交换中刘备第三格道具白羽扇"
+cheat1420_handler = "2"
+cheat1420_code = "14E9E,B2"
+
+cheat1421_desc = "道具交换中刘备第三格道具木牛"
+cheat1421_handler = "2"
+cheat1421_code = "14E9E,B3"
+
+cheat1422_desc = "道具交换中刘备第三格道具流馬"
+cheat1422_handler = "2"
+cheat1422_code = "14E9E,B4"
+
+cheat1423_desc = "道具交换中刘备第三格道具扁厢車"
+cheat1423_handler = "2"
+cheat1423_code = "14E9E,B5"
+
+cheat1424_desc = "道具交换中刘备第三格道具正廂車"
+cheat1424_handler = "2"
+cheat1424_code = "14E9E,B6"
+
+cheat1425_desc = "道具交换中刘备第四格道具遁甲天書"
+cheat1425_handler = "2"
+cheat1425_code = "14E9F,00"
+
+cheat1426_desc = "道具交换中刘备第四格道具青囊書"
+cheat1426_handler = "2"
+cheat1426_code = "14E9F,01"
+
+cheat1427_desc = "道具交换中刘备第四格道具軍樂譜"
+cheat1427_handler = "2"
+cheat1427_code = "14E9F,02"
+
+cheat1428_desc = "道具交换中刘备第四格道具孫子の兵法書"
+cheat1428_handler = "2"
+cheat1428_code = "14E9F,03"
+
+cheat1429_desc = "道具交换中刘备第四格道具孟德新書"
+cheat1429_handler = "2"
+cheat1429_code = "14E9F,04"
+
+cheat1430_desc = "道具交换中刘备第四格道具爪黄飛電"
+cheat1430_handler = "2"
+cheat1430_code = "14E9F,05"
+
+cheat1431_desc = "道具交换中刘备第四格道具的盧"
+cheat1431_handler = "2"
+cheat1431_code = "14E9F,06"
+
+cheat1432_desc = "道具交换中刘备第四格道具赤兔馬"
+cheat1432_handler = "2"
+cheat1432_code = "14E9F,07"
+
+cheat1433_desc = "道具交换中刘备第四格道具玉璽"
+cheat1433_handler = "2"
+cheat1433_code = "14E9F,08"
+
+cheat1434_desc = "道具交换中刘备第四格道具倚天の剣"
+cheat1434_handler = "2"
+cheat1434_code = "14E9F,09"
+
+cheat1435_desc = "道具交换中刘备第四格道具青釭の剣"
+cheat1435_handler = "2"
+cheat1435_code = "14E9F,0A"
+
+cheat1436_desc = "道具交换中刘备第四格道具七星の劍"
+cheat1436_handler = "2"
+cheat1436_code = "14E9F,0B"
+
+cheat1437_desc = "道具交换中刘备第四格道具青龍偃月刀"
+cheat1437_handler = "2"
+cheat1437_code = "14E9F,0C"
+
+cheat1438_desc = "道具交换中刘备第四格道具三尖刀"
+cheat1438_handler = "2"
+cheat1438_code = "14E9F,0D"
+
+cheat1439_desc = "道具交换中刘备第四格道具方天畫戟"
+cheat1439_handler = "2"
+cheat1439_code = "14E9F,0E"
+
+cheat1440_desc = "道具交换中刘备第四格道具蛇矛"
+cheat1440_handler = "2"
+cheat1440_code = "14E9F,0F"
+
+cheat1441_desc = "道具交换中刘备第四格道具弓術指南書"
+cheat1441_handler = "2"
+cheat1441_code = "14E9F,10"
+
+cheat1442_desc = "道具交换中刘备第四格道具馬術指南書"
+cheat1442_handler = "2"
+cheat1442_code = "14E9F,11"
+
+cheat1443_desc = "道具交换中刘备第四格道具剣術指南書"
+cheat1443_handler = "2"
+cheat1443_code = "14E9F,12"
+
+cheat1444_desc = "道具交换中刘备第四格道具長槍術奥義"
+cheat1444_handler = "2"
+cheat1444_code = "14E9F,13"
+
+cheat1445_desc = "道具交换中刘备第四格道具戦車術奥義"
+cheat1445_handler = "2"
+cheat1445_code = "14E9F,14"
+
+cheat1446_desc = "道具交换中刘备第四格道具連弩術極義"
+cheat1446_handler = "2"
+cheat1446_code = "14E9F,15"
+
+cheat1447_desc = "道具交换中刘备第四格道具發石術極義"
+cheat1447_handler = "2"
+cheat1447_code = "14E9F,16"
+
+cheat1448_desc = "道具交换中刘备第四格道具重騎兵の印綬"
+cheat1448_handler = "2"
+cheat1448_code = "14E9F,17"
+
+cheat1449_desc = "道具交换中刘备第四格道具親衛隊の印綬"
+cheat1449_handler = "2"
+cheat1449_code = "14E9F,18"
+
+cheat1450_desc = "道具交换中刘备第四格道具無賴の心得"
+cheat1450_handler = "2"
+cheat1450_code = "14E9F,19"
+
+cheat1451_desc = "道具交换中刘备第四格道具義俠の心得"
+cheat1451_handler = "2"
+cheat1451_code = "14E9F,1A"
+
+cheat1452_desc = "道具交换中刘备第四格道具豆"
+cheat1452_handler = "2"
+cheat1452_code = "14E9F,1B"
+
+cheat1453_desc = "道具交换中刘备第四格道具麥"
+cheat1453_handler = "2"
+cheat1453_code = "14E9F,1F"
+
+cheat1454_desc = "道具交换中刘备第四格道具米"
+cheat1454_handler = "2"
+cheat1454_code = "14E9F,20"
+
+cheat1455_desc = "道具交换中刘备第四格道具爆弾"
+cheat1455_handler = "2"
+cheat1455_code = "14E9F,21"
+
+cheat1456_desc = "道具交换中刘备第四格道具傷藥"
+cheat1456_handler = "2"
+cheat1456_code = "14E9F,2E"
+
+cheat1457_desc = "道具交换中刘备第四格道具漢方藥"
+cheat1457_handler = "2"
+cheat1457_code = "14E9F,2F"
+
+cheat1458_desc = "道具交换中刘备第四格道具救命藥"
+cheat1458_handler = "2"
+cheat1458_code = "14E9F,30"
+
+cheat1459_desc = "道具交换中刘备第四格道具赦命書"
+cheat1459_handler = "2"
+cheat1459_code = "14E9F,37"
+
+cheat1460_desc = "道具交换中刘备第四格道具援軍報告"
+cheat1460_handler = "2"
+cheat1460_code = "14E9F,38"
+
+cheat1461_desc = "道具交换中刘备第四格道具雌雄一对の剣"
+cheat1461_handler = "2"
+cheat1461_code = "14E9F,39"
+
+cheat1462_desc = "道具交换中刘备第四格道具英傑の剣"
+cheat1462_handler = "2"
+cheat1462_code = "14E9F,3A"
+
+cheat1463_desc = "道具交换中刘备第四格道具霸者の剣"
+cheat1463_handler = "2"
+cheat1463_code = "14E9F,3B"
+
+cheat1464_desc = "道具交换中刘备第四格道具六韜"
+cheat1464_handler = "2"
+cheat1464_code = "14E9F,3C"
+
+cheat1465_desc = "道具交换中刘备第四格道具三略"
+cheat1465_handler = "2"
+cheat1465_code = "14E9F,3D"
+
+cheat1466_desc = "道具交换中刘备第四格道具吳子の兵法"
+cheat1466_handler = "2"
+cheat1466_code = "14E9F,3E"
+
+cheat1467_desc = "道具交换中刘备第四格道具斧"
+cheat1467_handler = "2"
+cheat1467_code = "14E9F,3F"
+
+cheat1468_desc = "道具交换中刘备第四格道具板斧"
+cheat1468_handler = "2"
+cheat1468_code = "14E9F,40"
+
+cheat1469_desc = "道具交换中刘备第四格道具宣花斧"
+cheat1469_handler = "2"
+cheat1469_code = "14E9F,41"
+
+cheat1470_desc = "道具交换中刘备第四格道具火焰斧"
+cheat1470_handler = "2"
+cheat1470_code = "14E9F,42"
+
+cheat1471_desc = "道具交换中刘备第四格道具鳯頭斧"
+cheat1471_handler = "2"
+cheat1471_code = "14E9F,43"
+
+cheat1472_desc = "道具交换中刘备第四格道具直刀"
+cheat1472_handler = "2"
+cheat1472_code = "14E9F,44"
+
+cheat1473_desc = "道具交换中刘备第四格道具鋼刀"
+cheat1473_handler = "2"
+cheat1473_code = "14E9F,45"
+
+cheat1474_desc = "道具交换中刘备第四格道具環刀"
+cheat1474_handler = "2"
+cheat1474_code = "14E9F,46"
+
+cheat1475_desc = "道具交换中刘备第四格道具虎牙刀"
+cheat1475_handler = "2"
+cheat1475_code = "14E9F,47"
+
+cheat1476_desc = "道具交换中刘备第四格道具鳯嘴刀"
+cheat1476_handler = "2"
+cheat1476_code = "14E9F,48"
+
+cheat1477_desc = "道具交换中刘备第四格道具神刀"
+cheat1477_handler = "2"
+cheat1477_code = "14E9F,49"
+
+cheat1478_desc = "道具交换中刘备第四格道具鉤"
+cheat1478_handler = "2"
+cheat1478_code = "14E9F,4A"
+
+cheat1479_desc = "道具交换中刘备第四格道具鉤鐮"
+cheat1479_handler = "2"
+cheat1479_code = "14E9F,4B"
+
+cheat1480_desc = "道具交换中刘备第四格道具護手鉤"
+cheat1480_handler = "2"
+cheat1480_code = "14E9F,4C"
+
+cheat1481_desc = "道具交换中刘备第四格道具鉄鉤距"
+cheat1481_handler = "2"
+cheat1481_code = "14E9F,4D"
+
+cheat1482_desc = "道具交换中刘备第四格道具山賊の誓い"
+cheat1482_handler = "2"
+cheat1482_code = "14E9F,4E"
+
+cheat1483_desc = "道具交换中刘备第四格道具武術指南書"
+cheat1483_handler = "2"
+cheat1483_code = "14E9F,4F"
+
+cheat1484_desc = "道具交换中刘备第四格道具異文化の印"
+cheat1484_handler = "2"
+cheat1484_code = "14E9F,50"
+
+cheat1485_desc = "道具交换中刘备第四格道具操術指南書"
+cheat1485_handler = "2"
+cheat1485_code = "14E9F,51"
+
+cheat1486_desc = "道具交换中刘备第四格道具焦熱書"
+cheat1486_handler = "2"
+cheat1486_code = "14E9F,52"
+
+cheat1487_desc = "道具交换中刘备第四格道具嶪火の書"
+cheat1487_handler = "2"
+cheat1487_code = "14E9F,53"
+
+cheat1488_desc = "道具交换中刘备第四格道具小赤龍の書"
+cheat1488_handler = "2"
+cheat1488_code = "14E9F,54"
+
+cheat1489_desc = "道具交换中刘备第四格道具大焦熱の書"
+cheat1489_handler = "2"
+cheat1489_code = "14E9F,55"
+
+cheat1490_desc = "道具交换中刘备第四格道具大嶪火の書"
+cheat1490_handler = "2"
+cheat1490_code = "14E9F,56"
+
+cheat1491_desc = "道具交换中刘备第四格道具渦潮の書"
+cheat1491_handler = "2"
+cheat1491_code = "14E9F,58"
+
+cheat1492_desc = "道具交换中刘备第四格道具水刃の書"
+cheat1492_handler = "2"
+cheat1492_code = "14E9F,59"
+
+cheat1493_desc = "道具交换中刘备第四格道具小黒龍の書"
+cheat1493_handler = "2"
+cheat1493_code = "14E9F,5A"
+
+cheat1494_desc = "道具交换中刘备第四格道具大渦潮の書"
+cheat1494_handler = "2"
+cheat1494_code = "14E9F,5B"
+
+cheat1495_desc = "道具交换中刘备第四格道具大水刃の書"
+cheat1495_handler = "2"
+cheat1495_code = "14E9F,5C"
+
+cheat1496_desc = "道具交换中刘备第四格道具落石の書"
+cheat1496_handler = "2"
+cheat1496_code = "14E9F,5E"
+
+cheat1497_desc = "道具交换中刘备第四格道具落穴の書"
+cheat1497_handler = "2"
+cheat1497_code = "14E9F,5F"
+
+cheat1498_desc = "道具交换中刘备第四格道具小青龍の書"
+cheat1498_handler = "2"
+cheat1498_code = "14E9F,60"
+
+cheat1499_desc = "道具交换中刘备第四格道具土石流の書"
+cheat1499_handler = "2"
+cheat1499_code = "14E9F,61"
+
+cheat1500_desc = "道具交换中刘备第四格道具大地割の書"
+cheat1500_handler = "2"
+cheat1500_code = "14E9F,62"
+
+cheat1501_desc = "道具交换中刘备第四格道具風無の書"
+cheat1501_handler = "2"
+cheat1501_code = "14E9F,64"
+
+cheat1502_desc = "道具交换中刘备第四格道具旋風の書"
+cheat1502_handler = "2"
+cheat1502_code = "14E9F,65"
+
+cheat1503_desc = "道具交换中刘备第四格道具小白龍の書"
+cheat1503_handler = "2"
+cheat1503_code = "14E9F,66"
+
+cheat1504_desc = "道具交换中刘备第四格道具大旋風の書"
+cheat1504_handler = "2"
+cheat1504_code = "14E9F,67"
+
+cheat1505_desc = "道具交换中刘备第四格道具風気の書"
+cheat1505_handler = "2"
+cheat1505_code = "14E9F,68"
+
+cheat1506_desc = "道具交换中刘备第四格道具酒"
+cheat1506_handler = "2"
+cheat1506_code = "14E9F,6A"
+
+cheat1507_desc = "道具交换中刘备第四格道具土の壁"
+cheat1507_handler = "2"
+cheat1507_code = "14E9F,6B"
+
+cheat1508_desc = "道具交换中刘备第四格道具火の幻"
+cheat1508_handler = "2"
+cheat1508_code = "14E9F,6C"
+
+cheat1509_desc = "道具交换中刘备第四格道具木の光"
+cheat1509_handler = "2"
+cheat1509_code = "14E9F,6D"
+
+cheat1510_desc = "道具交换中刘备第四格道具水の力"
+cheat1510_handler = "2"
+cheat1510_code = "14E9F,6E"
+
+cheat1511_desc = "道具交换中刘备第四格道具特級酒"
+cheat1511_handler = "2"
+cheat1511_code = "14E9F,6F"
+
+cheat1512_desc = "道具交换中刘备第四格道具金の毒"
+cheat1512_handler = "2"
+cheat1512_code = "14E9F,70"
+
+cheat1513_desc = "道具交换中刘备第四格道具老酒"
+cheat1513_handler = "2"
+cheat1513_code = "14E9F,71"
+
+cheat1514_desc = "道具交换中刘备第四格道具妖術の藥"
+cheat1514_handler = "2"
+cheat1514_code = "14E9F,72"
+
+cheat1515_desc = "道具交换中刘备第四格道具仙術の藥"
+cheat1515_handler = "2"
+cheat1515_code = "14E9F,73"
+
+cheat1516_desc = "道具交换中刘备第四格道具駿馬"
+cheat1516_handler = "2"
+cheat1516_code = "14E9F,74"
+
+cheat1517_desc = "道具交换中刘备第四格道具皮甲"
+cheat1517_handler = "2"
+cheat1517_code = "14E9F,75"
+
+cheat1518_desc = "道具交换中刘备第四格道具藤甲"
+cheat1518_handler = "2"
+cheat1518_code = "14E9F,76"
+
+cheat1519_desc = "道具交换中刘备第四格道具鎖子甲"
+cheat1519_handler = "2"
+cheat1519_code = "14E9F,77"
+
+cheat1520_desc = "道具交换中刘备第四格道具鉄甲"
+cheat1520_handler = "2"
+cheat1520_code = "14E9F,78"
+
+cheat1521_desc = "道具交换中刘备第四格道具鋼子連鐶甲"
+cheat1521_handler = "2"
+cheat1521_code = "14E9F,79"
+
+cheat1522_desc = "道具交换中刘备第四格道具金鎖の甲"
+cheat1522_handler = "2"
+cheat1522_code = "14E9F,7A"
+
+cheat1523_desc = "道具交换中刘备第四格道具白銀の甲"
+cheat1523_handler = "2"
+cheat1523_code = "14E9F,7B"
+
+cheat1524_desc = "道具交换中刘备第四格道具連鐶の鎧"
+cheat1524_handler = "2"
+cheat1524_code = "14E9F,7C"
+
+cheat1525_desc = "道具交换中刘备第四格道具筒袖鎧"
+cheat1525_handler = "2"
+cheat1525_code = "14E9F,7D"
+
+cheat1526_desc = "道具交换中刘备第四格道具明光鎧"
+cheat1526_handler = "2"
+cheat1526_code = "14E9F,7E"
+
+cheat1527_desc = "道具交换中刘备第四格道具手牌"
+cheat1527_handler = "2"
+cheat1527_code = "14E9F,7F"
+
+cheat1528_desc = "道具交换中刘备第四格道具団牌"
+cheat1528_handler = "2"
+cheat1528_code = "14E9F,80"
+
+cheat1529_desc = "道具交换中刘备第四格道具推牌"
+cheat1529_handler = "2"
+cheat1529_code = "14E9F,81"
+
+cheat1530_desc = "道具交换中刘备第四格道具燕尾牌"
+cheat1530_handler = "2"
+cheat1530_code = "14E9F,82"
+
+cheat1531_desc = "道具交换中刘备第四格道具無敵神牌"
+cheat1531_handler = "2"
+cheat1531_code = "14E9F,83"
+
+cheat1532_desc = "道具交换中刘备第四格道具槍"
+cheat1532_handler = "2"
+cheat1532_code = "14E9F,84"
+
+cheat1533_desc = "道具交换中刘备第四格道具半月槍"
+cheat1533_handler = "2"
+cheat1533_code = "14E9F,85"
+
+cheat1534_desc = "道具交换中刘备第四格道具鉄槍"
+cheat1534_handler = "2"
+cheat1534_code = "14E9F,86"
+
+cheat1535_desc = "道具交换中刘备第四格道具環子槍"
+cheat1535_handler = "2"
+cheat1535_code = "14E9F,87"
+
+cheat1536_desc = "道具交换中刘备第四格道具鉤鐮槍"
+cheat1536_handler = "2"
+cheat1536_code = "14E9F,88"
+
+cheat1537_desc = "道具交换中刘备第四格道具红の槍"
+cheat1537_handler = "2"
+cheat1537_code = "14E9F,89"
+
+cheat1538_desc = "道具交换中刘备第四格道具戟"
+cheat1538_handler = "2"
+cheat1538_code = "14E9F,8A"
+
+cheat1539_desc = "道具交换中刘备第四格道具長戟"
+cheat1539_handler = "2"
+cheat1539_code = "14E9F,8B"
+
+cheat1540_desc = "道具交换中刘备第四格道具大戟"
+cheat1540_handler = "2"
+cheat1540_code = "14E9F,8C"
+
+cheat1541_desc = "道具交换中刘备第四格道具青龍戟"
+cheat1541_handler = "2"
+cheat1541_code = "14E9F,8D"
+
+cheat1542_desc = "道具交换中刘备第四格道具半弓"
+cheat1542_handler = "2"
+cheat1542_code = "14E9F,8E"
+
+cheat1543_desc = "道具交换中刘备第四格道具弯弓"
+cheat1543_handler = "2"
+cheat1543_code = "14E9F,8F"
+
+cheat1544_desc = "道具交换中刘备第四格道具李满弓"
+cheat1544_handler = "2"
+cheat1544_code = "14E9F,90"
+
+cheat1545_desc = "道具交换中刘备第四格道具强弓"
+cheat1545_handler = "2"
+cheat1545_code = "14E9F,91"
+
+cheat1546_desc = "道具交换中刘备第四格道具鉄弓"
+cheat1546_handler = "2"
+cheat1546_code = "14E9F,92"
+
+cheat1547_desc = "道具交换中刘备第四格道具双弓床弩"
+cheat1547_handler = "2"
+cheat1547_code = "14E9F,93"
+
+cheat1548_desc = "道具交换中刘备第四格道具斗子弩"
+cheat1548_handler = "2"
+cheat1548_code = "14E9F,94"
+
+cheat1549_desc = "道具交换中刘备第四格道具三弓斗子弩"
+cheat1549_handler = "2"
+cheat1549_code = "14E9F,95"
+
+cheat1550_desc = "道具交换中刘备第四格道具神弩"
+cheat1550_handler = "2"
+cheat1550_code = "14E9F,96"
+
+cheat1551_desc = "道具交换中刘备第四格道具手砲"
+cheat1551_handler = "2"
+cheat1551_code = "14E9F,97"
+
+cheat1552_desc = "道具交换中刘备第四格道具合砲"
+cheat1552_handler = "2"
+cheat1552_code = "14E9F,98"
+
+cheat1553_desc = "道具交换中刘备第四格道具単梢砲"
+cheat1553_handler = "2"
+cheat1553_code = "14E9F,99"
+
+cheat1554_desc = "道具交换中刘备第四格道具双梢砲"
+cheat1554_handler = "2"
+cheat1554_code = "14E9F,9A"
+
+cheat1555_desc = "道具交换中刘备第四格道具霹雳車"
+cheat1555_handler = "2"
+cheat1555_code = "14E9F,9B"
+
+cheat1556_desc = "道具交换中刘备第四格道具旋風砲"
+cheat1556_handler = "2"
+cheat1556_code = "14E9F,9C"
+
+cheat1557_desc = "道具交换中刘备第四格道具独角旋風砲"
+cheat1557_handler = "2"
+cheat1557_code = "14E9F,9D"
+
+cheat1558_desc = "道具交换中刘备第四格道具旋風五砲"
+cheat1558_handler = "2"
+cheat1558_code = "14E9F,9E"
+
+cheat1559_desc = "道具交换中刘备第四格道具圈"
+cheat1559_handler = "2"
+cheat1559_code = "14E9F,9F"
+
+cheat1560_desc = "道具交换中刘备第四格道具乾坤烏亀圈"
+cheat1560_handler = "2"
+cheat1560_code = "14E9F,A0"
+
+cheat1561_desc = "道具交换中刘备第四格道具日月乾坤圈"
+cheat1561_handler = "2"
+cheat1561_code = "14E9F,A1"
+
+cheat1562_desc = "道具交换中刘备第四格道具鶏爪鉞"
+cheat1562_handler = "2"
+cheat1562_code = "14E9F,A2"
+
+cheat1563_desc = "道具交换中刘备第四格道具鶏爪駌鴦鉞"
+cheat1563_handler = "2"
+cheat1563_code = "14E9F,A3"
+
+cheat1564_desc = "道具交换中刘备第四格道具子母駌鴦鉞"
+cheat1564_handler = "2"
+cheat1564_code = "14E9F,A4"
+
+cheat1565_desc = "道具交换中刘备第四格道具流星錘"
+cheat1565_handler = "2"
+cheat1565_code = "14E9F,A5"
+
+cheat1566_desc = "道具交换中刘备第四格道具狼牙錘"
+cheat1566_handler = "2"
+cheat1566_code = "14E9F,A6"
+
+cheat1567_desc = "道具交换中刘备第四格道具鞭"
+cheat1567_handler = "2"
+cheat1567_code = "14E9F,A7"
+
+cheat1568_desc = "道具交换中刘备第四格道具柳鞭"
+cheat1568_handler = "2"
+cheat1568_code = "14E9F,A8"
+
+cheat1569_desc = "道具交换中刘备第四格道具鯨鞭"
+cheat1569_handler = "2"
+cheat1569_code = "14E9F,A9"
+
+cheat1570_desc = "道具交换中刘备第四格道具鉄笛"
+cheat1570_handler = "2"
+cheat1570_code = "14E9F,AA"
+
+cheat1571_desc = "道具交换中刘备第四格道具銅鑼"
+cheat1571_handler = "2"
+cheat1571_code = "14E9F,AB"
+
+cheat1572_desc = "道具交换中刘备第四格道具鼓角"
+cheat1572_handler = "2"
+cheat1572_code = "14E9F,AC"
+
+cheat1573_desc = "道具交换中刘备第四格道具兵鼓"
+cheat1573_handler = "2"
+cheat1573_code = "14E9F,AD"
+
+cheat1574_desc = "道具交换中刘备第四格道具鉦鼓"
+cheat1574_handler = "2"
+cheat1574_code = "14E9F,AE"
+
+cheat1575_desc = "道具交换中刘备第四格道具金鼓"
+cheat1575_handler = "2"
+cheat1575_code = "14E9F,AF"
+
+cheat1576_desc = "道具交换中刘备第四格道具鉄扇"
+cheat1576_handler = "2"
+cheat1576_code = "14E9F,B0"
+
+cheat1577_desc = "道具交换中刘备第四格道具羽扇"
+cheat1577_handler = "2"
+cheat1577_code = "14E9F,B1"
+
+cheat1578_desc = "道具交换中刘备第四格道具白羽扇"
+cheat1578_handler = "2"
+cheat1578_code = "14E9F,B2"
+
+cheat1579_desc = "道具交换中刘备第四格道具木牛"
+cheat1579_handler = "2"
+cheat1579_code = "14E9F,B3"
+
+cheat1580_desc = "道具交换中刘备第四格道具流馬"
+cheat1580_handler = "2"
+cheat1580_code = "14E9F,B4"
+
+cheat1581_desc = "道具交换中刘备第四格道具扁厢車"
+cheat1581_handler = "2"
+cheat1581_code = "14E9F,B5"
+
+cheat1582_desc = "道具交换中刘备第四格道具正廂車"
+cheat1582_handler = "2"
+cheat1582_code = "14E9F,B6"
+
+cheat1583_desc = "关羽经验"
+cheat1583_handler = "2"
+cheat1583_code = "3B1F3,63"
+
+cheat1584_desc = "关羽第一格道具孫子の兵法書"
+cheat1584_handler = "2"
+cheat1584_code = "3B1F8,03 ."
+
+cheat1585_desc = "关羽第一格道具赤兔馬"
+cheat1585_handler = "2"
+cheat1585_code = "3B1F8,07"
+
+cheat1586_desc = "关羽第一格道具玉璽"
+cheat1586_handler = "2"
+cheat1586_code = "3B1F8,08"
+
+cheat1587_desc = "关羽第一格道具弓術指南書"
+cheat1587_handler = "2"
+cheat1587_code = "3B1F8,10"
+
+cheat1588_desc = "关羽第一格道具馬術指南書"
+cheat1588_handler = "2"
+cheat1588_code = "3B1F8,11"
+
+cheat1589_desc = "关羽第一格道具剣術指南書"
+cheat1589_handler = "2"
+cheat1589_code = "3B1F8,12"
+
+cheat1590_desc = "关羽第一格道具長槍術奥義"
+cheat1590_handler = "2"
+cheat1590_code = "3B1F8,13"
+
+cheat1591_desc = "关羽第一格道具戦車術奥義"
+cheat1591_handler = "2"
+cheat1591_code = "3B1F8,14"
+
+cheat1592_desc = "关羽第一格道具連弩術極義"
+cheat1592_handler = "2"
+cheat1592_code = "3B1F8,15"
+
+cheat1593_desc = "关羽第一格道具發石術極義"
+cheat1593_handler = "2"
+cheat1593_code = "3B1F8,16"
+
+cheat1594_desc = "关羽第一格道具重騎兵の印綬"
+cheat1594_handler = "2"
+cheat1594_code = "3B1F8,17"
+
+cheat1595_desc = "关羽第一格道具親衛隊の印綬"
+cheat1595_handler = "2"
+cheat1595_code = "3B1F8,18"
+
+cheat1596_desc = "关羽第一格道具無賴の心得"
+cheat1596_handler = "2"
+cheat1596_code = "3B1F8,19"
+
+cheat1597_desc = "关羽第一格道具義俠の心得"
+cheat1597_handler = "2"
+cheat1597_code = "3B1F8,1A"
+
+cheat1598_desc = "关羽第一格道具漢方藥"
+cheat1598_handler = "2"
+cheat1598_code = "3B1F8,2F"
+
+cheat1599_desc = "关羽第一格道具救命藥"
+cheat1599_handler = "2"
+cheat1599_code = "3B1F8,30"
+
+cheat1600_desc = "关羽第一格道具赦命書"
+cheat1600_handler = "2"
+cheat1600_code = "3B1F8,37"
+
+cheat1601_desc = "关羽第一格道具援軍報告"
+cheat1601_handler = "2"
+cheat1601_code = "3B1F8,38"
+
+cheat1602_desc = "关羽第一格道具英傑の剣"
+cheat1602_handler = "2"
+cheat1602_code = "3B1F8,3A"
+
+cheat1603_desc = "关羽第一格道具霸者の剣"
+cheat1603_handler = "2"
+cheat1603_code = "3B1F8,3B"
+
+cheat1604_desc = "关羽第一格道具妖術の藥"
+cheat1604_handler = "2"
+cheat1604_code = "3B1F8,72"
+
+cheat1605_desc = "关羽第一格道具仙術の藥"
+cheat1605_handler = "2"
+cheat1605_code = "3B1F8,73"
+
+cheat1606_desc = "关羽第一格道具嶪火の書"
+cheat1606_handler = "2"
+cheat1606_code = "3B1F8,53"
+
+cheat1607_desc = "关羽第一格道具小赤龍の書"
+cheat1607_handler = "2"
+cheat1607_code = "3B1F8,54"
+
+cheat1608_desc = "关羽第一格道具大嶪火の書"
+cheat1608_handler = "2"
+cheat1608_code = "3B1F8,56"
+
+cheat1609_desc = "关羽第一格道具水刃の書"
+cheat1609_handler = "2"
+cheat1609_code = "3B1F8,59"
+
+cheat1610_desc = "关羽第一格道具小黒龍の書"
+cheat1610_handler = "2"
+cheat1610_code = "3B1F8,5A"
+
+cheat1611_desc = "关羽第一格道具大水刃の書"
+cheat1611_handler = "2"
+cheat1611_code = "3B1F8,5C"
+
+cheat1612_desc = "关羽第一格道具落穴の書"
+cheat1612_handler = "2"
+cheat1612_code = "3B1F8,5F"
+
+cheat1613_desc = "关羽第一格道具小青龍の書"
+cheat1613_handler = "2"
+cheat1613_code = "3B1F8,60"
+
+cheat1614_desc = "关羽第一格道具大地割の書"
+cheat1614_handler = "2"
+cheat1614_code = "3B1F8,62"
+
+cheat1615_desc = "关羽第一格道具旋風の書"
+cheat1615_handler = "2"
+cheat1615_code = "3B1F8,65"
+
+cheat1616_desc = "关羽第一格道具小白龍の書"
+cheat1616_handler = "2"
+cheat1616_code = "3B1F8,66"
+
+cheat1617_desc = "关羽第一格道具風気の書"
+cheat1617_handler = "2"
+cheat1617_code = "3B1F8,68"
+
+cheat1618_desc = "关羽第二格道具孫子の兵法書"
+cheat1618_handler = "2"
+cheat1618_code = "3B1F9,03 ."
+
+cheat1619_desc = "关羽第二格道具赤兔馬"
+cheat1619_handler = "2"
+cheat1619_code = "3B1F9,07"
+
+cheat1620_desc = "关羽第二格道具玉璽"
+cheat1620_handler = "2"
+cheat1620_code = "3B1F9,08"
+
+cheat1621_desc = "关羽第二格道具弓術指南書"
+cheat1621_handler = "2"
+cheat1621_code = "3B1F9,10"
+
+cheat1622_desc = "关羽第二格道具馬術指南書"
+cheat1622_handler = "2"
+cheat1622_code = "3B1F9,11"
+
+cheat1623_desc = "关羽第二格道具剣術指南書"
+cheat1623_handler = "2"
+cheat1623_code = "3B1F9,12"
+
+cheat1624_desc = "关羽第二格道具長槍術奥義"
+cheat1624_handler = "2"
+cheat1624_code = "3B1F9,13"
+
+cheat1625_desc = "关羽第二格道具戦車術奥義"
+cheat1625_handler = "2"
+cheat1625_code = "3B1F9,14"
+
+cheat1626_desc = "关羽第二格道具連弩術極義"
+cheat1626_handler = "2"
+cheat1626_code = "3B1F9,15"
+
+cheat1627_desc = "关羽第二格道具發石術極義"
+cheat1627_handler = "2"
+cheat1627_code = "3B1F9,16"
+
+cheat1628_desc = "关羽第二格道具重騎兵の印綬"
+cheat1628_handler = "2"
+cheat1628_code = "3B1F9,17"
+
+cheat1629_desc = "关羽第二格道具親衛隊の印綬"
+cheat1629_handler = "2"
+cheat1629_code = "3B1F9,18"
+
+cheat1630_desc = "关羽第二格道具無賴の心得"
+cheat1630_handler = "2"
+cheat1630_code = "3B1F9,19"
+
+cheat1631_desc = "关羽第二格道具義俠の心得"
+cheat1631_handler = "2"
+cheat1631_code = "3B1F9,1A"
+
+cheat1632_desc = "关羽第二格道具漢方藥"
+cheat1632_handler = "2"
+cheat1632_code = "3B1F9,2F"
+
+cheat1633_desc = "关羽第二格道具救命藥"
+cheat1633_handler = "2"
+cheat1633_code = "3B1F9,30"
+
+cheat1634_desc = "关羽第二格道具赦命書"
+cheat1634_handler = "2"
+cheat1634_code = "3B1F9,37"
+
+cheat1635_desc = "关羽第二格道具援軍報告"
+cheat1635_handler = "2"
+cheat1635_code = "3B1F9,38"
+
+cheat1636_desc = "关羽第二格道具英傑の剣"
+cheat1636_handler = "2"
+cheat1636_code = "3B1F9,3A"
+
+cheat1637_desc = "关羽第二格道具霸者の剣"
+cheat1637_handler = "2"
+cheat1637_code = "3B1F9,3B"
+
+cheat1638_desc = "关羽第二格道具妖術の藥"
+cheat1638_handler = "2"
+cheat1638_code = "3B1F9,72"
+
+cheat1639_desc = "关羽第二格道具仙術の藥"
+cheat1639_handler = "2"
+cheat1639_code = "3B1F9,73"
+
+cheat1640_desc = "关羽第二格道具嶪火の書"
+cheat1640_handler = "2"
+cheat1640_code = "3B1F9,53"
+
+cheat1641_desc = "关羽第二格道具小赤龍の書"
+cheat1641_handler = "2"
+cheat1641_code = "3B1F9,54"
+
+cheat1642_desc = "关羽第二格道具大嶪火の書"
+cheat1642_handler = "2"
+cheat1642_code = "3B1F9,56"
+
+cheat1643_desc = "关羽第二格道具水刃の書"
+cheat1643_handler = "2"
+cheat1643_code = "3B1F9,59"
+
+cheat1644_desc = "关羽第二格道具小黒龍の書"
+cheat1644_handler = "2"
+cheat1644_code = "3B1F9,5A"
+
+cheat1645_desc = "关羽第二格道具大水刃の書"
+cheat1645_handler = "2"
+cheat1645_code = "3B1F9,5C"
+
+cheat1646_desc = "关羽第二格道具落穴の書"
+cheat1646_handler = "2"
+cheat1646_code = "3B1F9,5F"
+
+cheat1647_desc = "关羽第二格道具小青龍の書"
+cheat1647_handler = "2"
+cheat1647_code = "3B1F9,60"
+
+cheat1648_desc = "关羽第二格道具大地割の書"
+cheat1648_handler = "2"
+cheat1648_code = "3B1F9,62"
+
+cheat1649_desc = "关羽第二格道具旋風の書"
+cheat1649_handler = "2"
+cheat1649_code = "3B1F9,65"
+
+cheat1650_desc = "关羽第二格道具小白龍の書"
+cheat1650_handler = "2"
+cheat1650_code = "3B1F9,66"
+
+cheat1651_desc = "关羽第二格道具風気の書"
+cheat1651_handler = "2"
+cheat1651_code = "3B1F9,68"
+
+cheat1652_desc = "关羽第三格道具孫子の兵法書"
+cheat1652_handler = "2"
+cheat1652_code = "3B1FA,03 ."
+
+cheat1653_desc = "关羽第三格道具赤兔馬"
+cheat1653_handler = "2"
+cheat1653_code = "3B1FA,07"
+
+cheat1654_desc = "关羽第三格道具玉璽"
+cheat1654_handler = "2"
+cheat1654_code = "3B1FA,08"
+
+cheat1655_desc = "关羽第三格道具弓術指南書"
+cheat1655_handler = "2"
+cheat1655_code = "3B1FA,10"
+
+cheat1656_desc = "关羽第三格道具馬術指南書"
+cheat1656_handler = "2"
+cheat1656_code = "3B1FA,11"
+
+cheat1657_desc = "关羽第三格道具剣術指南書"
+cheat1657_handler = "2"
+cheat1657_code = "3B1FA,12"
+
+cheat1658_desc = "关羽第三格道具長槍術奥義"
+cheat1658_handler = "2"
+cheat1658_code = "3B1FA,13"
+
+cheat1659_desc = "关羽第三格道具戦車術奥義"
+cheat1659_handler = "2"
+cheat1659_code = "3B1FA,14"
+
+cheat1660_desc = "关羽第三格道具連弩術極義"
+cheat1660_handler = "2"
+cheat1660_code = "3B1FA,15"
+
+cheat1661_desc = "关羽第三格道具發石術極義"
+cheat1661_handler = "2"
+cheat1661_code = "3B1FA,16"
+
+cheat1662_desc = "关羽第三格道具重騎兵の印綬"
+cheat1662_handler = "2"
+cheat1662_code = "3B1FA,17"
+
+cheat1663_desc = "关羽第三格道具親衛隊の印綬"
+cheat1663_handler = "2"
+cheat1663_code = "3B1FA,18"
+
+cheat1664_desc = "关羽第三格道具無賴の心得"
+cheat1664_handler = "2"
+cheat1664_code = "3B1FA,19"
+
+cheat1665_desc = "关羽第三格道具義俠の心得"
+cheat1665_handler = "2"
+cheat1665_code = "3B1FA,1A"
+
+cheat1666_desc = "关羽第三格道具漢方藥"
+cheat1666_handler = "2"
+cheat1666_code = "3B1FA,2F"
+
+cheat1667_desc = "关羽第三格道具救命藥"
+cheat1667_handler = "2"
+cheat1667_code = "3B1FA,30"
+
+cheat1668_desc = "关羽第三格道具赦命書"
+cheat1668_handler = "2"
+cheat1668_code = "3B1FA,37"
+
+cheat1669_desc = "关羽第三格道具援軍報告"
+cheat1669_handler = "2"
+cheat1669_code = "3B1FA,38"
+
+cheat1670_desc = "关羽第三格道具英傑の剣"
+cheat1670_handler = "2"
+cheat1670_code = "3B1FA,3A"
+
+cheat1671_desc = "关羽第三格道具霸者の剣"
+cheat1671_handler = "2"
+cheat1671_code = "3B1FA,3B"
+
+cheat1672_desc = "关羽第三格道具妖術の藥"
+cheat1672_handler = "2"
+cheat1672_code = "3B1FA,72"
+
+cheat1673_desc = "关羽第三格道具仙術の藥"
+cheat1673_handler = "2"
+cheat1673_code = "3B1FA,73"
+
+cheat1674_desc = "关羽第三格道具嶪火の書"
+cheat1674_handler = "2"
+cheat1674_code = "3B1FA,53"
+
+cheat1675_desc = "关羽第三格道具小赤龍の書"
+cheat1675_handler = "2"
+cheat1675_code = "3B1FA,54"
+
+cheat1676_desc = "关羽第三格道具大嶪火の書"
+cheat1676_handler = "2"
+cheat1676_code = "3B1FA,56"
+
+cheat1677_desc = "关羽第三格道具水刃の書"
+cheat1677_handler = "2"
+cheat1677_code = "3B1FA,59"
+
+cheat1678_desc = "关羽第三格道具小黒龍の書"
+cheat1678_handler = "2"
+cheat1678_code = "3B1FA,5A"
+
+cheat1679_desc = "关羽第三格道具大水刃の書"
+cheat1679_handler = "2"
+cheat1679_code = "3B1FA,5C"
+
+cheat1680_desc = "关羽第三格道具落穴の書"
+cheat1680_handler = "2"
+cheat1680_code = "3B1FA,5F"
+
+cheat1681_desc = "关羽第三格道具小青龍の書"
+cheat1681_handler = "2"
+cheat1681_code = "3B1FA,60"
+
+cheat1682_desc = "关羽第三格道具大地割の書"
+cheat1682_handler = "2"
+cheat1682_code = "3B1FA,62"
+
+cheat1683_desc = "关羽第三格道具旋風の書"
+cheat1683_handler = "2"
+cheat1683_code = "3B1FA,65"
+
+cheat1684_desc = "关羽第三格道具小白龍の書"
+cheat1684_handler = "2"
+cheat1684_code = "3B1FA,66"
+
+cheat1685_desc = "关羽第三格道具風気の書"
+cheat1685_handler = "2"
+cheat1685_code = "3B1FA,68"
+
+cheat1686_desc = "关羽第四格道具孫子の兵法書"
+cheat1686_handler = "2"
+cheat1686_code = "3B1FB,03 ."
+
+cheat1687_desc = "关羽第四格道具赤兔馬"
+cheat1687_handler = "2"
+cheat1687_code = "3B1FB,07"
+
+cheat1688_desc = "关羽第四格道具玉璽"
+cheat1688_handler = "2"
+cheat1688_code = "3B1FB,08"
+
+cheat1689_desc = "关羽第四格道具弓術指南書"
+cheat1689_handler = "2"
+cheat1689_code = "3B1FB,10"
+
+cheat1690_desc = "关羽第四格道具馬術指南書"
+cheat1690_handler = "2"
+cheat1690_code = "3B1FB,11"
+
+cheat1691_desc = "关羽第四格道具剣術指南書"
+cheat1691_handler = "2"
+cheat1691_code = "3B1FB,12"
+
+cheat1692_desc = "关羽第四格道具長槍術奥義"
+cheat1692_handler = "2"
+cheat1692_code = "3B1FB,13"
+
+cheat1693_desc = "关羽第四格道具戦車術奥義"
+cheat1693_handler = "2"
+cheat1693_code = "3B1FB,14"
+
+cheat1694_desc = "关羽第四格道具連弩術極義"
+cheat1694_handler = "2"
+cheat1694_code = "3B1FB,15"
+
+cheat1695_desc = "关羽第四格道具發石術極義"
+cheat1695_handler = "2"
+cheat1695_code = "3B1FB,16"
+
+cheat1696_desc = "关羽第四格道具重騎兵の印綬"
+cheat1696_handler = "2"
+cheat1696_code = "3B1FB,17"
+
+cheat1697_desc = "关羽第四格道具親衛隊の印綬"
+cheat1697_handler = "2"
+cheat1697_code = "3B1FB,18"
+
+cheat1698_desc = "关羽第四格道具無賴の心得"
+cheat1698_handler = "2"
+cheat1698_code = "3B1FB,19"
+
+cheat1699_desc = "关羽第四格道具義俠の心得"
+cheat1699_handler = "2"
+cheat1699_code = "3B1FB,1A"
+
+cheat1700_desc = "关羽第四格道具漢方藥"
+cheat1700_handler = "2"
+cheat1700_code = "3B1FB,2F"
+
+cheat1701_desc = "关羽第四格道具救命藥"
+cheat1701_handler = "2"
+cheat1701_code = "3B1FB,30"
+
+cheat1702_desc = "关羽第四格道具赦命書"
+cheat1702_handler = "2"
+cheat1702_code = "3B1FB,37"
+
+cheat1703_desc = "关羽第四格道具援軍報告"
+cheat1703_handler = "2"
+cheat1703_code = "3B1FB,38"
+
+cheat1704_desc = "关羽第四格道具英傑の剣"
+cheat1704_handler = "2"
+cheat1704_code = "3B1FB,3A"
+
+cheat1705_desc = "关羽第四格道具霸者の剣"
+cheat1705_handler = "2"
+cheat1705_code = "3B1FB,3B"
+
+cheat1706_desc = "关羽第四格道具妖術の藥"
+cheat1706_handler = "2"
+cheat1706_code = "3B1FB,72"
+
+cheat1707_desc = "关羽第四格道具仙術の藥"
+cheat1707_handler = "2"
+cheat1707_code = "3B1FB,73"
+
+cheat1708_desc = "关羽第四格道具嶪火の書"
+cheat1708_handler = "2"
+cheat1708_code = "3B1FB,53"
+
+cheat1709_desc = "关羽第四格道具小赤龍の書"
+cheat1709_handler = "2"
+cheat1709_code = "3B1FB,54"
+
+cheat1710_desc = "关羽第四格道具大嶪火の書"
+cheat1710_handler = "2"
+cheat1710_code = "3B1FB,56"
+
+cheat1711_desc = "关羽第四格道具水刃の書"
+cheat1711_handler = "2"
+cheat1711_code = "3B1FB,59"
+
+cheat1712_desc = "关羽第四格道具小黒龍の書"
+cheat1712_handler = "2"
+cheat1712_code = "3B1FB,5A"
+
+cheat1713_desc = "关羽第四格道具大水刃の書"
+cheat1713_handler = "2"
+cheat1713_code = "3B1FB,5C"
+
+cheat1714_desc = "关羽第四格道具落穴の書"
+cheat1714_handler = "2"
+cheat1714_code = "3B1FB,5F"
+
+cheat1715_desc = "关羽第四格道具小青龍の書"
+cheat1715_handler = "2"
+cheat1715_code = "3B1FB,60"
+
+cheat1716_desc = "关羽第四格道具大地割の書"
+cheat1716_handler = "2"
+cheat1716_code = "3B1FB,62"
+
+cheat1717_desc = "关羽第四格道具旋風の書"
+cheat1717_handler = "2"
+cheat1717_code = "3B1FB,65"
+
+cheat1718_desc = "关羽第四格道具小白龍の書"
+cheat1718_handler = "2"
+cheat1718_code = "3B1FB,66"
+
+cheat1719_desc = "关羽第四格道具風気の書"
+cheat1719_handler = "2"
+cheat1719_code = "3B1FB,68"
+
+cheat1720_desc = "关羽第五格道具孫子の兵法書"
+cheat1720_handler = "2"
+cheat1720_code = "3B1FB,03 ."
+
+cheat1721_desc = "关羽第五格道具赤兔馬"
+cheat1721_handler = "2"
+cheat1721_code = "3B1FB,07"
+
+cheat1722_desc = "关羽第五格道具玉璽"
+cheat1722_handler = "2"
+cheat1722_code = "3B1FB,08"
+
+cheat1723_desc = "关羽第五格道具弓術指南書"
+cheat1723_handler = "2"
+cheat1723_code = "3B1FB,10"
+
+cheat1724_desc = "关羽第五格道具馬術指南書"
+cheat1724_handler = "2"
+cheat1724_code = "3B1FB,11"
+
+cheat1725_desc = "关羽第五格道具剣術指南書"
+cheat1725_handler = "2"
+cheat1725_code = "3B1FB,12"
+
+cheat1726_desc = "关羽第五格道具長槍術奥義"
+cheat1726_handler = "2"
+cheat1726_code = "3B1FB,13"
+
+cheat1727_desc = "关羽第五格道具戦車術奥義"
+cheat1727_handler = "2"
+cheat1727_code = "3B1FB,14"
+
+cheat1728_desc = "关羽第五格道具連弩術極義"
+cheat1728_handler = "2"
+cheat1728_code = "3B1FB,15"
+
+cheat1729_desc = "关羽第五格道具發石術極義"
+cheat1729_handler = "2"
+cheat1729_code = "3B1FB,16"
+
+cheat1730_desc = "关羽第五格道具重騎兵の印綬"
+cheat1730_handler = "2"
+cheat1730_code = "3B1FB,17"
+
+cheat1731_desc = "关羽第五格道具親衛隊の印綬"
+cheat1731_handler = "2"
+cheat1731_code = "3B1FB,18"
+
+cheat1732_desc = "关羽第五格道具無賴の心得"
+cheat1732_handler = "2"
+cheat1732_code = "3B1FB,19"
+
+cheat1733_desc = "关羽第五格道具義俠の心得"
+cheat1733_handler = "2"
+cheat1733_code = "3B1FB,1A"
+
+cheat1734_desc = "关羽第五格道具漢方藥"
+cheat1734_handler = "2"
+cheat1734_code = "3B1FB,2F"
+
+cheat1735_desc = "关羽第五格道具救命藥"
+cheat1735_handler = "2"
+cheat1735_code = "3B1FB,30"
+
+cheat1736_desc = "关羽第五格道具赦命書"
+cheat1736_handler = "2"
+cheat1736_code = "3B1FB,37"
+
+cheat1737_desc = "关羽第五格道具援軍報告"
+cheat1737_handler = "2"
+cheat1737_code = "3B1FB,38"
+
+cheat1738_desc = "关羽第五格道具英傑の剣"
+cheat1738_handler = "2"
+cheat1738_code = "3B1FB,3A"
+
+cheat1739_desc = "关羽第五格道具霸者の剣"
+cheat1739_handler = "2"
+cheat1739_code = "3B1FB,3B"
+
+cheat1740_desc = "关羽第五格道具妖術の藥"
+cheat1740_handler = "2"
+cheat1740_code = "3B1FB,72"
+
+cheat1741_desc = "关羽第五格道具仙術の藥"
+cheat1741_handler = "2"
+cheat1741_code = "3B1FB,73"
+
+cheat1742_desc = "关羽第五格道具嶪火の書"
+cheat1742_handler = "2"
+cheat1742_code = "3B1FB,53"
+
+cheat1743_desc = "关羽第五格道具小赤龍の書"
+cheat1743_handler = "2"
+cheat1743_code = "3B1FB,54"
+
+cheat1744_desc = "关羽第五格道具大嶪火の書"
+cheat1744_handler = "2"
+cheat1744_code = "3B1FB,56"
+
+cheat1745_desc = "关羽第五格道具水刃の書"
+cheat1745_handler = "2"
+cheat1745_code = "3B1FB,59"
+
+cheat1746_desc = "关羽第五格道具小黒龍の書"
+cheat1746_handler = "2"
+cheat1746_code = "3B1FB,5A"
+
+cheat1747_desc = "关羽第五格道具大水刃の書"
+cheat1747_handler = "2"
+cheat1747_code = "3B1FB,5C"
+
+cheat1748_desc = "关羽第五格道具落穴の書"
+cheat1748_handler = "2"
+cheat1748_code = "3B1FB,5F"
+
+cheat1749_desc = "关羽第五格道具小青龍の書"
+cheat1749_handler = "2"
+cheat1749_code = "3B1FB,60"
+
+cheat1750_desc = "关羽第五格道具大地割の書"
+cheat1750_handler = "2"
+cheat1750_code = "3B1FB,62"
+
+cheat1751_desc = "关羽第五格道具旋風の書"
+cheat1751_handler = "2"
+cheat1751_code = "3B1FB,65"
+
+cheat1752_desc = "关羽第五格道具小白龍の書"
+cheat1752_handler = "2"
+cheat1752_code = "3B1FB,66"
+
+cheat1753_desc = "关羽第五格道具風気の書"
+cheat1753_handler = "2"
+cheat1753_code = "3B1FB,68"
+
+cheat1754_desc = "关羽第六格道具孫子の兵法書"
+cheat1754_handler = "2"
+cheat1754_code = "3B1FC,03 ."
+
+cheat1755_desc = "关羽第六格道具赤兔馬"
+cheat1755_handler = "2"
+cheat1755_code = "3B1FC,07"
+
+cheat1756_desc = "关羽第六格道具玉璽"
+cheat1756_handler = "2"
+cheat1756_code = "3B1FC,08"
+
+cheat1757_desc = "关羽第六格道具弓術指南書"
+cheat1757_handler = "2"
+cheat1757_code = "3B1FC,10"
+
+cheat1758_desc = "关羽第六格道具馬術指南書"
+cheat1758_handler = "2"
+cheat1758_code = "3B1FC,11"
+
+cheat1759_desc = "关羽第六格道具剣術指南書"
+cheat1759_handler = "2"
+cheat1759_code = "3B1FC,12"
+
+cheat1760_desc = "关羽第六格道具長槍術奥義"
+cheat1760_handler = "2"
+cheat1760_code = "3B1FC,13"
+
+cheat1761_desc = "关羽第六格道具戦車術奥義"
+cheat1761_handler = "2"
+cheat1761_code = "3B1FC,14"
+
+cheat1762_desc = "关羽第六格道具連弩術極義"
+cheat1762_handler = "2"
+cheat1762_code = "3B1FC,15"
+
+cheat1763_desc = "关羽第六格道具發石術極義"
+cheat1763_handler = "2"
+cheat1763_code = "3B1FC,16"
+
+cheat1764_desc = "关羽第六格道具重騎兵の印綬"
+cheat1764_handler = "2"
+cheat1764_code = "3B1FC,17"
+
+cheat1765_desc = "关羽第六格道具親衛隊の印綬"
+cheat1765_handler = "2"
+cheat1765_code = "3B1FC,18"
+
+cheat1766_desc = "关羽第六格道具無賴の心得"
+cheat1766_handler = "2"
+cheat1766_code = "3B1FC,19"
+
+cheat1767_desc = "关羽第六格道具義俠の心得"
+cheat1767_handler = "2"
+cheat1767_code = "3B1FC,1A"
+
+cheat1768_desc = "关羽第六格道具漢方藥"
+cheat1768_handler = "2"
+cheat1768_code = "3B1FC,2F"
+
+cheat1769_desc = "关羽第六格道具救命藥"
+cheat1769_handler = "2"
+cheat1769_code = "3B1FC,30"
+
+cheat1770_desc = "关羽第六格道具赦命書"
+cheat1770_handler = "2"
+cheat1770_code = "3B1FC,37"
+
+cheat1771_desc = "关羽第六格道具援軍報告"
+cheat1771_handler = "2"
+cheat1771_code = "3B1FC,38"
+
+cheat1772_desc = "关羽第六格道具英傑の剣"
+cheat1772_handler = "2"
+cheat1772_code = "3B1FC,3A"
+
+cheat1773_desc = "关羽第六格道具霸者の剣"
+cheat1773_handler = "2"
+cheat1773_code = "3B1FC,3B"
+
+cheat1774_desc = "关羽第六格道具妖術の藥"
+cheat1774_handler = "2"
+cheat1774_code = "3B1FC,72"
+
+cheat1775_desc = "关羽第六格道具仙術の藥"
+cheat1775_handler = "2"
+cheat1775_code = "3B1FC,73"
+
+cheat1776_desc = "关羽第六格道具嶪火の書"
+cheat1776_handler = "2"
+cheat1776_code = "3B1FC,53"
+
+cheat1777_desc = "关羽第六格道具小赤龍の書"
+cheat1777_handler = "2"
+cheat1777_code = "3B1FC,54"
+
+cheat1778_desc = "关羽第六格道具大嶪火の書"
+cheat1778_handler = "2"
+cheat1778_code = "3B1FC,56"
+
+cheat1779_desc = "关羽第六格道具水刃の書"
+cheat1779_handler = "2"
+cheat1779_code = "3B1FC,59"
+
+cheat1780_desc = "关羽第六格道具小黒龍の書"
+cheat1780_handler = "2"
+cheat1780_code = "3B1FC,5A"
+
+cheat1781_desc = "关羽第六格道具大水刃の書"
+cheat1781_handler = "2"
+cheat1781_code = "3B1FC,5C"
+
+cheat1782_desc = "关羽第六格道具落穴の書"
+cheat1782_handler = "2"
+cheat1782_code = "3B1FC,5F"
+
+cheat1783_desc = "关羽第六格道具小青龍の書"
+cheat1783_handler = "2"
+cheat1783_code = "3B1FC,60"
+
+cheat1784_desc = "关羽第六格道具大地割の書"
+cheat1784_handler = "2"
+cheat1784_code = "3B1FC,62"
+
+cheat1785_desc = "关羽第六格道具旋風の書"
+cheat1785_handler = "2"
+cheat1785_code = "3B1FC,65"
+
+cheat1786_desc = "关羽第六格道具小白龍の書"
+cheat1786_handler = "2"
+cheat1786_code = "3B1FC,66"
+
+cheat1787_desc = "关羽第六格道具風気の書"
+cheat1787_handler = "2"
+cheat1787_code = "3B1FC,68"
+
+cheat1788_desc = "张飞武、统、智255"
+cheat1788_handler = "2"
+cheat1788_code = "14EF3,ff,ff,ff"
+
+cheat1789_desc = "张飞经验"
+cheat1789_handler = "2"
+cheat1789_code = "3B203,63"
+
+cheat1790_desc = "张飞第一格道具孫子の兵法書"
+cheat1790_handler = "2"
+cheat1790_code = "3B208,03 ."
+
+cheat1791_desc = "张飞第一格道具赤兔馬"
+cheat1791_handler = "2"
+cheat1791_code = "3B208,07"
+
+cheat1792_desc = "张飞第一格道具玉璽"
+cheat1792_handler = "2"
+cheat1792_code = "3B208,08"
+
+cheat1793_desc = "张飞第一格道具弓術指南書"
+cheat1793_handler = "2"
+cheat1793_code = "3B208,10"
+
+cheat1794_desc = "张飞第一格道具馬術指南書"
+cheat1794_handler = "2"
+cheat1794_code = "3B208,11"
+
+cheat1795_desc = "张飞第一格道具剣術指南書"
+cheat1795_handler = "2"
+cheat1795_code = "3B208,12"
+
+cheat1796_desc = "张飞第一格道具長槍術奥義"
+cheat1796_handler = "2"
+cheat1796_code = "3B208,13"
+
+cheat1797_desc = "张飞第一格道具戦車術奥義"
+cheat1797_handler = "2"
+cheat1797_code = "3B208,14"
+
+cheat1798_desc = "张飞第一格道具連弩術極義"
+cheat1798_handler = "2"
+cheat1798_code = "3B208,15"
+
+cheat1799_desc = "张飞第一格道具發石術極義"
+cheat1799_handler = "2"
+cheat1799_code = "3B208,16"
+
+cheat1800_desc = "张飞第一格道具重騎兵の印綬"
+cheat1800_handler = "2"
+cheat1800_code = "3B208,17"
+
+cheat1801_desc = "张飞第一格道具親衛隊の印綬"
+cheat1801_handler = "2"
+cheat1801_code = "3B208,18"
+
+cheat1802_desc = "张飞第一格道具無賴の心得"
+cheat1802_handler = "2"
+cheat1802_code = "3B208,19"
+
+cheat1803_desc = "张飞第一格道具義俠の心得"
+cheat1803_handler = "2"
+cheat1803_code = "3B208,1A"
+
+cheat1804_desc = "张飞第一格道具漢方藥"
+cheat1804_handler = "2"
+cheat1804_code = "3B208,2F"
+
+cheat1805_desc = "张飞第一格道具救命藥"
+cheat1805_handler = "2"
+cheat1805_code = "3B208,30"
+
+cheat1806_desc = "张飞第一格道具赦命書"
+cheat1806_handler = "2"
+cheat1806_code = "3B208,37"
+
+cheat1807_desc = "张飞第一格道具援軍報告"
+cheat1807_handler = "2"
+cheat1807_code = "3B208,38"
+
+cheat1808_desc = "张飞第一格道具英傑の剣"
+cheat1808_handler = "2"
+cheat1808_code = "3B208,3A"
+
+cheat1809_desc = "张飞第一格道具霸者の剣"
+cheat1809_handler = "2"
+cheat1809_code = "3B208,3B"
+
+cheat1810_desc = "张飞第一格道具妖術の藥"
+cheat1810_handler = "2"
+cheat1810_code = "3B208,72"
+
+cheat1811_desc = "张飞第一格道具仙術の藥"
+cheat1811_handler = "2"
+cheat1811_code = "3B208,73"
+
+cheat1812_desc = "张飞第一格道具嶪火の書"
+cheat1812_handler = "2"
+cheat1812_code = "3B208,53"
+
+cheat1813_desc = "张飞第一格道具小赤龍の書"
+cheat1813_handler = "2"
+cheat1813_code = "3B208,54"
+
+cheat1814_desc = "张飞第一格道具大嶪火の書"
+cheat1814_handler = "2"
+cheat1814_code = "3B208,56"
+
+cheat1815_desc = "张飞第一格道具水刃の書"
+cheat1815_handler = "2"
+cheat1815_code = "3B208,59"
+
+cheat1816_desc = "张飞第一格道具小黒龍の書"
+cheat1816_handler = "2"
+cheat1816_code = "3B208,5A"
+
+cheat1817_desc = "张飞第一格道具大水刃の書"
+cheat1817_handler = "2"
+cheat1817_code = "3B208,5C"
+
+cheat1818_desc = "张飞第一格道具落穴の書"
+cheat1818_handler = "2"
+cheat1818_code = "3B208,5F"
+
+cheat1819_desc = "张飞第一格道具小青龍の書"
+cheat1819_handler = "2"
+cheat1819_code = "3B208,60"
+
+cheat1820_desc = "张飞第一格道具大地割の書"
+cheat1820_handler = "2"
+cheat1820_code = "3B208,62"
+
+cheat1821_desc = "张飞第一格道具旋風の書"
+cheat1821_handler = "2"
+cheat1821_code = "3B208,65"
+
+cheat1822_desc = "张飞第一格道具小白龍の書"
+cheat1822_handler = "2"
+cheat1822_code = "3B208,66"
+
+cheat1823_desc = "张飞第一格道具風気の書"
+cheat1823_handler = "2"
+cheat1823_code = "3B208,68"
+
+cheat1824_desc = "张飞第二格道具孫子の兵法書"
+cheat1824_handler = "2"
+cheat1824_code = "3B209,03 ."
+
+cheat1825_desc = "张飞第二格道具赤兔馬"
+cheat1825_handler = "2"
+cheat1825_code = "3B209,07"
+
+cheat1826_desc = "张飞第二格道具玉璽"
+cheat1826_handler = "2"
+cheat1826_code = "3B209,08"
+
+cheat1827_desc = "张飞第二格道具弓術指南書"
+cheat1827_handler = "2"
+cheat1827_code = "3B209,10"
+
+cheat1828_desc = "张飞第二格道具馬術指南書"
+cheat1828_handler = "2"
+cheat1828_code = "3B209,11"
+
+cheat1829_desc = "张飞第二格道具剣術指南書"
+cheat1829_handler = "2"
+cheat1829_code = "3B209,12"
+
+cheat1830_desc = "张飞第二格道具長槍術奥義"
+cheat1830_handler = "2"
+cheat1830_code = "3B209,13"
+
+cheat1831_desc = "张飞第二格道具戦車術奥義"
+cheat1831_handler = "2"
+cheat1831_code = "3B209,14"
+
+cheat1832_desc = "张飞第二格道具連弩術極義"
+cheat1832_handler = "2"
+cheat1832_code = "3B209,15"
+
+cheat1833_desc = "张飞第二格道具發石術極義"
+cheat1833_handler = "2"
+cheat1833_code = "3B209,16"
+
+cheat1834_desc = "张飞第二格道具重騎兵の印綬"
+cheat1834_handler = "2"
+cheat1834_code = "3B209,17"
+
+cheat1835_desc = "张飞第二格道具親衛隊の印綬"
+cheat1835_handler = "2"
+cheat1835_code = "3B209,18"
+
+cheat1836_desc = "张飞第二格道具無賴の心得"
+cheat1836_handler = "2"
+cheat1836_code = "3B209,19"
+
+cheat1837_desc = "张飞第二格道具義俠の心得"
+cheat1837_handler = "2"
+cheat1837_code = "3B209,1A"
+
+cheat1838_desc = "张飞第二格道具漢方藥"
+cheat1838_handler = "2"
+cheat1838_code = "3B209,2F"
+
+cheat1839_desc = "张飞第二格道具救命藥"
+cheat1839_handler = "2"
+cheat1839_code = "3B209,30"
+
+cheat1840_desc = "张飞第二格道具赦命書"
+cheat1840_handler = "2"
+cheat1840_code = "3B209,37"
+
+cheat1841_desc = "张飞第二格道具援軍報告"
+cheat1841_handler = "2"
+cheat1841_code = "3B209,38"
+
+cheat1842_desc = "张飞第二格道具英傑の剣"
+cheat1842_handler = "2"
+cheat1842_code = "3B209,3A"
+
+cheat1843_desc = "张飞第二格道具霸者の剣"
+cheat1843_handler = "2"
+cheat1843_code = "3B209,3B"
+
+cheat1844_desc = "张飞第二格道具妖術の藥"
+cheat1844_handler = "2"
+cheat1844_code = "3B209,72"
+
+cheat1845_desc = "张飞第二格道具仙術の藥"
+cheat1845_handler = "2"
+cheat1845_code = "3B209,73"
+
+cheat1846_desc = "张飞第二格道具嶪火の書"
+cheat1846_handler = "2"
+cheat1846_code = "3B209,53"
+
+cheat1847_desc = "张飞第二格道具小赤龍の書"
+cheat1847_handler = "2"
+cheat1847_code = "3B209,54"
+
+cheat1848_desc = "张飞第二格道具大嶪火の書"
+cheat1848_handler = "2"
+cheat1848_code = "3B209,56"
+
+cheat1849_desc = "张飞第二格道具水刃の書"
+cheat1849_handler = "2"
+cheat1849_code = "3B209,59"
+
+cheat1850_desc = "张飞第二格道具小黒龍の書"
+cheat1850_handler = "2"
+cheat1850_code = "3B209,5A"
+
+cheat1851_desc = "张飞第二格道具大水刃の書"
+cheat1851_handler = "2"
+cheat1851_code = "3B209,5C"
+
+cheat1852_desc = "张飞第二格道具落穴の書"
+cheat1852_handler = "2"
+cheat1852_code = "3B209,5F"
+
+cheat1853_desc = "张飞第二格道具小青龍の書"
+cheat1853_handler = "2"
+cheat1853_code = "3B209,60"
+
+cheat1854_desc = "张飞第二格道具大地割の書"
+cheat1854_handler = "2"
+cheat1854_code = "3B209,62"
+
+cheat1855_desc = "张飞第二格道具旋風の書"
+cheat1855_handler = "2"
+cheat1855_code = "3B209,65"
+
+cheat1856_desc = "张飞第二格道具小白龍の書"
+cheat1856_handler = "2"
+cheat1856_code = "3B209,66"
+
+cheat1857_desc = "张飞第二格道具風気の書"
+cheat1857_handler = "2"
+cheat1857_code = "3B209,68"
+
+cheat1858_desc = "张飞第三格道具孫子の兵法書"
+cheat1858_handler = "2"
+cheat1858_code = "3B20A,03 ."
+
+cheat1859_desc = "张飞第三格道具赤兔馬"
+cheat1859_handler = "2"
+cheat1859_code = "3B20A,07"
+
+cheat1860_desc = "张飞第三格道具玉璽"
+cheat1860_handler = "2"
+cheat1860_code = "3B20A,08"
+
+cheat1861_desc = "张飞第三格道具弓術指南書"
+cheat1861_handler = "2"
+cheat1861_code = "3B20A,10"
+
+cheat1862_desc = "张飞第三格道具馬術指南書"
+cheat1862_handler = "2"
+cheat1862_code = "3B20A,11"
+
+cheat1863_desc = "张飞第三格道具剣術指南書"
+cheat1863_handler = "2"
+cheat1863_code = "3B20A,12"
+
+cheat1864_desc = "张飞第三格道具長槍術奥義"
+cheat1864_handler = "2"
+cheat1864_code = "3B20A,13"
+
+cheat1865_desc = "张飞第三格道具戦車術奥義"
+cheat1865_handler = "2"
+cheat1865_code = "3B20A,14"
+
+cheat1866_desc = "张飞第三格道具連弩術極義"
+cheat1866_handler = "2"
+cheat1866_code = "3B20A,15"
+
+cheat1867_desc = "张飞第三格道具發石術極義"
+cheat1867_handler = "2"
+cheat1867_code = "3B20A,16"
+
+cheat1868_desc = "张飞第三格道具重騎兵の印綬"
+cheat1868_handler = "2"
+cheat1868_code = "3B20A,17"
+
+cheat1869_desc = "张飞第三格道具親衛隊の印綬"
+cheat1869_handler = "2"
+cheat1869_code = "3B20A,18"
+
+cheat1870_desc = "张飞第三格道具無賴の心得"
+cheat1870_handler = "2"
+cheat1870_code = "3B20A,19"
+
+cheat1871_desc = "张飞第三格道具義俠の心得"
+cheat1871_handler = "2"
+cheat1871_code = "3B20A,1A"
+
+cheat1872_desc = "张飞第三格道具漢方藥"
+cheat1872_handler = "2"
+cheat1872_code = "3B20A,2F"
+
+cheat1873_desc = "张飞第三格道具救命藥"
+cheat1873_handler = "2"
+cheat1873_code = "3B20A,30"
+
+cheat1874_desc = "张飞第三格道具赦命書"
+cheat1874_handler = "2"
+cheat1874_code = "3B20A,37"
+
+cheat1875_desc = "张飞第三格道具援軍報告"
+cheat1875_handler = "2"
+cheat1875_code = "3B20A,38"
+
+cheat1876_desc = "张飞第三格道具英傑の剣"
+cheat1876_handler = "2"
+cheat1876_code = "3B20A,3A"
+
+cheat1877_desc = "张飞第三格道具霸者の剣"
+cheat1877_handler = "2"
+cheat1877_code = "3B20A,3B"
+
+cheat1878_desc = "张飞第三格道具妖術の藥"
+cheat1878_handler = "2"
+cheat1878_code = "3B20A,72"
+
+cheat1879_desc = "张飞第三格道具仙術の藥"
+cheat1879_handler = "2"
+cheat1879_code = "3B20A,73"
+
+cheat1880_desc = "张飞第三格道具嶪火の書"
+cheat1880_handler = "2"
+cheat1880_code = "3B20A,53"
+
+cheat1881_desc = "张飞第三格道具小赤龍の書"
+cheat1881_handler = "2"
+cheat1881_code = "3B20A,54"
+
+cheat1882_desc = "张飞第三格道具大嶪火の書"
+cheat1882_handler = "2"
+cheat1882_code = "3B20A,56"
+
+cheat1883_desc = "张飞第三格道具水刃の書"
+cheat1883_handler = "2"
+cheat1883_code = "3B20A,59"
+
+cheat1884_desc = "张飞第三格道具小黒龍の書"
+cheat1884_handler = "2"
+cheat1884_code = "3B20A,5A"
+
+cheat1885_desc = "张飞第三格道具大水刃の書"
+cheat1885_handler = "2"
+cheat1885_code = "3B20A,5C"
+
+cheat1886_desc = "张飞第三格道具落穴の書"
+cheat1886_handler = "2"
+cheat1886_code = "3B20A,5F"
+
+cheat1887_desc = "张飞第三格道具小青龍の書"
+cheat1887_handler = "2"
+cheat1887_code = "3B20A,60"
+
+cheat1888_desc = "张飞第三格道具大地割の書"
+cheat1888_handler = "2"
+cheat1888_code = "3B20A,62"
+
+cheat1889_desc = "张飞第三格道具旋風の書"
+cheat1889_handler = "2"
+cheat1889_code = "3B20A,65"
+
+cheat1890_desc = "张飞第三格道具小白龍の書"
+cheat1890_handler = "2"
+cheat1890_code = "3B20A,66"
+
+cheat1891_desc = "张飞第三格道具風気の書"
+cheat1891_handler = "2"
+cheat1891_code = "3B20A,68"
+
+cheat1892_desc = "张飞第四格道具孫子の兵法書"
+cheat1892_handler = "2"
+cheat1892_code = "3B20B,03 ."
+
+cheat1893_desc = "张飞第四格道具赤兔馬"
+cheat1893_handler = "2"
+cheat1893_code = "3B20B,07"
+
+cheat1894_desc = "张飞第四格道具玉璽"
+cheat1894_handler = "2"
+cheat1894_code = "3B20B,08"
+
+cheat1895_desc = "张飞第四格道具弓術指南書"
+cheat1895_handler = "2"
+cheat1895_code = "3B20B,10"
+
+cheat1896_desc = "张飞第四格道具馬術指南書"
+cheat1896_handler = "2"
+cheat1896_code = "3B20B,11"
+
+cheat1897_desc = "张飞第四格道具剣術指南書"
+cheat1897_handler = "2"
+cheat1897_code = "3B20B,12"
+
+cheat1898_desc = "张飞第四格道具長槍術奥義"
+cheat1898_handler = "2"
+cheat1898_code = "3B20B,13"
+
+cheat1899_desc = "张飞第四格道具戦車術奥義"
+cheat1899_handler = "2"
+cheat1899_code = "3B20B,14"
+
+cheat1900_desc = "张飞第四格道具連弩術極義"
+cheat1900_handler = "2"
+cheat1900_code = "3B20B,15"
+
+cheat1901_desc = "张飞第四格道具發石術極義"
+cheat1901_handler = "2"
+cheat1901_code = "3B20B,16"
+
+cheat1902_desc = "张飞第四格道具重騎兵の印綬"
+cheat1902_handler = "2"
+cheat1902_code = "3B20B,17"
+
+cheat1903_desc = "张飞第四格道具親衛隊の印綬"
+cheat1903_handler = "2"
+cheat1903_code = "3B20B,18"
+
+cheat1904_desc = "张飞第四格道具無賴の心得"
+cheat1904_handler = "2"
+cheat1904_code = "3B20B,19"
+
+cheat1905_desc = "张飞第四格道具義俠の心得"
+cheat1905_handler = "2"
+cheat1905_code = "3B20B,1A"
+
+cheat1906_desc = "张飞第四格道具漢方藥"
+cheat1906_handler = "2"
+cheat1906_code = "3B20B,2F"
+
+cheat1907_desc = "张飞第四格道具救命藥"
+cheat1907_handler = "2"
+cheat1907_code = "3B20B,30"
+
+cheat1908_desc = "张飞第四格道具赦命書"
+cheat1908_handler = "2"
+cheat1908_code = "3B20B,37"
+
+cheat1909_desc = "张飞第四格道具援軍報告"
+cheat1909_handler = "2"
+cheat1909_code = "3B20B,38"
+
+cheat1910_desc = "张飞第四格道具英傑の剣"
+cheat1910_handler = "2"
+cheat1910_code = "3B20B,3A"
+
+cheat1911_desc = "张飞第四格道具霸者の剣"
+cheat1911_handler = "2"
+cheat1911_code = "3B20B,3B"
+
+cheat1912_desc = "张飞第四格道具妖術の藥"
+cheat1912_handler = "2"
+cheat1912_code = "3B20B,72"
+
+cheat1913_desc = "张飞第四格道具仙術の藥"
+cheat1913_handler = "2"
+cheat1913_code = "3B20B,73"
+
+cheat1914_desc = "张飞第四格道具嶪火の書"
+cheat1914_handler = "2"
+cheat1914_code = "3B20B,53"
+
+cheat1915_desc = "张飞第四格道具小赤龍の書"
+cheat1915_handler = "2"
+cheat1915_code = "3B20B,54"
+
+cheat1916_desc = "张飞第四格道具大嶪火の書"
+cheat1916_handler = "2"
+cheat1916_code = "3B20B,56"
+
+cheat1917_desc = "张飞第四格道具水刃の書"
+cheat1917_handler = "2"
+cheat1917_code = "3B20B,59"
+
+cheat1918_desc = "张飞第四格道具小黒龍の書"
+cheat1918_handler = "2"
+cheat1918_code = "3B20B,5A"
+
+cheat1919_desc = "张飞第四格道具大水刃の書"
+cheat1919_handler = "2"
+cheat1919_code = "3B20B,5C"
+
+cheat1920_desc = "张飞第四格道具落穴の書"
+cheat1920_handler = "2"
+cheat1920_code = "3B20B,5F"
+
+cheat1921_desc = "张飞第四格道具小青龍の書"
+cheat1921_handler = "2"
+cheat1921_code = "3B20B,60"
+
+cheat1922_desc = "张飞第四格道具大地割の書"
+cheat1922_handler = "2"
+cheat1922_code = "3B20B,62"
+
+cheat1923_desc = "张飞第四格道具旋風の書"
+cheat1923_handler = "2"
+cheat1923_code = "3B20B,65"
+
+cheat1924_desc = "张飞第四格道具小白龍の書"
+cheat1924_handler = "2"
+cheat1924_code = "3B20B,66"
+
+cheat1925_desc = "张飞第四格道具風気の書"
+cheat1925_handler = "2"
+cheat1925_code = "3B20B,68"
+
+cheat1926_desc = "张飞第五格道具孫子の兵法書"
+cheat1926_handler = "2"
+cheat1926_code = "3B20B,03 ."
+
+cheat1927_desc = "张飞第五格道具赤兔馬"
+cheat1927_handler = "2"
+cheat1927_code = "3B20B,07"
+
+cheat1928_desc = "张飞第五格道具玉璽"
+cheat1928_handler = "2"
+cheat1928_code = "3B20B,08"
+
+cheat1929_desc = "张飞第五格道具弓術指南書"
+cheat1929_handler = "2"
+cheat1929_code = "3B20B,10"
+
+cheat1930_desc = "张飞第五格道具馬術指南書"
+cheat1930_handler = "2"
+cheat1930_code = "3B20B,11"
+
+cheat1931_desc = "张飞第五格道具剣術指南書"
+cheat1931_handler = "2"
+cheat1931_code = "3B20B,12"
+
+cheat1932_desc = "张飞第五格道具長槍術奥義"
+cheat1932_handler = "2"
+cheat1932_code = "3B20B,13"
+
+cheat1933_desc = "张飞第五格道具戦車術奥義"
+cheat1933_handler = "2"
+cheat1933_code = "3B20B,14"
+
+cheat1934_desc = "张飞第五格道具連弩術極義"
+cheat1934_handler = "2"
+cheat1934_code = "3B20B,15"
+
+cheat1935_desc = "张飞第五格道具發石術極義"
+cheat1935_handler = "2"
+cheat1935_code = "3B20B,16"
+
+cheat1936_desc = "张飞第五格道具重騎兵の印綬"
+cheat1936_handler = "2"
+cheat1936_code = "3B20B,17"
+
+cheat1937_desc = "张飞第五格道具親衛隊の印綬"
+cheat1937_handler = "2"
+cheat1937_code = "3B20B,18"
+
+cheat1938_desc = "张飞第五格道具無賴の心得"
+cheat1938_handler = "2"
+cheat1938_code = "3B20B,19"
+
+cheat1939_desc = "张飞第五格道具義俠の心得"
+cheat1939_handler = "2"
+cheat1939_code = "3B20B,1A"
+
+cheat1940_desc = "张飞第五格道具漢方藥"
+cheat1940_handler = "2"
+cheat1940_code = "3B20B,2F"
+
+cheat1941_desc = "张飞第五格道具救命藥"
+cheat1941_handler = "2"
+cheat1941_code = "3B20B,30"
+
+cheat1942_desc = "张飞第五格道具赦命書"
+cheat1942_handler = "2"
+cheat1942_code = "3B20B,37"
+
+cheat1943_desc = "张飞第五格道具援軍報告"
+cheat1943_handler = "2"
+cheat1943_code = "3B20B,38"
+
+cheat1944_desc = "张飞第五格道具英傑の剣"
+cheat1944_handler = "2"
+cheat1944_code = "3B20B,3A"
+
+cheat1945_desc = "张飞第五格道具霸者の剣"
+cheat1945_handler = "2"
+cheat1945_code = "3B20B,3B"
+
+cheat1946_desc = "张飞第五格道具妖術の藥"
+cheat1946_handler = "2"
+cheat1946_code = "3B20B,72"
+
+cheat1947_desc = "张飞第五格道具仙術の藥"
+cheat1947_handler = "2"
+cheat1947_code = "3B20B,73"
+
+cheat1948_desc = "张飞第五格道具嶪火の書"
+cheat1948_handler = "2"
+cheat1948_code = "3B20B,53"
+
+cheat1949_desc = "张飞第五格道具小赤龍の書"
+cheat1949_handler = "2"
+cheat1949_code = "3B20B,54"
+
+cheat1950_desc = "张飞第五格道具大嶪火の書"
+cheat1950_handler = "2"
+cheat1950_code = "3B20B,56"
+
+cheat1951_desc = "张飞第五格道具水刃の書"
+cheat1951_handler = "2"
+cheat1951_code = "3B20B,59"
+
+cheat1952_desc = "张飞第五格道具小黒龍の書"
+cheat1952_handler = "2"
+cheat1952_code = "3B20B,5A"
+
+cheat1953_desc = "张飞第五格道具大水刃の書"
+cheat1953_handler = "2"
+cheat1953_code = "3B20B,5C"
+
+cheat1954_desc = "张飞第五格道具落穴の書"
+cheat1954_handler = "2"
+cheat1954_code = "3B20B,5F"
+
+cheat1955_desc = "张飞第五格道具小青龍の書"
+cheat1955_handler = "2"
+cheat1955_code = "3B20B,60"
+
+cheat1956_desc = "张飞第五格道具大地割の書"
+cheat1956_handler = "2"
+cheat1956_code = "3B20B,62"
+
+cheat1957_desc = "张飞第五格道具旋風の書"
+cheat1957_handler = "2"
+cheat1957_code = "3B20B,65"
+
+cheat1958_desc = "张飞第五格道具小白龍の書"
+cheat1958_handler = "2"
+cheat1958_code = "3B20B,66"
+
+cheat1959_desc = "张飞第五格道具風気の書"
+cheat1959_handler = "2"
+cheat1959_code = "3B20B,68"
+
+cheat1960_desc = "张飞第六格道具孫子の兵法書"
+cheat1960_handler = "2"
+cheat1960_code = "3B20C,03 ."
+
+cheat1961_desc = "张飞第六格道具赤兔馬"
+cheat1961_handler = "2"
+cheat1961_code = "3B20C,07"
+
+cheat1962_desc = "张飞第六格道具玉璽"
+cheat1962_handler = "2"
+cheat1962_code = "3B20C,08"
+
+cheat1963_desc = "张飞第六格道具弓術指南書"
+cheat1963_handler = "2"
+cheat1963_code = "3B20C,10"
+
+cheat1964_desc = "张飞第六格道具馬術指南書"
+cheat1964_handler = "2"
+cheat1964_code = "3B20C,11"
+
+cheat1965_desc = "张飞第六格道具剣術指南書"
+cheat1965_handler = "2"
+cheat1965_code = "3B20C,12"
+
+cheat1966_desc = "张飞第六格道具長槍術奥義"
+cheat1966_handler = "2"
+cheat1966_code = "3B20C,13"
+
+cheat1967_desc = "张飞第六格道具戦車術奥義"
+cheat1967_handler = "2"
+cheat1967_code = "3B20C,14"
+
+cheat1968_desc = "张飞第六格道具連弩術極義"
+cheat1968_handler = "2"
+cheat1968_code = "3B20C,15"
+
+cheat1969_desc = "张飞第六格道具發石術極義"
+cheat1969_handler = "2"
+cheat1969_code = "3B20C,16"
+
+cheat1970_desc = "张飞第六格道具重騎兵の印綬"
+cheat1970_handler = "2"
+cheat1970_code = "3B20C,17"
+
+cheat1971_desc = "张飞第六格道具親衛隊の印綬"
+cheat1971_handler = "2"
+cheat1971_code = "3B20C,18"
+
+cheat1972_desc = "张飞第六格道具無賴の心得"
+cheat1972_handler = "2"
+cheat1972_code = "3B20C,19"
+
+cheat1973_desc = "张飞第六格道具義俠の心得"
+cheat1973_handler = "2"
+cheat1973_code = "3B20C,1A"
+
+cheat1974_desc = "张飞第六格道具漢方藥"
+cheat1974_handler = "2"
+cheat1974_code = "3B20C,2F"
+
+cheat1975_desc = "张飞第六格道具救命藥"
+cheat1975_handler = "2"
+cheat1975_code = "3B20C,30"
+
+cheat1976_desc = "张飞第六格道具赦命書"
+cheat1976_handler = "2"
+cheat1976_code = "3B20C,37"
+
+cheat1977_desc = "张飞第六格道具援軍報告"
+cheat1977_handler = "2"
+cheat1977_code = "3B20C,38"
+
+cheat1978_desc = "张飞第六格道具英傑の剣"
+cheat1978_handler = "2"
+cheat1978_code = "3B20C,3A"
+
+cheat1979_desc = "张飞第六格道具霸者の剣"
+cheat1979_handler = "2"
+cheat1979_code = "3B20C,3B"
+
+cheat1980_desc = "张飞第六格道具妖術の藥"
+cheat1980_handler = "2"
+cheat1980_code = "3B20C,72"
+
+cheat1981_desc = "张飞第六格道具仙術の藥"
+cheat1981_handler = "2"
+cheat1981_code = "3B20C,73"
+
+cheat1982_desc = "张飞第六格道具嶪火の書"
+cheat1982_handler = "2"
+cheat1982_code = "3B20C,53"
+
+cheat1983_desc = "张飞第六格道具小赤龍の書"
+cheat1983_handler = "2"
+cheat1983_code = "3B20C,54"
+
+cheat1984_desc = "张飞第六格道具大嶪火の書"
+cheat1984_handler = "2"
+cheat1984_code = "3B20C,56"
+
+cheat1985_desc = "张飞第六格道具水刃の書"
+cheat1985_handler = "2"
+cheat1985_code = "3B20C,59"
+
+cheat1986_desc = "张飞第六格道具小黒龍の書"
+cheat1986_handler = "2"
+cheat1986_code = "3B20C,5A"
+
+cheat1987_desc = "张飞第六格道具大水刃の書"
+cheat1987_handler = "2"
+cheat1987_code = "3B20C,5C"
+
+cheat1988_desc = "张飞第六格道具落穴の書"
+cheat1988_handler = "2"
+cheat1988_code = "3B20C,5F"
+
+cheat1989_desc = "张飞第六格道具小青龍の書"
+cheat1989_handler = "2"
+cheat1989_code = "3B20C,60"
+
+cheat1990_desc = "张飞第六格道具大地割の書"
+cheat1990_handler = "2"
+cheat1990_code = "3B20C,62"
+
+cheat1991_desc = "张飞第六格道具旋風の書"
+cheat1991_handler = "2"
+cheat1991_code = "3B20C,65"
+
+cheat1992_desc = "张飞第六格道具小白龍の書"
+cheat1992_handler = "2"
+cheat1992_code = "3B20C,66"
+
+cheat1993_desc = "张飞第六格道具風気の書"
+cheat1993_handler = "2"
+cheat1993_code = "3B20C,68"
+
+cheat1994_desc = "第四人武、统、智255"
+cheat1994_handler = "2"
+cheat1994_code = "14F23,ff,ff,ff"
+
+cheat1995_desc = "第四人经验"
+cheat1995_handler = "2"
+cheat1995_code = "3B213,63"
+
+cheat1996_desc = "第五人武、统、智255"
+cheat1996_handler = "2"
+cheat1996_code = "14F53,ff,ff,ff"
+
+cheat1997_desc = "第五人经验"
+cheat1997_handler = "2"
+cheat1997_code = "3B223,63"
+
+cheat1998_desc = "第六人武、统、智255"
+cheat1998_handler = "2"
+cheat1998_code = "14F83,ff,ff,ff"
+
+cheat1999_desc = "第六人经验"
+cheat1999_handler = "2"
+cheat1999_code = "3B233,63"
+
+cheat2000_desc = "第七人武、统、智255"
+cheat2000_handler = "2"
+cheat2000_code = "14FB3,ff,ff,ff"
+
+cheat2001_desc = "第七人经验"
+cheat2001_handler = "2"
+cheat2001_code = "3B243,63"
+
+cheat2002_desc = "第八人武、统、智255"
+cheat2002_handler = "2"
+cheat2002_code = "14FE3,ff,ff,ff"
+
+cheat2003_desc = "第八人经验"
+cheat2003_handler = "2"
+cheat2003_code = "3B253,63"
+
+cheat2004_desc = "第九人武、统、智255"
+cheat2004_handler = "2"
+cheat2004_code = "15013,ff,ff,ff"
+
+cheat2005_desc = "第九人经验"
+cheat2005_handler = "2"
+cheat2005_code = "3B263,63"
+
+cheat2006_desc = "第十人武、统、智255"
+cheat2006_handler = "2"
+cheat2006_code = "15043,ff,ff,ff"
+
+cheat2007_desc = "第十人经验"
+cheat2007_handler = "2"
+cheat2007_code = "3B273,63"
+
+cheat2008_desc = "第十一人武、统、智255"
+cheat2008_handler = "2"
+cheat2008_code = "15073,FF,FF,FF"
+
+cheat2009_desc = "第十一人经验"
+cheat2009_handler = "2"
+cheat2009_code = "3B283,63"
+
+cheat2010_desc = "第十二人武、统、智255"
+cheat2010_handler = "2"
+cheat2010_code = "150A3,FF,FF,FF"
+
+cheat2011_desc = "第十二人经验"
+cheat2011_handler = "2"
+cheat2011_code = "3B293,63"
+
+cheat2012_desc = "第十三人武、统、智255"
+cheat2012_handler = "2"
+cheat2012_code = "150D3,FF,FF,FF"
+
+cheat2013_desc = "第十三人经验"
+cheat2013_handler = "2"
+cheat2013_code = "3B2A3,63"
+
+cheat2014_desc = "第十四人武、统、智255"
+cheat2014_handler = "2"
+cheat2014_code = "15103,FF,FF,FF"
+
+cheat2015_desc = "第十四人经验"
+cheat2015_handler = "2"
+cheat2015_code = "3B2B3,63"
+
+cheat2016_desc = "第十五人武、统、智255"
+cheat2016_handler = "2"
+cheat2016_code = "15133,FF,FF,FF"
+
+cheat2017_desc = "第十五人经验"
+cheat2017_handler = "2"
+cheat2017_code = "3B2C3,63"
+
+cheats = 2018

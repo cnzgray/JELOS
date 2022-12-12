@@ -1,0 +1,41 @@
+cheat0_desc = "金钱无限"
+cheat0_handler = "0"
+cheat0_code = "800DA668#C9FF"
+
+cheat1_desc = "快速升級"
+cheat1_handler = "0"
+cheat1_code = "800DA678#FFFF"
+
+cheat2_desc = "魔法全满"
+cheat2_handler = "0"
+cheat2_code = "800DA5F8#FFFF"
+
+cheat3_desc = "升级点数不减"
+cheat3_handler = "0"
+cheat3_code = "800DA640#0063"
+
+cheat4_desc = "STR最高"
+cheat4_handler = "0"
+cheat4_code = "800DA630#7FFF"
+
+cheat5_desc = "MAG最高"
+cheat5_handler = "0"
+cheat5_code = "800DA634#7FFF"
+
+cheat6_desc = "DEX最高"
+cheat6_handler = "0"
+cheat6_code = "800DA638#7FFF"
+
+cheat7_desc = "VIT最高"
+cheat7_handler = "0"
+cheat7_code = "800DA63C#7FFF"
+
+cheat8_desc = "生命力不减"
+cheat8_handler = "0"
+cheat8_code = "800DA64C#0001"
+
+cheat9_desc = "魔力不减"
+cheat9_handler = "0"
+cheat9_code = "800DA660#F400"
+
+cheats = 10

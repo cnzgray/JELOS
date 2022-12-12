@@ -1,0 +1,7633 @@
+cheat0_desc = "生命值无限"
+cheat0_handler = "0"
+cheat0_code = "800B84EC#270F"
+
+cheat1_desc = "最大生命值无限"
+cheat1_handler = "0"
+cheat1_code = "800B84FC#270F"
+
+cheat2_desc = "P.E. 值无限"
+cheat2_handler = "0"
+cheat2_code = "800B84EA#270F"
+
+cheat3_desc = "最大 P.E. 值无限"
+cheat3_handler = "0"
+cheat3_code = "800B850A#270F"
+
+cheat4_desc = "所有线粒体力量"
+cheat4_handler = "0"
+cheat4_code = "800C08E4#1FFF;800C08E6#000C"
+
+cheat5_desc = "物品栏无限"
+cheat5_handler = "0"
+cheat5_code = "800514B8#03E7;800514BA#3402"
+
+cheat6_desc = "BP 值无限"
+cheat6_handler = "0"
+cheat6_code = "800C08D0#869F;800C08D2#0001"
+
+cheat7_desc = "快速升级 - 战斗后等级为 99"
+cheat7_handler = "0"
+cheat7_code = "8009CDC6#7FFF"
+
+cheat8_desc = "等级 99"
+cheat8_handler = "0"
+cheat8_code = "800C08CA#0062"
+
+cheat9_desc = "时间 = 00'00'00"
+cheat9_handler = "0"
+cheat9_code = "800A717C#0000;800A717E#0000"
+
+cheat10_desc = "Max AT (在战斗时)"
+cheat10_handler = "0"
+cheat10_code = "800B84F0#2328"
+
+cheat11_desc = "offence 值无限"
+cheat11_handler = "0"
+cheat11_code = "800C08EA#0630"
+
+cheat12_desc = "defence 值无限"
+cheat12_handler = "0"
+cheat12_code = "800C08EC#0630"
+
+cheat13_desc = "P.Energy 值无限"
+cheat13_handler = "0"
+cheat13_code = "800C08EE#0630"
+
+cheat14_desc = "Status Recover 值无限"
+cheat14_handler = "0"
+cheat14_code = "800C08F0#0630"
+
+cheat15_desc = "Active time 值无限"
+cheat15_handler = "0"
+cheat15_code = "800C08F2#0630"
+
+cheat16_desc = "item capacity 值无限"
+cheat16_handler = "0"
+cheat16_code = "800C08F4#0630"
+
+cheat17_desc = "克莱斯勒大楼的钥匙"
+cheat17_handler = "0"
+cheat17_code = "800C0908#0038;800C090A#0039;800C090C#003A;800C090E#003B;800C0910#003C;800C0912#003D;800C0914#003E"
+
+cheat18_desc = "物品栏 1NONE"
+cheat18_handler = "0"
+cheat18_code = "800C0908#0000"
+
+cheat19_desc = "物品栏 1子弹 X6"
+cheat19_handler = "0"
+cheat19_code = "800C0908#0001"
+
+cheat20_desc = "物品栏 1子弹 X15"
+cheat20_handler = "0"
+cheat20_code = "800C0908#0002"
+
+cheat21_desc = "物品栏 1子弹 X30"
+cheat21_handler = "0"
+cheat21_code = "800C0908#0003"
+
+cheat22_desc = "物品栏 1前田的子弹"
+cheat22_handler = "0"
+cheat22_code = "800C0908#0004"
+
+cheat23_desc = "物品栏 1火箭弹"
+cheat23_handler = "0"
+cheat23_code = "800C0908#0005"
+
+cheat24_desc = "物品栏 1恢复药(恢复 45)"
+cheat24_handler = "0"
+cheat24_code = "800C0908#0006"
+
+cheat25_desc = "物品栏 1恢复药(恢复 90)90"
+cheat25_handler = "0"
+cheat25_code = "800C0908#0007"
+
+cheat26_desc = "物品栏 1恢复药(恢复 180)180"
+cheat26_handler = "0"
+cheat26_code = "800C0908#0008"
+
+cheat27_desc = "物品栏 1恢复药(恢复 400)400"
+cheat27_handler = "0"
+cheat27_code = "800C0908#0009"
+
+cheat28_desc = "物品栏 1完全恢复药"
+cheat28_handler = "0"
+cheat28_code = "800C0908#000A"
+
+cheat29_desc = "物品栏 1超级零件"
+cheat29_handler = "0"
+cheat29_code = "800C0908#000B"
+
+cheat30_desc = "物品栏 1骗子零件"
+cheat30_handler = "0"
+cheat30_code = "800C0908#000C"
+
+cheat31_desc = "物品栏 1毒治疗药"
+cheat31_handler = "0"
+cheat31_code = "800C0908#000D"
+
+cheat32_desc = "物品栏 1黑暗治疗药"
+cheat32_handler = "0"
+cheat32_code = "800C0908#000E"
+
+cheat33_desc = "物品栏 1混乱治疗药"
+cheat33_handler = "0"
+cheat33_code = "800C0908#000F"
+
+cheat34_desc = "物品栏 1移动限制治疗药"
+cheat34_handler = "0"
+cheat34_code = "800C0908#0010"
+
+cheat35_desc = "物品栏 1万能药"
+cheat35_handler = "0"
+cheat35_code = "800C0908#0011"
+
+cheat36_desc = "物品栏 1复活药"
+cheat36_handler = "0"
+cheat36_code = "800C0908#0012"
+
+cheat37_desc = "物品栏 1防御力 +1"
+cheat37_handler = "0"
+cheat37_code = "800C0908#0013"
+
+cheat38_desc = "物品栏 1零件"
+cheat38_handler = "0"
+cheat38_code = "800C0908#0014"
+
+cheat39_desc = "物品栏 1交易卡"
+cheat39_handler = "0"
+cheat39_code = "800C0908#0015"
+
+cheat40_desc = "物品栏 1工具"
+cheat40_handler = "0"
+cheat40_code = "800C0908#0016"
+
+cheat41_desc = "物品栏 1万能工具"
+cheat41_handler = "0"
+cheat41_code = "800C0908#0017"
+
+cheat42_desc = "物品栏 1道具 24"
+cheat42_handler = "0"
+cheat42_code = "800C0908#0018"
+
+cheat43_desc = "物品栏 1道具 25"
+cheat43_handler = "0"
+cheat43_code = "800C0908#0019"
+
+cheat44_desc = "物品栏 1弹药箱"
+cheat44_handler = "0"
+cheat44_code = "800C0908#001A"
+
+cheat45_desc = "物品栏 1火箭弹药箱"
+cheat45_handler = "0"
+cheat45_code = "800C0908#001B"
+
+cheat46_desc = "物品栏 1前田的弹药箱"
+cheat46_handler = "0"
+cheat46_code = "800C0908#001C"
+
+cheat47_desc = "物品栏 1攻击力 +1"
+cheat47_handler = "0"
+cheat47_code = "800C0908#001D"
+
+cheat48_desc = "物品栏 1攻击力 +2"
+cheat48_handler = "0"
+cheat48_code = "800C0908#001E"
+
+cheat49_desc = "物品栏 1攻击力 +3"
+cheat49_handler = "0"
+cheat49_code = "800C0908#001F"
+
+cheat50_desc = "物品栏 1攻击力 +4"
+cheat50_handler = "0"
+cheat50_code = "800C0908#0020"
+
+cheat51_desc = "物品栏 1命中率 +1"
+cheat51_handler = "0"
+cheat51_code = "800C0908#0021"
+
+cheat52_desc = "物品栏 1命中率 +2"
+cheat52_handler = "0"
+cheat52_code = "800C0908#0022"
+
+cheat53_desc = "物品栏 1命中率 +3"
+cheat53_handler = "0"
+cheat53_code = "800C0908#0023"
+
+cheat54_desc = "物品栏 1命中率 +4"
+cheat54_handler = "0"
+cheat54_code = "800C0908#0024"
+
+cheat55_desc = "物品栏 1装弹数 +1"
+cheat55_handler = "0"
+cheat55_code = "800C0908#0025"
+
+cheat56_desc = "物品栏 1装弹数 +2"
+cheat56_handler = "0"
+cheat56_code = "800C0908#0026"
+
+cheat57_desc = "物品栏 1装弹数 +3"
+cheat57_handler = "0"
+cheat57_code = "800C0908#0027"
+
+cheat58_desc = "物品栏 1装弹数 +4"
+cheat58_handler = "0"
+cheat58_code = "800C0908#0028"
+
+cheat59_desc = "物品栏 1防御力 +1"
+cheat59_handler = "0"
+cheat59_code = "800C0908#0029"
+
+cheat60_desc = "物品栏 1防御力 +2"
+cheat60_handler = "0"
+cheat60_code = "800C0908#002A"
+
+cheat61_desc = "物品栏 1防御力 +3"
+cheat61_handler = "0"
+cheat61_code = "800C0908#002B"
+
+cheat62_desc = "物品栏 1防御力 +4"
+cheat62_handler = "0"
+cheat62_code = "800C0908#002C"
+
+cheat63_desc = "物品栏 1CR回避 +1"
+cheat63_handler = "0"
+cheat63_code = "800C0908#002D"
+
+cheat64_desc = "物品栏 1CR回避 +2"
+cheat64_handler = "0"
+cheat64_code = "800C0908#002E"
+
+cheat65_desc = "物品栏 1CR回避 +3"
+cheat65_handler = "0"
+cheat65_code = "800C0908#002F"
+
+cheat66_desc = "物品栏 1CR回避 +4"
+cheat66_handler = "0"
+cheat66_code = "800C0908#0030"
+
+cheat67_desc = "物品栏 1PE防御力 +1"
+cheat67_handler = "0"
+cheat67_code = "800C0908#0031"
+
+cheat68_desc = "物品栏 1PE防御力 +2"
+cheat68_handler = "0"
+cheat68_code = "800C0908#0032"
+
+cheat69_desc = "物品栏 1PE防御力 +3"
+cheat69_handler = "0"
+cheat69_code = "800C0908#0033"
+
+cheat70_desc = "物品栏 1PE防御力 +4"
+cheat70_handler = "0"
+cheat70_code = "800C0908#0034"
+
+cheat71_desc = "物品栏 1工具组"
+cheat71_handler = "0"
+cheat71_code = "800C0908#0035"
+
+cheat72_desc = "物品栏 1万能工具组"
+cheat72_handler = "0"
+cheat72_code = "800C0908#0036"
+
+cheat73_desc = "物品栏 1改造许可证"
+cheat73_handler = "0"
+cheat73_code = "800C0908#0037"
+
+cheat74_desc = "物品栏 1大楼钥匙1 (到10楼去的钥匙)"
+cheat74_handler = "0"
+cheat74_code = "800C0908#0038"
+
+cheat75_desc = "物品栏 1大楼钥匙2 (到20楼去的钥匙)"
+cheat75_handler = "0"
+cheat75_code = "800C0908#0039"
+
+cheat76_desc = "物品栏 1大楼钥匙3 (到30楼去的钥匙)"
+cheat76_handler = "0"
+cheat76_code = "800C0908#003A"
+
+cheat77_desc = "物品栏 1大楼钥匙4 (到40楼去的钥匙)"
+cheat77_handler = "0"
+cheat77_code = "800C0908#003B"
+
+cheat78_desc = "物品栏 1大楼钥匙5 (到50楼去的钥匙)"
+cheat78_handler = "0"
+cheat78_code = "800C0908#003C"
+
+cheat79_desc = "物品栏 1大楼钥匙6 (到60楼去的钥匙)"
+cheat79_handler = "0"
+cheat79_code = "800C0908#003D"
+
+cheat80_desc = "物品栏 1大楼钥匙7 (到70楼去的钥匙)"
+cheat80_handler = "0"
+cheat80_code = "800C0908#003E"
+
+cheat81_desc = "物品栏 1警棍1"
+cheat81_handler = "0"
+cheat81_code = "800C0908#003F"
+
+cheat82_desc = "物品栏 1警棍2"
+cheat82_handler = "0"
+cheat82_code = "800C0908#0040"
+
+cheat83_desc = "物品栏 1警棍3"
+cheat83_handler = "0"
+cheat83_code = "800C0908#0041"
+
+cheat84_desc = "物品栏 1警棍4"
+cheat84_handler = "0"
+cheat84_code = "800C0908#0042"
+
+cheat85_desc = "物品栏 1警棍5"
+cheat85_handler = "0"
+cheat85_code = "800C0908#0043"
+
+cheat86_desc = "物品栏 1M84F (手枪)"
+cheat86_handler = "0"
+cheat86_code = "800C0908#0044"
+
+cheat87_desc = "物品栏 1M9 (手枪)"
+cheat87_handler = "0"
+cheat87_code = "800C0908#0045"
+
+cheat88_desc = "物品栏 1M9改 (手枪)"
+cheat88_handler = "0"
+cheat88_code = "800C0908#0046"
+
+cheat89_desc = "物品栏 1M9改2 (手枪)"
+cheat89_handler = "0"
+cheat89_code = "800C0908#0047"
+
+cheat90_desc = "物品栏 1M8000 (手枪)"
+cheat90_handler = "0"
+cheat90_code = "800C0908#0048"
+
+cheat91_desc = "物品栏 1M96 (手枪)"
+cheat91_handler = "0"
+cheat91_code = "800C0908#0049"
+
+cheat92_desc = "物品栏 1M96R (手枪)"
+cheat92_handler = "0"
+cheat92_code = "800C0908#004A"
+
+cheat93_desc = "物品栏 1P220 (手枪)"
+cheat93_handler = "0"
+cheat93_code = "800C0908#004B"
+
+cheat94_desc = "物品栏 1P220改 (手枪)"
+cheat94_handler = "0"
+cheat94_code = "800C0908#004C"
+
+cheat95_desc = "物品栏 1P228 (手枪)"
+cheat95_handler = "0"
+cheat95_code = "800C0908#004D"
+
+cheat96_desc = "物品栏 1P226 (手枪)"
+cheat96_handler = "0"
+cheat96_code = "800C0908#004E"
+
+cheat97_desc = "物品栏 1229 (手枪)"
+cheat97_handler = "0"
+cheat97_code = "800C0908#004F"
+
+cheat98_desc = "物品栏 1M1911A1 (手枪)"
+cheat98_handler = "0"
+cheat98_code = "800C0908#0050"
+
+cheat99_desc = "物品栏 1M1911A2 (手枪)"
+cheat99_handler = "0"
+cheat99_code = "800C0908#0051"
+
+cheat100_desc = "物品栏 1M1911A3 (手枪)"
+cheat100_handler = "0"
+cheat100_code = "800C0908#0052"
+
+cheat101_desc = "物品栏 1M1911A4 (手枪)"
+cheat101_handler = "0"
+cheat101_code = "800C0908#0053"
+
+cheat102_desc = "物品栏 1M1911A5 (手枪)"
+cheat102_handler = "0"
+cheat102_code = "800C0908#0054"
+
+cheat103_desc = "物品栏 1P8 (手枪)"
+cheat103_handler = "0"
+cheat103_code = "800C0908#0055"
+
+cheat104_desc = "物品栏 1USP (手枪)"
+cheat104_handler = "0"
+cheat104_code = "800C0908#0056"
+
+cheat105_desc = "物品栏 1USP改 (手枪)"
+cheat105_handler = "0"
+cheat105_code = "800C0908#0057"
+
+cheat106_desc = "物品栏 1USP改2 (手枪)"
+cheat106_handler = "0"
+cheat106_code = "800C0908#0058"
+
+cheat107_desc = "物品栏 1Mark23 (手枪)"
+cheat107_handler = "0"
+cheat107_code = "800C0908#0059"
+
+cheat108_desc = "物品栏 1G19 (手枪)"
+cheat108_handler = "0"
+cheat108_code = "800C0908#005A"
+
+cheat109_desc = "物品栏 1G23 (手枪)"
+cheat109_handler = "0"
+cheat109_code = "800C0908#005B"
+
+cheat110_desc = "物品栏 1G22 (手枪)"
+cheat110_handler = "0"
+cheat110_code = "800C0908#005C"
+
+cheat111_desc = "物品栏 1G20 (手枪)"
+cheat111_handler = "0"
+cheat111_code = "800C0908#005D"
+
+cheat112_desc = "物品栏 1M712 (手枪)"
+cheat112_handler = "0"
+cheat112_code = "800C0908#005E"
+
+cheat113_desc = "物品栏 1PPK (手枪)"
+cheat113_handler = "0"
+cheat113_code = "800C0908#005F"
+
+cheat114_desc = "物品栏 1AM44"
+cheat114_handler = "0"
+cheat114_code = "800C0908#0060"
+
+cheat115_desc = "物品栏 1前田的枪"
+cheat115_handler = "0"
+cheat115_code = "800C0908#0061"
+
+cheat116_desc = "物品栏 1PPSh41 (机关枪)"
+cheat116_handler = "0"
+cheat116_code = "800C0908#0062"
+
+cheat117_desc = "物品栏 1SP1C (手枪)"
+cheat117_handler = "0"
+cheat117_code = "800C0908#0063"
+
+cheat118_desc = "物品栏 1USP-TU (手枪)"
+cheat118_handler = "0"
+cheat118_code = "800C0908#0064"
+
+cheat119_desc = "物品栏 1AK47 (来复枪)"
+cheat119_handler = "0"
+cheat119_code = "800C0908#0065"
+
+cheat120_desc = "物品栏 1DE50AE2"
+cheat120_handler = "0"
+cheat120_code = "800C0908#0066"
+
+cheat121_desc = "物品栏 1特别的SMG"
+cheat121_handler = "0"
+cheat121_code = "800C0908#0067"
+
+cheat122_desc = "物品栏 1M870 (霰弹枪)"
+cheat122_handler = "0"
+cheat122_code = "800C0908#0068"
+
+cheat123_desc = "物品栏 1M870 改1 (霰弹枪)"
+cheat123_handler = "0"
+cheat123_code = "800C0908#0069"
+
+cheat124_desc = "物品栏 1M500 (霰弹枪)"
+cheat124_handler = "0"
+cheat124_code = "800C0908#006A"
+
+cheat125_desc = "物品栏 1M500 改1 (霰弹枪)"
+cheat125_handler = "0"
+cheat125_code = "800C0908#006B"
+
+cheat126_desc = "物品栏 1Maverick (霰弹枪)"
+cheat126_handler = "0"
+cheat126_code = "800C0908#006C"
+
+cheat127_desc = "物品栏 1S12 (霰弹枪)"
+cheat127_handler = "0"
+cheat127_code = "800C0908#006D"
+
+cheat128_desc = "物品栏 1M10B (霰弹枪)"
+cheat128_handler = "0"
+cheat128_code = "800C0908#006E"
+
+cheat129_desc = "物品栏 1M11 (机关枪)"
+cheat129_handler = "0"
+cheat129_code = "800C0908#006F"
+
+cheat130_desc = "物品栏 1M11 (机关枪)"
+cheat130_handler = "0"
+cheat130_code = "800C0908#0070"
+
+cheat131_desc = "物品栏 1MP5K (机关枪)"
+cheat131_handler = "0"
+cheat131_code = "800C0908#0071"
+
+cheat132_desc = "物品栏 1MP5PDW (机关枪)"
+cheat132_handler = "0"
+cheat132_code = "800C0908#0072"
+
+cheat133_desc = "物品栏 1MP5A5 (机关枪)"
+cheat133_handler = "0"
+cheat133_code = "800C0908#0073"
+
+cheat134_desc = "物品栏 1MP5SD6 (机关枪)"
+cheat134_handler = "0"
+cheat134_code = "800C0908#0074"
+
+cheat135_desc = "物品栏 1MicroUZ (机关枪)"
+cheat135_handler = "0"
+cheat135_code = "800C0908#0075"
+
+cheat136_desc = "物品栏 1MiniUZ (机关枪)"
+cheat136_handler = "0"
+cheat136_code = "800C0908#0076"
+
+cheat137_desc = "物品栏 1FullUZ (机关枪)"
+cheat137_handler = "0"
+cheat137_code = "800C0908#0077"
+
+cheat138_desc = "物品栏 1P90 (机关枪)"
+cheat138_handler = "0"
+cheat138_code = "800C0908#0078"
+
+cheat139_desc = "物品栏 1M16A1 (来复枪)"
+cheat139_handler = "0"
+cheat139_code = "800C0908#0079"
+
+cheat140_desc = "物品栏 1M16A2 (来复枪)"
+cheat140_handler = "0"
+cheat140_code = "800C0908#007A"
+
+cheat141_desc = "物品栏 1SG550 (来复枪)"
+cheat141_handler = "0"
+cheat141_code = "800C0908#007B"
+
+cheat142_desc = "物品栏 1SAR (来复枪)"
+cheat142_handler = "0"
+cheat142_code = "800C0908#007C"
+
+cheat143_desc = "物品栏 1G3A3 (来复枪)"
+cheat143_handler = "0"
+cheat143_code = "800C0908#007D"
+
+cheat144_desc = "物品栏 164型 (来复枪)"
+cheat144_handler = "0"
+cheat144_code = "800C0908#007E"
+
+cheat145_desc = "物品栏 1XM177E2 (来复枪)"
+cheat145_handler = "0"
+cheat145_code = "800C0908#007F"
+
+cheat146_desc = "物品栏 1PSG-1 (来复枪)"
+cheat146_handler = "0"
+cheat146_code = "800C0908#0080"
+
+cheat147_desc = "物品栏 1FA-MAS (来复枪)"
+cheat147_handler = "0"
+cheat147_code = "800C0908#0081"
+
+cheat148_desc = "物品栏 1MAG (来复枪)"
+cheat148_handler = "0"
+cheat148_code = "800C0908#0082"
+
+cheat149_desc = "物品栏 1M203 (榴弹发射器)"
+cheat149_handler = "0"
+cheat149_code = "800C0908#0083"
+
+cheat150_desc = "物品栏 1M203改1 (榴弹发射器)"
+cheat150_handler = "0"
+cheat150_code = "800C0908#0084"
+
+cheat151_desc = "物品栏 1M203改2 (榴弹发射器)"
+cheat151_handler = "0"
+cheat151_code = "800C0908#0085"
+
+cheat152_desc = "物品栏 1M203改3 (榴弹发射器)"
+cheat152_handler = "0"
+cheat152_code = "800C0908#0086"
+
+cheat153_desc = "物品栏 1M203改4 (榴弹发射器)"
+cheat153_handler = "0"
+cheat153_code = "800C0908#0087"
+
+cheat154_desc = "物品栏 1M203改6 (榴弹发射器)"
+cheat154_handler = "0"
+cheat154_code = "800C0908#0088"
+
+cheat155_desc = "物品栏 1M79 (榴弹发射器)"
+cheat155_handler = "0"
+cheat155_code = "800C0908#0089"
+
+cheat156_desc = "物品栏 1M79改1 (榴弹发射器)"
+cheat156_handler = "0"
+cheat156_code = "800C0908#008A"
+
+cheat157_desc = "物品栏 1M79改2 (榴弹发射器)"
+cheat157_handler = "0"
+cheat157_code = "800C0908#008B"
+
+cheat158_desc = "物品栏 1M79改3 (榴弹发射器)"
+cheat158_handler = "0"
+cheat158_code = "800C0908#008C"
+
+cheat159_desc = "物品栏 1M79改4 (榴弹发射器)"
+cheat159_handler = "0"
+cheat159_code = "800C0908#008D"
+
+cheat160_desc = "物品栏 1M79改5 (榴弹发射器)"
+cheat160_handler = "0"
+cheat160_code = "800C0908#008E"
+
+cheat161_desc = "物品栏 1HK40 (榴弹发射器)"
+cheat161_handler = "0"
+cheat161_code = "800C0908#008F"
+
+cheat162_desc = "物品栏 1AT4 (火箭筒)"
+cheat162_handler = "0"
+cheat162_code = "800C0908#0090"
+
+cheat163_desc = "物品栏 1AT4 (火箭筒)"
+cheat163_handler = "0"
+cheat163_code = "800C0908#0091"
+
+cheat164_desc = "物品栏 1LAW80 (火箭筒)"
+cheat164_handler = "0"
+cheat164_code = "800C0908#0092"
+
+cheat165_desc = "物品栏 1前田的枪"
+cheat165_handler = "0"
+cheat165_code = "800C0908#0093"
+
+cheat166_desc = "物品栏 1M92F (手枪)"
+cheat166_handler = "0"
+cheat166_code = "800C0908#0094"
+
+cheat167_desc = "物品栏 1女装 (女礼服)"
+cheat167_handler = "0"
+cheat167_code = "800C0908#0095"
+
+cheat168_desc = "物品栏 1N 背心"
+cheat168_handler = "0"
+cheat168_code = "800C0908#0096"
+
+cheat169_desc = "物品栏 1N 防护衣"
+cheat169_handler = "0"
+cheat169_code = "800C0908#0097"
+
+cheat170_desc = "物品栏 1N 夹克"
+cheat170_handler = "0"
+cheat170_code = "800C0908#0098"
+
+cheat171_desc = "物品栏 1N 套装"
+cheat171_handler = "0"
+cheat171_code = "800C0908#0099"
+
+cheat172_desc = "物品栏 1N 盔甲"
+cheat172_handler = "0"
+cheat172_code = "800C0908#009A"
+
+cheat173_desc = "物品栏 1KV 背心1"
+cheat173_handler = "0"
+cheat173_code = "800C0908#009B"
+
+cheat174_desc = "物品栏 1KV 防护衣"
+cheat174_handler = "0"
+cheat174_code = "800C0908#009C"
+
+cheat175_desc = "物品栏 1KV 夹克"
+cheat175_handler = "0"
+cheat175_code = "800C0908#009D"
+
+cheat176_desc = "物品栏 1KV 套装"
+cheat176_handler = "0"
+cheat176_code = "800C0908#009E"
+
+cheat177_desc = "物品栏 1KV 盔甲"
+cheat177_handler = "0"
+cheat177_code = "800C0908#009F"
+
+cheat178_desc = "物品栏 1SP 背心1"
+cheat178_handler = "0"
+cheat178_code = "800C0908#00A0"
+
+cheat179_desc = "物品栏 1SP 背心2"
+cheat179_handler = "0"
+cheat179_code = "800C0908#00A1"
+
+cheat180_desc = "物品栏 1SP 防护衣"
+cheat180_handler = "0"
+cheat180_code = "800C0908#00A2"
+
+cheat181_desc = "物品栏 1SP 夹克"
+cheat181_handler = "0"
+cheat181_code = "800C0908#00A3"
+
+cheat182_desc = "物品栏 1SP 套装1"
+cheat182_handler = "0"
+cheat182_code = "800C0908#00A4"
+
+cheat183_desc = "物品栏 1SP 套装2"
+cheat183_handler = "0"
+cheat183_code = "800C0908#00A5"
+
+cheat184_desc = "物品栏 1SP 盔甲1"
+cheat184_handler = "0"
+cheat184_code = "800C0908#00A6"
+
+cheat185_desc = "物品栏 1SP 盔甲2"
+cheat185_handler = "0"
+cheat185_code = "800C0908#00A7"
+
+cheat186_desc = "物品栏 1SV 背心1"
+cheat186_handler = "0"
+cheat186_code = "800C0908#00A8"
+
+cheat187_desc = "物品栏 1SV 背心2"
+cheat187_handler = "0"
+cheat187_code = "800C0908#00A9"
+
+cheat188_desc = "物品栏 1SV 防护衣"
+cheat188_handler = "0"
+cheat188_code = "800C0908#00AA"
+
+cheat189_desc = "物品栏 1SV 夹克"
+cheat189_handler = "0"
+cheat189_code = "800C0908#00AB"
+
+cheat190_desc = "物品栏 1SV 套装1"
+cheat190_handler = "0"
+cheat190_code = "800C0908#00AC"
+
+cheat191_desc = "物品栏 1SV 套装2"
+cheat191_handler = "0"
+cheat191_code = "800C0908#00AD"
+
+cheat192_desc = "物品栏 1SV 盔甲1"
+cheat192_handler = "0"
+cheat192_code = "800C0908#00AE"
+
+cheat193_desc = "物品栏 1SV 盔甲2"
+cheat193_handler = "0"
+cheat193_code = "800C0908#00AF"
+
+cheat194_desc = "物品栏 1CR 背心1"
+cheat194_handler = "0"
+cheat194_code = "800C0908#00B0"
+
+cheat195_desc = "物品栏 1CR 背心2"
+cheat195_handler = "0"
+cheat195_code = "800C0908#00B1"
+
+cheat196_desc = "物品栏 1CR 防护衣"
+cheat196_handler = "0"
+cheat196_code = "800C0908#00B2"
+
+cheat197_desc = "物品栏 1CR 夹克"
+cheat197_handler = "0"
+cheat197_code = "800C0908#00B3"
+
+cheat198_desc = "物品栏 1CR 套装1"
+cheat198_handler = "0"
+cheat198_code = "800C0908#00B4"
+
+cheat199_desc = "物品栏 1CR 套装2"
+cheat199_handler = "0"
+cheat199_code = "800C0908#00B5"
+
+cheat200_desc = "物品栏 1CR 盔甲1"
+cheat200_handler = "0"
+cheat200_code = "800C0908#00B6"
+
+cheat201_desc = "物品栏 1CR 盔甲2"
+cheat201_handler = "0"
+cheat201_code = "800C0908#00B7"
+
+cheat202_desc = "物品栏 1B 背心1"
+cheat202_handler = "0"
+cheat202_code = "800C0908#00B8"
+
+cheat203_desc = "物品栏 1B 背心2"
+cheat203_handler = "0"
+cheat203_code = "800C0908#00B9"
+
+cheat204_desc = "物品栏 1B 防护衣"
+cheat204_handler = "0"
+cheat204_code = "800C0908#00BA"
+
+cheat205_desc = "物品栏 1B 夹克1"
+cheat205_handler = "0"
+cheat205_code = "800C0908#00BB"
+
+cheat206_desc = "物品栏 1B 夹克2"
+cheat206_handler = "0"
+cheat206_code = "800C0908#00BC"
+
+cheat207_desc = "物品栏 1B 套装1"
+cheat207_handler = "0"
+cheat207_code = "800C0908#00BD"
+
+cheat208_desc = "物品栏 1B 套装2"
+cheat208_handler = "0"
+cheat208_code = "800C0908#00BE"
+
+cheat209_desc = "物品栏 1B 盔甲"
+cheat209_handler = "0"
+cheat209_code = "800C0908#00BF"
+
+cheat210_desc = "物品栏 1CM 背心1"
+cheat210_handler = "0"
+cheat210_code = "800C0908#00C0"
+
+cheat211_desc = "物品栏 1CM 背心2"
+cheat211_handler = "0"
+cheat211_code = "800C0908#00C1"
+
+cheat212_desc = "物品栏 1CM 防护衣"
+cheat212_handler = "0"
+cheat212_code = "800C0908#00C2"
+
+cheat213_desc = "物品栏 1CM 夹克"
+cheat213_handler = "0"
+cheat213_code = "800C0908#00C3"
+
+cheat214_desc = "物品栏 1CM 套装1"
+cheat214_handler = "0"
+cheat214_code = "800C0908#00C4"
+
+cheat215_desc = "物品栏 1CM 盔甲1"
+cheat215_handler = "0"
+cheat215_code = "800C0908#00C5"
+
+cheat216_desc = "物品栏 1CM 盔甲2"
+cheat216_handler = "0"
+cheat216_code = "800C0908#00C6"
+
+cheat217_desc = "物品栏 1CM 套装2"
+cheat217_handler = "0"
+cheat217_code = "800C0908#00C7"
+
+cheat218_desc = "物品栏 1剧院钥匙 (更衣间钥匙)"
+cheat218_handler = "0"
+cheat218_code = "800C0908#00C8"
+
+cheat219_desc = "物品栏 1排练房钥匙"
+cheat219_handler = "0"
+cheat219_code = "800C0908#00C9"
+
+cheat220_desc = "物品栏 1动物园钥匙 (中心公园钥匙)"
+cheat220_handler = "0"
+cheat220_code = "800C0908#00CA"
+
+cheat221_desc = "物品栏 1Narita (护身符)"
+cheat221_handler = "0"
+cheat221_code = "800C0908#00CB"
+
+cheat222_desc = "物品栏 1Mayoke (有用的护身符)"
+cheat222_handler = "0"
+cheat222_code = "800C0908#00CC"
+
+cheat223_desc = "物品栏 1hamaya (特别的护身符)"
+cheat223_handler = "0"
+cheat223_code = "800C0908#00CD"
+
+cheat224_desc = "物品栏 1保险丝1"
+cheat224_handler = "0"
+cheat224_code = "800C0908#00CE"
+
+cheat225_desc = "物品栏 1保险丝2"
+cheat225_handler = "0"
+cheat225_code = "800C0908#00CF"
+
+cheat226_desc = "物品栏 1保险丝3"
+cheat226_handler = "0"
+cheat226_code = "800C0908#00D0"
+
+cheat227_desc = "物品栏 1停尸房钥匙 (医院钥匙)"
+cheat227_handler = "0"
+cheat227_code = "800C0908#00D1"
+
+cheat228_desc = "物品栏 1蓝钥匙"
+cheat228_handler = "0"
+cheat228_code = "800C0908#00D2"
+
+cheat229_desc = "物品栏 1绿钥匙"
+cheat229_handler = "0"
+cheat229_code = "800C0908#00D3"
+
+cheat230_desc = "物品栏 1泵房钥匙"
+cheat230_handler = "0"
+cheat230_code = "800C0908#00D4"
+
+cheat231_desc = "物品栏 1克拉姆的钥匙"
+cheat231_handler = "0"
+cheat231_code = "800C0908#00D5"
+
+cheat232_desc = "物品栏 1储藏室的钥匙 (武器仓库的钥匙)"
+cheat232_handler = "0"
+cheat232_code = "800C0908#00D6"
+
+cheat233_desc = "物品栏 1柜子钥匙"
+cheat233_handler = "0"
+cheat233_code = "800C0908#00D7"
+
+cheat234_desc = "物品栏 1武器备忘录"
+cheat234_handler = "0"
+cheat234_code = "800C0908#00D8"
+
+cheat235_desc = "物品栏 1奖励币"
+cheat235_handler = "0"
+cheat235_code = "800C0908#00D9"
+
+cheat236_desc = "物品栏 1电梯钥匙"
+cheat236_handler = "0"
+cheat236_code = "800C0908#00DA"
+
+cheat237_desc = "物品栏 1地铁大门钥匙"
+cheat237_handler = "0"
+cheat237_code = "800C0908#00DB"
+
+cheat238_desc = "物品栏 1港口仓库钥匙"
+cheat238_handler = "0"
+cheat238_code = "800C0908#00DC"
+
+cheat239_desc = "物品栏 1GSP 交易卡 (武器交易卡)"
+cheat239_handler = "0"
+cheat239_code = "800C0908#00DD"
+
+cheat240_desc = "物品栏 1P38 交易卡 (武器交易卡)"
+cheat240_handler = "0"
+cheat240_code = "800C0908#00DE"
+
+cheat241_desc = "物品栏 1B鹰 交易卡 (武器交易卡)"
+cheat241_handler = "0"
+cheat241_code = "800C0908#00DF"
+
+cheat242_desc = "物品栏 1Kasul 交易卡 (武器交易卡)"
+cheat242_handler = "0"
+cheat242_code = "800C0908#00E0"
+
+cheat243_desc = "物品栏 1PPKS 交易卡 (武器交易卡)"
+cheat243_handler = "0"
+cheat243_code = "800C0908#00E1"
+
+cheat244_desc = "物品栏 1M1 交易卡 (武器交易卡)"
+cheat244_handler = "0"
+cheat244_code = "800C0908#00E2"
+
+cheat245_desc = "物品栏 1MK5 交易卡 (武器交易卡)"
+cheat245_handler = "0"
+cheat245_code = "800C0908#00E3"
+
+cheat246_desc = "物品栏 1MP44 交易卡 (武器交易卡)"
+cheat246_handler = "0"
+cheat246_code = "800C0908#00E4"
+
+cheat247_desc = "物品栏 1BAR 交易卡 (武器交易卡)"
+cheat247_handler = "0"
+cheat247_code = "800C0908#00E5"
+
+cheat248_desc = "物品栏 1MG42 交易卡 (武器交易卡)"
+cheat248_handler = "0"
+cheat248_code = "800C0908#00E6"
+
+cheat249_desc = "物品栏 1M29 交易卡 (武器交易卡)"
+cheat249_handler = "0"
+cheat249_code = "800C0908#00E7"
+
+cheat250_desc = "物品栏 1M73 交易卡 (武器交易卡)"
+cheat250_handler = "0"
+cheat250_code = "800C0908#00E8"
+
+cheat251_desc = "物品栏 138型 交易卡 (武器交易卡)"
+cheat251_handler = "0"
+cheat251_code = "800C0908#00E9"
+
+cheat252_desc = "物品栏 13型 交易卡 (武器交易卡)"
+cheat252_handler = "0"
+cheat252_code = "800C0908#00EA"
+
+cheat253_desc = "物品栏 1鹰 交易卡 (武器交易卡)"
+cheat253_handler = "0"
+cheat253_code = "800C0908#00EB"
+
+cheat254_desc = "物品栏 2NONE"
+cheat254_handler = "0"
+cheat254_code = "800C090A#0000"
+
+cheat255_desc = "物品栏 2子弹 X6"
+cheat255_handler = "0"
+cheat255_code = "800C090A#0001"
+
+cheat256_desc = "物品栏 2子弹 X15"
+cheat256_handler = "0"
+cheat256_code = "800C090A#0002"
+
+cheat257_desc = "物品栏 2子弹 X30"
+cheat257_handler = "0"
+cheat257_code = "800C090A#0003"
+
+cheat258_desc = "物品栏 2前田的子弹"
+cheat258_handler = "0"
+cheat258_code = "800C090A#0004"
+
+cheat259_desc = "物品栏 2火箭弹"
+cheat259_handler = "0"
+cheat259_code = "800C090A#0005"
+
+cheat260_desc = "物品栏 2恢复药(恢复 45)"
+cheat260_handler = "0"
+cheat260_code = "800C090A#0006"
+
+cheat261_desc = "物品栏 2恢复药(恢复 90)90"
+cheat261_handler = "0"
+cheat261_code = "800C090A#0007"
+
+cheat262_desc = "物品栏 2恢复药(恢复 180)180"
+cheat262_handler = "0"
+cheat262_code = "800C090A#0008"
+
+cheat263_desc = "物品栏 2恢复药(恢复 400)400"
+cheat263_handler = "0"
+cheat263_code = "800C090A#0009"
+
+cheat264_desc = "物品栏 2完全恢复药"
+cheat264_handler = "0"
+cheat264_code = "800C090A#000A"
+
+cheat265_desc = "物品栏 2超级零件"
+cheat265_handler = "0"
+cheat265_code = "800C090A#000B"
+
+cheat266_desc = "物品栏 2骗子零件"
+cheat266_handler = "0"
+cheat266_code = "800C090A#000C"
+
+cheat267_desc = "物品栏 2毒治疗药"
+cheat267_handler = "0"
+cheat267_code = "800C090A#000D"
+
+cheat268_desc = "物品栏 2黑暗治疗药"
+cheat268_handler = "0"
+cheat268_code = "800C090A#000E"
+
+cheat269_desc = "物品栏 2混乱治疗药"
+cheat269_handler = "0"
+cheat269_code = "800C090A#000F"
+
+cheat270_desc = "物品栏 2移动限制治疗药"
+cheat270_handler = "0"
+cheat270_code = "800C090A#0010"
+
+cheat271_desc = "物品栏 2万能药"
+cheat271_handler = "0"
+cheat271_code = "800C090A#0011"
+
+cheat272_desc = "物品栏 2复活药"
+cheat272_handler = "0"
+cheat272_code = "800C090A#0012"
+
+cheat273_desc = "物品栏 2防御力 +1"
+cheat273_handler = "0"
+cheat273_code = "800C090A#0013"
+
+cheat274_desc = "物品栏 2零件"
+cheat274_handler = "0"
+cheat274_code = "800C090A#0014"
+
+cheat275_desc = "物品栏 2交易卡"
+cheat275_handler = "0"
+cheat275_code = "800C090A#0015"
+
+cheat276_desc = "物品栏 2工具"
+cheat276_handler = "0"
+cheat276_code = "800C090A#0016"
+
+cheat277_desc = "物品栏 2万能工具"
+cheat277_handler = "0"
+cheat277_code = "800C090A#0017"
+
+cheat278_desc = "物品栏 2道具 24"
+cheat278_handler = "0"
+cheat278_code = "800C090A#0018"
+
+cheat279_desc = "物品栏 2道具 25"
+cheat279_handler = "0"
+cheat279_code = "800C090A#0019"
+
+cheat280_desc = "物品栏 2弹药箱"
+cheat280_handler = "0"
+cheat280_code = "800C090A#001A"
+
+cheat281_desc = "物品栏 2火箭弹药箱"
+cheat281_handler = "0"
+cheat281_code = "800C090A#001B"
+
+cheat282_desc = "物品栏 2前田的弹药箱"
+cheat282_handler = "0"
+cheat282_code = "800C090A#001C"
+
+cheat283_desc = "物品栏 2攻击力 +1"
+cheat283_handler = "0"
+cheat283_code = "800C090A#001D"
+
+cheat284_desc = "物品栏 2攻击力 +2"
+cheat284_handler = "0"
+cheat284_code = "800C090A#001E"
+
+cheat285_desc = "物品栏 2攻击力 +3"
+cheat285_handler = "0"
+cheat285_code = "800C090A#001F"
+
+cheat286_desc = "物品栏 2攻击力 +4"
+cheat286_handler = "0"
+cheat286_code = "800C090A#0020"
+
+cheat287_desc = "物品栏 2命中率 +1"
+cheat287_handler = "0"
+cheat287_code = "800C090A#0021"
+
+cheat288_desc = "物品栏 2命中率 +2"
+cheat288_handler = "0"
+cheat288_code = "800C090A#0022"
+
+cheat289_desc = "物品栏 2命中率 +3"
+cheat289_handler = "0"
+cheat289_code = "800C090A#0023"
+
+cheat290_desc = "物品栏 2命中率 +4"
+cheat290_handler = "0"
+cheat290_code = "800C090A#0024"
+
+cheat291_desc = "物品栏 2装弹数 +1"
+cheat291_handler = "0"
+cheat291_code = "800C090A#0025"
+
+cheat292_desc = "物品栏 2装弹数 +2"
+cheat292_handler = "0"
+cheat292_code = "800C090A#0026"
+
+cheat293_desc = "物品栏 2装弹数 +3"
+cheat293_handler = "0"
+cheat293_code = "800C090A#0027"
+
+cheat294_desc = "物品栏 2装弹数 +4"
+cheat294_handler = "0"
+cheat294_code = "800C090A#0028"
+
+cheat295_desc = "物品栏 2防御力 +1"
+cheat295_handler = "0"
+cheat295_code = "800C090A#0029"
+
+cheat296_desc = "物品栏 2防御力 +2"
+cheat296_handler = "0"
+cheat296_code = "800C090A#002A"
+
+cheat297_desc = "物品栏 2防御力 +3"
+cheat297_handler = "0"
+cheat297_code = "800C090A#002B"
+
+cheat298_desc = "物品栏 2防御力 +4"
+cheat298_handler = "0"
+cheat298_code = "800C090A#002C"
+
+cheat299_desc = "物品栏 2CR回避 +1"
+cheat299_handler = "0"
+cheat299_code = "800C090A#002D"
+
+cheat300_desc = "物品栏 2CR回避 +2"
+cheat300_handler = "0"
+cheat300_code = "800C090A#002E"
+
+cheat301_desc = "物品栏 2CR回避 +3"
+cheat301_handler = "0"
+cheat301_code = "800C090A#002F"
+
+cheat302_desc = "物品栏 2CR回避 +4"
+cheat302_handler = "0"
+cheat302_code = "800C090A#0030"
+
+cheat303_desc = "物品栏 2PE防御力 +1"
+cheat303_handler = "0"
+cheat303_code = "800C090A#0031"
+
+cheat304_desc = "物品栏 2PE防御力 +2"
+cheat304_handler = "0"
+cheat304_code = "800C090A#0032"
+
+cheat305_desc = "物品栏 2PE防御力 +3"
+cheat305_handler = "0"
+cheat305_code = "800C090A#0033"
+
+cheat306_desc = "物品栏 2PE防御力 +4"
+cheat306_handler = "0"
+cheat306_code = "800C090A#0034"
+
+cheat307_desc = "物品栏 2工具组"
+cheat307_handler = "0"
+cheat307_code = "800C090A#0035"
+
+cheat308_desc = "物品栏 2万能工具组"
+cheat308_handler = "0"
+cheat308_code = "800C090A#0036"
+
+cheat309_desc = "物品栏 2改造许可证"
+cheat309_handler = "0"
+cheat309_code = "800C090A#0037"
+
+cheat310_desc = "物品栏 2大楼钥匙1 (到10楼去的钥匙)"
+cheat310_handler = "0"
+cheat310_code = "800C090A#0038"
+
+cheat311_desc = "物品栏 2大楼钥匙2 (到20楼去的钥匙)"
+cheat311_handler = "0"
+cheat311_code = "800C090A#0039"
+
+cheat312_desc = "物品栏 2大楼钥匙3 (到30楼去的钥匙)"
+cheat312_handler = "0"
+cheat312_code = "800C090A#003A"
+
+cheat313_desc = "物品栏 2大楼钥匙4 (到40楼去的钥匙)"
+cheat313_handler = "0"
+cheat313_code = "800C090A#003B"
+
+cheat314_desc = "物品栏 2大楼钥匙5 (到50楼去的钥匙)"
+cheat314_handler = "0"
+cheat314_code = "800C090A#003C"
+
+cheat315_desc = "物品栏 2大楼钥匙6 (到60楼去的钥匙)"
+cheat315_handler = "0"
+cheat315_code = "800C090A#003D"
+
+cheat316_desc = "物品栏 2大楼钥匙7 (到70楼去的钥匙)"
+cheat316_handler = "0"
+cheat316_code = "800C090A#003E"
+
+cheat317_desc = "物品栏 2警棍1"
+cheat317_handler = "0"
+cheat317_code = "800C090A#003F"
+
+cheat318_desc = "物品栏 2警棍2"
+cheat318_handler = "0"
+cheat318_code = "800C090A#0040"
+
+cheat319_desc = "物品栏 2警棍3"
+cheat319_handler = "0"
+cheat319_code = "800C090A#0041"
+
+cheat320_desc = "物品栏 2警棍4"
+cheat320_handler = "0"
+cheat320_code = "800C090A#0042"
+
+cheat321_desc = "物品栏 2警棍5"
+cheat321_handler = "0"
+cheat321_code = "800C090A#0043"
+
+cheat322_desc = "物品栏 2M84F (手枪)"
+cheat322_handler = "0"
+cheat322_code = "800C090A#0044"
+
+cheat323_desc = "物品栏 2M9 (手枪)"
+cheat323_handler = "0"
+cheat323_code = "800C090A#0045"
+
+cheat324_desc = "物品栏 2M9改 (手枪)"
+cheat324_handler = "0"
+cheat324_code = "800C090A#0046"
+
+cheat325_desc = "物品栏 2M9改2 (手枪)"
+cheat325_handler = "0"
+cheat325_code = "800C090A#0047"
+
+cheat326_desc = "物品栏 2M8000 (手枪)"
+cheat326_handler = "0"
+cheat326_code = "800C090A#0048"
+
+cheat327_desc = "物品栏 2M96 (手枪)"
+cheat327_handler = "0"
+cheat327_code = "800C090A#0049"
+
+cheat328_desc = "物品栏 2M96R (手枪)"
+cheat328_handler = "0"
+cheat328_code = "800C090A#004A"
+
+cheat329_desc = "物品栏 2P220 (手枪)"
+cheat329_handler = "0"
+cheat329_code = "800C090A#004B"
+
+cheat330_desc = "物品栏 2P220改 (手枪)"
+cheat330_handler = "0"
+cheat330_code = "800C090A#004C"
+
+cheat331_desc = "物品栏 2P228 (手枪)"
+cheat331_handler = "0"
+cheat331_code = "800C090A#004D"
+
+cheat332_desc = "物品栏 2P226 (手枪)"
+cheat332_handler = "0"
+cheat332_code = "800C090A#004E"
+
+cheat333_desc = "物品栏 2229 (手枪)"
+cheat333_handler = "0"
+cheat333_code = "800C090A#004F"
+
+cheat334_desc = "物品栏 2M1911A1 (手枪)"
+cheat334_handler = "0"
+cheat334_code = "800C090A#0050"
+
+cheat335_desc = "物品栏 2M1911A2 (手枪)"
+cheat335_handler = "0"
+cheat335_code = "800C090A#0051"
+
+cheat336_desc = "物品栏 2M1911A3 (手枪)"
+cheat336_handler = "0"
+cheat336_code = "800C090A#0052"
+
+cheat337_desc = "物品栏 2M1911A4 (手枪)"
+cheat337_handler = "0"
+cheat337_code = "800C090A#0053"
+
+cheat338_desc = "物品栏 2M1911A5 (手枪)"
+cheat338_handler = "0"
+cheat338_code = "800C090A#0054"
+
+cheat339_desc = "物品栏 2P8 (手枪)"
+cheat339_handler = "0"
+cheat339_code = "800C090A#0055"
+
+cheat340_desc = "物品栏 2USP (手枪)"
+cheat340_handler = "0"
+cheat340_code = "800C090A#0056"
+
+cheat341_desc = "物品栏 2USP改 (手枪)"
+cheat341_handler = "0"
+cheat341_code = "800C090A#0057"
+
+cheat342_desc = "物品栏 2USP改2 (手枪)"
+cheat342_handler = "0"
+cheat342_code = "800C090A#0058"
+
+cheat343_desc = "物品栏 2Mark23 (手枪)"
+cheat343_handler = "0"
+cheat343_code = "800C090A#0059"
+
+cheat344_desc = "物品栏 2G19 (手枪)"
+cheat344_handler = "0"
+cheat344_code = "800C090A#005A"
+
+cheat345_desc = "物品栏 2G23 (手枪)"
+cheat345_handler = "0"
+cheat345_code = "800C090A#005B"
+
+cheat346_desc = "物品栏 2G22 (手枪)"
+cheat346_handler = "0"
+cheat346_code = "800C090A#005C"
+
+cheat347_desc = "物品栏 2G20 (手枪)"
+cheat347_handler = "0"
+cheat347_code = "800C090A#005D"
+
+cheat348_desc = "物品栏 2M712 (手枪)"
+cheat348_handler = "0"
+cheat348_code = "800C090A#005E"
+
+cheat349_desc = "物品栏 2PPK (手枪)"
+cheat349_handler = "0"
+cheat349_code = "800C090A#005F"
+
+cheat350_desc = "物品栏 2AM44"
+cheat350_handler = "0"
+cheat350_code = "800C090A#0060"
+
+cheat351_desc = "物品栏 2前田的枪"
+cheat351_handler = "0"
+cheat351_code = "800C090A#0061"
+
+cheat352_desc = "物品栏 2PPSh41 (机关枪)"
+cheat352_handler = "0"
+cheat352_code = "800C090A#0062"
+
+cheat353_desc = "物品栏 2SP1C (手枪)"
+cheat353_handler = "0"
+cheat353_code = "800C090A#0063"
+
+cheat354_desc = "物品栏 2USP-TU (手枪)"
+cheat354_handler = "0"
+cheat354_code = "800C090A#0064"
+
+cheat355_desc = "物品栏 2AK47 (来复枪)"
+cheat355_handler = "0"
+cheat355_code = "800C090A#0065"
+
+cheat356_desc = "物品栏 2DE50AE2"
+cheat356_handler = "0"
+cheat356_code = "800C090A#0066"
+
+cheat357_desc = "物品栏 2特别的SMG"
+cheat357_handler = "0"
+cheat357_code = "800C090A#0067"
+
+cheat358_desc = "物品栏 2M870 (霰弹枪)"
+cheat358_handler = "0"
+cheat358_code = "800C090A#0068"
+
+cheat359_desc = "物品栏 2M870 改1 (霰弹枪)"
+cheat359_handler = "0"
+cheat359_code = "800C090A#0069"
+
+cheat360_desc = "物品栏 2M500 (霰弹枪)"
+cheat360_handler = "0"
+cheat360_code = "800C090A#006A"
+
+cheat361_desc = "物品栏 2M500 改1 (霰弹枪)"
+cheat361_handler = "0"
+cheat361_code = "800C090A#006B"
+
+cheat362_desc = "物品栏 2Maverick (霰弹枪)"
+cheat362_handler = "0"
+cheat362_code = "800C090A#006C"
+
+cheat363_desc = "物品栏 2S12 (霰弹枪)"
+cheat363_handler = "0"
+cheat363_code = "800C090A#006D"
+
+cheat364_desc = "物品栏 2M10B (霰弹枪)"
+cheat364_handler = "0"
+cheat364_code = "800C090A#006E"
+
+cheat365_desc = "物品栏 2M11 (机关枪)"
+cheat365_handler = "0"
+cheat365_code = "800C090A#006F"
+
+cheat366_desc = "物品栏 2M11 (机关枪)"
+cheat366_handler = "0"
+cheat366_code = "800C090A#0070"
+
+cheat367_desc = "物品栏 2MP5K (机关枪)"
+cheat367_handler = "0"
+cheat367_code = "800C090A#0071"
+
+cheat368_desc = "物品栏 2MP5PDW (机关枪)"
+cheat368_handler = "0"
+cheat368_code = "800C090A#0072"
+
+cheat369_desc = "物品栏 2MP5A5 (机关枪)"
+cheat369_handler = "0"
+cheat369_code = "800C090A#0073"
+
+cheat370_desc = "物品栏 2MP5SD6 (机关枪)"
+cheat370_handler = "0"
+cheat370_code = "800C090A#0074"
+
+cheat371_desc = "物品栏 2MicroUZ (机关枪)"
+cheat371_handler = "0"
+cheat371_code = "800C090A#0075"
+
+cheat372_desc = "物品栏 2MiniUZ (机关枪)"
+cheat372_handler = "0"
+cheat372_code = "800C090A#0076"
+
+cheat373_desc = "物品栏 2FullUZ (机关枪)"
+cheat373_handler = "0"
+cheat373_code = "800C090A#0077"
+
+cheat374_desc = "物品栏 2P90 (机关枪)"
+cheat374_handler = "0"
+cheat374_code = "800C090A#0078"
+
+cheat375_desc = "物品栏 2M16A1 (来复枪)"
+cheat375_handler = "0"
+cheat375_code = "800C090A#0079"
+
+cheat376_desc = "物品栏 2M16A2 (来复枪)"
+cheat376_handler = "0"
+cheat376_code = "800C090A#007A"
+
+cheat377_desc = "物品栏 2SG550 (来复枪)"
+cheat377_handler = "0"
+cheat377_code = "800C090A#007B"
+
+cheat378_desc = "物品栏 2SAR (来复枪)"
+cheat378_handler = "0"
+cheat378_code = "800C090A#007C"
+
+cheat379_desc = "物品栏 2G3A3 (来复枪)"
+cheat379_handler = "0"
+cheat379_code = "800C090A#007D"
+
+cheat380_desc = "物品栏 264型 (来复枪)"
+cheat380_handler = "0"
+cheat380_code = "800C090A#007E"
+
+cheat381_desc = "物品栏 2XM177E2 (来复枪)"
+cheat381_handler = "0"
+cheat381_code = "800C090A#007F"
+
+cheat382_desc = "物品栏 2PSG-1 (来复枪)"
+cheat382_handler = "0"
+cheat382_code = "800C090A#0080"
+
+cheat383_desc = "物品栏 2FA-MAS (来复枪)"
+cheat383_handler = "0"
+cheat383_code = "800C090A#0081"
+
+cheat384_desc = "物品栏 2MAG (来复枪)"
+cheat384_handler = "0"
+cheat384_code = "800C090A#0082"
+
+cheat385_desc = "物品栏 2M203 (榴弹发射器)"
+cheat385_handler = "0"
+cheat385_code = "800C090A#0083"
+
+cheat386_desc = "物品栏 2M203改1 (榴弹发射器)"
+cheat386_handler = "0"
+cheat386_code = "800C090A#0084"
+
+cheat387_desc = "物品栏 2M203改2 (榴弹发射器)"
+cheat387_handler = "0"
+cheat387_code = "800C090A#0085"
+
+cheat388_desc = "物品栏 2M203改3 (榴弹发射器)"
+cheat388_handler = "0"
+cheat388_code = "800C090A#0086"
+
+cheat389_desc = "物品栏 2M203改4 (榴弹发射器)"
+cheat389_handler = "0"
+cheat389_code = "800C090A#0087"
+
+cheat390_desc = "物品栏 2M203改6 (榴弹发射器)"
+cheat390_handler = "0"
+cheat390_code = "800C090A#0088"
+
+cheat391_desc = "物品栏 2M79 (榴弹发射器)"
+cheat391_handler = "0"
+cheat391_code = "800C090A#0089"
+
+cheat392_desc = "物品栏 2M79改1 (榴弹发射器)"
+cheat392_handler = "0"
+cheat392_code = "800C090A#008A"
+
+cheat393_desc = "物品栏 2M79改2 (榴弹发射器)"
+cheat393_handler = "0"
+cheat393_code = "800C090A#008B"
+
+cheat394_desc = "物品栏 2M79改3 (榴弹发射器)"
+cheat394_handler = "0"
+cheat394_code = "800C090A#008C"
+
+cheat395_desc = "物品栏 2M79改4 (榴弹发射器)"
+cheat395_handler = "0"
+cheat395_code = "800C090A#008D"
+
+cheat396_desc = "物品栏 2M79改5 (榴弹发射器)"
+cheat396_handler = "0"
+cheat396_code = "800C090A#008E"
+
+cheat397_desc = "物品栏 2HK40 (榴弹发射器)"
+cheat397_handler = "0"
+cheat397_code = "800C090A#008F"
+
+cheat398_desc = "物品栏 2AT4 (火箭筒)"
+cheat398_handler = "0"
+cheat398_code = "800C090A#0090"
+
+cheat399_desc = "物品栏 2AT4 (火箭筒)"
+cheat399_handler = "0"
+cheat399_code = "800C090A#0091"
+
+cheat400_desc = "物品栏 2LAW80 (火箭筒)"
+cheat400_handler = "0"
+cheat400_code = "800C090A#0092"
+
+cheat401_desc = "物品栏 2前田的枪"
+cheat401_handler = "0"
+cheat401_code = "800C090A#0093"
+
+cheat402_desc = "物品栏 2M92F (手枪)"
+cheat402_handler = "0"
+cheat402_code = "800C090A#0094"
+
+cheat403_desc = "物品栏 2女装 (女礼服)"
+cheat403_handler = "0"
+cheat403_code = "800C090A#0095"
+
+cheat404_desc = "物品栏 2N 背心"
+cheat404_handler = "0"
+cheat404_code = "800C090A#0096"
+
+cheat405_desc = "物品栏 2N 防护衣"
+cheat405_handler = "0"
+cheat405_code = "800C090A#0097"
+
+cheat406_desc = "物品栏 2N 夹克"
+cheat406_handler = "0"
+cheat406_code = "800C090A#0098"
+
+cheat407_desc = "物品栏 2N 套装"
+cheat407_handler = "0"
+cheat407_code = "800C090A#0099"
+
+cheat408_desc = "物品栏 2N 盔甲"
+cheat408_handler = "0"
+cheat408_code = "800C090A#009A"
+
+cheat409_desc = "物品栏 2KV 背心1"
+cheat409_handler = "0"
+cheat409_code = "800C090A#009B"
+
+cheat410_desc = "物品栏 2KV 防护衣"
+cheat410_handler = "0"
+cheat410_code = "800C090A#009C"
+
+cheat411_desc = "物品栏 2KV 夹克"
+cheat411_handler = "0"
+cheat411_code = "800C090A#009D"
+
+cheat412_desc = "物品栏 2KV 套装"
+cheat412_handler = "0"
+cheat412_code = "800C090A#009E"
+
+cheat413_desc = "物品栏 2KV 盔甲"
+cheat413_handler = "0"
+cheat413_code = "800C090A#009F"
+
+cheat414_desc = "物品栏 2SP 背心1"
+cheat414_handler = "0"
+cheat414_code = "800C090A#00A0"
+
+cheat415_desc = "物品栏 2SP 背心2"
+cheat415_handler = "0"
+cheat415_code = "800C090A#00A1"
+
+cheat416_desc = "物品栏 2SP 防护衣"
+cheat416_handler = "0"
+cheat416_code = "800C090A#00A2"
+
+cheat417_desc = "物品栏 2SP 夹克"
+cheat417_handler = "0"
+cheat417_code = "800C090A#00A3"
+
+cheat418_desc = "物品栏 2SP 套装1"
+cheat418_handler = "0"
+cheat418_code = "800C090A#00A4"
+
+cheat419_desc = "物品栏 2SP 套装2"
+cheat419_handler = "0"
+cheat419_code = "800C090A#00A5"
+
+cheat420_desc = "物品栏 2SP 盔甲1"
+cheat420_handler = "0"
+cheat420_code = "800C090A#00A6"
+
+cheat421_desc = "物品栏 2SP 盔甲2"
+cheat421_handler = "0"
+cheat421_code = "800C090A#00A7"
+
+cheat422_desc = "物品栏 2SV 背心1"
+cheat422_handler = "0"
+cheat422_code = "800C090A#00A8"
+
+cheat423_desc = "物品栏 2SV 背心2"
+cheat423_handler = "0"
+cheat423_code = "800C090A#00A9"
+
+cheat424_desc = "物品栏 2SV 防护衣"
+cheat424_handler = "0"
+cheat424_code = "800C090A#00AA"
+
+cheat425_desc = "物品栏 2SV 夹克"
+cheat425_handler = "0"
+cheat425_code = "800C090A#00AB"
+
+cheat426_desc = "物品栏 2SV 套装1"
+cheat426_handler = "0"
+cheat426_code = "800C090A#00AC"
+
+cheat427_desc = "物品栏 2SV 套装2"
+cheat427_handler = "0"
+cheat427_code = "800C090A#00AD"
+
+cheat428_desc = "物品栏 2SV 盔甲1"
+cheat428_handler = "0"
+cheat428_code = "800C090A#00AE"
+
+cheat429_desc = "物品栏 2SV 盔甲2"
+cheat429_handler = "0"
+cheat429_code = "800C090A#00AF"
+
+cheat430_desc = "物品栏 2CR 背心1"
+cheat430_handler = "0"
+cheat430_code = "800C090A#00B0"
+
+cheat431_desc = "物品栏 2CR 背心2"
+cheat431_handler = "0"
+cheat431_code = "800C090A#00B1"
+
+cheat432_desc = "物品栏 2CR 防护衣"
+cheat432_handler = "0"
+cheat432_code = "800C090A#00B2"
+
+cheat433_desc = "物品栏 2CR 夹克"
+cheat433_handler = "0"
+cheat433_code = "800C090A#00B3"
+
+cheat434_desc = "物品栏 2CR 套装1"
+cheat434_handler = "0"
+cheat434_code = "800C090A#00B4"
+
+cheat435_desc = "物品栏 2CR 套装2"
+cheat435_handler = "0"
+cheat435_code = "800C090A#00B5"
+
+cheat436_desc = "物品栏 2CR 盔甲1"
+cheat436_handler = "0"
+cheat436_code = "800C090A#00B6"
+
+cheat437_desc = "物品栏 2CR 盔甲2"
+cheat437_handler = "0"
+cheat437_code = "800C090A#00B7"
+
+cheat438_desc = "物品栏 2B 背心1"
+cheat438_handler = "0"
+cheat438_code = "800C090A#00B8"
+
+cheat439_desc = "物品栏 2B 背心2"
+cheat439_handler = "0"
+cheat439_code = "800C090A#00B9"
+
+cheat440_desc = "物品栏 2B 防护衣"
+cheat440_handler = "0"
+cheat440_code = "800C090A#00BA"
+
+cheat441_desc = "物品栏 2B 夹克1"
+cheat441_handler = "0"
+cheat441_code = "800C090A#00BB"
+
+cheat442_desc = "物品栏 2B 夹克2"
+cheat442_handler = "0"
+cheat442_code = "800C090A#00BC"
+
+cheat443_desc = "物品栏 2B 套装1"
+cheat443_handler = "0"
+cheat443_code = "800C090A#00BD"
+
+cheat444_desc = "物品栏 2B 套装2"
+cheat444_handler = "0"
+cheat444_code = "800C090A#00BE"
+
+cheat445_desc = "物品栏 2B 盔甲"
+cheat445_handler = "0"
+cheat445_code = "800C090A#00BF"
+
+cheat446_desc = "物品栏 2CM 背心1"
+cheat446_handler = "0"
+cheat446_code = "800C090A#00C0"
+
+cheat447_desc = "物品栏 2CM 背心2"
+cheat447_handler = "0"
+cheat447_code = "800C090A#00C1"
+
+cheat448_desc = "物品栏 2CM 防护衣"
+cheat448_handler = "0"
+cheat448_code = "800C090A#00C2"
+
+cheat449_desc = "物品栏 2CM 夹克"
+cheat449_handler = "0"
+cheat449_code = "800C090A#00C3"
+
+cheat450_desc = "物品栏 2CM 套装1"
+cheat450_handler = "0"
+cheat450_code = "800C090A#00C4"
+
+cheat451_desc = "物品栏 2CM 盔甲1"
+cheat451_handler = "0"
+cheat451_code = "800C090A#00C5"
+
+cheat452_desc = "物品栏 2CM 盔甲2"
+cheat452_handler = "0"
+cheat452_code = "800C090A#00C6"
+
+cheat453_desc = "物品栏 2CM 套装2"
+cheat453_handler = "0"
+cheat453_code = "800C090A#00C7"
+
+cheat454_desc = "物品栏 2剧院钥匙 (更衣间钥匙)"
+cheat454_handler = "0"
+cheat454_code = "800C090A#00C8"
+
+cheat455_desc = "物品栏 2排练房钥匙"
+cheat455_handler = "0"
+cheat455_code = "800C090A#00C9"
+
+cheat456_desc = "物品栏 2动物园钥匙 (中心公园钥匙)"
+cheat456_handler = "0"
+cheat456_code = "800C090A#00CA"
+
+cheat457_desc = "物品栏 2Narita (护身符)"
+cheat457_handler = "0"
+cheat457_code = "800C090A#00CB"
+
+cheat458_desc = "物品栏 2Mayoke (有用的护身符)"
+cheat458_handler = "0"
+cheat458_code = "800C090A#00CC"
+
+cheat459_desc = "物品栏 2hamaya (特别的护身符)"
+cheat459_handler = "0"
+cheat459_code = "800C090A#00CD"
+
+cheat460_desc = "物品栏 2保险丝1"
+cheat460_handler = "0"
+cheat460_code = "800C090A#00CE"
+
+cheat461_desc = "物品栏 2保险丝2"
+cheat461_handler = "0"
+cheat461_code = "800C090A#00CF"
+
+cheat462_desc = "物品栏 2保险丝3"
+cheat462_handler = "0"
+cheat462_code = "800C090A#00D0"
+
+cheat463_desc = "物品栏 2停尸房钥匙 (医院钥匙)"
+cheat463_handler = "0"
+cheat463_code = "800C090A#00D1"
+
+cheat464_desc = "物品栏 2蓝钥匙"
+cheat464_handler = "0"
+cheat464_code = "800C090A#00D2"
+
+cheat465_desc = "物品栏 2绿钥匙"
+cheat465_handler = "0"
+cheat465_code = "800C090A#00D3"
+
+cheat466_desc = "物品栏 2泵房钥匙"
+cheat466_handler = "0"
+cheat466_code = "800C090A#00D4"
+
+cheat467_desc = "物品栏 2克拉姆的钥匙"
+cheat467_handler = "0"
+cheat467_code = "800C090A#00D5"
+
+cheat468_desc = "物品栏 2储藏室的钥匙 (武器仓库的钥匙)"
+cheat468_handler = "0"
+cheat468_code = "800C090A#00D6"
+
+cheat469_desc = "物品栏 2柜子钥匙"
+cheat469_handler = "0"
+cheat469_code = "800C090A#00D7"
+
+cheat470_desc = "物品栏 2武器备忘录"
+cheat470_handler = "0"
+cheat470_code = "800C090A#00D8"
+
+cheat471_desc = "物品栏 2奖励币"
+cheat471_handler = "0"
+cheat471_code = "800C090A#00D9"
+
+cheat472_desc = "物品栏 2电梯钥匙"
+cheat472_handler = "0"
+cheat472_code = "800C090A#00DA"
+
+cheat473_desc = "物品栏 2地铁大门钥匙"
+cheat473_handler = "0"
+cheat473_code = "800C090A#00DB"
+
+cheat474_desc = "物品栏 2港口仓库钥匙"
+cheat474_handler = "0"
+cheat474_code = "800C090A#00DC"
+
+cheat475_desc = "物品栏 2GSP 交易卡 (武器交易卡)"
+cheat475_handler = "0"
+cheat475_code = "800C090A#00DD"
+
+cheat476_desc = "物品栏 2P38 交易卡 (武器交易卡)"
+cheat476_handler = "0"
+cheat476_code = "800C090A#00DE"
+
+cheat477_desc = "物品栏 2B鹰 交易卡 (武器交易卡)"
+cheat477_handler = "0"
+cheat477_code = "800C090A#00DF"
+
+cheat478_desc = "物品栏 2Kasul 交易卡 (武器交易卡)"
+cheat478_handler = "0"
+cheat478_code = "800C090A#00E0"
+
+cheat479_desc = "物品栏 2PPKS 交易卡 (武器交易卡)"
+cheat479_handler = "0"
+cheat479_code = "800C090A#00E1"
+
+cheat480_desc = "物品栏 2M1 交易卡 (武器交易卡)"
+cheat480_handler = "0"
+cheat480_code = "800C090A#00E2"
+
+cheat481_desc = "物品栏 2MK5 交易卡 (武器交易卡)"
+cheat481_handler = "0"
+cheat481_code = "800C090A#00E3"
+
+cheat482_desc = "物品栏 2MP44 交易卡 (武器交易卡)"
+cheat482_handler = "0"
+cheat482_code = "800C090A#00E4"
+
+cheat483_desc = "物品栏 2BAR 交易卡 (武器交易卡)"
+cheat483_handler = "0"
+cheat483_code = "800C090A#00E5"
+
+cheat484_desc = "物品栏 2MG42 交易卡 (武器交易卡)"
+cheat484_handler = "0"
+cheat484_code = "800C090A#00E6"
+
+cheat485_desc = "物品栏 2M29 交易卡 (武器交易卡)"
+cheat485_handler = "0"
+cheat485_code = "800C090A#00E7"
+
+cheat486_desc = "物品栏 2M73 交易卡 (武器交易卡)"
+cheat486_handler = "0"
+cheat486_code = "800C090A#00E8"
+
+cheat487_desc = "物品栏 238型 交易卡 (武器交易卡)"
+cheat487_handler = "0"
+cheat487_code = "800C090A#00E9"
+
+cheat488_desc = "物品栏 23型 交易卡 (武器交易卡)"
+cheat488_handler = "0"
+cheat488_code = "800C090A#00EA"
+
+cheat489_desc = "物品栏 2鹰 交易卡 (武器交易卡)"
+cheat489_handler = "0"
+cheat489_code = "800C090A#00EB"
+
+cheat490_desc = "物品栏 3NONE"
+cheat490_handler = "0"
+cheat490_code = "800C090C#0000"
+
+cheat491_desc = "物品栏 3子弹 X6"
+cheat491_handler = "0"
+cheat491_code = "800C090C#0001"
+
+cheat492_desc = "物品栏 3子弹 X15"
+cheat492_handler = "0"
+cheat492_code = "800C090C#0002"
+
+cheat493_desc = "物品栏 3子弹 X30"
+cheat493_handler = "0"
+cheat493_code = "800C090C#0003"
+
+cheat494_desc = "物品栏 3前田的子弹"
+cheat494_handler = "0"
+cheat494_code = "800C090C#0004"
+
+cheat495_desc = "物品栏 3火箭弹"
+cheat495_handler = "0"
+cheat495_code = "800C090C#0005"
+
+cheat496_desc = "物品栏 3恢复药(恢复 45)"
+cheat496_handler = "0"
+cheat496_code = "800C090C#0006"
+
+cheat497_desc = "物品栏 3恢复药(恢复 90)90"
+cheat497_handler = "0"
+cheat497_code = "800C090C#0007"
+
+cheat498_desc = "物品栏 3恢复药(恢复 180)180"
+cheat498_handler = "0"
+cheat498_code = "800C090C#0008"
+
+cheat499_desc = "物品栏 3恢复药(恢复 400)400"
+cheat499_handler = "0"
+cheat499_code = "800C090C#0009"
+
+cheat500_desc = "物品栏 3完全恢复药"
+cheat500_handler = "0"
+cheat500_code = "800C090C#000A"
+
+cheat501_desc = "物品栏 3超级零件"
+cheat501_handler = "0"
+cheat501_code = "800C090C#000B"
+
+cheat502_desc = "物品栏 3骗子零件"
+cheat502_handler = "0"
+cheat502_code = "800C090C#000C"
+
+cheat503_desc = "物品栏 3毒治疗药"
+cheat503_handler = "0"
+cheat503_code = "800C090C#000D"
+
+cheat504_desc = "物品栏 3黑暗治疗药"
+cheat504_handler = "0"
+cheat504_code = "800C090C#000E"
+
+cheat505_desc = "物品栏 3混乱治疗药"
+cheat505_handler = "0"
+cheat505_code = "800C090C#000F"
+
+cheat506_desc = "物品栏 3移动限制治疗药"
+cheat506_handler = "0"
+cheat506_code = "800C090C#0010"
+
+cheat507_desc = "物品栏 3万能药"
+cheat507_handler = "0"
+cheat507_code = "800C090C#0011"
+
+cheat508_desc = "物品栏 3复活药"
+cheat508_handler = "0"
+cheat508_code = "800C090C#0012"
+
+cheat509_desc = "物品栏 3防御力 +1"
+cheat509_handler = "0"
+cheat509_code = "800C090C#0013"
+
+cheat510_desc = "物品栏 3零件"
+cheat510_handler = "0"
+cheat510_code = "800C090C#0014"
+
+cheat511_desc = "物品栏 3交易卡"
+cheat511_handler = "0"
+cheat511_code = "800C090C#0015"
+
+cheat512_desc = "物品栏 3工具"
+cheat512_handler = "0"
+cheat512_code = "800C090C#0016"
+
+cheat513_desc = "物品栏 3万能工具"
+cheat513_handler = "0"
+cheat513_code = "800C090C#0017"
+
+cheat514_desc = "物品栏 3道具 24"
+cheat514_handler = "0"
+cheat514_code = "800C090C#0018"
+
+cheat515_desc = "物品栏 3道具 25"
+cheat515_handler = "0"
+cheat515_code = "800C090C#0019"
+
+cheat516_desc = "物品栏 3弹药箱"
+cheat516_handler = "0"
+cheat516_code = "800C090C#001A"
+
+cheat517_desc = "物品栏 3火箭弹药箱"
+cheat517_handler = "0"
+cheat517_code = "800C090C#001B"
+
+cheat518_desc = "物品栏 3前田的弹药箱"
+cheat518_handler = "0"
+cheat518_code = "800C090C#001C"
+
+cheat519_desc = "物品栏 3攻击力 +1"
+cheat519_handler = "0"
+cheat519_code = "800C090C#001D"
+
+cheat520_desc = "物品栏 3攻击力 +2"
+cheat520_handler = "0"
+cheat520_code = "800C090C#001E"
+
+cheat521_desc = "物品栏 3攻击力 +3"
+cheat521_handler = "0"
+cheat521_code = "800C090C#001F"
+
+cheat522_desc = "物品栏 3攻击力 +4"
+cheat522_handler = "0"
+cheat522_code = "800C090C#0020"
+
+cheat523_desc = "物品栏 3命中率 +1"
+cheat523_handler = "0"
+cheat523_code = "800C090C#0021"
+
+cheat524_desc = "物品栏 3命中率 +2"
+cheat524_handler = "0"
+cheat524_code = "800C090C#0022"
+
+cheat525_desc = "物品栏 3命中率 +3"
+cheat525_handler = "0"
+cheat525_code = "800C090C#0023"
+
+cheat526_desc = "物品栏 3命中率 +4"
+cheat526_handler = "0"
+cheat526_code = "800C090C#0024"
+
+cheat527_desc = "物品栏 3装弹数 +1"
+cheat527_handler = "0"
+cheat527_code = "800C090C#0025"
+
+cheat528_desc = "物品栏 3装弹数 +2"
+cheat528_handler = "0"
+cheat528_code = "800C090C#0026"
+
+cheat529_desc = "物品栏 3装弹数 +3"
+cheat529_handler = "0"
+cheat529_code = "800C090C#0027"
+
+cheat530_desc = "物品栏 3装弹数 +4"
+cheat530_handler = "0"
+cheat530_code = "800C090C#0028"
+
+cheat531_desc = "物品栏 3防御力 +1"
+cheat531_handler = "0"
+cheat531_code = "800C090C#0029"
+
+cheat532_desc = "物品栏 3防御力 +2"
+cheat532_handler = "0"
+cheat532_code = "800C090C#002A"
+
+cheat533_desc = "物品栏 3防御力 +3"
+cheat533_handler = "0"
+cheat533_code = "800C090C#002B"
+
+cheat534_desc = "物品栏 3防御力 +4"
+cheat534_handler = "0"
+cheat534_code = "800C090C#002C"
+
+cheat535_desc = "物品栏 3CR回避 +1"
+cheat535_handler = "0"
+cheat535_code = "800C090C#002D"
+
+cheat536_desc = "物品栏 3CR回避 +2"
+cheat536_handler = "0"
+cheat536_code = "800C090C#002E"
+
+cheat537_desc = "物品栏 3CR回避 +3"
+cheat537_handler = "0"
+cheat537_code = "800C090C#002F"
+
+cheat538_desc = "物品栏 3CR回避 +4"
+cheat538_handler = "0"
+cheat538_code = "800C090C#0030"
+
+cheat539_desc = "物品栏 3PE防御力 +1"
+cheat539_handler = "0"
+cheat539_code = "800C090C#0031"
+
+cheat540_desc = "物品栏 3PE防御力 +2"
+cheat540_handler = "0"
+cheat540_code = "800C090C#0032"
+
+cheat541_desc = "物品栏 3PE防御力 +3"
+cheat541_handler = "0"
+cheat541_code = "800C090C#0033"
+
+cheat542_desc = "物品栏 3PE防御力 +4"
+cheat542_handler = "0"
+cheat542_code = "800C090C#0034"
+
+cheat543_desc = "物品栏 3工具组"
+cheat543_handler = "0"
+cheat543_code = "800C090C#0035"
+
+cheat544_desc = "物品栏 3万能工具组"
+cheat544_handler = "0"
+cheat544_code = "800C090C#0036"
+
+cheat545_desc = "物品栏 3改造许可证"
+cheat545_handler = "0"
+cheat545_code = "800C090C#0037"
+
+cheat546_desc = "物品栏 3大楼钥匙1 (到10楼去的钥匙)"
+cheat546_handler = "0"
+cheat546_code = "800C090C#0038"
+
+cheat547_desc = "物品栏 3大楼钥匙2 (到20楼去的钥匙)"
+cheat547_handler = "0"
+cheat547_code = "800C090C#0039"
+
+cheat548_desc = "物品栏 3大楼钥匙3 (到30楼去的钥匙)"
+cheat548_handler = "0"
+cheat548_code = "800C090C#003A"
+
+cheat549_desc = "物品栏 3大楼钥匙4 (到40楼去的钥匙)"
+cheat549_handler = "0"
+cheat549_code = "800C090C#003B"
+
+cheat550_desc = "物品栏 3大楼钥匙5 (到50楼去的钥匙)"
+cheat550_handler = "0"
+cheat550_code = "800C090C#003C"
+
+cheat551_desc = "物品栏 3大楼钥匙6 (到60楼去的钥匙)"
+cheat551_handler = "0"
+cheat551_code = "800C090C#003D"
+
+cheat552_desc = "物品栏 3大楼钥匙7 (到70楼去的钥匙)"
+cheat552_handler = "0"
+cheat552_code = "800C090C#003E"
+
+cheat553_desc = "物品栏 3警棍1"
+cheat553_handler = "0"
+cheat553_code = "800C090C#003F"
+
+cheat554_desc = "物品栏 3警棍2"
+cheat554_handler = "0"
+cheat554_code = "800C090C#0040"
+
+cheat555_desc = "物品栏 3警棍3"
+cheat555_handler = "0"
+cheat555_code = "800C090C#0041"
+
+cheat556_desc = "物品栏 3警棍4"
+cheat556_handler = "0"
+cheat556_code = "800C090C#0042"
+
+cheat557_desc = "物品栏 3警棍5"
+cheat557_handler = "0"
+cheat557_code = "800C090C#0043"
+
+cheat558_desc = "物品栏 3M84F (手枪)"
+cheat558_handler = "0"
+cheat558_code = "800C090C#0044"
+
+cheat559_desc = "物品栏 3M9 (手枪)"
+cheat559_handler = "0"
+cheat559_code = "800C090C#0045"
+
+cheat560_desc = "物品栏 3M9改 (手枪)"
+cheat560_handler = "0"
+cheat560_code = "800C090C#0046"
+
+cheat561_desc = "物品栏 3M9改2 (手枪)"
+cheat561_handler = "0"
+cheat561_code = "800C090C#0047"
+
+cheat562_desc = "物品栏 3M8000 (手枪)"
+cheat562_handler = "0"
+cheat562_code = "800C090C#0048"
+
+cheat563_desc = "物品栏 3M96 (手枪)"
+cheat563_handler = "0"
+cheat563_code = "800C090C#0049"
+
+cheat564_desc = "物品栏 3M96R (手枪)"
+cheat564_handler = "0"
+cheat564_code = "800C090C#004A"
+
+cheat565_desc = "物品栏 3P220 (手枪)"
+cheat565_handler = "0"
+cheat565_code = "800C090C#004B"
+
+cheat566_desc = "物品栏 3P220改 (手枪)"
+cheat566_handler = "0"
+cheat566_code = "800C090C#004C"
+
+cheat567_desc = "物品栏 3P228 (手枪)"
+cheat567_handler = "0"
+cheat567_code = "800C090C#004D"
+
+cheat568_desc = "物品栏 3P226 (手枪)"
+cheat568_handler = "0"
+cheat568_code = "800C090C#004E"
+
+cheat569_desc = "物品栏 3229 (手枪)"
+cheat569_handler = "0"
+cheat569_code = "800C090C#004F"
+
+cheat570_desc = "物品栏 3M1911A1 (手枪)"
+cheat570_handler = "0"
+cheat570_code = "800C090C#0050"
+
+cheat571_desc = "物品栏 3M1911A2 (手枪)"
+cheat571_handler = "0"
+cheat571_code = "800C090C#0051"
+
+cheat572_desc = "物品栏 3M1911A3 (手枪)"
+cheat572_handler = "0"
+cheat572_code = "800C090C#0052"
+
+cheat573_desc = "物品栏 3M1911A4 (手枪)"
+cheat573_handler = "0"
+cheat573_code = "800C090C#0053"
+
+cheat574_desc = "物品栏 3M1911A5 (手枪)"
+cheat574_handler = "0"
+cheat574_code = "800C090C#0054"
+
+cheat575_desc = "物品栏 3P8 (手枪)"
+cheat575_handler = "0"
+cheat575_code = "800C090C#0055"
+
+cheat576_desc = "物品栏 3USP (手枪)"
+cheat576_handler = "0"
+cheat576_code = "800C090C#0056"
+
+cheat577_desc = "物品栏 3USP改 (手枪)"
+cheat577_handler = "0"
+cheat577_code = "800C090C#0057"
+
+cheat578_desc = "物品栏 3USP改2 (手枪)"
+cheat578_handler = "0"
+cheat578_code = "800C090C#0058"
+
+cheat579_desc = "物品栏 3Mark23 (手枪)"
+cheat579_handler = "0"
+cheat579_code = "800C090C#0059"
+
+cheat580_desc = "物品栏 3G19 (手枪)"
+cheat580_handler = "0"
+cheat580_code = "800C090C#005A"
+
+cheat581_desc = "物品栏 3G23 (手枪)"
+cheat581_handler = "0"
+cheat581_code = "800C090C#005B"
+
+cheat582_desc = "物品栏 3G22 (手枪)"
+cheat582_handler = "0"
+cheat582_code = "800C090C#005C"
+
+cheat583_desc = "物品栏 3G20 (手枪)"
+cheat583_handler = "0"
+cheat583_code = "800C090C#005D"
+
+cheat584_desc = "物品栏 3M712 (手枪)"
+cheat584_handler = "0"
+cheat584_code = "800C090C#005E"
+
+cheat585_desc = "物品栏 3PPK (手枪)"
+cheat585_handler = "0"
+cheat585_code = "800C090C#005F"
+
+cheat586_desc = "物品栏 3AM44"
+cheat586_handler = "0"
+cheat586_code = "800C090C#0060"
+
+cheat587_desc = "物品栏 3前田的枪"
+cheat587_handler = "0"
+cheat587_code = "800C090C#0061"
+
+cheat588_desc = "物品栏 3PPSh41 (机关枪)"
+cheat588_handler = "0"
+cheat588_code = "800C090C#0062"
+
+cheat589_desc = "物品栏 3SP1C (手枪)"
+cheat589_handler = "0"
+cheat589_code = "800C090C#0063"
+
+cheat590_desc = "物品栏 3USP-TU (手枪)"
+cheat590_handler = "0"
+cheat590_code = "800C090C#0064"
+
+cheat591_desc = "物品栏 3AK47 (来复枪)"
+cheat591_handler = "0"
+cheat591_code = "800C090C#0065"
+
+cheat592_desc = "物品栏 3DE50AE2"
+cheat592_handler = "0"
+cheat592_code = "800C090C#0066"
+
+cheat593_desc = "物品栏 3特别的SMG"
+cheat593_handler = "0"
+cheat593_code = "800C090C#0067"
+
+cheat594_desc = "物品栏 3M870 (霰弹枪)"
+cheat594_handler = "0"
+cheat594_code = "800C090C#0068"
+
+cheat595_desc = "物品栏 3M870 改1 (霰弹枪)"
+cheat595_handler = "0"
+cheat595_code = "800C090C#0069"
+
+cheat596_desc = "物品栏 3M500 (霰弹枪)"
+cheat596_handler = "0"
+cheat596_code = "800C090C#006A"
+
+cheat597_desc = "物品栏 3M500 改1 (霰弹枪)"
+cheat597_handler = "0"
+cheat597_code = "800C090C#006B"
+
+cheat598_desc = "物品栏 3Maverick (霰弹枪)"
+cheat598_handler = "0"
+cheat598_code = "800C090C#006C"
+
+cheat599_desc = "物品栏 3S12 (霰弹枪)"
+cheat599_handler = "0"
+cheat599_code = "800C090C#006D"
+
+cheat600_desc = "物品栏 3M10B (霰弹枪)"
+cheat600_handler = "0"
+cheat600_code = "800C090C#006E"
+
+cheat601_desc = "物品栏 3M11 (机关枪)"
+cheat601_handler = "0"
+cheat601_code = "800C090C#006F"
+
+cheat602_desc = "物品栏 3M11 (机关枪)"
+cheat602_handler = "0"
+cheat602_code = "800C090C#0070"
+
+cheat603_desc = "物品栏 3MP5K (机关枪)"
+cheat603_handler = "0"
+cheat603_code = "800C090C#0071"
+
+cheat604_desc = "物品栏 3MP5PDW (机关枪)"
+cheat604_handler = "0"
+cheat604_code = "800C090C#0072"
+
+cheat605_desc = "物品栏 3MP5A5 (机关枪)"
+cheat605_handler = "0"
+cheat605_code = "800C090C#0073"
+
+cheat606_desc = "物品栏 3MP5SD6 (机关枪)"
+cheat606_handler = "0"
+cheat606_code = "800C090C#0074"
+
+cheat607_desc = "物品栏 3MicroUZ (机关枪)"
+cheat607_handler = "0"
+cheat607_code = "800C090C#0075"
+
+cheat608_desc = "物品栏 3MiniUZ (机关枪)"
+cheat608_handler = "0"
+cheat608_code = "800C090C#0076"
+
+cheat609_desc = "物品栏 3FullUZ (机关枪)"
+cheat609_handler = "0"
+cheat609_code = "800C090C#0077"
+
+cheat610_desc = "物品栏 3P90 (机关枪)"
+cheat610_handler = "0"
+cheat610_code = "800C090C#0078"
+
+cheat611_desc = "物品栏 3M16A1 (来复枪)"
+cheat611_handler = "0"
+cheat611_code = "800C090C#0079"
+
+cheat612_desc = "物品栏 3M16A2 (来复枪)"
+cheat612_handler = "0"
+cheat612_code = "800C090C#007A"
+
+cheat613_desc = "物品栏 3SG550 (来复枪)"
+cheat613_handler = "0"
+cheat613_code = "800C090C#007B"
+
+cheat614_desc = "物品栏 3SAR (来复枪)"
+cheat614_handler = "0"
+cheat614_code = "800C090C#007C"
+
+cheat615_desc = "物品栏 3G3A3 (来复枪)"
+cheat615_handler = "0"
+cheat615_code = "800C090C#007D"
+
+cheat616_desc = "物品栏 364型 (来复枪)"
+cheat616_handler = "0"
+cheat616_code = "800C090C#007E"
+
+cheat617_desc = "物品栏 3XM177E2 (来复枪)"
+cheat617_handler = "0"
+cheat617_code = "800C090C#007F"
+
+cheat618_desc = "物品栏 3PSG-1 (来复枪)"
+cheat618_handler = "0"
+cheat618_code = "800C090C#0080"
+
+cheat619_desc = "物品栏 3FA-MAS (来复枪)"
+cheat619_handler = "0"
+cheat619_code = "800C090C#0081"
+
+cheat620_desc = "物品栏 3MAG (来复枪)"
+cheat620_handler = "0"
+cheat620_code = "800C090C#0082"
+
+cheat621_desc = "物品栏 3M203 (榴弹发射器)"
+cheat621_handler = "0"
+cheat621_code = "800C090C#0083"
+
+cheat622_desc = "物品栏 3M203改1 (榴弹发射器)"
+cheat622_handler = "0"
+cheat622_code = "800C090C#0084"
+
+cheat623_desc = "物品栏 3M203改2 (榴弹发射器)"
+cheat623_handler = "0"
+cheat623_code = "800C090C#0085"
+
+cheat624_desc = "物品栏 3M203改3 (榴弹发射器)"
+cheat624_handler = "0"
+cheat624_code = "800C090C#0086"
+
+cheat625_desc = "物品栏 3M203改4 (榴弹发射器)"
+cheat625_handler = "0"
+cheat625_code = "800C090C#0087"
+
+cheat626_desc = "物品栏 3M203改6 (榴弹发射器)"
+cheat626_handler = "0"
+cheat626_code = "800C090C#0088"
+
+cheat627_desc = "物品栏 3M79 (榴弹发射器)"
+cheat627_handler = "0"
+cheat627_code = "800C090C#0089"
+
+cheat628_desc = "物品栏 3M79改1 (榴弹发射器)"
+cheat628_handler = "0"
+cheat628_code = "800C090C#008A"
+
+cheat629_desc = "物品栏 3M79改2 (榴弹发射器)"
+cheat629_handler = "0"
+cheat629_code = "800C090C#008B"
+
+cheat630_desc = "物品栏 3M79改3 (榴弹发射器)"
+cheat630_handler = "0"
+cheat630_code = "800C090C#008C"
+
+cheat631_desc = "物品栏 3M79改4 (榴弹发射器)"
+cheat631_handler = "0"
+cheat631_code = "800C090C#008D"
+
+cheat632_desc = "物品栏 3M79改5 (榴弹发射器)"
+cheat632_handler = "0"
+cheat632_code = "800C090C#008E"
+
+cheat633_desc = "物品栏 3HK40 (榴弹发射器)"
+cheat633_handler = "0"
+cheat633_code = "800C090C#008F"
+
+cheat634_desc = "物品栏 3AT4 (火箭筒)"
+cheat634_handler = "0"
+cheat634_code = "800C090C#0090"
+
+cheat635_desc = "物品栏 3AT4 (火箭筒)"
+cheat635_handler = "0"
+cheat635_code = "800C090C#0091"
+
+cheat636_desc = "物品栏 3LAW80 (火箭筒)"
+cheat636_handler = "0"
+cheat636_code = "800C090C#0092"
+
+cheat637_desc = "物品栏 3前田的枪"
+cheat637_handler = "0"
+cheat637_code = "800C090C#0093"
+
+cheat638_desc = "物品栏 3M92F (手枪)"
+cheat638_handler = "0"
+cheat638_code = "800C090C#0094"
+
+cheat639_desc = "物品栏 3女装 (女礼服)"
+cheat639_handler = "0"
+cheat639_code = "800C090C#0095"
+
+cheat640_desc = "物品栏 3N 背心"
+cheat640_handler = "0"
+cheat640_code = "800C090C#0096"
+
+cheat641_desc = "物品栏 3N 防护衣"
+cheat641_handler = "0"
+cheat641_code = "800C090C#0097"
+
+cheat642_desc = "物品栏 3N 夹克"
+cheat642_handler = "0"
+cheat642_code = "800C090C#0098"
+
+cheat643_desc = "物品栏 3N 套装"
+cheat643_handler = "0"
+cheat643_code = "800C090C#0099"
+
+cheat644_desc = "物品栏 3N 盔甲"
+cheat644_handler = "0"
+cheat644_code = "800C090C#009A"
+
+cheat645_desc = "物品栏 3KV 背心1"
+cheat645_handler = "0"
+cheat645_code = "800C090C#009B"
+
+cheat646_desc = "物品栏 3KV 防护衣"
+cheat646_handler = "0"
+cheat646_code = "800C090C#009C"
+
+cheat647_desc = "物品栏 3KV 夹克"
+cheat647_handler = "0"
+cheat647_code = "800C090C#009D"
+
+cheat648_desc = "物品栏 3KV 套装"
+cheat648_handler = "0"
+cheat648_code = "800C090C#009E"
+
+cheat649_desc = "物品栏 3KV 盔甲"
+cheat649_handler = "0"
+cheat649_code = "800C090C#009F"
+
+cheat650_desc = "物品栏 3SP 背心1"
+cheat650_handler = "0"
+cheat650_code = "800C090C#00A0"
+
+cheat651_desc = "物品栏 3SP 背心2"
+cheat651_handler = "0"
+cheat651_code = "800C090C#00A1"
+
+cheat652_desc = "物品栏 3SP 防护衣"
+cheat652_handler = "0"
+cheat652_code = "800C090C#00A2"
+
+cheat653_desc = "物品栏 3SP 夹克"
+cheat653_handler = "0"
+cheat653_code = "800C090C#00A3"
+
+cheat654_desc = "物品栏 3SP 套装1"
+cheat654_handler = "0"
+cheat654_code = "800C090C#00A4"
+
+cheat655_desc = "物品栏 3SP 套装2"
+cheat655_handler = "0"
+cheat655_code = "800C090C#00A5"
+
+cheat656_desc = "物品栏 3SP 盔甲1"
+cheat656_handler = "0"
+cheat656_code = "800C090C#00A6"
+
+cheat657_desc = "物品栏 3SP 盔甲2"
+cheat657_handler = "0"
+cheat657_code = "800C090C#00A7"
+
+cheat658_desc = "物品栏 3SV 背心1"
+cheat658_handler = "0"
+cheat658_code = "800C090C#00A8"
+
+cheat659_desc = "物品栏 3SV 背心2"
+cheat659_handler = "0"
+cheat659_code = "800C090C#00A9"
+
+cheat660_desc = "物品栏 3SV 防护衣"
+cheat660_handler = "0"
+cheat660_code = "800C090C#00AA"
+
+cheat661_desc = "物品栏 3SV 夹克"
+cheat661_handler = "0"
+cheat661_code = "800C090C#00AB"
+
+cheat662_desc = "物品栏 3SV 套装1"
+cheat662_handler = "0"
+cheat662_code = "800C090C#00AC"
+
+cheat663_desc = "物品栏 3SV 套装2"
+cheat663_handler = "0"
+cheat663_code = "800C090C#00AD"
+
+cheat664_desc = "物品栏 3SV 盔甲1"
+cheat664_handler = "0"
+cheat664_code = "800C090C#00AE"
+
+cheat665_desc = "物品栏 3SV 盔甲2"
+cheat665_handler = "0"
+cheat665_code = "800C090C#00AF"
+
+cheat666_desc = "物品栏 3CR 背心1"
+cheat666_handler = "0"
+cheat666_code = "800C090C#00B0"
+
+cheat667_desc = "物品栏 3CR 背心2"
+cheat667_handler = "0"
+cheat667_code = "800C090C#00B1"
+
+cheat668_desc = "物品栏 3CR 防护衣"
+cheat668_handler = "0"
+cheat668_code = "800C090C#00B2"
+
+cheat669_desc = "物品栏 3CR 夹克"
+cheat669_handler = "0"
+cheat669_code = "800C090C#00B3"
+
+cheat670_desc = "物品栏 3CR 套装1"
+cheat670_handler = "0"
+cheat670_code = "800C090C#00B4"
+
+cheat671_desc = "物品栏 3CR 套装2"
+cheat671_handler = "0"
+cheat671_code = "800C090C#00B5"
+
+cheat672_desc = "物品栏 3CR 盔甲1"
+cheat672_handler = "0"
+cheat672_code = "800C090C#00B6"
+
+cheat673_desc = "物品栏 3CR 盔甲2"
+cheat673_handler = "0"
+cheat673_code = "800C090C#00B7"
+
+cheat674_desc = "物品栏 3B 背心1"
+cheat674_handler = "0"
+cheat674_code = "800C090C#00B8"
+
+cheat675_desc = "物品栏 3B 背心2"
+cheat675_handler = "0"
+cheat675_code = "800C090C#00B9"
+
+cheat676_desc = "物品栏 3B 防护衣"
+cheat676_handler = "0"
+cheat676_code = "800C090C#00BA"
+
+cheat677_desc = "物品栏 3B 夹克1"
+cheat677_handler = "0"
+cheat677_code = "800C090C#00BB"
+
+cheat678_desc = "物品栏 3B 夹克2"
+cheat678_handler = "0"
+cheat678_code = "800C090C#00BC"
+
+cheat679_desc = "物品栏 3B 套装1"
+cheat679_handler = "0"
+cheat679_code = "800C090C#00BD"
+
+cheat680_desc = "物品栏 3B 套装2"
+cheat680_handler = "0"
+cheat680_code = "800C090C#00BE"
+
+cheat681_desc = "物品栏 3B 盔甲"
+cheat681_handler = "0"
+cheat681_code = "800C090C#00BF"
+
+cheat682_desc = "物品栏 3CM 背心1"
+cheat682_handler = "0"
+cheat682_code = "800C090C#00C0"
+
+cheat683_desc = "物品栏 3CM 背心2"
+cheat683_handler = "0"
+cheat683_code = "800C090C#00C1"
+
+cheat684_desc = "物品栏 3CM 防护衣"
+cheat684_handler = "0"
+cheat684_code = "800C090C#00C2"
+
+cheat685_desc = "物品栏 3CM 夹克"
+cheat685_handler = "0"
+cheat685_code = "800C090C#00C3"
+
+cheat686_desc = "物品栏 3CM 套装1"
+cheat686_handler = "0"
+cheat686_code = "800C090C#00C4"
+
+cheat687_desc = "物品栏 3CM 盔甲1"
+cheat687_handler = "0"
+cheat687_code = "800C090C#00C5"
+
+cheat688_desc = "物品栏 3CM 盔甲2"
+cheat688_handler = "0"
+cheat688_code = "800C090C#00C6"
+
+cheat689_desc = "物品栏 3CM 套装2"
+cheat689_handler = "0"
+cheat689_code = "800C090C#00C7"
+
+cheat690_desc = "物品栏 3剧院钥匙 (更衣间钥匙)"
+cheat690_handler = "0"
+cheat690_code = "800C090C#00C8"
+
+cheat691_desc = "物品栏 3排练房钥匙"
+cheat691_handler = "0"
+cheat691_code = "800C090C#00C9"
+
+cheat692_desc = "物品栏 3动物园钥匙 (中心公园钥匙)"
+cheat692_handler = "0"
+cheat692_code = "800C090C#00CA"
+
+cheat693_desc = "物品栏 3Narita (护身符)"
+cheat693_handler = "0"
+cheat693_code = "800C090C#00CB"
+
+cheat694_desc = "物品栏 3Mayoke (有用的护身符)"
+cheat694_handler = "0"
+cheat694_code = "800C090C#00CC"
+
+cheat695_desc = "物品栏 3hamaya (特别的护身符)"
+cheat695_handler = "0"
+cheat695_code = "800C090C#00CD"
+
+cheat696_desc = "物品栏 3保险丝1"
+cheat696_handler = "0"
+cheat696_code = "800C090C#00CE"
+
+cheat697_desc = "物品栏 3保险丝2"
+cheat697_handler = "0"
+cheat697_code = "800C090C#00CF"
+
+cheat698_desc = "物品栏 3保险丝3"
+cheat698_handler = "0"
+cheat698_code = "800C090C#00D0"
+
+cheat699_desc = "物品栏 3停尸房钥匙 (医院钥匙)"
+cheat699_handler = "0"
+cheat699_code = "800C090C#00D1"
+
+cheat700_desc = "物品栏 3蓝钥匙"
+cheat700_handler = "0"
+cheat700_code = "800C090C#00D2"
+
+cheat701_desc = "物品栏 3绿钥匙"
+cheat701_handler = "0"
+cheat701_code = "800C090C#00D3"
+
+cheat702_desc = "物品栏 3泵房钥匙"
+cheat702_handler = "0"
+cheat702_code = "800C090C#00D4"
+
+cheat703_desc = "物品栏 3克拉姆的钥匙"
+cheat703_handler = "0"
+cheat703_code = "800C090C#00D5"
+
+cheat704_desc = "物品栏 3储藏室的钥匙 (武器仓库的钥匙)"
+cheat704_handler = "0"
+cheat704_code = "800C090C#00D6"
+
+cheat705_desc = "物品栏 3柜子钥匙"
+cheat705_handler = "0"
+cheat705_code = "800C090C#00D7"
+
+cheat706_desc = "物品栏 3武器备忘录"
+cheat706_handler = "0"
+cheat706_code = "800C090C#00D8"
+
+cheat707_desc = "物品栏 3奖励币"
+cheat707_handler = "0"
+cheat707_code = "800C090C#00D9"
+
+cheat708_desc = "物品栏 3电梯钥匙"
+cheat708_handler = "0"
+cheat708_code = "800C090C#00DA"
+
+cheat709_desc = "物品栏 3地铁大门钥匙"
+cheat709_handler = "0"
+cheat709_code = "800C090C#00DB"
+
+cheat710_desc = "物品栏 3港口仓库钥匙"
+cheat710_handler = "0"
+cheat710_code = "800C090C#00DC"
+
+cheat711_desc = "物品栏 3GSP 交易卡 (武器交易卡)"
+cheat711_handler = "0"
+cheat711_code = "800C090C#00DD"
+
+cheat712_desc = "物品栏 3P38 交易卡 (武器交易卡)"
+cheat712_handler = "0"
+cheat712_code = "800C090C#00DE"
+
+cheat713_desc = "物品栏 3B鹰 交易卡 (武器交易卡)"
+cheat713_handler = "0"
+cheat713_code = "800C090C#00DF"
+
+cheat714_desc = "物品栏 3Kasul 交易卡 (武器交易卡)"
+cheat714_handler = "0"
+cheat714_code = "800C090C#00E0"
+
+cheat715_desc = "物品栏 3PPKS 交易卡 (武器交易卡)"
+cheat715_handler = "0"
+cheat715_code = "800C090C#00E1"
+
+cheat716_desc = "物品栏 3M1 交易卡 (武器交易卡)"
+cheat716_handler = "0"
+cheat716_code = "800C090C#00E2"
+
+cheat717_desc = "物品栏 3MK5 交易卡 (武器交易卡)"
+cheat717_handler = "0"
+cheat717_code = "800C090C#00E3"
+
+cheat718_desc = "物品栏 3MP44 交易卡 (武器交易卡)"
+cheat718_handler = "0"
+cheat718_code = "800C090C#00E4"
+
+cheat719_desc = "物品栏 3BAR 交易卡 (武器交易卡)"
+cheat719_handler = "0"
+cheat719_code = "800C090C#00E5"
+
+cheat720_desc = "物品栏 3MG42 交易卡 (武器交易卡)"
+cheat720_handler = "0"
+cheat720_code = "800C090C#00E6"
+
+cheat721_desc = "物品栏 3M29 交易卡 (武器交易卡)"
+cheat721_handler = "0"
+cheat721_code = "800C090C#00E7"
+
+cheat722_desc = "物品栏 3M73 交易卡 (武器交易卡)"
+cheat722_handler = "0"
+cheat722_code = "800C090C#00E8"
+
+cheat723_desc = "物品栏 338型 交易卡 (武器交易卡)"
+cheat723_handler = "0"
+cheat723_code = "800C090C#00E9"
+
+cheat724_desc = "物品栏 33型 交易卡 (武器交易卡)"
+cheat724_handler = "0"
+cheat724_code = "800C090C#00EA"
+
+cheat725_desc = "物品栏 3鹰 交易卡 (武器交易卡)"
+cheat725_handler = "0"
+cheat725_code = "800C090C#00EB"
+
+cheat726_desc = "物品栏 4NONE"
+cheat726_handler = "0"
+cheat726_code = "800C090E#0000"
+
+cheat727_desc = "物品栏 4子弹 X6"
+cheat727_handler = "0"
+cheat727_code = "800C090E#0001"
+
+cheat728_desc = "物品栏 4子弹 X15"
+cheat728_handler = "0"
+cheat728_code = "800C090E#0002"
+
+cheat729_desc = "物品栏 4子弹 X30"
+cheat729_handler = "0"
+cheat729_code = "800C090E#0003"
+
+cheat730_desc = "物品栏 4前田的子弹"
+cheat730_handler = "0"
+cheat730_code = "800C090E#0004"
+
+cheat731_desc = "物品栏 4火箭弹"
+cheat731_handler = "0"
+cheat731_code = "800C090E#0005"
+
+cheat732_desc = "物品栏 4恢复药(恢复 45)"
+cheat732_handler = "0"
+cheat732_code = "800C090E#0006"
+
+cheat733_desc = "物品栏 4恢复药(恢复 90)90"
+cheat733_handler = "0"
+cheat733_code = "800C090E#0007"
+
+cheat734_desc = "物品栏 4恢复药(恢复 180)180"
+cheat734_handler = "0"
+cheat734_code = "800C090E#0008"
+
+cheat735_desc = "物品栏 4恢复药(恢复 400)400"
+cheat735_handler = "0"
+cheat735_code = "800C090E#0009"
+
+cheat736_desc = "物品栏 4完全恢复药"
+cheat736_handler = "0"
+cheat736_code = "800C090E#000A"
+
+cheat737_desc = "物品栏 4超级零件"
+cheat737_handler = "0"
+cheat737_code = "800C090E#000B"
+
+cheat738_desc = "物品栏 4骗子零件"
+cheat738_handler = "0"
+cheat738_code = "800C090E#000C"
+
+cheat739_desc = "物品栏 4毒治疗药"
+cheat739_handler = "0"
+cheat739_code = "800C090E#000D"
+
+cheat740_desc = "物品栏 4黑暗治疗药"
+cheat740_handler = "0"
+cheat740_code = "800C090E#000E"
+
+cheat741_desc = "物品栏 4混乱治疗药"
+cheat741_handler = "0"
+cheat741_code = "800C090E#000F"
+
+cheat742_desc = "物品栏 4移动限制治疗药"
+cheat742_handler = "0"
+cheat742_code = "800C090E#0010"
+
+cheat743_desc = "物品栏 4万能药"
+cheat743_handler = "0"
+cheat743_code = "800C090E#0011"
+
+cheat744_desc = "物品栏 4复活药"
+cheat744_handler = "0"
+cheat744_code = "800C090E#0012"
+
+cheat745_desc = "物品栏 4防御力 +1"
+cheat745_handler = "0"
+cheat745_code = "800C090E#0013"
+
+cheat746_desc = "物品栏 4零件"
+cheat746_handler = "0"
+cheat746_code = "800C090E#0014"
+
+cheat747_desc = "物品栏 4交易卡"
+cheat747_handler = "0"
+cheat747_code = "800C090E#0015"
+
+cheat748_desc = "物品栏 4工具"
+cheat748_handler = "0"
+cheat748_code = "800C090E#0016"
+
+cheat749_desc = "物品栏 4万能工具"
+cheat749_handler = "0"
+cheat749_code = "800C090E#0017"
+
+cheat750_desc = "物品栏 4道具 24"
+cheat750_handler = "0"
+cheat750_code = "800C090E#0018"
+
+cheat751_desc = "物品栏 4道具 25"
+cheat751_handler = "0"
+cheat751_code = "800C090E#0019"
+
+cheat752_desc = "物品栏 4弹药箱"
+cheat752_handler = "0"
+cheat752_code = "800C090E#001A"
+
+cheat753_desc = "物品栏 4火箭弹药箱"
+cheat753_handler = "0"
+cheat753_code = "800C090E#001B"
+
+cheat754_desc = "物品栏 4前田的弹药箱"
+cheat754_handler = "0"
+cheat754_code = "800C090E#001C"
+
+cheat755_desc = "物品栏 4攻击力 +1"
+cheat755_handler = "0"
+cheat755_code = "800C090E#001D"
+
+cheat756_desc = "物品栏 4攻击力 +2"
+cheat756_handler = "0"
+cheat756_code = "800C090E#001E"
+
+cheat757_desc = "物品栏 4攻击力 +3"
+cheat757_handler = "0"
+cheat757_code = "800C090E#001F"
+
+cheat758_desc = "物品栏 4攻击力 +4"
+cheat758_handler = "0"
+cheat758_code = "800C090E#0020"
+
+cheat759_desc = "物品栏 4命中率 +1"
+cheat759_handler = "0"
+cheat759_code = "800C090E#0021"
+
+cheat760_desc = "物品栏 4命中率 +2"
+cheat760_handler = "0"
+cheat760_code = "800C090E#0022"
+
+cheat761_desc = "物品栏 4命中率 +3"
+cheat761_handler = "0"
+cheat761_code = "800C090E#0023"
+
+cheat762_desc = "物品栏 4命中率 +4"
+cheat762_handler = "0"
+cheat762_code = "800C090E#0024"
+
+cheat763_desc = "物品栏 4装弹数 +1"
+cheat763_handler = "0"
+cheat763_code = "800C090E#0025"
+
+cheat764_desc = "物品栏 4装弹数 +2"
+cheat764_handler = "0"
+cheat764_code = "800C090E#0026"
+
+cheat765_desc = "物品栏 4装弹数 +3"
+cheat765_handler = "0"
+cheat765_code = "800C090E#0027"
+
+cheat766_desc = "物品栏 4装弹数 +4"
+cheat766_handler = "0"
+cheat766_code = "800C090E#0028"
+
+cheat767_desc = "物品栏 4防御力 +1"
+cheat767_handler = "0"
+cheat767_code = "800C090E#0029"
+
+cheat768_desc = "物品栏 4防御力 +2"
+cheat768_handler = "0"
+cheat768_code = "800C090E#002A"
+
+cheat769_desc = "物品栏 4防御力 +3"
+cheat769_handler = "0"
+cheat769_code = "800C090E#002B"
+
+cheat770_desc = "物品栏 4防御力 +4"
+cheat770_handler = "0"
+cheat770_code = "800C090E#002C"
+
+cheat771_desc = "物品栏 4CR回避 +1"
+cheat771_handler = "0"
+cheat771_code = "800C090E#002D"
+
+cheat772_desc = "物品栏 4CR回避 +2"
+cheat772_handler = "0"
+cheat772_code = "800C090E#002E"
+
+cheat773_desc = "物品栏 4CR回避 +3"
+cheat773_handler = "0"
+cheat773_code = "800C090E#002F"
+
+cheat774_desc = "物品栏 4CR回避 +4"
+cheat774_handler = "0"
+cheat774_code = "800C090E#0030"
+
+cheat775_desc = "物品栏 4PE防御力 +1"
+cheat775_handler = "0"
+cheat775_code = "800C090E#0031"
+
+cheat776_desc = "物品栏 4PE防御力 +2"
+cheat776_handler = "0"
+cheat776_code = "800C090E#0032"
+
+cheat777_desc = "物品栏 4PE防御力 +3"
+cheat777_handler = "0"
+cheat777_code = "800C090E#0033"
+
+cheat778_desc = "物品栏 4PE防御力 +4"
+cheat778_handler = "0"
+cheat778_code = "800C090E#0034"
+
+cheat779_desc = "物品栏 4工具组"
+cheat779_handler = "0"
+cheat779_code = "800C090E#0035"
+
+cheat780_desc = "物品栏 4万能工具组"
+cheat780_handler = "0"
+cheat780_code = "800C090E#0036"
+
+cheat781_desc = "物品栏 4改造许可证"
+cheat781_handler = "0"
+cheat781_code = "800C090E#0037"
+
+cheat782_desc = "物品栏 4大楼钥匙1 (到10楼去的钥匙)"
+cheat782_handler = "0"
+cheat782_code = "800C090E#0038"
+
+cheat783_desc = "物品栏 4大楼钥匙2 (到20楼去的钥匙)"
+cheat783_handler = "0"
+cheat783_code = "800C090E#0039"
+
+cheat784_desc = "物品栏 4大楼钥匙3 (到30楼去的钥匙)"
+cheat784_handler = "0"
+cheat784_code = "800C090E#003A"
+
+cheat785_desc = "物品栏 4大楼钥匙4 (到40楼去的钥匙)"
+cheat785_handler = "0"
+cheat785_code = "800C090E#003B"
+
+cheat786_desc = "物品栏 4大楼钥匙5 (到50楼去的钥匙)"
+cheat786_handler = "0"
+cheat786_code = "800C090E#003C"
+
+cheat787_desc = "物品栏 4大楼钥匙6 (到60楼去的钥匙)"
+cheat787_handler = "0"
+cheat787_code = "800C090E#003D"
+
+cheat788_desc = "物品栏 4大楼钥匙7 (到70楼去的钥匙)"
+cheat788_handler = "0"
+cheat788_code = "800C090E#003E"
+
+cheat789_desc = "物品栏 4警棍1"
+cheat789_handler = "0"
+cheat789_code = "800C090E#003F"
+
+cheat790_desc = "物品栏 4警棍2"
+cheat790_handler = "0"
+cheat790_code = "800C090E#0040"
+
+cheat791_desc = "物品栏 4警棍3"
+cheat791_handler = "0"
+cheat791_code = "800C090E#0041"
+
+cheat792_desc = "物品栏 4警棍4"
+cheat792_handler = "0"
+cheat792_code = "800C090E#0042"
+
+cheat793_desc = "物品栏 4警棍5"
+cheat793_handler = "0"
+cheat793_code = "800C090E#0043"
+
+cheat794_desc = "物品栏 4M84F (手枪)"
+cheat794_handler = "0"
+cheat794_code = "800C090E#0044"
+
+cheat795_desc = "物品栏 4M9 (手枪)"
+cheat795_handler = "0"
+cheat795_code = "800C090E#0045"
+
+cheat796_desc = "物品栏 4M9改 (手枪)"
+cheat796_handler = "0"
+cheat796_code = "800C090E#0046"
+
+cheat797_desc = "物品栏 4M9改2 (手枪)"
+cheat797_handler = "0"
+cheat797_code = "800C090E#0047"
+
+cheat798_desc = "物品栏 4M8000 (手枪)"
+cheat798_handler = "0"
+cheat798_code = "800C090E#0048"
+
+cheat799_desc = "物品栏 4M96 (手枪)"
+cheat799_handler = "0"
+cheat799_code = "800C090E#0049"
+
+cheat800_desc = "物品栏 4M96R (手枪)"
+cheat800_handler = "0"
+cheat800_code = "800C090E#004A"
+
+cheat801_desc = "物品栏 4P220 (手枪)"
+cheat801_handler = "0"
+cheat801_code = "800C090E#004B"
+
+cheat802_desc = "物品栏 4P220改 (手枪)"
+cheat802_handler = "0"
+cheat802_code = "800C090E#004C"
+
+cheat803_desc = "物品栏 4P228 (手枪)"
+cheat803_handler = "0"
+cheat803_code = "800C090E#004D"
+
+cheat804_desc = "物品栏 4P226 (手枪)"
+cheat804_handler = "0"
+cheat804_code = "800C090E#004E"
+
+cheat805_desc = "物品栏 4229 (手枪)"
+cheat805_handler = "0"
+cheat805_code = "800C090E#004F"
+
+cheat806_desc = "物品栏 4M1911A1 (手枪)"
+cheat806_handler = "0"
+cheat806_code = "800C090E#0050"
+
+cheat807_desc = "物品栏 4M1911A2 (手枪)"
+cheat807_handler = "0"
+cheat807_code = "800C090E#0051"
+
+cheat808_desc = "物品栏 4M1911A3 (手枪)"
+cheat808_handler = "0"
+cheat808_code = "800C090E#0052"
+
+cheat809_desc = "物品栏 4M1911A4 (手枪)"
+cheat809_handler = "0"
+cheat809_code = "800C090E#0053"
+
+cheat810_desc = "物品栏 4M1911A5 (手枪)"
+cheat810_handler = "0"
+cheat810_code = "800C090E#0054"
+
+cheat811_desc = "物品栏 4P8 (手枪)"
+cheat811_handler = "0"
+cheat811_code = "800C090E#0055"
+
+cheat812_desc = "物品栏 4USP (手枪)"
+cheat812_handler = "0"
+cheat812_code = "800C090E#0056"
+
+cheat813_desc = "物品栏 4USP改 (手枪)"
+cheat813_handler = "0"
+cheat813_code = "800C090E#0057"
+
+cheat814_desc = "物品栏 4USP改2 (手枪)"
+cheat814_handler = "0"
+cheat814_code = "800C090E#0058"
+
+cheat815_desc = "物品栏 4Mark23 (手枪)"
+cheat815_handler = "0"
+cheat815_code = "800C090E#0059"
+
+cheat816_desc = "物品栏 4G19 (手枪)"
+cheat816_handler = "0"
+cheat816_code = "800C090E#005A"
+
+cheat817_desc = "物品栏 4G23 (手枪)"
+cheat817_handler = "0"
+cheat817_code = "800C090E#005B"
+
+cheat818_desc = "物品栏 4G22 (手枪)"
+cheat818_handler = "0"
+cheat818_code = "800C090E#005C"
+
+cheat819_desc = "物品栏 4G20 (手枪)"
+cheat819_handler = "0"
+cheat819_code = "800C090E#005D"
+
+cheat820_desc = "物品栏 4M712 (手枪)"
+cheat820_handler = "0"
+cheat820_code = "800C090E#005E"
+
+cheat821_desc = "物品栏 4PPK (手枪)"
+cheat821_handler = "0"
+cheat821_code = "800C090E#005F"
+
+cheat822_desc = "物品栏 4AM44"
+cheat822_handler = "0"
+cheat822_code = "800C090E#0060"
+
+cheat823_desc = "物品栏 4前田的枪"
+cheat823_handler = "0"
+cheat823_code = "800C090E#0061"
+
+cheat824_desc = "物品栏 4PPSh41 (机关枪)"
+cheat824_handler = "0"
+cheat824_code = "800C090E#0062"
+
+cheat825_desc = "物品栏 4SP1C (手枪)"
+cheat825_handler = "0"
+cheat825_code = "800C090E#0063"
+
+cheat826_desc = "物品栏 4USP-TU (手枪)"
+cheat826_handler = "0"
+cheat826_code = "800C090E#0064"
+
+cheat827_desc = "物品栏 4AK47 (来复枪)"
+cheat827_handler = "0"
+cheat827_code = "800C090E#0065"
+
+cheat828_desc = "物品栏 4DE50AE2"
+cheat828_handler = "0"
+cheat828_code = "800C090E#0066"
+
+cheat829_desc = "物品栏 4特别的SMG"
+cheat829_handler = "0"
+cheat829_code = "800C090E#0067"
+
+cheat830_desc = "物品栏 4M870 (霰弹枪)"
+cheat830_handler = "0"
+cheat830_code = "800C090E#0068"
+
+cheat831_desc = "物品栏 4M870 改1 (霰弹枪)"
+cheat831_handler = "0"
+cheat831_code = "800C090E#0069"
+
+cheat832_desc = "物品栏 4M500 (霰弹枪)"
+cheat832_handler = "0"
+cheat832_code = "800C090E#006A"
+
+cheat833_desc = "物品栏 4M500 改1 (霰弹枪)"
+cheat833_handler = "0"
+cheat833_code = "800C090E#006B"
+
+cheat834_desc = "物品栏 4Maverick (霰弹枪)"
+cheat834_handler = "0"
+cheat834_code = "800C090E#006C"
+
+cheat835_desc = "物品栏 4S12 (霰弹枪)"
+cheat835_handler = "0"
+cheat835_code = "800C090E#006D"
+
+cheat836_desc = "物品栏 4M10B (霰弹枪)"
+cheat836_handler = "0"
+cheat836_code = "800C090E#006E"
+
+cheat837_desc = "物品栏 4M11 (机关枪)"
+cheat837_handler = "0"
+cheat837_code = "800C090E#006F"
+
+cheat838_desc = "物品栏 4M11 (机关枪)"
+cheat838_handler = "0"
+cheat838_code = "800C090E#0070"
+
+cheat839_desc = "物品栏 4MP5K (机关枪)"
+cheat839_handler = "0"
+cheat839_code = "800C090E#0071"
+
+cheat840_desc = "物品栏 4MP5PDW (机关枪)"
+cheat840_handler = "0"
+cheat840_code = "800C090E#0072"
+
+cheat841_desc = "物品栏 4MP5A5 (机关枪)"
+cheat841_handler = "0"
+cheat841_code = "800C090E#0073"
+
+cheat842_desc = "物品栏 4MP5SD6 (机关枪)"
+cheat842_handler = "0"
+cheat842_code = "800C090E#0074"
+
+cheat843_desc = "物品栏 4MicroUZ (机关枪)"
+cheat843_handler = "0"
+cheat843_code = "800C090E#0075"
+
+cheat844_desc = "物品栏 4MiniUZ (机关枪)"
+cheat844_handler = "0"
+cheat844_code = "800C090E#0076"
+
+cheat845_desc = "物品栏 4FullUZ (机关枪)"
+cheat845_handler = "0"
+cheat845_code = "800C090E#0077"
+
+cheat846_desc = "物品栏 4P90 (机关枪)"
+cheat846_handler = "0"
+cheat846_code = "800C090E#0078"
+
+cheat847_desc = "物品栏 4M16A1 (来复枪)"
+cheat847_handler = "0"
+cheat847_code = "800C090E#0079"
+
+cheat848_desc = "物品栏 4M16A2 (来复枪)"
+cheat848_handler = "0"
+cheat848_code = "800C090E#007A"
+
+cheat849_desc = "物品栏 4SG550 (来复枪)"
+cheat849_handler = "0"
+cheat849_code = "800C090E#007B"
+
+cheat850_desc = "物品栏 4SAR (来复枪)"
+cheat850_handler = "0"
+cheat850_code = "800C090E#007C"
+
+cheat851_desc = "物品栏 4G3A3 (来复枪)"
+cheat851_handler = "0"
+cheat851_code = "800C090E#007D"
+
+cheat852_desc = "物品栏 464型 (来复枪)"
+cheat852_handler = "0"
+cheat852_code = "800C090E#007E"
+
+cheat853_desc = "物品栏 4XM177E2 (来复枪)"
+cheat853_handler = "0"
+cheat853_code = "800C090E#007F"
+
+cheat854_desc = "物品栏 4PSG-1 (来复枪)"
+cheat854_handler = "0"
+cheat854_code = "800C090E#0080"
+
+cheat855_desc = "物品栏 4FA-MAS (来复枪)"
+cheat855_handler = "0"
+cheat855_code = "800C090E#0081"
+
+cheat856_desc = "物品栏 4MAG (来复枪)"
+cheat856_handler = "0"
+cheat856_code = "800C090E#0082"
+
+cheat857_desc = "物品栏 4M203 (榴弹发射器)"
+cheat857_handler = "0"
+cheat857_code = "800C090E#0083"
+
+cheat858_desc = "物品栏 4M203改1 (榴弹发射器)"
+cheat858_handler = "0"
+cheat858_code = "800C090E#0084"
+
+cheat859_desc = "物品栏 4M203改2 (榴弹发射器)"
+cheat859_handler = "0"
+cheat859_code = "800C090E#0085"
+
+cheat860_desc = "物品栏 4M203改3 (榴弹发射器)"
+cheat860_handler = "0"
+cheat860_code = "800C090E#0086"
+
+cheat861_desc = "物品栏 4M203改4 (榴弹发射器)"
+cheat861_handler = "0"
+cheat861_code = "800C090E#0087"
+
+cheat862_desc = "物品栏 4M203改6 (榴弹发射器)"
+cheat862_handler = "0"
+cheat862_code = "800C090E#0088"
+
+cheat863_desc = "物品栏 4M79 (榴弹发射器)"
+cheat863_handler = "0"
+cheat863_code = "800C090E#0089"
+
+cheat864_desc = "物品栏 4M79改1 (榴弹发射器)"
+cheat864_handler = "0"
+cheat864_code = "800C090E#008A"
+
+cheat865_desc = "物品栏 4M79改2 (榴弹发射器)"
+cheat865_handler = "0"
+cheat865_code = "800C090E#008B"
+
+cheat866_desc = "物品栏 4M79改3 (榴弹发射器)"
+cheat866_handler = "0"
+cheat866_code = "800C090E#008C"
+
+cheat867_desc = "物品栏 4M79改4 (榴弹发射器)"
+cheat867_handler = "0"
+cheat867_code = "800C090E#008D"
+
+cheat868_desc = "物品栏 4M79改5 (榴弹发射器)"
+cheat868_handler = "0"
+cheat868_code = "800C090E#008E"
+
+cheat869_desc = "物品栏 4HK40 (榴弹发射器)"
+cheat869_handler = "0"
+cheat869_code = "800C090E#008F"
+
+cheat870_desc = "物品栏 4AT4 (火箭筒)"
+cheat870_handler = "0"
+cheat870_code = "800C090E#0090"
+
+cheat871_desc = "物品栏 4AT4 (火箭筒)"
+cheat871_handler = "0"
+cheat871_code = "800C090E#0091"
+
+cheat872_desc = "物品栏 4LAW80 (火箭筒)"
+cheat872_handler = "0"
+cheat872_code = "800C090E#0092"
+
+cheat873_desc = "物品栏 4前田的枪"
+cheat873_handler = "0"
+cheat873_code = "800C090E#0093"
+
+cheat874_desc = "物品栏 4M92F (手枪)"
+cheat874_handler = "0"
+cheat874_code = "800C090E#0094"
+
+cheat875_desc = "物品栏 4女装 (女礼服)"
+cheat875_handler = "0"
+cheat875_code = "800C090E#0095"
+
+cheat876_desc = "物品栏 4N 背心"
+cheat876_handler = "0"
+cheat876_code = "800C090E#0096"
+
+cheat877_desc = "物品栏 4N 防护衣"
+cheat877_handler = "0"
+cheat877_code = "800C090E#0097"
+
+cheat878_desc = "物品栏 4N 夹克"
+cheat878_handler = "0"
+cheat878_code = "800C090E#0098"
+
+cheat879_desc = "物品栏 4N 套装"
+cheat879_handler = "0"
+cheat879_code = "800C090E#0099"
+
+cheat880_desc = "物品栏 4N 盔甲"
+cheat880_handler = "0"
+cheat880_code = "800C090E#009A"
+
+cheat881_desc = "物品栏 4KV 背心1"
+cheat881_handler = "0"
+cheat881_code = "800C090E#009B"
+
+cheat882_desc = "物品栏 4KV 防护衣"
+cheat882_handler = "0"
+cheat882_code = "800C090E#009C"
+
+cheat883_desc = "物品栏 4KV 夹克"
+cheat883_handler = "0"
+cheat883_code = "800C090E#009D"
+
+cheat884_desc = "物品栏 4KV 套装"
+cheat884_handler = "0"
+cheat884_code = "800C090E#009E"
+
+cheat885_desc = "物品栏 4KV 盔甲"
+cheat885_handler = "0"
+cheat885_code = "800C090E#009F"
+
+cheat886_desc = "物品栏 4SP 背心1"
+cheat886_handler = "0"
+cheat886_code = "800C090E#00A0"
+
+cheat887_desc = "物品栏 4SP 背心2"
+cheat887_handler = "0"
+cheat887_code = "800C090E#00A1"
+
+cheat888_desc = "物品栏 4SP 防护衣"
+cheat888_handler = "0"
+cheat888_code = "800C090E#00A2"
+
+cheat889_desc = "物品栏 4SP 夹克"
+cheat889_handler = "0"
+cheat889_code = "800C090E#00A3"
+
+cheat890_desc = "物品栏 4SP 套装1"
+cheat890_handler = "0"
+cheat890_code = "800C090E#00A4"
+
+cheat891_desc = "物品栏 4SP 套装2"
+cheat891_handler = "0"
+cheat891_code = "800C090E#00A5"
+
+cheat892_desc = "物品栏 4SP 盔甲1"
+cheat892_handler = "0"
+cheat892_code = "800C090E#00A6"
+
+cheat893_desc = "物品栏 4SP 盔甲2"
+cheat893_handler = "0"
+cheat893_code = "800C090E#00A7"
+
+cheat894_desc = "物品栏 4SV 背心1"
+cheat894_handler = "0"
+cheat894_code = "800C090E#00A8"
+
+cheat895_desc = "物品栏 4SV 背心2"
+cheat895_handler = "0"
+cheat895_code = "800C090E#00A9"
+
+cheat896_desc = "物品栏 4SV 防护衣"
+cheat896_handler = "0"
+cheat896_code = "800C090E#00AA"
+
+cheat897_desc = "物品栏 4SV 夹克"
+cheat897_handler = "0"
+cheat897_code = "800C090E#00AB"
+
+cheat898_desc = "物品栏 4SV 套装1"
+cheat898_handler = "0"
+cheat898_code = "800C090E#00AC"
+
+cheat899_desc = "物品栏 4SV 套装2"
+cheat899_handler = "0"
+cheat899_code = "800C090E#00AD"
+
+cheat900_desc = "物品栏 4SV 盔甲1"
+cheat900_handler = "0"
+cheat900_code = "800C090E#00AE"
+
+cheat901_desc = "物品栏 4SV 盔甲2"
+cheat901_handler = "0"
+cheat901_code = "800C090E#00AF"
+
+cheat902_desc = "物品栏 4CR 背心1"
+cheat902_handler = "0"
+cheat902_code = "800C090E#00B0"
+
+cheat903_desc = "物品栏 4CR 背心2"
+cheat903_handler = "0"
+cheat903_code = "800C090E#00B1"
+
+cheat904_desc = "物品栏 4CR 防护衣"
+cheat904_handler = "0"
+cheat904_code = "800C090E#00B2"
+
+cheat905_desc = "物品栏 4CR 夹克"
+cheat905_handler = "0"
+cheat905_code = "800C090E#00B3"
+
+cheat906_desc = "物品栏 4CR 套装1"
+cheat906_handler = "0"
+cheat906_code = "800C090E#00B4"
+
+cheat907_desc = "物品栏 4CR 套装2"
+cheat907_handler = "0"
+cheat907_code = "800C090E#00B5"
+
+cheat908_desc = "物品栏 4CR 盔甲1"
+cheat908_handler = "0"
+cheat908_code = "800C090E#00B6"
+
+cheat909_desc = "物品栏 4CR 盔甲2"
+cheat909_handler = "0"
+cheat909_code = "800C090E#00B7"
+
+cheat910_desc = "物品栏 4B 背心1"
+cheat910_handler = "0"
+cheat910_code = "800C090E#00B8"
+
+cheat911_desc = "物品栏 4B 背心2"
+cheat911_handler = "0"
+cheat911_code = "800C090E#00B9"
+
+cheat912_desc = "物品栏 4B 防护衣"
+cheat912_handler = "0"
+cheat912_code = "800C090E#00BA"
+
+cheat913_desc = "物品栏 4B 夹克1"
+cheat913_handler = "0"
+cheat913_code = "800C090E#00BB"
+
+cheat914_desc = "物品栏 4B 夹克2"
+cheat914_handler = "0"
+cheat914_code = "800C090E#00BC"
+
+cheat915_desc = "物品栏 4B 套装1"
+cheat915_handler = "0"
+cheat915_code = "800C090E#00BD"
+
+cheat916_desc = "物品栏 4B 套装2"
+cheat916_handler = "0"
+cheat916_code = "800C090E#00BE"
+
+cheat917_desc = "物品栏 4B 盔甲"
+cheat917_handler = "0"
+cheat917_code = "800C090E#00BF"
+
+cheat918_desc = "物品栏 4CM 背心1"
+cheat918_handler = "0"
+cheat918_code = "800C090E#00C0"
+
+cheat919_desc = "物品栏 4CM 背心2"
+cheat919_handler = "0"
+cheat919_code = "800C090E#00C1"
+
+cheat920_desc = "物品栏 4CM 防护衣"
+cheat920_handler = "0"
+cheat920_code = "800C090E#00C2"
+
+cheat921_desc = "物品栏 4CM 夹克"
+cheat921_handler = "0"
+cheat921_code = "800C090E#00C3"
+
+cheat922_desc = "物品栏 4CM 套装1"
+cheat922_handler = "0"
+cheat922_code = "800C090E#00C4"
+
+cheat923_desc = "物品栏 4CM 盔甲1"
+cheat923_handler = "0"
+cheat923_code = "800C090E#00C5"
+
+cheat924_desc = "物品栏 4CM 盔甲2"
+cheat924_handler = "0"
+cheat924_code = "800C090E#00C6"
+
+cheat925_desc = "物品栏 4CM 套装2"
+cheat925_handler = "0"
+cheat925_code = "800C090E#00C7"
+
+cheat926_desc = "物品栏 4剧院钥匙 (更衣间钥匙)"
+cheat926_handler = "0"
+cheat926_code = "800C090E#00C8"
+
+cheat927_desc = "物品栏 4排练房钥匙"
+cheat927_handler = "0"
+cheat927_code = "800C090E#00C9"
+
+cheat928_desc = "物品栏 4动物园钥匙 (中心公园钥匙)"
+cheat928_handler = "0"
+cheat928_code = "800C090E#00CA"
+
+cheat929_desc = "物品栏 4Narita (护身符)"
+cheat929_handler = "0"
+cheat929_code = "800C090E#00CB"
+
+cheat930_desc = "物品栏 4Mayoke (有用的护身符)"
+cheat930_handler = "0"
+cheat930_code = "800C090E#00CC"
+
+cheat931_desc = "物品栏 4hamaya (特别的护身符)"
+cheat931_handler = "0"
+cheat931_code = "800C090E#00CD"
+
+cheat932_desc = "物品栏 4保险丝1"
+cheat932_handler = "0"
+cheat932_code = "800C090E#00CE"
+
+cheat933_desc = "物品栏 4保险丝2"
+cheat933_handler = "0"
+cheat933_code = "800C090E#00CF"
+
+cheat934_desc = "物品栏 4保险丝3"
+cheat934_handler = "0"
+cheat934_code = "800C090E#00D0"
+
+cheat935_desc = "物品栏 4停尸房钥匙 (医院钥匙)"
+cheat935_handler = "0"
+cheat935_code = "800C090E#00D1"
+
+cheat936_desc = "物品栏 4蓝钥匙"
+cheat936_handler = "0"
+cheat936_code = "800C090E#00D2"
+
+cheat937_desc = "物品栏 4绿钥匙"
+cheat937_handler = "0"
+cheat937_code = "800C090E#00D3"
+
+cheat938_desc = "物品栏 4泵房钥匙"
+cheat938_handler = "0"
+cheat938_code = "800C090E#00D4"
+
+cheat939_desc = "物品栏 4克拉姆的钥匙"
+cheat939_handler = "0"
+cheat939_code = "800C090E#00D5"
+
+cheat940_desc = "物品栏 4储藏室的钥匙 (武器仓库的钥匙)"
+cheat940_handler = "0"
+cheat940_code = "800C090E#00D6"
+
+cheat941_desc = "物品栏 4柜子钥匙"
+cheat941_handler = "0"
+cheat941_code = "800C090E#00D7"
+
+cheat942_desc = "物品栏 4武器备忘录"
+cheat942_handler = "0"
+cheat942_code = "800C090E#00D8"
+
+cheat943_desc = "物品栏 4奖励币"
+cheat943_handler = "0"
+cheat943_code = "800C090E#00D9"
+
+cheat944_desc = "物品栏 4电梯钥匙"
+cheat944_handler = "0"
+cheat944_code = "800C090E#00DA"
+
+cheat945_desc = "物品栏 4地铁大门钥匙"
+cheat945_handler = "0"
+cheat945_code = "800C090E#00DB"
+
+cheat946_desc = "物品栏 4港口仓库钥匙"
+cheat946_handler = "0"
+cheat946_code = "800C090E#00DC"
+
+cheat947_desc = "物品栏 4GSP 交易卡 (武器交易卡)"
+cheat947_handler = "0"
+cheat947_code = "800C090E#00DD"
+
+cheat948_desc = "物品栏 4P38 交易卡 (武器交易卡)"
+cheat948_handler = "0"
+cheat948_code = "800C090E#00DE"
+
+cheat949_desc = "物品栏 4B鹰 交易卡 (武器交易卡)"
+cheat949_handler = "0"
+cheat949_code = "800C090E#00DF"
+
+cheat950_desc = "物品栏 4Kasul 交易卡 (武器交易卡)"
+cheat950_handler = "0"
+cheat950_code = "800C090E#00E0"
+
+cheat951_desc = "物品栏 4PPKS 交易卡 (武器交易卡)"
+cheat951_handler = "0"
+cheat951_code = "800C090E#00E1"
+
+cheat952_desc = "物品栏 4M1 交易卡 (武器交易卡)"
+cheat952_handler = "0"
+cheat952_code = "800C090E#00E2"
+
+cheat953_desc = "物品栏 4MK5 交易卡 (武器交易卡)"
+cheat953_handler = "0"
+cheat953_code = "800C090E#00E3"
+
+cheat954_desc = "物品栏 4MP44 交易卡 (武器交易卡)"
+cheat954_handler = "0"
+cheat954_code = "800C090E#00E4"
+
+cheat955_desc = "物品栏 4BAR 交易卡 (武器交易卡)"
+cheat955_handler = "0"
+cheat955_code = "800C090E#00E5"
+
+cheat956_desc = "物品栏 4MG42 交易卡 (武器交易卡)"
+cheat956_handler = "0"
+cheat956_code = "800C090E#00E6"
+
+cheat957_desc = "物品栏 4M29 交易卡 (武器交易卡)"
+cheat957_handler = "0"
+cheat957_code = "800C090E#00E7"
+
+cheat958_desc = "物品栏 4M73 交易卡 (武器交易卡)"
+cheat958_handler = "0"
+cheat958_code = "800C090E#00E8"
+
+cheat959_desc = "物品栏 438型 交易卡 (武器交易卡)"
+cheat959_handler = "0"
+cheat959_code = "800C090E#00E9"
+
+cheat960_desc = "物品栏 43型 交易卡 (武器交易卡)"
+cheat960_handler = "0"
+cheat960_code = "800C090E#00EA"
+
+cheat961_desc = "物品栏 4鹰 交易卡 (武器交易卡)"
+cheat961_handler = "0"
+cheat961_code = "800C090E#00EB"
+
+cheat962_desc = "物品栏 5NONE"
+cheat962_handler = "0"
+cheat962_code = "800C0910#0000"
+
+cheat963_desc = "物品栏 5子弹 X6"
+cheat963_handler = "0"
+cheat963_code = "800C0910#0001"
+
+cheat964_desc = "物品栏 5子弹 X15"
+cheat964_handler = "0"
+cheat964_code = "800C0910#0002"
+
+cheat965_desc = "物品栏 5子弹 X30"
+cheat965_handler = "0"
+cheat965_code = "800C0910#0003"
+
+cheat966_desc = "物品栏 5前田的子弹"
+cheat966_handler = "0"
+cheat966_code = "800C0910#0004"
+
+cheat967_desc = "物品栏 5火箭弹"
+cheat967_handler = "0"
+cheat967_code = "800C0910#0005"
+
+cheat968_desc = "物品栏 5恢复药(恢复 45)"
+cheat968_handler = "0"
+cheat968_code = "800C0910#0006"
+
+cheat969_desc = "物品栏 5恢复药(恢复 90)90"
+cheat969_handler = "0"
+cheat969_code = "800C0910#0007"
+
+cheat970_desc = "物品栏 5恢复药(恢复 180)180"
+cheat970_handler = "0"
+cheat970_code = "800C0910#0008"
+
+cheat971_desc = "物品栏 5恢复药(恢复 400)400"
+cheat971_handler = "0"
+cheat971_code = "800C0910#0009"
+
+cheat972_desc = "物品栏 5完全恢复药"
+cheat972_handler = "0"
+cheat972_code = "800C0910#000A"
+
+cheat973_desc = "物品栏 5超级零件"
+cheat973_handler = "0"
+cheat973_code = "800C0910#000B"
+
+cheat974_desc = "物品栏 5骗子零件"
+cheat974_handler = "0"
+cheat974_code = "800C0910#000C"
+
+cheat975_desc = "物品栏 5毒治疗药"
+cheat975_handler = "0"
+cheat975_code = "800C0910#000D"
+
+cheat976_desc = "物品栏 5黑暗治疗药"
+cheat976_handler = "0"
+cheat976_code = "800C0910#000E"
+
+cheat977_desc = "物品栏 5混乱治疗药"
+cheat977_handler = "0"
+cheat977_code = "800C0910#000F"
+
+cheat978_desc = "物品栏 5移动限制治疗药"
+cheat978_handler = "0"
+cheat978_code = "800C0910#0010"
+
+cheat979_desc = "物品栏 5万能药"
+cheat979_handler = "0"
+cheat979_code = "800C0910#0011"
+
+cheat980_desc = "物品栏 5复活药"
+cheat980_handler = "0"
+cheat980_code = "800C0910#0012"
+
+cheat981_desc = "物品栏 5防御力 +1"
+cheat981_handler = "0"
+cheat981_code = "800C0910#0013"
+
+cheat982_desc = "物品栏 5零件"
+cheat982_handler = "0"
+cheat982_code = "800C0910#0014"
+
+cheat983_desc = "物品栏 5交易卡"
+cheat983_handler = "0"
+cheat983_code = "800C0910#0015"
+
+cheat984_desc = "物品栏 5工具"
+cheat984_handler = "0"
+cheat984_code = "800C0910#0016"
+
+cheat985_desc = "物品栏 5万能工具"
+cheat985_handler = "0"
+cheat985_code = "800C0910#0017"
+
+cheat986_desc = "物品栏 5道具 24"
+cheat986_handler = "0"
+cheat986_code = "800C0910#0018"
+
+cheat987_desc = "物品栏 5道具 25"
+cheat987_handler = "0"
+cheat987_code = "800C0910#0019"
+
+cheat988_desc = "物品栏 5弹药箱"
+cheat988_handler = "0"
+cheat988_code = "800C0910#001A"
+
+cheat989_desc = "物品栏 5火箭弹药箱"
+cheat989_handler = "0"
+cheat989_code = "800C0910#001B"
+
+cheat990_desc = "物品栏 5前田的弹药箱"
+cheat990_handler = "0"
+cheat990_code = "800C0910#001C"
+
+cheat991_desc = "物品栏 5攻击力 +1"
+cheat991_handler = "0"
+cheat991_code = "800C0910#001D"
+
+cheat992_desc = "物品栏 5攻击力 +2"
+cheat992_handler = "0"
+cheat992_code = "800C0910#001E"
+
+cheat993_desc = "物品栏 5攻击力 +3"
+cheat993_handler = "0"
+cheat993_code = "800C0910#001F"
+
+cheat994_desc = "物品栏 5攻击力 +4"
+cheat994_handler = "0"
+cheat994_code = "800C0910#0020"
+
+cheat995_desc = "物品栏 5命中率 +1"
+cheat995_handler = "0"
+cheat995_code = "800C0910#0021"
+
+cheat996_desc = "物品栏 5命中率 +2"
+cheat996_handler = "0"
+cheat996_code = "800C0910#0022"
+
+cheat997_desc = "物品栏 5命中率 +3"
+cheat997_handler = "0"
+cheat997_code = "800C0910#0023"
+
+cheat998_desc = "物品栏 5命中率 +4"
+cheat998_handler = "0"
+cheat998_code = "800C0910#0024"
+
+cheat999_desc = "物品栏 5装弹数 +1"
+cheat999_handler = "0"
+cheat999_code = "800C0910#0025"
+
+cheat1000_desc = "物品栏 5装弹数 +2"
+cheat1000_handler = "0"
+cheat1000_code = "800C0910#0026"
+
+cheat1001_desc = "物品栏 5装弹数 +3"
+cheat1001_handler = "0"
+cheat1001_code = "800C0910#0027"
+
+cheat1002_desc = "物品栏 5装弹数 +4"
+cheat1002_handler = "0"
+cheat1002_code = "800C0910#0028"
+
+cheat1003_desc = "物品栏 5防御力 +1"
+cheat1003_handler = "0"
+cheat1003_code = "800C0910#0029"
+
+cheat1004_desc = "物品栏 5防御力 +2"
+cheat1004_handler = "0"
+cheat1004_code = "800C0910#002A"
+
+cheat1005_desc = "物品栏 5防御力 +3"
+cheat1005_handler = "0"
+cheat1005_code = "800C0910#002B"
+
+cheat1006_desc = "物品栏 5防御力 +4"
+cheat1006_handler = "0"
+cheat1006_code = "800C0910#002C"
+
+cheat1007_desc = "物品栏 5CR回避 +1"
+cheat1007_handler = "0"
+cheat1007_code = "800C0910#002D"
+
+cheat1008_desc = "物品栏 5CR回避 +2"
+cheat1008_handler = "0"
+cheat1008_code = "800C0910#002E"
+
+cheat1009_desc = "物品栏 5CR回避 +3"
+cheat1009_handler = "0"
+cheat1009_code = "800C0910#002F"
+
+cheat1010_desc = "物品栏 5CR回避 +4"
+cheat1010_handler = "0"
+cheat1010_code = "800C0910#0030"
+
+cheat1011_desc = "物品栏 5PE防御力 +1"
+cheat1011_handler = "0"
+cheat1011_code = "800C0910#0031"
+
+cheat1012_desc = "物品栏 5PE防御力 +2"
+cheat1012_handler = "0"
+cheat1012_code = "800C0910#0032"
+
+cheat1013_desc = "物品栏 5PE防御力 +3"
+cheat1013_handler = "0"
+cheat1013_code = "800C0910#0033"
+
+cheat1014_desc = "物品栏 5PE防御力 +4"
+cheat1014_handler = "0"
+cheat1014_code = "800C0910#0034"
+
+cheat1015_desc = "物品栏 5工具组"
+cheat1015_handler = "0"
+cheat1015_code = "800C0910#0035"
+
+cheat1016_desc = "物品栏 5万能工具组"
+cheat1016_handler = "0"
+cheat1016_code = "800C0910#0036"
+
+cheat1017_desc = "物品栏 5改造许可证"
+cheat1017_handler = "0"
+cheat1017_code = "800C0910#0037"
+
+cheat1018_desc = "物品栏 5大楼钥匙1 (到10楼去的钥匙)"
+cheat1018_handler = "0"
+cheat1018_code = "800C0910#0038"
+
+cheat1019_desc = "物品栏 5大楼钥匙2 (到20楼去的钥匙)"
+cheat1019_handler = "0"
+cheat1019_code = "800C0910#0039"
+
+cheat1020_desc = "物品栏 5大楼钥匙3 (到30楼去的钥匙)"
+cheat1020_handler = "0"
+cheat1020_code = "800C0910#003A"
+
+cheat1021_desc = "物品栏 5大楼钥匙4 (到40楼去的钥匙)"
+cheat1021_handler = "0"
+cheat1021_code = "800C0910#003B"
+
+cheat1022_desc = "物品栏 5大楼钥匙5 (到50楼去的钥匙)"
+cheat1022_handler = "0"
+cheat1022_code = "800C0910#003C"
+
+cheat1023_desc = "物品栏 5大楼钥匙6 (到60楼去的钥匙)"
+cheat1023_handler = "0"
+cheat1023_code = "800C0910#003D"
+
+cheat1024_desc = "物品栏 5大楼钥匙7 (到70楼去的钥匙)"
+cheat1024_handler = "0"
+cheat1024_code = "800C0910#003E"
+
+cheat1025_desc = "物品栏 5警棍1"
+cheat1025_handler = "0"
+cheat1025_code = "800C0910#003F"
+
+cheat1026_desc = "物品栏 5警棍2"
+cheat1026_handler = "0"
+cheat1026_code = "800C0910#0040"
+
+cheat1027_desc = "物品栏 5警棍3"
+cheat1027_handler = "0"
+cheat1027_code = "800C0910#0041"
+
+cheat1028_desc = "物品栏 5警棍4"
+cheat1028_handler = "0"
+cheat1028_code = "800C0910#0042"
+
+cheat1029_desc = "物品栏 5警棍5"
+cheat1029_handler = "0"
+cheat1029_code = "800C0910#0043"
+
+cheat1030_desc = "物品栏 5M84F (手枪)"
+cheat1030_handler = "0"
+cheat1030_code = "800C0910#0044"
+
+cheat1031_desc = "物品栏 5M9 (手枪)"
+cheat1031_handler = "0"
+cheat1031_code = "800C0910#0045"
+
+cheat1032_desc = "物品栏 5M9改 (手枪)"
+cheat1032_handler = "0"
+cheat1032_code = "800C0910#0046"
+
+cheat1033_desc = "物品栏 5M9改2 (手枪)"
+cheat1033_handler = "0"
+cheat1033_code = "800C0910#0047"
+
+cheat1034_desc = "物品栏 5M8000 (手枪)"
+cheat1034_handler = "0"
+cheat1034_code = "800C0910#0048"
+
+cheat1035_desc = "物品栏 5M96 (手枪)"
+cheat1035_handler = "0"
+cheat1035_code = "800C0910#0049"
+
+cheat1036_desc = "物品栏 5M96R (手枪)"
+cheat1036_handler = "0"
+cheat1036_code = "800C0910#004A"
+
+cheat1037_desc = "物品栏 5P220 (手枪)"
+cheat1037_handler = "0"
+cheat1037_code = "800C0910#004B"
+
+cheat1038_desc = "物品栏 5P220改 (手枪)"
+cheat1038_handler = "0"
+cheat1038_code = "800C0910#004C"
+
+cheat1039_desc = "物品栏 5P228 (手枪)"
+cheat1039_handler = "0"
+cheat1039_code = "800C0910#004D"
+
+cheat1040_desc = "物品栏 5P226 (手枪)"
+cheat1040_handler = "0"
+cheat1040_code = "800C0910#004E"
+
+cheat1041_desc = "物品栏 5229 (手枪)"
+cheat1041_handler = "0"
+cheat1041_code = "800C0910#004F"
+
+cheat1042_desc = "物品栏 5M1911A1 (手枪)"
+cheat1042_handler = "0"
+cheat1042_code = "800C0910#0050"
+
+cheat1043_desc = "物品栏 5M1911A2 (手枪)"
+cheat1043_handler = "0"
+cheat1043_code = "800C0910#0051"
+
+cheat1044_desc = "物品栏 5M1911A3 (手枪)"
+cheat1044_handler = "0"
+cheat1044_code = "800C0910#0052"
+
+cheat1045_desc = "物品栏 5M1911A4 (手枪)"
+cheat1045_handler = "0"
+cheat1045_code = "800C0910#0053"
+
+cheat1046_desc = "物品栏 5M1911A5 (手枪)"
+cheat1046_handler = "0"
+cheat1046_code = "800C0910#0054"
+
+cheat1047_desc = "物品栏 5P8 (手枪)"
+cheat1047_handler = "0"
+cheat1047_code = "800C0910#0055"
+
+cheat1048_desc = "物品栏 5USP (手枪)"
+cheat1048_handler = "0"
+cheat1048_code = "800C0910#0056"
+
+cheat1049_desc = "物品栏 5USP改 (手枪)"
+cheat1049_handler = "0"
+cheat1049_code = "800C0910#0057"
+
+cheat1050_desc = "物品栏 5USP改2 (手枪)"
+cheat1050_handler = "0"
+cheat1050_code = "800C0910#0058"
+
+cheat1051_desc = "物品栏 5Mark23 (手枪)"
+cheat1051_handler = "0"
+cheat1051_code = "800C0910#0059"
+
+cheat1052_desc = "物品栏 5G19 (手枪)"
+cheat1052_handler = "0"
+cheat1052_code = "800C0910#005A"
+
+cheat1053_desc = "物品栏 5G23 (手枪)"
+cheat1053_handler = "0"
+cheat1053_code = "800C0910#005B"
+
+cheat1054_desc = "物品栏 5G22 (手枪)"
+cheat1054_handler = "0"
+cheat1054_code = "800C0910#005C"
+
+cheat1055_desc = "物品栏 5G20 (手枪)"
+cheat1055_handler = "0"
+cheat1055_code = "800C0910#005D"
+
+cheat1056_desc = "物品栏 5M712 (手枪)"
+cheat1056_handler = "0"
+cheat1056_code = "800C0910#005E"
+
+cheat1057_desc = "物品栏 5PPK (手枪)"
+cheat1057_handler = "0"
+cheat1057_code = "800C0910#005F"
+
+cheat1058_desc = "物品栏 5AM44"
+cheat1058_handler = "0"
+cheat1058_code = "800C0910#0060"
+
+cheat1059_desc = "物品栏 5前田的枪"
+cheat1059_handler = "0"
+cheat1059_code = "800C0910#0061"
+
+cheat1060_desc = "物品栏 5PPSh41 (机关枪)"
+cheat1060_handler = "0"
+cheat1060_code = "800C0910#0062"
+
+cheat1061_desc = "物品栏 5SP1C (手枪)"
+cheat1061_handler = "0"
+cheat1061_code = "800C0910#0063"
+
+cheat1062_desc = "物品栏 5USP-TU (手枪)"
+cheat1062_handler = "0"
+cheat1062_code = "800C0910#0064"
+
+cheat1063_desc = "物品栏 5AK47 (来复枪)"
+cheat1063_handler = "0"
+cheat1063_code = "800C0910#0065"
+
+cheat1064_desc = "物品栏 5DE50AE2"
+cheat1064_handler = "0"
+cheat1064_code = "800C0910#0066"
+
+cheat1065_desc = "物品栏 5特别的SMG"
+cheat1065_handler = "0"
+cheat1065_code = "800C0910#0067"
+
+cheat1066_desc = "物品栏 5M870 (霰弹枪)"
+cheat1066_handler = "0"
+cheat1066_code = "800C0910#0068"
+
+cheat1067_desc = "物品栏 5M870 改1 (霰弹枪)"
+cheat1067_handler = "0"
+cheat1067_code = "800C0910#0069"
+
+cheat1068_desc = "物品栏 5M500 (霰弹枪)"
+cheat1068_handler = "0"
+cheat1068_code = "800C0910#006A"
+
+cheat1069_desc = "物品栏 5M500 改1 (霰弹枪)"
+cheat1069_handler = "0"
+cheat1069_code = "800C0910#006B"
+
+cheat1070_desc = "物品栏 5Maverick (霰弹枪)"
+cheat1070_handler = "0"
+cheat1070_code = "800C0910#006C"
+
+cheat1071_desc = "物品栏 5S12 (霰弹枪)"
+cheat1071_handler = "0"
+cheat1071_code = "800C0910#006D"
+
+cheat1072_desc = "物品栏 5M10B (霰弹枪)"
+cheat1072_handler = "0"
+cheat1072_code = "800C0910#006E"
+
+cheat1073_desc = "物品栏 5M11 (机关枪)"
+cheat1073_handler = "0"
+cheat1073_code = "800C0910#006F"
+
+cheat1074_desc = "物品栏 5M11 (机关枪)"
+cheat1074_handler = "0"
+cheat1074_code = "800C0910#0070"
+
+cheat1075_desc = "物品栏 5MP5K (机关枪)"
+cheat1075_handler = "0"
+cheat1075_code = "800C0910#0071"
+
+cheat1076_desc = "物品栏 5MP5PDW (机关枪)"
+cheat1076_handler = "0"
+cheat1076_code = "800C0910#0072"
+
+cheat1077_desc = "物品栏 5MP5A5 (机关枪)"
+cheat1077_handler = "0"
+cheat1077_code = "800C0910#0073"
+
+cheat1078_desc = "物品栏 5MP5SD6 (机关枪)"
+cheat1078_handler = "0"
+cheat1078_code = "800C0910#0074"
+
+cheat1079_desc = "物品栏 5MicroUZ (机关枪)"
+cheat1079_handler = "0"
+cheat1079_code = "800C0910#0075"
+
+cheat1080_desc = "物品栏 5MiniUZ (机关枪)"
+cheat1080_handler = "0"
+cheat1080_code = "800C0910#0076"
+
+cheat1081_desc = "物品栏 5FullUZ (机关枪)"
+cheat1081_handler = "0"
+cheat1081_code = "800C0910#0077"
+
+cheat1082_desc = "物品栏 5P90 (机关枪)"
+cheat1082_handler = "0"
+cheat1082_code = "800C0910#0078"
+
+cheat1083_desc = "物品栏 5M16A1 (来复枪)"
+cheat1083_handler = "0"
+cheat1083_code = "800C0910#0079"
+
+cheat1084_desc = "物品栏 5M16A2 (来复枪)"
+cheat1084_handler = "0"
+cheat1084_code = "800C0910#007A"
+
+cheat1085_desc = "物品栏 5SG550 (来复枪)"
+cheat1085_handler = "0"
+cheat1085_code = "800C0910#007B"
+
+cheat1086_desc = "物品栏 5SAR (来复枪)"
+cheat1086_handler = "0"
+cheat1086_code = "800C0910#007C"
+
+cheat1087_desc = "物品栏 5G3A3 (来复枪)"
+cheat1087_handler = "0"
+cheat1087_code = "800C0910#007D"
+
+cheat1088_desc = "物品栏 564型 (来复枪)"
+cheat1088_handler = "0"
+cheat1088_code = "800C0910#007E"
+
+cheat1089_desc = "物品栏 5XM177E2 (来复枪)"
+cheat1089_handler = "0"
+cheat1089_code = "800C0910#007F"
+
+cheat1090_desc = "物品栏 5PSG-1 (来复枪)"
+cheat1090_handler = "0"
+cheat1090_code = "800C0910#0080"
+
+cheat1091_desc = "物品栏 5FA-MAS (来复枪)"
+cheat1091_handler = "0"
+cheat1091_code = "800C0910#0081"
+
+cheat1092_desc = "物品栏 5MAG (来复枪)"
+cheat1092_handler = "0"
+cheat1092_code = "800C0910#0082"
+
+cheat1093_desc = "物品栏 5M203 (榴弹发射器)"
+cheat1093_handler = "0"
+cheat1093_code = "800C0910#0083"
+
+cheat1094_desc = "物品栏 5M203改1 (榴弹发射器)"
+cheat1094_handler = "0"
+cheat1094_code = "800C0910#0084"
+
+cheat1095_desc = "物品栏 5M203改2 (榴弹发射器)"
+cheat1095_handler = "0"
+cheat1095_code = "800C0910#0085"
+
+cheat1096_desc = "物品栏 5M203改3 (榴弹发射器)"
+cheat1096_handler = "0"
+cheat1096_code = "800C0910#0086"
+
+cheat1097_desc = "物品栏 5M203改4 (榴弹发射器)"
+cheat1097_handler = "0"
+cheat1097_code = "800C0910#0087"
+
+cheat1098_desc = "物品栏 5M203改6 (榴弹发射器)"
+cheat1098_handler = "0"
+cheat1098_code = "800C0910#0088"
+
+cheat1099_desc = "物品栏 5M79 (榴弹发射器)"
+cheat1099_handler = "0"
+cheat1099_code = "800C0910#0089"
+
+cheat1100_desc = "物品栏 5M79改1 (榴弹发射器)"
+cheat1100_handler = "0"
+cheat1100_code = "800C0910#008A"
+
+cheat1101_desc = "物品栏 5M79改2 (榴弹发射器)"
+cheat1101_handler = "0"
+cheat1101_code = "800C0910#008B"
+
+cheat1102_desc = "物品栏 5M79改3 (榴弹发射器)"
+cheat1102_handler = "0"
+cheat1102_code = "800C0910#008C"
+
+cheat1103_desc = "物品栏 5M79改4 (榴弹发射器)"
+cheat1103_handler = "0"
+cheat1103_code = "800C0910#008D"
+
+cheat1104_desc = "物品栏 5M79改5 (榴弹发射器)"
+cheat1104_handler = "0"
+cheat1104_code = "800C0910#008E"
+
+cheat1105_desc = "物品栏 5HK40 (榴弹发射器)"
+cheat1105_handler = "0"
+cheat1105_code = "800C0910#008F"
+
+cheat1106_desc = "物品栏 5AT4 (火箭筒)"
+cheat1106_handler = "0"
+cheat1106_code = "800C0910#0090"
+
+cheat1107_desc = "物品栏 5AT4 (火箭筒)"
+cheat1107_handler = "0"
+cheat1107_code = "800C0910#0091"
+
+cheat1108_desc = "物品栏 5LAW80 (火箭筒)"
+cheat1108_handler = "0"
+cheat1108_code = "800C0910#0092"
+
+cheat1109_desc = "物品栏 5前田的枪"
+cheat1109_handler = "0"
+cheat1109_code = "800C0910#0093"
+
+cheat1110_desc = "物品栏 5M92F (手枪)"
+cheat1110_handler = "0"
+cheat1110_code = "800C0910#0094"
+
+cheat1111_desc = "物品栏 5女装 (女礼服)"
+cheat1111_handler = "0"
+cheat1111_code = "800C0910#0095"
+
+cheat1112_desc = "物品栏 5N 背心"
+cheat1112_handler = "0"
+cheat1112_code = "800C0910#0096"
+
+cheat1113_desc = "物品栏 5N 防护衣"
+cheat1113_handler = "0"
+cheat1113_code = "800C0910#0097"
+
+cheat1114_desc = "物品栏 5N 夹克"
+cheat1114_handler = "0"
+cheat1114_code = "800C0910#0098"
+
+cheat1115_desc = "物品栏 5N 套装"
+cheat1115_handler = "0"
+cheat1115_code = "800C0910#0099"
+
+cheat1116_desc = "物品栏 5N 盔甲"
+cheat1116_handler = "0"
+cheat1116_code = "800C0910#009A"
+
+cheat1117_desc = "物品栏 5KV 背心1"
+cheat1117_handler = "0"
+cheat1117_code = "800C0910#009B"
+
+cheat1118_desc = "物品栏 5KV 防护衣"
+cheat1118_handler = "0"
+cheat1118_code = "800C0910#009C"
+
+cheat1119_desc = "物品栏 5KV 夹克"
+cheat1119_handler = "0"
+cheat1119_code = "800C0910#009D"
+
+cheat1120_desc = "物品栏 5KV 套装"
+cheat1120_handler = "0"
+cheat1120_code = "800C0910#009E"
+
+cheat1121_desc = "物品栏 5KV 盔甲"
+cheat1121_handler = "0"
+cheat1121_code = "800C0910#009F"
+
+cheat1122_desc = "物品栏 5SP 背心1"
+cheat1122_handler = "0"
+cheat1122_code = "800C0910#00A0"
+
+cheat1123_desc = "物品栏 5SP 背心2"
+cheat1123_handler = "0"
+cheat1123_code = "800C0910#00A1"
+
+cheat1124_desc = "物品栏 5SP 防护衣"
+cheat1124_handler = "0"
+cheat1124_code = "800C0910#00A2"
+
+cheat1125_desc = "物品栏 5SP 夹克"
+cheat1125_handler = "0"
+cheat1125_code = "800C0910#00A3"
+
+cheat1126_desc = "物品栏 5SP 套装1"
+cheat1126_handler = "0"
+cheat1126_code = "800C0910#00A4"
+
+cheat1127_desc = "物品栏 5SP 套装2"
+cheat1127_handler = "0"
+cheat1127_code = "800C0910#00A5"
+
+cheat1128_desc = "物品栏 5SP 盔甲1"
+cheat1128_handler = "0"
+cheat1128_code = "800C0910#00A6"
+
+cheat1129_desc = "物品栏 5SP 盔甲2"
+cheat1129_handler = "0"
+cheat1129_code = "800C0910#00A7"
+
+cheat1130_desc = "物品栏 5SV 背心1"
+cheat1130_handler = "0"
+cheat1130_code = "800C0910#00A8"
+
+cheat1131_desc = "物品栏 5SV 背心2"
+cheat1131_handler = "0"
+cheat1131_code = "800C0910#00A9"
+
+cheat1132_desc = "物品栏 5SV 防护衣"
+cheat1132_handler = "0"
+cheat1132_code = "800C0910#00AA"
+
+cheat1133_desc = "物品栏 5SV 夹克"
+cheat1133_handler = "0"
+cheat1133_code = "800C0910#00AB"
+
+cheat1134_desc = "物品栏 5SV 套装1"
+cheat1134_handler = "0"
+cheat1134_code = "800C0910#00AC"
+
+cheat1135_desc = "物品栏 5SV 套装2"
+cheat1135_handler = "0"
+cheat1135_code = "800C0910#00AD"
+
+cheat1136_desc = "物品栏 5SV 盔甲1"
+cheat1136_handler = "0"
+cheat1136_code = "800C0910#00AE"
+
+cheat1137_desc = "物品栏 5SV 盔甲2"
+cheat1137_handler = "0"
+cheat1137_code = "800C0910#00AF"
+
+cheat1138_desc = "物品栏 5CR 背心1"
+cheat1138_handler = "0"
+cheat1138_code = "800C0910#00B0"
+
+cheat1139_desc = "物品栏 5CR 背心2"
+cheat1139_handler = "0"
+cheat1139_code = "800C0910#00B1"
+
+cheat1140_desc = "物品栏 5CR 防护衣"
+cheat1140_handler = "0"
+cheat1140_code = "800C0910#00B2"
+
+cheat1141_desc = "物品栏 5CR 夹克"
+cheat1141_handler = "0"
+cheat1141_code = "800C0910#00B3"
+
+cheat1142_desc = "物品栏 5CR 套装1"
+cheat1142_handler = "0"
+cheat1142_code = "800C0910#00B4"
+
+cheat1143_desc = "物品栏 5CR 套装2"
+cheat1143_handler = "0"
+cheat1143_code = "800C0910#00B5"
+
+cheat1144_desc = "物品栏 5CR 盔甲1"
+cheat1144_handler = "0"
+cheat1144_code = "800C0910#00B6"
+
+cheat1145_desc = "物品栏 5CR 盔甲2"
+cheat1145_handler = "0"
+cheat1145_code = "800C0910#00B7"
+
+cheat1146_desc = "物品栏 5B 背心1"
+cheat1146_handler = "0"
+cheat1146_code = "800C0910#00B8"
+
+cheat1147_desc = "物品栏 5B 背心2"
+cheat1147_handler = "0"
+cheat1147_code = "800C0910#00B9"
+
+cheat1148_desc = "物品栏 5B 防护衣"
+cheat1148_handler = "0"
+cheat1148_code = "800C0910#00BA"
+
+cheat1149_desc = "物品栏 5B 夹克1"
+cheat1149_handler = "0"
+cheat1149_code = "800C0910#00BB"
+
+cheat1150_desc = "物品栏 5B 夹克2"
+cheat1150_handler = "0"
+cheat1150_code = "800C0910#00BC"
+
+cheat1151_desc = "物品栏 5B 套装1"
+cheat1151_handler = "0"
+cheat1151_code = "800C0910#00BD"
+
+cheat1152_desc = "物品栏 5B 套装2"
+cheat1152_handler = "0"
+cheat1152_code = "800C0910#00BE"
+
+cheat1153_desc = "物品栏 5B 盔甲"
+cheat1153_handler = "0"
+cheat1153_code = "800C0910#00BF"
+
+cheat1154_desc = "物品栏 5CM 背心1"
+cheat1154_handler = "0"
+cheat1154_code = "800C0910#00C0"
+
+cheat1155_desc = "物品栏 5CM 背心2"
+cheat1155_handler = "0"
+cheat1155_code = "800C0910#00C1"
+
+cheat1156_desc = "物品栏 5CM 防护衣"
+cheat1156_handler = "0"
+cheat1156_code = "800C0910#00C2"
+
+cheat1157_desc = "物品栏 5CM 夹克"
+cheat1157_handler = "0"
+cheat1157_code = "800C0910#00C3"
+
+cheat1158_desc = "物品栏 5CM 套装1"
+cheat1158_handler = "0"
+cheat1158_code = "800C0910#00C4"
+
+cheat1159_desc = "物品栏 5CM 盔甲1"
+cheat1159_handler = "0"
+cheat1159_code = "800C0910#00C5"
+
+cheat1160_desc = "物品栏 5CM 盔甲2"
+cheat1160_handler = "0"
+cheat1160_code = "800C0910#00C6"
+
+cheat1161_desc = "物品栏 5CM 套装2"
+cheat1161_handler = "0"
+cheat1161_code = "800C0910#00C7"
+
+cheat1162_desc = "物品栏 5剧院钥匙 (更衣间钥匙)"
+cheat1162_handler = "0"
+cheat1162_code = "800C0910#00C8"
+
+cheat1163_desc = "物品栏 5排练房钥匙"
+cheat1163_handler = "0"
+cheat1163_code = "800C0910#00C9"
+
+cheat1164_desc = "物品栏 5动物园钥匙 (中心公园钥匙)"
+cheat1164_handler = "0"
+cheat1164_code = "800C0910#00CA"
+
+cheat1165_desc = "物品栏 5Narita (护身符)"
+cheat1165_handler = "0"
+cheat1165_code = "800C0910#00CB"
+
+cheat1166_desc = "物品栏 5Mayoke (有用的护身符)"
+cheat1166_handler = "0"
+cheat1166_code = "800C0910#00CC"
+
+cheat1167_desc = "物品栏 5hamaya (特别的护身符)"
+cheat1167_handler = "0"
+cheat1167_code = "800C0910#00CD"
+
+cheat1168_desc = "物品栏 5保险丝1"
+cheat1168_handler = "0"
+cheat1168_code = "800C0910#00CE"
+
+cheat1169_desc = "物品栏 5保险丝2"
+cheat1169_handler = "0"
+cheat1169_code = "800C0910#00CF"
+
+cheat1170_desc = "物品栏 5保险丝3"
+cheat1170_handler = "0"
+cheat1170_code = "800C0910#00D0"
+
+cheat1171_desc = "物品栏 5停尸房钥匙 (医院钥匙)"
+cheat1171_handler = "0"
+cheat1171_code = "800C0910#00D1"
+
+cheat1172_desc = "物品栏 5蓝钥匙"
+cheat1172_handler = "0"
+cheat1172_code = "800C0910#00D2"
+
+cheat1173_desc = "物品栏 5绿钥匙"
+cheat1173_handler = "0"
+cheat1173_code = "800C0910#00D3"
+
+cheat1174_desc = "物品栏 5泵房钥匙"
+cheat1174_handler = "0"
+cheat1174_code = "800C0910#00D4"
+
+cheat1175_desc = "物品栏 5克拉姆的钥匙"
+cheat1175_handler = "0"
+cheat1175_code = "800C0910#00D5"
+
+cheat1176_desc = "物品栏 5储藏室的钥匙 (武器仓库的钥匙)"
+cheat1176_handler = "0"
+cheat1176_code = "800C0910#00D6"
+
+cheat1177_desc = "物品栏 5柜子钥匙"
+cheat1177_handler = "0"
+cheat1177_code = "800C0910#00D7"
+
+cheat1178_desc = "物品栏 5武器备忘录"
+cheat1178_handler = "0"
+cheat1178_code = "800C0910#00D8"
+
+cheat1179_desc = "物品栏 5奖励币"
+cheat1179_handler = "0"
+cheat1179_code = "800C0910#00D9"
+
+cheat1180_desc = "物品栏 5电梯钥匙"
+cheat1180_handler = "0"
+cheat1180_code = "800C0910#00DA"
+
+cheat1181_desc = "物品栏 5地铁大门钥匙"
+cheat1181_handler = "0"
+cheat1181_code = "800C0910#00DB"
+
+cheat1182_desc = "物品栏 5港口仓库钥匙"
+cheat1182_handler = "0"
+cheat1182_code = "800C0910#00DC"
+
+cheat1183_desc = "物品栏 5GSP 交易卡 (武器交易卡)"
+cheat1183_handler = "0"
+cheat1183_code = "800C0910#00DD"
+
+cheat1184_desc = "物品栏 5P38 交易卡 (武器交易卡)"
+cheat1184_handler = "0"
+cheat1184_code = "800C0910#00DE"
+
+cheat1185_desc = "物品栏 5B鹰 交易卡 (武器交易卡)"
+cheat1185_handler = "0"
+cheat1185_code = "800C0910#00DF"
+
+cheat1186_desc = "物品栏 5Kasul 交易卡 (武器交易卡)"
+cheat1186_handler = "0"
+cheat1186_code = "800C0910#00E0"
+
+cheat1187_desc = "物品栏 5PPKS 交易卡 (武器交易卡)"
+cheat1187_handler = "0"
+cheat1187_code = "800C0910#00E1"
+
+cheat1188_desc = "物品栏 5M1 交易卡 (武器交易卡)"
+cheat1188_handler = "0"
+cheat1188_code = "800C0910#00E2"
+
+cheat1189_desc = "物品栏 5MK5 交易卡 (武器交易卡)"
+cheat1189_handler = "0"
+cheat1189_code = "800C0910#00E3"
+
+cheat1190_desc = "物品栏 5MP44 交易卡 (武器交易卡)"
+cheat1190_handler = "0"
+cheat1190_code = "800C0910#00E4"
+
+cheat1191_desc = "物品栏 5BAR 交易卡 (武器交易卡)"
+cheat1191_handler = "0"
+cheat1191_code = "800C0910#00E5"
+
+cheat1192_desc = "物品栏 5MG42 交易卡 (武器交易卡)"
+cheat1192_handler = "0"
+cheat1192_code = "800C0910#00E6"
+
+cheat1193_desc = "物品栏 5M29 交易卡 (武器交易卡)"
+cheat1193_handler = "0"
+cheat1193_code = "800C0910#00E7"
+
+cheat1194_desc = "物品栏 5M73 交易卡 (武器交易卡)"
+cheat1194_handler = "0"
+cheat1194_code = "800C0910#00E8"
+
+cheat1195_desc = "物品栏 538型 交易卡 (武器交易卡)"
+cheat1195_handler = "0"
+cheat1195_code = "800C0910#00E9"
+
+cheat1196_desc = "物品栏 53型 交易卡 (武器交易卡)"
+cheat1196_handler = "0"
+cheat1196_code = "800C0910#00EA"
+
+cheat1197_desc = "物品栏 5鹰 交易卡 (武器交易卡)"
+cheat1197_handler = "0"
+cheat1197_code = "800C0910#00EB"
+
+cheat1198_desc = "物品栏 6NONE"
+cheat1198_handler = "0"
+cheat1198_code = "800C0912#0000"
+
+cheat1199_desc = "物品栏 6子弹 X6"
+cheat1199_handler = "0"
+cheat1199_code = "800C0912#0001"
+
+cheat1200_desc = "物品栏 6子弹 X15"
+cheat1200_handler = "0"
+cheat1200_code = "800C0912#0002"
+
+cheat1201_desc = "物品栏 6子弹 X30"
+cheat1201_handler = "0"
+cheat1201_code = "800C0912#0003"
+
+cheat1202_desc = "物品栏 6前田的子弹"
+cheat1202_handler = "0"
+cheat1202_code = "800C0912#0004"
+
+cheat1203_desc = "物品栏 6火箭弹"
+cheat1203_handler = "0"
+cheat1203_code = "800C0912#0005"
+
+cheat1204_desc = "物品栏 6恢复药(恢复 45)"
+cheat1204_handler = "0"
+cheat1204_code = "800C0912#0006"
+
+cheat1205_desc = "物品栏 6恢复药(恢复 90)90"
+cheat1205_handler = "0"
+cheat1205_code = "800C0912#0007"
+
+cheat1206_desc = "物品栏 6恢复药(恢复 180)180"
+cheat1206_handler = "0"
+cheat1206_code = "800C0912#0008"
+
+cheat1207_desc = "物品栏 6恢复药(恢复 400)400"
+cheat1207_handler = "0"
+cheat1207_code = "800C0912#0009"
+
+cheat1208_desc = "物品栏 6完全恢复药"
+cheat1208_handler = "0"
+cheat1208_code = "800C0912#000A"
+
+cheat1209_desc = "物品栏 6超级零件"
+cheat1209_handler = "0"
+cheat1209_code = "800C0912#000B"
+
+cheat1210_desc = "物品栏 6骗子零件"
+cheat1210_handler = "0"
+cheat1210_code = "800C0912#000C"
+
+cheat1211_desc = "物品栏 6毒治疗药"
+cheat1211_handler = "0"
+cheat1211_code = "800C0912#000D"
+
+cheat1212_desc = "物品栏 6黑暗治疗药"
+cheat1212_handler = "0"
+cheat1212_code = "800C0912#000E"
+
+cheat1213_desc = "物品栏 6混乱治疗药"
+cheat1213_handler = "0"
+cheat1213_code = "800C0912#000F"
+
+cheat1214_desc = "物品栏 6移动限制治疗药"
+cheat1214_handler = "0"
+cheat1214_code = "800C0912#0010"
+
+cheat1215_desc = "物品栏 6万能药"
+cheat1215_handler = "0"
+cheat1215_code = "800C0912#0011"
+
+cheat1216_desc = "物品栏 6复活药"
+cheat1216_handler = "0"
+cheat1216_code = "800C0912#0012"
+
+cheat1217_desc = "物品栏 6防御力 +1"
+cheat1217_handler = "0"
+cheat1217_code = "800C0912#0013"
+
+cheat1218_desc = "物品栏 6零件"
+cheat1218_handler = "0"
+cheat1218_code = "800C0912#0014"
+
+cheat1219_desc = "物品栏 6交易卡"
+cheat1219_handler = "0"
+cheat1219_code = "800C0912#0015"
+
+cheat1220_desc = "物品栏 6工具"
+cheat1220_handler = "0"
+cheat1220_code = "800C0912#0016"
+
+cheat1221_desc = "物品栏 6万能工具"
+cheat1221_handler = "0"
+cheat1221_code = "800C0912#0017"
+
+cheat1222_desc = "物品栏 6道具 24"
+cheat1222_handler = "0"
+cheat1222_code = "800C0912#0018"
+
+cheat1223_desc = "物品栏 6道具 25"
+cheat1223_handler = "0"
+cheat1223_code = "800C0912#0019"
+
+cheat1224_desc = "物品栏 6弹药箱"
+cheat1224_handler = "0"
+cheat1224_code = "800C0912#001A"
+
+cheat1225_desc = "物品栏 6火箭弹药箱"
+cheat1225_handler = "0"
+cheat1225_code = "800C0912#001B"
+
+cheat1226_desc = "物品栏 6前田的弹药箱"
+cheat1226_handler = "0"
+cheat1226_code = "800C0912#001C"
+
+cheat1227_desc = "物品栏 6攻击力 +1"
+cheat1227_handler = "0"
+cheat1227_code = "800C0912#001D"
+
+cheat1228_desc = "物品栏 6攻击力 +2"
+cheat1228_handler = "0"
+cheat1228_code = "800C0912#001E"
+
+cheat1229_desc = "物品栏 6攻击力 +3"
+cheat1229_handler = "0"
+cheat1229_code = "800C0912#001F"
+
+cheat1230_desc = "物品栏 6攻击力 +4"
+cheat1230_handler = "0"
+cheat1230_code = "800C0912#0020"
+
+cheat1231_desc = "物品栏 6命中率 +1"
+cheat1231_handler = "0"
+cheat1231_code = "800C0912#0021"
+
+cheat1232_desc = "物品栏 6命中率 +2"
+cheat1232_handler = "0"
+cheat1232_code = "800C0912#0022"
+
+cheat1233_desc = "物品栏 6命中率 +3"
+cheat1233_handler = "0"
+cheat1233_code = "800C0912#0023"
+
+cheat1234_desc = "物品栏 6命中率 +4"
+cheat1234_handler = "0"
+cheat1234_code = "800C0912#0024"
+
+cheat1235_desc = "物品栏 6装弹数 +1"
+cheat1235_handler = "0"
+cheat1235_code = "800C0912#0025"
+
+cheat1236_desc = "物品栏 6装弹数 +2"
+cheat1236_handler = "0"
+cheat1236_code = "800C0912#0026"
+
+cheat1237_desc = "物品栏 6装弹数 +3"
+cheat1237_handler = "0"
+cheat1237_code = "800C0912#0027"
+
+cheat1238_desc = "物品栏 6装弹数 +4"
+cheat1238_handler = "0"
+cheat1238_code = "800C0912#0028"
+
+cheat1239_desc = "物品栏 6防御力 +1"
+cheat1239_handler = "0"
+cheat1239_code = "800C0912#0029"
+
+cheat1240_desc = "物品栏 6防御力 +2"
+cheat1240_handler = "0"
+cheat1240_code = "800C0912#002A"
+
+cheat1241_desc = "物品栏 6防御力 +3"
+cheat1241_handler = "0"
+cheat1241_code = "800C0912#002B"
+
+cheat1242_desc = "物品栏 6防御力 +4"
+cheat1242_handler = "0"
+cheat1242_code = "800C0912#002C"
+
+cheat1243_desc = "物品栏 6CR回避 +1"
+cheat1243_handler = "0"
+cheat1243_code = "800C0912#002D"
+
+cheat1244_desc = "物品栏 6CR回避 +2"
+cheat1244_handler = "0"
+cheat1244_code = "800C0912#002E"
+
+cheat1245_desc = "物品栏 6CR回避 +3"
+cheat1245_handler = "0"
+cheat1245_code = "800C0912#002F"
+
+cheat1246_desc = "物品栏 6CR回避 +4"
+cheat1246_handler = "0"
+cheat1246_code = "800C0912#0030"
+
+cheat1247_desc = "物品栏 6PE防御力 +1"
+cheat1247_handler = "0"
+cheat1247_code = "800C0912#0031"
+
+cheat1248_desc = "物品栏 6PE防御力 +2"
+cheat1248_handler = "0"
+cheat1248_code = "800C0912#0032"
+
+cheat1249_desc = "物品栏 6PE防御力 +3"
+cheat1249_handler = "0"
+cheat1249_code = "800C0912#0033"
+
+cheat1250_desc = "物品栏 6PE防御力 +4"
+cheat1250_handler = "0"
+cheat1250_code = "800C0912#0034"
+
+cheat1251_desc = "物品栏 6工具组"
+cheat1251_handler = "0"
+cheat1251_code = "800C0912#0035"
+
+cheat1252_desc = "物品栏 6万能工具组"
+cheat1252_handler = "0"
+cheat1252_code = "800C0912#0036"
+
+cheat1253_desc = "物品栏 6改造许可证"
+cheat1253_handler = "0"
+cheat1253_code = "800C0912#0037"
+
+cheat1254_desc = "物品栏 6大楼钥匙1 (到10楼去的钥匙)"
+cheat1254_handler = "0"
+cheat1254_code = "800C0912#0038"
+
+cheat1255_desc = "物品栏 6大楼钥匙2 (到20楼去的钥匙)"
+cheat1255_handler = "0"
+cheat1255_code = "800C0912#0039"
+
+cheat1256_desc = "物品栏 6大楼钥匙3 (到30楼去的钥匙)"
+cheat1256_handler = "0"
+cheat1256_code = "800C0912#003A"
+
+cheat1257_desc = "物品栏 6大楼钥匙4 (到40楼去的钥匙)"
+cheat1257_handler = "0"
+cheat1257_code = "800C0912#003B"
+
+cheat1258_desc = "物品栏 6大楼钥匙5 (到50楼去的钥匙)"
+cheat1258_handler = "0"
+cheat1258_code = "800C0912#003C"
+
+cheat1259_desc = "物品栏 6大楼钥匙6 (到60楼去的钥匙)"
+cheat1259_handler = "0"
+cheat1259_code = "800C0912#003D"
+
+cheat1260_desc = "物品栏 6大楼钥匙7 (到70楼去的钥匙)"
+cheat1260_handler = "0"
+cheat1260_code = "800C0912#003E"
+
+cheat1261_desc = "物品栏 6警棍1"
+cheat1261_handler = "0"
+cheat1261_code = "800C0912#003F"
+
+cheat1262_desc = "物品栏 6警棍2"
+cheat1262_handler = "0"
+cheat1262_code = "800C0912#0040"
+
+cheat1263_desc = "物品栏 6警棍3"
+cheat1263_handler = "0"
+cheat1263_code = "800C0912#0041"
+
+cheat1264_desc = "物品栏 6警棍4"
+cheat1264_handler = "0"
+cheat1264_code = "800C0912#0042"
+
+cheat1265_desc = "物品栏 6警棍5"
+cheat1265_handler = "0"
+cheat1265_code = "800C0912#0043"
+
+cheat1266_desc = "物品栏 6M84F (手枪)"
+cheat1266_handler = "0"
+cheat1266_code = "800C0912#0044"
+
+cheat1267_desc = "物品栏 6M9 (手枪)"
+cheat1267_handler = "0"
+cheat1267_code = "800C0912#0045"
+
+cheat1268_desc = "物品栏 6M9改 (手枪)"
+cheat1268_handler = "0"
+cheat1268_code = "800C0912#0046"
+
+cheat1269_desc = "物品栏 6M9改2 (手枪)"
+cheat1269_handler = "0"
+cheat1269_code = "800C0912#0047"
+
+cheat1270_desc = "物品栏 6M8000 (手枪)"
+cheat1270_handler = "0"
+cheat1270_code = "800C0912#0048"
+
+cheat1271_desc = "物品栏 6M96 (手枪)"
+cheat1271_handler = "0"
+cheat1271_code = "800C0912#0049"
+
+cheat1272_desc = "物品栏 6M96R (手枪)"
+cheat1272_handler = "0"
+cheat1272_code = "800C0912#004A"
+
+cheat1273_desc = "物品栏 6P220 (手枪)"
+cheat1273_handler = "0"
+cheat1273_code = "800C0912#004B"
+
+cheat1274_desc = "物品栏 6P220改 (手枪)"
+cheat1274_handler = "0"
+cheat1274_code = "800C0912#004C"
+
+cheat1275_desc = "物品栏 6P228 (手枪)"
+cheat1275_handler = "0"
+cheat1275_code = "800C0912#004D"
+
+cheat1276_desc = "物品栏 6P226 (手枪)"
+cheat1276_handler = "0"
+cheat1276_code = "800C0912#004E"
+
+cheat1277_desc = "物品栏 6229 (手枪)"
+cheat1277_handler = "0"
+cheat1277_code = "800C0912#004F"
+
+cheat1278_desc = "物品栏 6M1911A1 (手枪)"
+cheat1278_handler = "0"
+cheat1278_code = "800C0912#0050"
+
+cheat1279_desc = "物品栏 6M1911A2 (手枪)"
+cheat1279_handler = "0"
+cheat1279_code = "800C0912#0051"
+
+cheat1280_desc = "物品栏 6M1911A3 (手枪)"
+cheat1280_handler = "0"
+cheat1280_code = "800C0912#0052"
+
+cheat1281_desc = "物品栏 6M1911A4 (手枪)"
+cheat1281_handler = "0"
+cheat1281_code = "800C0912#0053"
+
+cheat1282_desc = "物品栏 6M1911A5 (手枪)"
+cheat1282_handler = "0"
+cheat1282_code = "800C0912#0054"
+
+cheat1283_desc = "物品栏 6P8 (手枪)"
+cheat1283_handler = "0"
+cheat1283_code = "800C0912#0055"
+
+cheat1284_desc = "物品栏 6USP (手枪)"
+cheat1284_handler = "0"
+cheat1284_code = "800C0912#0056"
+
+cheat1285_desc = "物品栏 6USP改 (手枪)"
+cheat1285_handler = "0"
+cheat1285_code = "800C0912#0057"
+
+cheat1286_desc = "物品栏 6USP改2 (手枪)"
+cheat1286_handler = "0"
+cheat1286_code = "800C0912#0058"
+
+cheat1287_desc = "物品栏 6Mark23 (手枪)"
+cheat1287_handler = "0"
+cheat1287_code = "800C0912#0059"
+
+cheat1288_desc = "物品栏 6G19 (手枪)"
+cheat1288_handler = "0"
+cheat1288_code = "800C0912#005A"
+
+cheat1289_desc = "物品栏 6G23 (手枪)"
+cheat1289_handler = "0"
+cheat1289_code = "800C0912#005B"
+
+cheat1290_desc = "物品栏 6G22 (手枪)"
+cheat1290_handler = "0"
+cheat1290_code = "800C0912#005C"
+
+cheat1291_desc = "物品栏 6G20 (手枪)"
+cheat1291_handler = "0"
+cheat1291_code = "800C0912#005D"
+
+cheat1292_desc = "物品栏 6M712 (手枪)"
+cheat1292_handler = "0"
+cheat1292_code = "800C0912#005E"
+
+cheat1293_desc = "物品栏 6PPK (手枪)"
+cheat1293_handler = "0"
+cheat1293_code = "800C0912#005F"
+
+cheat1294_desc = "物品栏 6AM44"
+cheat1294_handler = "0"
+cheat1294_code = "800C0912#0060"
+
+cheat1295_desc = "物品栏 6前田的枪"
+cheat1295_handler = "0"
+cheat1295_code = "800C0912#0061"
+
+cheat1296_desc = "物品栏 6PPSh41 (机关枪)"
+cheat1296_handler = "0"
+cheat1296_code = "800C0912#0062"
+
+cheat1297_desc = "物品栏 6SP1C (手枪)"
+cheat1297_handler = "0"
+cheat1297_code = "800C0912#0063"
+
+cheat1298_desc = "物品栏 6USP-TU (手枪)"
+cheat1298_handler = "0"
+cheat1298_code = "800C0912#0064"
+
+cheat1299_desc = "物品栏 6AK47 (来复枪)"
+cheat1299_handler = "0"
+cheat1299_code = "800C0912#0065"
+
+cheat1300_desc = "物品栏 6DE50AE2"
+cheat1300_handler = "0"
+cheat1300_code = "800C0912#0066"
+
+cheat1301_desc = "物品栏 6特别的SMG"
+cheat1301_handler = "0"
+cheat1301_code = "800C0912#0067"
+
+cheat1302_desc = "物品栏 6M870 (霰弹枪)"
+cheat1302_handler = "0"
+cheat1302_code = "800C0912#0068"
+
+cheat1303_desc = "物品栏 6M870 改1 (霰弹枪)"
+cheat1303_handler = "0"
+cheat1303_code = "800C0912#0069"
+
+cheat1304_desc = "物品栏 6M500 (霰弹枪)"
+cheat1304_handler = "0"
+cheat1304_code = "800C0912#006A"
+
+cheat1305_desc = "物品栏 6M500 改1 (霰弹枪)"
+cheat1305_handler = "0"
+cheat1305_code = "800C0912#006B"
+
+cheat1306_desc = "物品栏 6Maverick (霰弹枪)"
+cheat1306_handler = "0"
+cheat1306_code = "800C0912#006C"
+
+cheat1307_desc = "物品栏 6S12 (霰弹枪)"
+cheat1307_handler = "0"
+cheat1307_code = "800C0912#006D"
+
+cheat1308_desc = "物品栏 6M10B (霰弹枪)"
+cheat1308_handler = "0"
+cheat1308_code = "800C0912#006E"
+
+cheat1309_desc = "物品栏 6M11 (机关枪)"
+cheat1309_handler = "0"
+cheat1309_code = "800C0912#006F"
+
+cheat1310_desc = "物品栏 6M11 (机关枪)"
+cheat1310_handler = "0"
+cheat1310_code = "800C0912#0070"
+
+cheat1311_desc = "物品栏 6MP5K (机关枪)"
+cheat1311_handler = "0"
+cheat1311_code = "800C0912#0071"
+
+cheat1312_desc = "物品栏 6MP5PDW (机关枪)"
+cheat1312_handler = "0"
+cheat1312_code = "800C0912#0072"
+
+cheat1313_desc = "物品栏 6MP5A5 (机关枪)"
+cheat1313_handler = "0"
+cheat1313_code = "800C0912#0073"
+
+cheat1314_desc = "物品栏 6MP5SD6 (机关枪)"
+cheat1314_handler = "0"
+cheat1314_code = "800C0912#0074"
+
+cheat1315_desc = "物品栏 6MicroUZ (机关枪)"
+cheat1315_handler = "0"
+cheat1315_code = "800C0912#0075"
+
+cheat1316_desc = "物品栏 6MiniUZ (机关枪)"
+cheat1316_handler = "0"
+cheat1316_code = "800C0912#0076"
+
+cheat1317_desc = "物品栏 6FullUZ (机关枪)"
+cheat1317_handler = "0"
+cheat1317_code = "800C0912#0077"
+
+cheat1318_desc = "物品栏 6P90 (机关枪)"
+cheat1318_handler = "0"
+cheat1318_code = "800C0912#0078"
+
+cheat1319_desc = "物品栏 6M16A1 (来复枪)"
+cheat1319_handler = "0"
+cheat1319_code = "800C0912#0079"
+
+cheat1320_desc = "物品栏 6M16A2 (来复枪)"
+cheat1320_handler = "0"
+cheat1320_code = "800C0912#007A"
+
+cheat1321_desc = "物品栏 6SG550 (来复枪)"
+cheat1321_handler = "0"
+cheat1321_code = "800C0912#007B"
+
+cheat1322_desc = "物品栏 6SAR (来复枪)"
+cheat1322_handler = "0"
+cheat1322_code = "800C0912#007C"
+
+cheat1323_desc = "物品栏 6G3A3 (来复枪)"
+cheat1323_handler = "0"
+cheat1323_code = "800C0912#007D"
+
+cheat1324_desc = "物品栏 664型 (来复枪)"
+cheat1324_handler = "0"
+cheat1324_code = "800C0912#007E"
+
+cheat1325_desc = "物品栏 6XM177E2 (来复枪)"
+cheat1325_handler = "0"
+cheat1325_code = "800C0912#007F"
+
+cheat1326_desc = "物品栏 6PSG-1 (来复枪)"
+cheat1326_handler = "0"
+cheat1326_code = "800C0912#0080"
+
+cheat1327_desc = "物品栏 6FA-MAS (来复枪)"
+cheat1327_handler = "0"
+cheat1327_code = "800C0912#0081"
+
+cheat1328_desc = "物品栏 6MAG (来复枪)"
+cheat1328_handler = "0"
+cheat1328_code = "800C0912#0082"
+
+cheat1329_desc = "物品栏 6M203 (榴弹发射器)"
+cheat1329_handler = "0"
+cheat1329_code = "800C0912#0083"
+
+cheat1330_desc = "物品栏 6M203改1 (榴弹发射器)"
+cheat1330_handler = "0"
+cheat1330_code = "800C0912#0084"
+
+cheat1331_desc = "物品栏 6M203改2 (榴弹发射器)"
+cheat1331_handler = "0"
+cheat1331_code = "800C0912#0085"
+
+cheat1332_desc = "物品栏 6M203改3 (榴弹发射器)"
+cheat1332_handler = "0"
+cheat1332_code = "800C0912#0086"
+
+cheat1333_desc = "物品栏 6M203改4 (榴弹发射器)"
+cheat1333_handler = "0"
+cheat1333_code = "800C0912#0087"
+
+cheat1334_desc = "物品栏 6M203改6 (榴弹发射器)"
+cheat1334_handler = "0"
+cheat1334_code = "800C0912#0088"
+
+cheat1335_desc = "物品栏 6M79 (榴弹发射器)"
+cheat1335_handler = "0"
+cheat1335_code = "800C0912#0089"
+
+cheat1336_desc = "物品栏 6M79改1 (榴弹发射器)"
+cheat1336_handler = "0"
+cheat1336_code = "800C0912#008A"
+
+cheat1337_desc = "物品栏 6M79改2 (榴弹发射器)"
+cheat1337_handler = "0"
+cheat1337_code = "800C0912#008B"
+
+cheat1338_desc = "物品栏 6M79改3 (榴弹发射器)"
+cheat1338_handler = "0"
+cheat1338_code = "800C0912#008C"
+
+cheat1339_desc = "物品栏 6M79改4 (榴弹发射器)"
+cheat1339_handler = "0"
+cheat1339_code = "800C0912#008D"
+
+cheat1340_desc = "物品栏 6M79改5 (榴弹发射器)"
+cheat1340_handler = "0"
+cheat1340_code = "800C0912#008E"
+
+cheat1341_desc = "物品栏 6HK40 (榴弹发射器)"
+cheat1341_handler = "0"
+cheat1341_code = "800C0912#008F"
+
+cheat1342_desc = "物品栏 6AT4 (火箭筒)"
+cheat1342_handler = "0"
+cheat1342_code = "800C0912#0090"
+
+cheat1343_desc = "物品栏 6AT4 (火箭筒)"
+cheat1343_handler = "0"
+cheat1343_code = "800C0912#0091"
+
+cheat1344_desc = "物品栏 6LAW80 (火箭筒)"
+cheat1344_handler = "0"
+cheat1344_code = "800C0912#0092"
+
+cheat1345_desc = "物品栏 6前田的枪"
+cheat1345_handler = "0"
+cheat1345_code = "800C0912#0093"
+
+cheat1346_desc = "物品栏 6M92F (手枪)"
+cheat1346_handler = "0"
+cheat1346_code = "800C0912#0094"
+
+cheat1347_desc = "物品栏 6女装 (女礼服)"
+cheat1347_handler = "0"
+cheat1347_code = "800C0912#0095"
+
+cheat1348_desc = "物品栏 6N 背心"
+cheat1348_handler = "0"
+cheat1348_code = "800C0912#0096"
+
+cheat1349_desc = "物品栏 6N 防护衣"
+cheat1349_handler = "0"
+cheat1349_code = "800C0912#0097"
+
+cheat1350_desc = "物品栏 6N 夹克"
+cheat1350_handler = "0"
+cheat1350_code = "800C0912#0098"
+
+cheat1351_desc = "物品栏 6N 套装"
+cheat1351_handler = "0"
+cheat1351_code = "800C0912#0099"
+
+cheat1352_desc = "物品栏 6N 盔甲"
+cheat1352_handler = "0"
+cheat1352_code = "800C0912#009A"
+
+cheat1353_desc = "物品栏 6KV 背心1"
+cheat1353_handler = "0"
+cheat1353_code = "800C0912#009B"
+
+cheat1354_desc = "物品栏 6KV 防护衣"
+cheat1354_handler = "0"
+cheat1354_code = "800C0912#009C"
+
+cheat1355_desc = "物品栏 6KV 夹克"
+cheat1355_handler = "0"
+cheat1355_code = "800C0912#009D"
+
+cheat1356_desc = "物品栏 6KV 套装"
+cheat1356_handler = "0"
+cheat1356_code = "800C0912#009E"
+
+cheat1357_desc = "物品栏 6KV 盔甲"
+cheat1357_handler = "0"
+cheat1357_code = "800C0912#009F"
+
+cheat1358_desc = "物品栏 6SP 背心1"
+cheat1358_handler = "0"
+cheat1358_code = "800C0912#00A0"
+
+cheat1359_desc = "物品栏 6SP 背心2"
+cheat1359_handler = "0"
+cheat1359_code = "800C0912#00A1"
+
+cheat1360_desc = "物品栏 6SP 防护衣"
+cheat1360_handler = "0"
+cheat1360_code = "800C0912#00A2"
+
+cheat1361_desc = "物品栏 6SP 夹克"
+cheat1361_handler = "0"
+cheat1361_code = "800C0912#00A3"
+
+cheat1362_desc = "物品栏 6SP 套装1"
+cheat1362_handler = "0"
+cheat1362_code = "800C0912#00A4"
+
+cheat1363_desc = "物品栏 6SP 套装2"
+cheat1363_handler = "0"
+cheat1363_code = "800C0912#00A5"
+
+cheat1364_desc = "物品栏 6SP 盔甲1"
+cheat1364_handler = "0"
+cheat1364_code = "800C0912#00A6"
+
+cheat1365_desc = "物品栏 6SP 盔甲2"
+cheat1365_handler = "0"
+cheat1365_code = "800C0912#00A7"
+
+cheat1366_desc = "物品栏 6SV 背心1"
+cheat1366_handler = "0"
+cheat1366_code = "800C0912#00A8"
+
+cheat1367_desc = "物品栏 6SV 背心2"
+cheat1367_handler = "0"
+cheat1367_code = "800C0912#00A9"
+
+cheat1368_desc = "物品栏 6SV 防护衣"
+cheat1368_handler = "0"
+cheat1368_code = "800C0912#00AA"
+
+cheat1369_desc = "物品栏 6SV 夹克"
+cheat1369_handler = "0"
+cheat1369_code = "800C0912#00AB"
+
+cheat1370_desc = "物品栏 6SV 套装1"
+cheat1370_handler = "0"
+cheat1370_code = "800C0912#00AC"
+
+cheat1371_desc = "物品栏 6SV 套装2"
+cheat1371_handler = "0"
+cheat1371_code = "800C0912#00AD"
+
+cheat1372_desc = "物品栏 6SV 盔甲1"
+cheat1372_handler = "0"
+cheat1372_code = "800C0912#00AE"
+
+cheat1373_desc = "物品栏 6SV 盔甲2"
+cheat1373_handler = "0"
+cheat1373_code = "800C0912#00AF"
+
+cheat1374_desc = "物品栏 6CR 背心1"
+cheat1374_handler = "0"
+cheat1374_code = "800C0912#00B0"
+
+cheat1375_desc = "物品栏 6CR 背心2"
+cheat1375_handler = "0"
+cheat1375_code = "800C0912#00B1"
+
+cheat1376_desc = "物品栏 6CR 防护衣"
+cheat1376_handler = "0"
+cheat1376_code = "800C0912#00B2"
+
+cheat1377_desc = "物品栏 6CR 夹克"
+cheat1377_handler = "0"
+cheat1377_code = "800C0912#00B3"
+
+cheat1378_desc = "物品栏 6CR 套装1"
+cheat1378_handler = "0"
+cheat1378_code = "800C0912#00B4"
+
+cheat1379_desc = "物品栏 6CR 套装2"
+cheat1379_handler = "0"
+cheat1379_code = "800C0912#00B5"
+
+cheat1380_desc = "物品栏 6CR 盔甲1"
+cheat1380_handler = "0"
+cheat1380_code = "800C0912#00B6"
+
+cheat1381_desc = "物品栏 6CR 盔甲2"
+cheat1381_handler = "0"
+cheat1381_code = "800C0912#00B7"
+
+cheat1382_desc = "物品栏 6B 背心1"
+cheat1382_handler = "0"
+cheat1382_code = "800C0912#00B8"
+
+cheat1383_desc = "物品栏 6B 背心2"
+cheat1383_handler = "0"
+cheat1383_code = "800C0912#00B9"
+
+cheat1384_desc = "物品栏 6B 防护衣"
+cheat1384_handler = "0"
+cheat1384_code = "800C0912#00BA"
+
+cheat1385_desc = "物品栏 6B 夹克1"
+cheat1385_handler = "0"
+cheat1385_code = "800C0912#00BB"
+
+cheat1386_desc = "物品栏 6B 夹克2"
+cheat1386_handler = "0"
+cheat1386_code = "800C0912#00BC"
+
+cheat1387_desc = "物品栏 6B 套装1"
+cheat1387_handler = "0"
+cheat1387_code = "800C0912#00BD"
+
+cheat1388_desc = "物品栏 6B 套装2"
+cheat1388_handler = "0"
+cheat1388_code = "800C0912#00BE"
+
+cheat1389_desc = "物品栏 6B 盔甲"
+cheat1389_handler = "0"
+cheat1389_code = "800C0912#00BF"
+
+cheat1390_desc = "物品栏 6CM 背心1"
+cheat1390_handler = "0"
+cheat1390_code = "800C0912#00C0"
+
+cheat1391_desc = "物品栏 6CM 背心2"
+cheat1391_handler = "0"
+cheat1391_code = "800C0912#00C1"
+
+cheat1392_desc = "物品栏 6CM 防护衣"
+cheat1392_handler = "0"
+cheat1392_code = "800C0912#00C2"
+
+cheat1393_desc = "物品栏 6CM 夹克"
+cheat1393_handler = "0"
+cheat1393_code = "800C0912#00C3"
+
+cheat1394_desc = "物品栏 6CM 套装1"
+cheat1394_handler = "0"
+cheat1394_code = "800C0912#00C4"
+
+cheat1395_desc = "物品栏 6CM 盔甲1"
+cheat1395_handler = "0"
+cheat1395_code = "800C0912#00C5"
+
+cheat1396_desc = "物品栏 6CM 盔甲2"
+cheat1396_handler = "0"
+cheat1396_code = "800C0912#00C6"
+
+cheat1397_desc = "物品栏 6CM 套装2"
+cheat1397_handler = "0"
+cheat1397_code = "800C0912#00C7"
+
+cheat1398_desc = "物品栏 6剧院钥匙 (更衣间钥匙)"
+cheat1398_handler = "0"
+cheat1398_code = "800C0912#00C8"
+
+cheat1399_desc = "物品栏 6排练房钥匙"
+cheat1399_handler = "0"
+cheat1399_code = "800C0912#00C9"
+
+cheat1400_desc = "物品栏 6动物园钥匙 (中心公园钥匙)"
+cheat1400_handler = "0"
+cheat1400_code = "800C0912#00CA"
+
+cheat1401_desc = "物品栏 6Narita (护身符)"
+cheat1401_handler = "0"
+cheat1401_code = "800C0912#00CB"
+
+cheat1402_desc = "物品栏 6Mayoke (有用的护身符)"
+cheat1402_handler = "0"
+cheat1402_code = "800C0912#00CC"
+
+cheat1403_desc = "物品栏 6hamaya (特别的护身符)"
+cheat1403_handler = "0"
+cheat1403_code = "800C0912#00CD"
+
+cheat1404_desc = "物品栏 6保险丝1"
+cheat1404_handler = "0"
+cheat1404_code = "800C0912#00CE"
+
+cheat1405_desc = "物品栏 6保险丝2"
+cheat1405_handler = "0"
+cheat1405_code = "800C0912#00CF"
+
+cheat1406_desc = "物品栏 6保险丝3"
+cheat1406_handler = "0"
+cheat1406_code = "800C0912#00D0"
+
+cheat1407_desc = "物品栏 6停尸房钥匙 (医院钥匙)"
+cheat1407_handler = "0"
+cheat1407_code = "800C0912#00D1"
+
+cheat1408_desc = "物品栏 6蓝钥匙"
+cheat1408_handler = "0"
+cheat1408_code = "800C0912#00D2"
+
+cheat1409_desc = "物品栏 6绿钥匙"
+cheat1409_handler = "0"
+cheat1409_code = "800C0912#00D3"
+
+cheat1410_desc = "物品栏 6泵房钥匙"
+cheat1410_handler = "0"
+cheat1410_code = "800C0912#00D4"
+
+cheat1411_desc = "物品栏 6克拉姆的钥匙"
+cheat1411_handler = "0"
+cheat1411_code = "800C0912#00D5"
+
+cheat1412_desc = "物品栏 6储藏室的钥匙 (武器仓库的钥匙)"
+cheat1412_handler = "0"
+cheat1412_code = "800C0912#00D6"
+
+cheat1413_desc = "物品栏 6柜子钥匙"
+cheat1413_handler = "0"
+cheat1413_code = "800C0912#00D7"
+
+cheat1414_desc = "物品栏 6武器备忘录"
+cheat1414_handler = "0"
+cheat1414_code = "800C0912#00D8"
+
+cheat1415_desc = "物品栏 6奖励币"
+cheat1415_handler = "0"
+cheat1415_code = "800C0912#00D9"
+
+cheat1416_desc = "物品栏 6电梯钥匙"
+cheat1416_handler = "0"
+cheat1416_code = "800C0912#00DA"
+
+cheat1417_desc = "物品栏 6地铁大门钥匙"
+cheat1417_handler = "0"
+cheat1417_code = "800C0912#00DB"
+
+cheat1418_desc = "物品栏 6港口仓库钥匙"
+cheat1418_handler = "0"
+cheat1418_code = "800C0912#00DC"
+
+cheat1419_desc = "物品栏 6GSP 交易卡 (武器交易卡)"
+cheat1419_handler = "0"
+cheat1419_code = "800C0912#00DD"
+
+cheat1420_desc = "物品栏 6P38 交易卡 (武器交易卡)"
+cheat1420_handler = "0"
+cheat1420_code = "800C0912#00DE"
+
+cheat1421_desc = "物品栏 6B鹰 交易卡 (武器交易卡)"
+cheat1421_handler = "0"
+cheat1421_code = "800C0912#00DF"
+
+cheat1422_desc = "物品栏 6Kasul 交易卡 (武器交易卡)"
+cheat1422_handler = "0"
+cheat1422_code = "800C0912#00E0"
+
+cheat1423_desc = "物品栏 6PPKS 交易卡 (武器交易卡)"
+cheat1423_handler = "0"
+cheat1423_code = "800C0912#00E1"
+
+cheat1424_desc = "物品栏 6M1 交易卡 (武器交易卡)"
+cheat1424_handler = "0"
+cheat1424_code = "800C0912#00E2"
+
+cheat1425_desc = "物品栏 6MK5 交易卡 (武器交易卡)"
+cheat1425_handler = "0"
+cheat1425_code = "800C0912#00E3"
+
+cheat1426_desc = "物品栏 6MP44 交易卡 (武器交易卡)"
+cheat1426_handler = "0"
+cheat1426_code = "800C0912#00E4"
+
+cheat1427_desc = "物品栏 6BAR 交易卡 (武器交易卡)"
+cheat1427_handler = "0"
+cheat1427_code = "800C0912#00E5"
+
+cheat1428_desc = "物品栏 6MG42 交易卡 (武器交易卡)"
+cheat1428_handler = "0"
+cheat1428_code = "800C0912#00E6"
+
+cheat1429_desc = "物品栏 6M29 交易卡 (武器交易卡)"
+cheat1429_handler = "0"
+cheat1429_code = "800C0912#00E7"
+
+cheat1430_desc = "物品栏 6M73 交易卡 (武器交易卡)"
+cheat1430_handler = "0"
+cheat1430_code = "800C0912#00E8"
+
+cheat1431_desc = "物品栏 638型 交易卡 (武器交易卡)"
+cheat1431_handler = "0"
+cheat1431_code = "800C0912#00E9"
+
+cheat1432_desc = "物品栏 63型 交易卡 (武器交易卡)"
+cheat1432_handler = "0"
+cheat1432_code = "800C0912#00EA"
+
+cheat1433_desc = "物品栏 6鹰 交易卡 (武器交易卡)"
+cheat1433_handler = "0"
+cheat1433_code = "800C0912#00EB"
+
+cheat1434_desc = "物品栏 7NONE"
+cheat1434_handler = "0"
+cheat1434_code = "800C0914#0000"
+
+cheat1435_desc = "物品栏 7子弹 X6"
+cheat1435_handler = "0"
+cheat1435_code = "800C0914#0001"
+
+cheat1436_desc = "物品栏 7子弹 X15"
+cheat1436_handler = "0"
+cheat1436_code = "800C0914#0002"
+
+cheat1437_desc = "物品栏 7子弹 X30"
+cheat1437_handler = "0"
+cheat1437_code = "800C0914#0003"
+
+cheat1438_desc = "物品栏 7前田的子弹"
+cheat1438_handler = "0"
+cheat1438_code = "800C0914#0004"
+
+cheat1439_desc = "物品栏 7火箭弹"
+cheat1439_handler = "0"
+cheat1439_code = "800C0914#0005"
+
+cheat1440_desc = "物品栏 7恢复药(恢复 45)"
+cheat1440_handler = "0"
+cheat1440_code = "800C0914#0006"
+
+cheat1441_desc = "物品栏 7恢复药(恢复 90)90"
+cheat1441_handler = "0"
+cheat1441_code = "800C0914#0007"
+
+cheat1442_desc = "物品栏 7恢复药(恢复 180)180"
+cheat1442_handler = "0"
+cheat1442_code = "800C0914#0008"
+
+cheat1443_desc = "物品栏 7恢复药(恢复 400)400"
+cheat1443_handler = "0"
+cheat1443_code = "800C0914#0009"
+
+cheat1444_desc = "物品栏 7完全恢复药"
+cheat1444_handler = "0"
+cheat1444_code = "800C0914#000A"
+
+cheat1445_desc = "物品栏 7超级零件"
+cheat1445_handler = "0"
+cheat1445_code = "800C0914#000B"
+
+cheat1446_desc = "物品栏 7骗子零件"
+cheat1446_handler = "0"
+cheat1446_code = "800C0914#000C"
+
+cheat1447_desc = "物品栏 7毒治疗药"
+cheat1447_handler = "0"
+cheat1447_code = "800C0914#000D"
+
+cheat1448_desc = "物品栏 7黑暗治疗药"
+cheat1448_handler = "0"
+cheat1448_code = "800C0914#000E"
+
+cheat1449_desc = "物品栏 7混乱治疗药"
+cheat1449_handler = "0"
+cheat1449_code = "800C0914#000F"
+
+cheat1450_desc = "物品栏 7移动限制治疗药"
+cheat1450_handler = "0"
+cheat1450_code = "800C0914#0010"
+
+cheat1451_desc = "物品栏 7万能药"
+cheat1451_handler = "0"
+cheat1451_code = "800C0914#0011"
+
+cheat1452_desc = "物品栏 7复活药"
+cheat1452_handler = "0"
+cheat1452_code = "800C0914#0012"
+
+cheat1453_desc = "物品栏 7防御力 +1"
+cheat1453_handler = "0"
+cheat1453_code = "800C0914#0013"
+
+cheat1454_desc = "物品栏 7零件"
+cheat1454_handler = "0"
+cheat1454_code = "800C0914#0014"
+
+cheat1455_desc = "物品栏 7交易卡"
+cheat1455_handler = "0"
+cheat1455_code = "800C0914#0015"
+
+cheat1456_desc = "物品栏 7工具"
+cheat1456_handler = "0"
+cheat1456_code = "800C0914#0016"
+
+cheat1457_desc = "物品栏 7万能工具"
+cheat1457_handler = "0"
+cheat1457_code = "800C0914#0017"
+
+cheat1458_desc = "物品栏 7道具 24"
+cheat1458_handler = "0"
+cheat1458_code = "800C0914#0018"
+
+cheat1459_desc = "物品栏 7道具 25"
+cheat1459_handler = "0"
+cheat1459_code = "800C0914#0019"
+
+cheat1460_desc = "物品栏 7弹药箱"
+cheat1460_handler = "0"
+cheat1460_code = "800C0914#001A"
+
+cheat1461_desc = "物品栏 7火箭弹药箱"
+cheat1461_handler = "0"
+cheat1461_code = "800C0914#001B"
+
+cheat1462_desc = "物品栏 7前田的弹药箱"
+cheat1462_handler = "0"
+cheat1462_code = "800C0914#001C"
+
+cheat1463_desc = "物品栏 7攻击力 +1"
+cheat1463_handler = "0"
+cheat1463_code = "800C0914#001D"
+
+cheat1464_desc = "物品栏 7攻击力 +2"
+cheat1464_handler = "0"
+cheat1464_code = "800C0914#001E"
+
+cheat1465_desc = "物品栏 7攻击力 +3"
+cheat1465_handler = "0"
+cheat1465_code = "800C0914#001F"
+
+cheat1466_desc = "物品栏 7攻击力 +4"
+cheat1466_handler = "0"
+cheat1466_code = "800C0914#0020"
+
+cheat1467_desc = "物品栏 7命中率 +1"
+cheat1467_handler = "0"
+cheat1467_code = "800C0914#0021"
+
+cheat1468_desc = "物品栏 7命中率 +2"
+cheat1468_handler = "0"
+cheat1468_code = "800C0914#0022"
+
+cheat1469_desc = "物品栏 7命中率 +3"
+cheat1469_handler = "0"
+cheat1469_code = "800C0914#0023"
+
+cheat1470_desc = "物品栏 7命中率 +4"
+cheat1470_handler = "0"
+cheat1470_code = "800C0914#0024"
+
+cheat1471_desc = "物品栏 7装弹数 +1"
+cheat1471_handler = "0"
+cheat1471_code = "800C0914#0025"
+
+cheat1472_desc = "物品栏 7装弹数 +2"
+cheat1472_handler = "0"
+cheat1472_code = "800C0914#0026"
+
+cheat1473_desc = "物品栏 7装弹数 +3"
+cheat1473_handler = "0"
+cheat1473_code = "800C0914#0027"
+
+cheat1474_desc = "物品栏 7装弹数 +4"
+cheat1474_handler = "0"
+cheat1474_code = "800C0914#0028"
+
+cheat1475_desc = "物品栏 7防御力 +1"
+cheat1475_handler = "0"
+cheat1475_code = "800C0914#0029"
+
+cheat1476_desc = "物品栏 7防御力 +2"
+cheat1476_handler = "0"
+cheat1476_code = "800C0914#002A"
+
+cheat1477_desc = "物品栏 7防御力 +3"
+cheat1477_handler = "0"
+cheat1477_code = "800C0914#002B"
+
+cheat1478_desc = "物品栏 7防御力 +4"
+cheat1478_handler = "0"
+cheat1478_code = "800C0914#002C"
+
+cheat1479_desc = "物品栏 7CR回避 +1"
+cheat1479_handler = "0"
+cheat1479_code = "800C0914#002D"
+
+cheat1480_desc = "物品栏 7CR回避 +2"
+cheat1480_handler = "0"
+cheat1480_code = "800C0914#002E"
+
+cheat1481_desc = "物品栏 7CR回避 +3"
+cheat1481_handler = "0"
+cheat1481_code = "800C0914#002F"
+
+cheat1482_desc = "物品栏 7CR回避 +4"
+cheat1482_handler = "0"
+cheat1482_code = "800C0914#0030"
+
+cheat1483_desc = "物品栏 7PE防御力 +1"
+cheat1483_handler = "0"
+cheat1483_code = "800C0914#0031"
+
+cheat1484_desc = "物品栏 7PE防御力 +2"
+cheat1484_handler = "0"
+cheat1484_code = "800C0914#0032"
+
+cheat1485_desc = "物品栏 7PE防御力 +3"
+cheat1485_handler = "0"
+cheat1485_code = "800C0914#0033"
+
+cheat1486_desc = "物品栏 7PE防御力 +4"
+cheat1486_handler = "0"
+cheat1486_code = "800C0914#0034"
+
+cheat1487_desc = "物品栏 7工具组"
+cheat1487_handler = "0"
+cheat1487_code = "800C0914#0035"
+
+cheat1488_desc = "物品栏 7万能工具组"
+cheat1488_handler = "0"
+cheat1488_code = "800C0914#0036"
+
+cheat1489_desc = "物品栏 7改造许可证"
+cheat1489_handler = "0"
+cheat1489_code = "800C0914#0037"
+
+cheat1490_desc = "物品栏 7大楼钥匙1 (到10楼去的钥匙)"
+cheat1490_handler = "0"
+cheat1490_code = "800C0914#0038"
+
+cheat1491_desc = "物品栏 7大楼钥匙2 (到20楼去的钥匙)"
+cheat1491_handler = "0"
+cheat1491_code = "800C0914#0039"
+
+cheat1492_desc = "物品栏 7大楼钥匙3 (到30楼去的钥匙)"
+cheat1492_handler = "0"
+cheat1492_code = "800C0914#003A"
+
+cheat1493_desc = "物品栏 7大楼钥匙4 (到40楼去的钥匙)"
+cheat1493_handler = "0"
+cheat1493_code = "800C0914#003B"
+
+cheat1494_desc = "物品栏 7大楼钥匙5 (到50楼去的钥匙)"
+cheat1494_handler = "0"
+cheat1494_code = "800C0914#003C"
+
+cheat1495_desc = "物品栏 7大楼钥匙6 (到60楼去的钥匙)"
+cheat1495_handler = "0"
+cheat1495_code = "800C0914#003D"
+
+cheat1496_desc = "物品栏 7大楼钥匙7 (到70楼去的钥匙)"
+cheat1496_handler = "0"
+cheat1496_code = "800C0914#003E"
+
+cheat1497_desc = "物品栏 7警棍1"
+cheat1497_handler = "0"
+cheat1497_code = "800C0914#003F"
+
+cheat1498_desc = "物品栏 7警棍2"
+cheat1498_handler = "0"
+cheat1498_code = "800C0914#0040"
+
+cheat1499_desc = "物品栏 7警棍3"
+cheat1499_handler = "0"
+cheat1499_code = "800C0914#0041"
+
+cheat1500_desc = "物品栏 7警棍4"
+cheat1500_handler = "0"
+cheat1500_code = "800C0914#0042"
+
+cheat1501_desc = "物品栏 7警棍5"
+cheat1501_handler = "0"
+cheat1501_code = "800C0914#0043"
+
+cheat1502_desc = "物品栏 7M84F (手枪)"
+cheat1502_handler = "0"
+cheat1502_code = "800C0914#0044"
+
+cheat1503_desc = "物品栏 7M9 (手枪)"
+cheat1503_handler = "0"
+cheat1503_code = "800C0914#0045"
+
+cheat1504_desc = "物品栏 7M9改 (手枪)"
+cheat1504_handler = "0"
+cheat1504_code = "800C0914#0046"
+
+cheat1505_desc = "物品栏 7M9改2 (手枪)"
+cheat1505_handler = "0"
+cheat1505_code = "800C0914#0047"
+
+cheat1506_desc = "物品栏 7M8000 (手枪)"
+cheat1506_handler = "0"
+cheat1506_code = "800C0914#0048"
+
+cheat1507_desc = "物品栏 7M96 (手枪)"
+cheat1507_handler = "0"
+cheat1507_code = "800C0914#0049"
+
+cheat1508_desc = "物品栏 7M96R (手枪)"
+cheat1508_handler = "0"
+cheat1508_code = "800C0914#004A"
+
+cheat1509_desc = "物品栏 7P220 (手枪)"
+cheat1509_handler = "0"
+cheat1509_code = "800C0914#004B"
+
+cheat1510_desc = "物品栏 7P220改 (手枪)"
+cheat1510_handler = "0"
+cheat1510_code = "800C0914#004C"
+
+cheat1511_desc = "物品栏 7P228 (手枪)"
+cheat1511_handler = "0"
+cheat1511_code = "800C0914#004D"
+
+cheat1512_desc = "物品栏 7P226 (手枪)"
+cheat1512_handler = "0"
+cheat1512_code = "800C0914#004E"
+
+cheat1513_desc = "物品栏 7229 (手枪)"
+cheat1513_handler = "0"
+cheat1513_code = "800C0914#004F"
+
+cheat1514_desc = "物品栏 7M1911A1 (手枪)"
+cheat1514_handler = "0"
+cheat1514_code = "800C0914#0050"
+
+cheat1515_desc = "物品栏 7M1911A2 (手枪)"
+cheat1515_handler = "0"
+cheat1515_code = "800C0914#0051"
+
+cheat1516_desc = "物品栏 7M1911A3 (手枪)"
+cheat1516_handler = "0"
+cheat1516_code = "800C0914#0052"
+
+cheat1517_desc = "物品栏 7M1911A4 (手枪)"
+cheat1517_handler = "0"
+cheat1517_code = "800C0914#0053"
+
+cheat1518_desc = "物品栏 7M1911A5 (手枪)"
+cheat1518_handler = "0"
+cheat1518_code = "800C0914#0054"
+
+cheat1519_desc = "物品栏 7P8 (手枪)"
+cheat1519_handler = "0"
+cheat1519_code = "800C0914#0055"
+
+cheat1520_desc = "物品栏 7USP (手枪)"
+cheat1520_handler = "0"
+cheat1520_code = "800C0914#0056"
+
+cheat1521_desc = "物品栏 7USP改 (手枪)"
+cheat1521_handler = "0"
+cheat1521_code = "800C0914#0057"
+
+cheat1522_desc = "物品栏 7USP改2 (手枪)"
+cheat1522_handler = "0"
+cheat1522_code = "800C0914#0058"
+
+cheat1523_desc = "物品栏 7Mark23 (手枪)"
+cheat1523_handler = "0"
+cheat1523_code = "800C0914#0059"
+
+cheat1524_desc = "物品栏 7G19 (手枪)"
+cheat1524_handler = "0"
+cheat1524_code = "800C0914#005A"
+
+cheat1525_desc = "物品栏 7G23 (手枪)"
+cheat1525_handler = "0"
+cheat1525_code = "800C0914#005B"
+
+cheat1526_desc = "物品栏 7G22 (手枪)"
+cheat1526_handler = "0"
+cheat1526_code = "800C0914#005C"
+
+cheat1527_desc = "物品栏 7G20 (手枪)"
+cheat1527_handler = "0"
+cheat1527_code = "800C0914#005D"
+
+cheat1528_desc = "物品栏 7M712 (手枪)"
+cheat1528_handler = "0"
+cheat1528_code = "800C0914#005E"
+
+cheat1529_desc = "物品栏 7PPK (手枪)"
+cheat1529_handler = "0"
+cheat1529_code = "800C0914#005F"
+
+cheat1530_desc = "物品栏 7AM44"
+cheat1530_handler = "0"
+cheat1530_code = "800C0914#0060"
+
+cheat1531_desc = "物品栏 7前田的枪"
+cheat1531_handler = "0"
+cheat1531_code = "800C0914#0061"
+
+cheat1532_desc = "物品栏 7PPSh41 (机关枪)"
+cheat1532_handler = "0"
+cheat1532_code = "800C0914#0062"
+
+cheat1533_desc = "物品栏 7SP1C (手枪)"
+cheat1533_handler = "0"
+cheat1533_code = "800C0914#0063"
+
+cheat1534_desc = "物品栏 7USP-TU (手枪)"
+cheat1534_handler = "0"
+cheat1534_code = "800C0914#0064"
+
+cheat1535_desc = "物品栏 7AK47 (来复枪)"
+cheat1535_handler = "0"
+cheat1535_code = "800C0914#0065"
+
+cheat1536_desc = "物品栏 7DE50AE2"
+cheat1536_handler = "0"
+cheat1536_code = "800C0914#0066"
+
+cheat1537_desc = "物品栏 7特别的SMG"
+cheat1537_handler = "0"
+cheat1537_code = "800C0914#0067"
+
+cheat1538_desc = "物品栏 7M870 (霰弹枪)"
+cheat1538_handler = "0"
+cheat1538_code = "800C0914#0068"
+
+cheat1539_desc = "物品栏 7M870 改1 (霰弹枪)"
+cheat1539_handler = "0"
+cheat1539_code = "800C0914#0069"
+
+cheat1540_desc = "物品栏 7M500 (霰弹枪)"
+cheat1540_handler = "0"
+cheat1540_code = "800C0914#006A"
+
+cheat1541_desc = "物品栏 7M500 改1 (霰弹枪)"
+cheat1541_handler = "0"
+cheat1541_code = "800C0914#006B"
+
+cheat1542_desc = "物品栏 7Maverick (霰弹枪)"
+cheat1542_handler = "0"
+cheat1542_code = "800C0914#006C"
+
+cheat1543_desc = "物品栏 7S12 (霰弹枪)"
+cheat1543_handler = "0"
+cheat1543_code = "800C0914#006D"
+
+cheat1544_desc = "物品栏 7M10B (霰弹枪)"
+cheat1544_handler = "0"
+cheat1544_code = "800C0914#006E"
+
+cheat1545_desc = "物品栏 7M11 (机关枪)"
+cheat1545_handler = "0"
+cheat1545_code = "800C0914#006F"
+
+cheat1546_desc = "物品栏 7M11 (机关枪)"
+cheat1546_handler = "0"
+cheat1546_code = "800C0914#0070"
+
+cheat1547_desc = "物品栏 7MP5K (机关枪)"
+cheat1547_handler = "0"
+cheat1547_code = "800C0914#0071"
+
+cheat1548_desc = "物品栏 7MP5PDW (机关枪)"
+cheat1548_handler = "0"
+cheat1548_code = "800C0914#0072"
+
+cheat1549_desc = "物品栏 7MP5A5 (机关枪)"
+cheat1549_handler = "0"
+cheat1549_code = "800C0914#0073"
+
+cheat1550_desc = "物品栏 7MP5SD6 (机关枪)"
+cheat1550_handler = "0"
+cheat1550_code = "800C0914#0074"
+
+cheat1551_desc = "物品栏 7MicroUZ (机关枪)"
+cheat1551_handler = "0"
+cheat1551_code = "800C0914#0075"
+
+cheat1552_desc = "物品栏 7MiniUZ (机关枪)"
+cheat1552_handler = "0"
+cheat1552_code = "800C0914#0076"
+
+cheat1553_desc = "物品栏 7FullUZ (机关枪)"
+cheat1553_handler = "0"
+cheat1553_code = "800C0914#0077"
+
+cheat1554_desc = "物品栏 7P90 (机关枪)"
+cheat1554_handler = "0"
+cheat1554_code = "800C0914#0078"
+
+cheat1555_desc = "物品栏 7M16A1 (来复枪)"
+cheat1555_handler = "0"
+cheat1555_code = "800C0914#0079"
+
+cheat1556_desc = "物品栏 7M16A2 (来复枪)"
+cheat1556_handler = "0"
+cheat1556_code = "800C0914#007A"
+
+cheat1557_desc = "物品栏 7SG550 (来复枪)"
+cheat1557_handler = "0"
+cheat1557_code = "800C0914#007B"
+
+cheat1558_desc = "物品栏 7SAR (来复枪)"
+cheat1558_handler = "0"
+cheat1558_code = "800C0914#007C"
+
+cheat1559_desc = "物品栏 7G3A3 (来复枪)"
+cheat1559_handler = "0"
+cheat1559_code = "800C0914#007D"
+
+cheat1560_desc = "物品栏 764型 (来复枪)"
+cheat1560_handler = "0"
+cheat1560_code = "800C0914#007E"
+
+cheat1561_desc = "物品栏 7XM177E2 (来复枪)"
+cheat1561_handler = "0"
+cheat1561_code = "800C0914#007F"
+
+cheat1562_desc = "物品栏 7PSG-1 (来复枪)"
+cheat1562_handler = "0"
+cheat1562_code = "800C0914#0080"
+
+cheat1563_desc = "物品栏 7FA-MAS (来复枪)"
+cheat1563_handler = "0"
+cheat1563_code = "800C0914#0081"
+
+cheat1564_desc = "物品栏 7MAG (来复枪)"
+cheat1564_handler = "0"
+cheat1564_code = "800C0914#0082"
+
+cheat1565_desc = "物品栏 7M203 (榴弹发射器)"
+cheat1565_handler = "0"
+cheat1565_code = "800C0914#0083"
+
+cheat1566_desc = "物品栏 7M203改1 (榴弹发射器)"
+cheat1566_handler = "0"
+cheat1566_code = "800C0914#0084"
+
+cheat1567_desc = "物品栏 7M203改2 (榴弹发射器)"
+cheat1567_handler = "0"
+cheat1567_code = "800C0914#0085"
+
+cheat1568_desc = "物品栏 7M203改3 (榴弹发射器)"
+cheat1568_handler = "0"
+cheat1568_code = "800C0914#0086"
+
+cheat1569_desc = "物品栏 7M203改4 (榴弹发射器)"
+cheat1569_handler = "0"
+cheat1569_code = "800C0914#0087"
+
+cheat1570_desc = "物品栏 7M203改6 (榴弹发射器)"
+cheat1570_handler = "0"
+cheat1570_code = "800C0914#0088"
+
+cheat1571_desc = "物品栏 7M79 (榴弹发射器)"
+cheat1571_handler = "0"
+cheat1571_code = "800C0914#0089"
+
+cheat1572_desc = "物品栏 7M79改1 (榴弹发射器)"
+cheat1572_handler = "0"
+cheat1572_code = "800C0914#008A"
+
+cheat1573_desc = "物品栏 7M79改2 (榴弹发射器)"
+cheat1573_handler = "0"
+cheat1573_code = "800C0914#008B"
+
+cheat1574_desc = "物品栏 7M79改3 (榴弹发射器)"
+cheat1574_handler = "0"
+cheat1574_code = "800C0914#008C"
+
+cheat1575_desc = "物品栏 7M79改4 (榴弹发射器)"
+cheat1575_handler = "0"
+cheat1575_code = "800C0914#008D"
+
+cheat1576_desc = "物品栏 7M79改5 (榴弹发射器)"
+cheat1576_handler = "0"
+cheat1576_code = "800C0914#008E"
+
+cheat1577_desc = "物品栏 7HK40 (榴弹发射器)"
+cheat1577_handler = "0"
+cheat1577_code = "800C0914#008F"
+
+cheat1578_desc = "物品栏 7AT4 (火箭筒)"
+cheat1578_handler = "0"
+cheat1578_code = "800C0914#0090"
+
+cheat1579_desc = "物品栏 7AT4 (火箭筒)"
+cheat1579_handler = "0"
+cheat1579_code = "800C0914#0091"
+
+cheat1580_desc = "物品栏 7LAW80 (火箭筒)"
+cheat1580_handler = "0"
+cheat1580_code = "800C0914#0092"
+
+cheat1581_desc = "物品栏 7前田的枪"
+cheat1581_handler = "0"
+cheat1581_code = "800C0914#0093"
+
+cheat1582_desc = "物品栏 7M92F (手枪)"
+cheat1582_handler = "0"
+cheat1582_code = "800C0914#0094"
+
+cheat1583_desc = "物品栏 7女装 (女礼服)"
+cheat1583_handler = "0"
+cheat1583_code = "800C0914#0095"
+
+cheat1584_desc = "物品栏 7N 背心"
+cheat1584_handler = "0"
+cheat1584_code = "800C0914#0096"
+
+cheat1585_desc = "物品栏 7N 防护衣"
+cheat1585_handler = "0"
+cheat1585_code = "800C0914#0097"
+
+cheat1586_desc = "物品栏 7N 夹克"
+cheat1586_handler = "0"
+cheat1586_code = "800C0914#0098"
+
+cheat1587_desc = "物品栏 7N 套装"
+cheat1587_handler = "0"
+cheat1587_code = "800C0914#0099"
+
+cheat1588_desc = "物品栏 7N 盔甲"
+cheat1588_handler = "0"
+cheat1588_code = "800C0914#009A"
+
+cheat1589_desc = "物品栏 7KV 背心1"
+cheat1589_handler = "0"
+cheat1589_code = "800C0914#009B"
+
+cheat1590_desc = "物品栏 7KV 防护衣"
+cheat1590_handler = "0"
+cheat1590_code = "800C0914#009C"
+
+cheat1591_desc = "物品栏 7KV 夹克"
+cheat1591_handler = "0"
+cheat1591_code = "800C0914#009D"
+
+cheat1592_desc = "物品栏 7KV 套装"
+cheat1592_handler = "0"
+cheat1592_code = "800C0914#009E"
+
+cheat1593_desc = "物品栏 7KV 盔甲"
+cheat1593_handler = "0"
+cheat1593_code = "800C0914#009F"
+
+cheat1594_desc = "物品栏 7SP 背心1"
+cheat1594_handler = "0"
+cheat1594_code = "800C0914#00A0"
+
+cheat1595_desc = "物品栏 7SP 背心2"
+cheat1595_handler = "0"
+cheat1595_code = "800C0914#00A1"
+
+cheat1596_desc = "物品栏 7SP 防护衣"
+cheat1596_handler = "0"
+cheat1596_code = "800C0914#00A2"
+
+cheat1597_desc = "物品栏 7SP 夹克"
+cheat1597_handler = "0"
+cheat1597_code = "800C0914#00A3"
+
+cheat1598_desc = "物品栏 7SP 套装1"
+cheat1598_handler = "0"
+cheat1598_code = "800C0914#00A4"
+
+cheat1599_desc = "物品栏 7SP 套装2"
+cheat1599_handler = "0"
+cheat1599_code = "800C0914#00A5"
+
+cheat1600_desc = "物品栏 7SP 盔甲1"
+cheat1600_handler = "0"
+cheat1600_code = "800C0914#00A6"
+
+cheat1601_desc = "物品栏 7SP 盔甲2"
+cheat1601_handler = "0"
+cheat1601_code = "800C0914#00A7"
+
+cheat1602_desc = "物品栏 7SV 背心1"
+cheat1602_handler = "0"
+cheat1602_code = "800C0914#00A8"
+
+cheat1603_desc = "物品栏 7SV 背心2"
+cheat1603_handler = "0"
+cheat1603_code = "800C0914#00A9"
+
+cheat1604_desc = "物品栏 7SV 防护衣"
+cheat1604_handler = "0"
+cheat1604_code = "800C0914#00AA"
+
+cheat1605_desc = "物品栏 7SV 夹克"
+cheat1605_handler = "0"
+cheat1605_code = "800C0914#00AB"
+
+cheat1606_desc = "物品栏 7SV 套装1"
+cheat1606_handler = "0"
+cheat1606_code = "800C0914#00AC"
+
+cheat1607_desc = "物品栏 7SV 套装2"
+cheat1607_handler = "0"
+cheat1607_code = "800C0914#00AD"
+
+cheat1608_desc = "物品栏 7SV 盔甲1"
+cheat1608_handler = "0"
+cheat1608_code = "800C0914#00AE"
+
+cheat1609_desc = "物品栏 7SV 盔甲2"
+cheat1609_handler = "0"
+cheat1609_code = "800C0914#00AF"
+
+cheat1610_desc = "物品栏 7CR 背心1"
+cheat1610_handler = "0"
+cheat1610_code = "800C0914#00B0"
+
+cheat1611_desc = "物品栏 7CR 背心2"
+cheat1611_handler = "0"
+cheat1611_code = "800C0914#00B1"
+
+cheat1612_desc = "物品栏 7CR 防护衣"
+cheat1612_handler = "0"
+cheat1612_code = "800C0914#00B2"
+
+cheat1613_desc = "物品栏 7CR 夹克"
+cheat1613_handler = "0"
+cheat1613_code = "800C0914#00B3"
+
+cheat1614_desc = "物品栏 7CR 套装1"
+cheat1614_handler = "0"
+cheat1614_code = "800C0914#00B4"
+
+cheat1615_desc = "物品栏 7CR 套装2"
+cheat1615_handler = "0"
+cheat1615_code = "800C0914#00B5"
+
+cheat1616_desc = "物品栏 7CR 盔甲1"
+cheat1616_handler = "0"
+cheat1616_code = "800C0914#00B6"
+
+cheat1617_desc = "物品栏 7CR 盔甲2"
+cheat1617_handler = "0"
+cheat1617_code = "800C0914#00B7"
+
+cheat1618_desc = "物品栏 7B 背心1"
+cheat1618_handler = "0"
+cheat1618_code = "800C0914#00B8"
+
+cheat1619_desc = "物品栏 7B 背心2"
+cheat1619_handler = "0"
+cheat1619_code = "800C0914#00B9"
+
+cheat1620_desc = "物品栏 7B 防护衣"
+cheat1620_handler = "0"
+cheat1620_code = "800C0914#00BA"
+
+cheat1621_desc = "物品栏 7B 夹克1"
+cheat1621_handler = "0"
+cheat1621_code = "800C0914#00BB"
+
+cheat1622_desc = "物品栏 7B 夹克2"
+cheat1622_handler = "0"
+cheat1622_code = "800C0914#00BC"
+
+cheat1623_desc = "物品栏 7B 套装1"
+cheat1623_handler = "0"
+cheat1623_code = "800C0914#00BD"
+
+cheat1624_desc = "物品栏 7B 套装2"
+cheat1624_handler = "0"
+cheat1624_code = "800C0914#00BE"
+
+cheat1625_desc = "物品栏 7B 盔甲"
+cheat1625_handler = "0"
+cheat1625_code = "800C0914#00BF"
+
+cheat1626_desc = "物品栏 7CM 背心1"
+cheat1626_handler = "0"
+cheat1626_code = "800C0914#00C0"
+
+cheat1627_desc = "物品栏 7CM 背心2"
+cheat1627_handler = "0"
+cheat1627_code = "800C0914#00C1"
+
+cheat1628_desc = "物品栏 7CM 防护衣"
+cheat1628_handler = "0"
+cheat1628_code = "800C0914#00C2"
+
+cheat1629_desc = "物品栏 7CM 夹克"
+cheat1629_handler = "0"
+cheat1629_code = "800C0914#00C3"
+
+cheat1630_desc = "物品栏 7CM 套装1"
+cheat1630_handler = "0"
+cheat1630_code = "800C0914#00C4"
+
+cheat1631_desc = "物品栏 7CM 盔甲1"
+cheat1631_handler = "0"
+cheat1631_code = "800C0914#00C5"
+
+cheat1632_desc = "物品栏 7CM 盔甲2"
+cheat1632_handler = "0"
+cheat1632_code = "800C0914#00C6"
+
+cheat1633_desc = "物品栏 7CM 套装2"
+cheat1633_handler = "0"
+cheat1633_code = "800C0914#00C7"
+
+cheat1634_desc = "物品栏 7剧院钥匙 (更衣间钥匙)"
+cheat1634_handler = "0"
+cheat1634_code = "800C0914#00C8"
+
+cheat1635_desc = "物品栏 7排练房钥匙"
+cheat1635_handler = "0"
+cheat1635_code = "800C0914#00C9"
+
+cheat1636_desc = "物品栏 7动物园钥匙 (中心公园钥匙)"
+cheat1636_handler = "0"
+cheat1636_code = "800C0914#00CA"
+
+cheat1637_desc = "物品栏 7Narita (护身符)"
+cheat1637_handler = "0"
+cheat1637_code = "800C0914#00CB"
+
+cheat1638_desc = "物品栏 7Mayoke (有用的护身符)"
+cheat1638_handler = "0"
+cheat1638_code = "800C0914#00CC"
+
+cheat1639_desc = "物品栏 7hamaya (特别的护身符)"
+cheat1639_handler = "0"
+cheat1639_code = "800C0914#00CD"
+
+cheat1640_desc = "物品栏 7保险丝1"
+cheat1640_handler = "0"
+cheat1640_code = "800C0914#00CE"
+
+cheat1641_desc = "物品栏 7保险丝2"
+cheat1641_handler = "0"
+cheat1641_code = "800C0914#00CF"
+
+cheat1642_desc = "物品栏 7保险丝3"
+cheat1642_handler = "0"
+cheat1642_code = "800C0914#00D0"
+
+cheat1643_desc = "物品栏 7停尸房钥匙 (医院钥匙)"
+cheat1643_handler = "0"
+cheat1643_code = "800C0914#00D1"
+
+cheat1644_desc = "物品栏 7蓝钥匙"
+cheat1644_handler = "0"
+cheat1644_code = "800C0914#00D2"
+
+cheat1645_desc = "物品栏 7绿钥匙"
+cheat1645_handler = "0"
+cheat1645_code = "800C0914#00D3"
+
+cheat1646_desc = "物品栏 7泵房钥匙"
+cheat1646_handler = "0"
+cheat1646_code = "800C0914#00D4"
+
+cheat1647_desc = "物品栏 7克拉姆的钥匙"
+cheat1647_handler = "0"
+cheat1647_code = "800C0914#00D5"
+
+cheat1648_desc = "物品栏 7储藏室的钥匙 (武器仓库的钥匙)"
+cheat1648_handler = "0"
+cheat1648_code = "800C0914#00D6"
+
+cheat1649_desc = "物品栏 7柜子钥匙"
+cheat1649_handler = "0"
+cheat1649_code = "800C0914#00D7"
+
+cheat1650_desc = "物品栏 7武器备忘录"
+cheat1650_handler = "0"
+cheat1650_code = "800C0914#00D8"
+
+cheat1651_desc = "物品栏 7奖励币"
+cheat1651_handler = "0"
+cheat1651_code = "800C0914#00D9"
+
+cheat1652_desc = "物品栏 7电梯钥匙"
+cheat1652_handler = "0"
+cheat1652_code = "800C0914#00DA"
+
+cheat1653_desc = "物品栏 7地铁大门钥匙"
+cheat1653_handler = "0"
+cheat1653_code = "800C0914#00DB"
+
+cheat1654_desc = "物品栏 7港口仓库钥匙"
+cheat1654_handler = "0"
+cheat1654_code = "800C0914#00DC"
+
+cheat1655_desc = "物品栏 7GSP 交易卡 (武器交易卡)"
+cheat1655_handler = "0"
+cheat1655_code = "800C0914#00DD"
+
+cheat1656_desc = "物品栏 7P38 交易卡 (武器交易卡)"
+cheat1656_handler = "0"
+cheat1656_code = "800C0914#00DE"
+
+cheat1657_desc = "物品栏 7B鹰 交易卡 (武器交易卡)"
+cheat1657_handler = "0"
+cheat1657_code = "800C0914#00DF"
+
+cheat1658_desc = "物品栏 7Kasul 交易卡 (武器交易卡)"
+cheat1658_handler = "0"
+cheat1658_code = "800C0914#00E0"
+
+cheat1659_desc = "物品栏 7PPKS 交易卡 (武器交易卡)"
+cheat1659_handler = "0"
+cheat1659_code = "800C0914#00E1"
+
+cheat1660_desc = "物品栏 7M1 交易卡 (武器交易卡)"
+cheat1660_handler = "0"
+cheat1660_code = "800C0914#00E2"
+
+cheat1661_desc = "物品栏 7MK5 交易卡 (武器交易卡)"
+cheat1661_handler = "0"
+cheat1661_code = "800C0914#00E3"
+
+cheat1662_desc = "物品栏 7MP44 交易卡 (武器交易卡)"
+cheat1662_handler = "0"
+cheat1662_code = "800C0914#00E4"
+
+cheat1663_desc = "物品栏 7BAR 交易卡 (武器交易卡)"
+cheat1663_handler = "0"
+cheat1663_code = "800C0914#00E5"
+
+cheat1664_desc = "物品栏 7MG42 交易卡 (武器交易卡)"
+cheat1664_handler = "0"
+cheat1664_code = "800C0914#00E6"
+
+cheat1665_desc = "物品栏 7M29 交易卡 (武器交易卡)"
+cheat1665_handler = "0"
+cheat1665_code = "800C0914#00E7"
+
+cheat1666_desc = "物品栏 7M73 交易卡 (武器交易卡)"
+cheat1666_handler = "0"
+cheat1666_code = "800C0914#00E8"
+
+cheat1667_desc = "物品栏 738型 交易卡 (武器交易卡)"
+cheat1667_handler = "0"
+cheat1667_code = "800C0914#00E9"
+
+cheat1668_desc = "物品栏 73型 交易卡 (武器交易卡)"
+cheat1668_handler = "0"
+cheat1668_code = "800C0914#00EA"
+
+cheat1669_desc = "物品栏 7鹰 交易卡 (武器交易卡)"
+cheat1669_handler = "0"
+cheat1669_code = "800C0914#00EB"
+
+cheat1670_desc = "物品栏 8NONE"
+cheat1670_handler = "0"
+cheat1670_code = "800C0916#0000"
+
+cheat1671_desc = "物品栏 8子弹 X6"
+cheat1671_handler = "0"
+cheat1671_code = "800C0916#0001"
+
+cheat1672_desc = "物品栏 8子弹 X15"
+cheat1672_handler = "0"
+cheat1672_code = "800C0916#0002"
+
+cheat1673_desc = "物品栏 8子弹 X30"
+cheat1673_handler = "0"
+cheat1673_code = "800C0916#0003"
+
+cheat1674_desc = "物品栏 8前田的子弹"
+cheat1674_handler = "0"
+cheat1674_code = "800C0916#0004"
+
+cheat1675_desc = "物品栏 8火箭弹"
+cheat1675_handler = "0"
+cheat1675_code = "800C0916#0005"
+
+cheat1676_desc = "物品栏 8恢复药(恢复 45)"
+cheat1676_handler = "0"
+cheat1676_code = "800C0916#0006"
+
+cheat1677_desc = "物品栏 8恢复药(恢复 90)90"
+cheat1677_handler = "0"
+cheat1677_code = "800C0916#0007"
+
+cheat1678_desc = "物品栏 8恢复药(恢复 180)180"
+cheat1678_handler = "0"
+cheat1678_code = "800C0916#0008"
+
+cheat1679_desc = "物品栏 8恢复药(恢复 400)400"
+cheat1679_handler = "0"
+cheat1679_code = "800C0916#0009"
+
+cheat1680_desc = "物品栏 8完全恢复药"
+cheat1680_handler = "0"
+cheat1680_code = "800C0916#000A"
+
+cheat1681_desc = "物品栏 8超级零件"
+cheat1681_handler = "0"
+cheat1681_code = "800C0916#000B"
+
+cheat1682_desc = "物品栏 8骗子零件"
+cheat1682_handler = "0"
+cheat1682_code = "800C0916#000C"
+
+cheat1683_desc = "物品栏 8毒治疗药"
+cheat1683_handler = "0"
+cheat1683_code = "800C0916#000D"
+
+cheat1684_desc = "物品栏 8黑暗治疗药"
+cheat1684_handler = "0"
+cheat1684_code = "800C0916#000E"
+
+cheat1685_desc = "物品栏 8混乱治疗药"
+cheat1685_handler = "0"
+cheat1685_code = "800C0916#000F"
+
+cheat1686_desc = "物品栏 8移动限制治疗药"
+cheat1686_handler = "0"
+cheat1686_code = "800C0916#0010"
+
+cheat1687_desc = "物品栏 8万能药"
+cheat1687_handler = "0"
+cheat1687_code = "800C0916#0011"
+
+cheat1688_desc = "物品栏 8复活药"
+cheat1688_handler = "0"
+cheat1688_code = "800C0916#0012"
+
+cheat1689_desc = "物品栏 8防御力 +1"
+cheat1689_handler = "0"
+cheat1689_code = "800C0916#0013"
+
+cheat1690_desc = "物品栏 8零件"
+cheat1690_handler = "0"
+cheat1690_code = "800C0916#0014"
+
+cheat1691_desc = "物品栏 8交易卡"
+cheat1691_handler = "0"
+cheat1691_code = "800C0916#0015"
+
+cheat1692_desc = "物品栏 8工具"
+cheat1692_handler = "0"
+cheat1692_code = "800C0916#0016"
+
+cheat1693_desc = "物品栏 8万能工具"
+cheat1693_handler = "0"
+cheat1693_code = "800C0916#0017"
+
+cheat1694_desc = "物品栏 8道具 24"
+cheat1694_handler = "0"
+cheat1694_code = "800C0916#0018"
+
+cheat1695_desc = "物品栏 8道具 25"
+cheat1695_handler = "0"
+cheat1695_code = "800C0916#0019"
+
+cheat1696_desc = "物品栏 8弹药箱"
+cheat1696_handler = "0"
+cheat1696_code = "800C0916#001A"
+
+cheat1697_desc = "物品栏 8火箭弹药箱"
+cheat1697_handler = "0"
+cheat1697_code = "800C0916#001B"
+
+cheat1698_desc = "物品栏 8前田的弹药箱"
+cheat1698_handler = "0"
+cheat1698_code = "800C0916#001C"
+
+cheat1699_desc = "物品栏 8攻击力 +1"
+cheat1699_handler = "0"
+cheat1699_code = "800C0916#001D"
+
+cheat1700_desc = "物品栏 8攻击力 +2"
+cheat1700_handler = "0"
+cheat1700_code = "800C0916#001E"
+
+cheat1701_desc = "物品栏 8攻击力 +3"
+cheat1701_handler = "0"
+cheat1701_code = "800C0916#001F"
+
+cheat1702_desc = "物品栏 8攻击力 +4"
+cheat1702_handler = "0"
+cheat1702_code = "800C0916#0020"
+
+cheat1703_desc = "物品栏 8命中率 +1"
+cheat1703_handler = "0"
+cheat1703_code = "800C0916#0021"
+
+cheat1704_desc = "物品栏 8命中率 +2"
+cheat1704_handler = "0"
+cheat1704_code = "800C0916#0022"
+
+cheat1705_desc = "物品栏 8命中率 +3"
+cheat1705_handler = "0"
+cheat1705_code = "800C0916#0023"
+
+cheat1706_desc = "物品栏 8命中率 +4"
+cheat1706_handler = "0"
+cheat1706_code = "800C0916#0024"
+
+cheat1707_desc = "物品栏 8装弹数 +1"
+cheat1707_handler = "0"
+cheat1707_code = "800C0916#0025"
+
+cheat1708_desc = "物品栏 8装弹数 +2"
+cheat1708_handler = "0"
+cheat1708_code = "800C0916#0026"
+
+cheat1709_desc = "物品栏 8装弹数 +3"
+cheat1709_handler = "0"
+cheat1709_code = "800C0916#0027"
+
+cheat1710_desc = "物品栏 8装弹数 +4"
+cheat1710_handler = "0"
+cheat1710_code = "800C0916#0028"
+
+cheat1711_desc = "物品栏 8防御力 +1"
+cheat1711_handler = "0"
+cheat1711_code = "800C0916#0029"
+
+cheat1712_desc = "物品栏 8防御力 +2"
+cheat1712_handler = "0"
+cheat1712_code = "800C0916#002A"
+
+cheat1713_desc = "物品栏 8防御力 +3"
+cheat1713_handler = "0"
+cheat1713_code = "800C0916#002B"
+
+cheat1714_desc = "物品栏 8防御力 +4"
+cheat1714_handler = "0"
+cheat1714_code = "800C0916#002C"
+
+cheat1715_desc = "物品栏 8CR回避 +1"
+cheat1715_handler = "0"
+cheat1715_code = "800C0916#002D"
+
+cheat1716_desc = "物品栏 8CR回避 +2"
+cheat1716_handler = "0"
+cheat1716_code = "800C0916#002E"
+
+cheat1717_desc = "物品栏 8CR回避 +3"
+cheat1717_handler = "0"
+cheat1717_code = "800C0916#002F"
+
+cheat1718_desc = "物品栏 8CR回避 +4"
+cheat1718_handler = "0"
+cheat1718_code = "800C0916#0030"
+
+cheat1719_desc = "物品栏 8PE防御力 +1"
+cheat1719_handler = "0"
+cheat1719_code = "800C0916#0031"
+
+cheat1720_desc = "物品栏 8PE防御力 +2"
+cheat1720_handler = "0"
+cheat1720_code = "800C0916#0032"
+
+cheat1721_desc = "物品栏 8PE防御力 +3"
+cheat1721_handler = "0"
+cheat1721_code = "800C0916#0033"
+
+cheat1722_desc = "物品栏 8PE防御力 +4"
+cheat1722_handler = "0"
+cheat1722_code = "800C0916#0034"
+
+cheat1723_desc = "物品栏 8工具组"
+cheat1723_handler = "0"
+cheat1723_code = "800C0916#0035"
+
+cheat1724_desc = "物品栏 8万能工具组"
+cheat1724_handler = "0"
+cheat1724_code = "800C0916#0036"
+
+cheat1725_desc = "物品栏 8改造许可证"
+cheat1725_handler = "0"
+cheat1725_code = "800C0916#0037"
+
+cheat1726_desc = "物品栏 8大楼钥匙1 (到10楼去的钥匙)"
+cheat1726_handler = "0"
+cheat1726_code = "800C0916#0038"
+
+cheat1727_desc = "物品栏 8大楼钥匙2 (到20楼去的钥匙)"
+cheat1727_handler = "0"
+cheat1727_code = "800C0916#0039"
+
+cheat1728_desc = "物品栏 8大楼钥匙3 (到30楼去的钥匙)"
+cheat1728_handler = "0"
+cheat1728_code = "800C0916#003A"
+
+cheat1729_desc = "物品栏 8大楼钥匙4 (到40楼去的钥匙)"
+cheat1729_handler = "0"
+cheat1729_code = "800C0916#003B"
+
+cheat1730_desc = "物品栏 8大楼钥匙5 (到50楼去的钥匙)"
+cheat1730_handler = "0"
+cheat1730_code = "800C0916#003C"
+
+cheat1731_desc = "物品栏 8大楼钥匙6 (到60楼去的钥匙)"
+cheat1731_handler = "0"
+cheat1731_code = "800C0916#003D"
+
+cheat1732_desc = "物品栏 8大楼钥匙7 (到70楼去的钥匙)"
+cheat1732_handler = "0"
+cheat1732_code = "800C0916#003E"
+
+cheat1733_desc = "物品栏 8警棍1"
+cheat1733_handler = "0"
+cheat1733_code = "800C0916#003F"
+
+cheat1734_desc = "物品栏 8警棍2"
+cheat1734_handler = "0"
+cheat1734_code = "800C0916#0040"
+
+cheat1735_desc = "物品栏 8警棍3"
+cheat1735_handler = "0"
+cheat1735_code = "800C0916#0041"
+
+cheat1736_desc = "物品栏 8警棍4"
+cheat1736_handler = "0"
+cheat1736_code = "800C0916#0042"
+
+cheat1737_desc = "物品栏 8警棍5"
+cheat1737_handler = "0"
+cheat1737_code = "800C0916#0043"
+
+cheat1738_desc = "物品栏 8M84F (手枪)"
+cheat1738_handler = "0"
+cheat1738_code = "800C0916#0044"
+
+cheat1739_desc = "物品栏 8M9 (手枪)"
+cheat1739_handler = "0"
+cheat1739_code = "800C0916#0045"
+
+cheat1740_desc = "物品栏 8M9改 (手枪)"
+cheat1740_handler = "0"
+cheat1740_code = "800C0916#0046"
+
+cheat1741_desc = "物品栏 8M9改2 (手枪)"
+cheat1741_handler = "0"
+cheat1741_code = "800C0916#0047"
+
+cheat1742_desc = "物品栏 8M8000 (手枪)"
+cheat1742_handler = "0"
+cheat1742_code = "800C0916#0048"
+
+cheat1743_desc = "物品栏 8M96 (手枪)"
+cheat1743_handler = "0"
+cheat1743_code = "800C0916#0049"
+
+cheat1744_desc = "物品栏 8M96R (手枪)"
+cheat1744_handler = "0"
+cheat1744_code = "800C0916#004A"
+
+cheat1745_desc = "物品栏 8P220 (手枪)"
+cheat1745_handler = "0"
+cheat1745_code = "800C0916#004B"
+
+cheat1746_desc = "物品栏 8P220改 (手枪)"
+cheat1746_handler = "0"
+cheat1746_code = "800C0916#004C"
+
+cheat1747_desc = "物品栏 8P228 (手枪)"
+cheat1747_handler = "0"
+cheat1747_code = "800C0916#004D"
+
+cheat1748_desc = "物品栏 8P226 (手枪)"
+cheat1748_handler = "0"
+cheat1748_code = "800C0916#004E"
+
+cheat1749_desc = "物品栏 8229 (手枪)"
+cheat1749_handler = "0"
+cheat1749_code = "800C0916#004F"
+
+cheat1750_desc = "物品栏 8M1911A1 (手枪)"
+cheat1750_handler = "0"
+cheat1750_code = "800C0916#0050"
+
+cheat1751_desc = "物品栏 8M1911A2 (手枪)"
+cheat1751_handler = "0"
+cheat1751_code = "800C0916#0051"
+
+cheat1752_desc = "物品栏 8M1911A3 (手枪)"
+cheat1752_handler = "0"
+cheat1752_code = "800C0916#0052"
+
+cheat1753_desc = "物品栏 8M1911A4 (手枪)"
+cheat1753_handler = "0"
+cheat1753_code = "800C0916#0053"
+
+cheat1754_desc = "物品栏 8M1911A5 (手枪)"
+cheat1754_handler = "0"
+cheat1754_code = "800C0916#0054"
+
+cheat1755_desc = "物品栏 8P8 (手枪)"
+cheat1755_handler = "0"
+cheat1755_code = "800C0916#0055"
+
+cheat1756_desc = "物品栏 8USP (手枪)"
+cheat1756_handler = "0"
+cheat1756_code = "800C0916#0056"
+
+cheat1757_desc = "物品栏 8USP改 (手枪)"
+cheat1757_handler = "0"
+cheat1757_code = "800C0916#0057"
+
+cheat1758_desc = "物品栏 8USP改2 (手枪)"
+cheat1758_handler = "0"
+cheat1758_code = "800C0916#0058"
+
+cheat1759_desc = "物品栏 8Mark23 (手枪)"
+cheat1759_handler = "0"
+cheat1759_code = "800C0916#0059"
+
+cheat1760_desc = "物品栏 8G19 (手枪)"
+cheat1760_handler = "0"
+cheat1760_code = "800C0916#005A"
+
+cheat1761_desc = "物品栏 8G23 (手枪)"
+cheat1761_handler = "0"
+cheat1761_code = "800C0916#005B"
+
+cheat1762_desc = "物品栏 8G22 (手枪)"
+cheat1762_handler = "0"
+cheat1762_code = "800C0916#005C"
+
+cheat1763_desc = "物品栏 8G20 (手枪)"
+cheat1763_handler = "0"
+cheat1763_code = "800C0916#005D"
+
+cheat1764_desc = "物品栏 8M712 (手枪)"
+cheat1764_handler = "0"
+cheat1764_code = "800C0916#005E"
+
+cheat1765_desc = "物品栏 8PPK (手枪)"
+cheat1765_handler = "0"
+cheat1765_code = "800C0916#005F"
+
+cheat1766_desc = "物品栏 8AM44"
+cheat1766_handler = "0"
+cheat1766_code = "800C0916#0060"
+
+cheat1767_desc = "物品栏 8前田的枪"
+cheat1767_handler = "0"
+cheat1767_code = "800C0916#0061"
+
+cheat1768_desc = "物品栏 8PPSh41 (机关枪)"
+cheat1768_handler = "0"
+cheat1768_code = "800C0916#0062"
+
+cheat1769_desc = "物品栏 8SP1C (手枪)"
+cheat1769_handler = "0"
+cheat1769_code = "800C0916#0063"
+
+cheat1770_desc = "物品栏 8USP-TU (手枪)"
+cheat1770_handler = "0"
+cheat1770_code = "800C0916#0064"
+
+cheat1771_desc = "物品栏 8AK47 (来复枪)"
+cheat1771_handler = "0"
+cheat1771_code = "800C0916#0065"
+
+cheat1772_desc = "物品栏 8DE50AE2"
+cheat1772_handler = "0"
+cheat1772_code = "800C0916#0066"
+
+cheat1773_desc = "物品栏 8特别的SMG"
+cheat1773_handler = "0"
+cheat1773_code = "800C0916#0067"
+
+cheat1774_desc = "物品栏 8M870 (霰弹枪)"
+cheat1774_handler = "0"
+cheat1774_code = "800C0916#0068"
+
+cheat1775_desc = "物品栏 8M870 改1 (霰弹枪)"
+cheat1775_handler = "0"
+cheat1775_code = "800C0916#0069"
+
+cheat1776_desc = "物品栏 8M500 (霰弹枪)"
+cheat1776_handler = "0"
+cheat1776_code = "800C0916#006A"
+
+cheat1777_desc = "物品栏 8M500 改1 (霰弹枪)"
+cheat1777_handler = "0"
+cheat1777_code = "800C0916#006B"
+
+cheat1778_desc = "物品栏 8Maverick (霰弹枪)"
+cheat1778_handler = "0"
+cheat1778_code = "800C0916#006C"
+
+cheat1779_desc = "物品栏 8S12 (霰弹枪)"
+cheat1779_handler = "0"
+cheat1779_code = "800C0916#006D"
+
+cheat1780_desc = "物品栏 8M10B (霰弹枪)"
+cheat1780_handler = "0"
+cheat1780_code = "800C0916#006E"
+
+cheat1781_desc = "物品栏 8M11 (机关枪)"
+cheat1781_handler = "0"
+cheat1781_code = "800C0916#006F"
+
+cheat1782_desc = "物品栏 8M11 (机关枪)"
+cheat1782_handler = "0"
+cheat1782_code = "800C0916#0070"
+
+cheat1783_desc = "物品栏 8MP5K (机关枪)"
+cheat1783_handler = "0"
+cheat1783_code = "800C0916#0071"
+
+cheat1784_desc = "物品栏 8MP5PDW (机关枪)"
+cheat1784_handler = "0"
+cheat1784_code = "800C0916#0072"
+
+cheat1785_desc = "物品栏 8MP5A5 (机关枪)"
+cheat1785_handler = "0"
+cheat1785_code = "800C0916#0073"
+
+cheat1786_desc = "物品栏 8MP5SD6 (机关枪)"
+cheat1786_handler = "0"
+cheat1786_code = "800C0916#0074"
+
+cheat1787_desc = "物品栏 8MicroUZ (机关枪)"
+cheat1787_handler = "0"
+cheat1787_code = "800C0916#0075"
+
+cheat1788_desc = "物品栏 8MiniUZ (机关枪)"
+cheat1788_handler = "0"
+cheat1788_code = "800C0916#0076"
+
+cheat1789_desc = "物品栏 8FullUZ (机关枪)"
+cheat1789_handler = "0"
+cheat1789_code = "800C0916#0077"
+
+cheat1790_desc = "物品栏 8P90 (机关枪)"
+cheat1790_handler = "0"
+cheat1790_code = "800C0916#0078"
+
+cheat1791_desc = "物品栏 8M16A1 (来复枪)"
+cheat1791_handler = "0"
+cheat1791_code = "800C0916#0079"
+
+cheat1792_desc = "物品栏 8M16A2 (来复枪)"
+cheat1792_handler = "0"
+cheat1792_code = "800C0916#007A"
+
+cheat1793_desc = "物品栏 8SG550 (来复枪)"
+cheat1793_handler = "0"
+cheat1793_code = "800C0916#007B"
+
+cheat1794_desc = "物品栏 8SAR (来复枪)"
+cheat1794_handler = "0"
+cheat1794_code = "800C0916#007C"
+
+cheat1795_desc = "物品栏 8G3A3 (来复枪)"
+cheat1795_handler = "0"
+cheat1795_code = "800C0916#007D"
+
+cheat1796_desc = "物品栏 864型 (来复枪)"
+cheat1796_handler = "0"
+cheat1796_code = "800C0916#007E"
+
+cheat1797_desc = "物品栏 8XM177E2 (来复枪)"
+cheat1797_handler = "0"
+cheat1797_code = "800C0916#007F"
+
+cheat1798_desc = "物品栏 8PSG-1 (来复枪)"
+cheat1798_handler = "0"
+cheat1798_code = "800C0916#0080"
+
+cheat1799_desc = "物品栏 8FA-MAS (来复枪)"
+cheat1799_handler = "0"
+cheat1799_code = "800C0916#0081"
+
+cheat1800_desc = "物品栏 8MAG (来复枪)"
+cheat1800_handler = "0"
+cheat1800_code = "800C0916#0082"
+
+cheat1801_desc = "物品栏 8M203 (榴弹发射器)"
+cheat1801_handler = "0"
+cheat1801_code = "800C0916#0083"
+
+cheat1802_desc = "物品栏 8M203改1 (榴弹发射器)"
+cheat1802_handler = "0"
+cheat1802_code = "800C0916#0084"
+
+cheat1803_desc = "物品栏 8M203改2 (榴弹发射器)"
+cheat1803_handler = "0"
+cheat1803_code = "800C0916#0085"
+
+cheat1804_desc = "物品栏 8M203改3 (榴弹发射器)"
+cheat1804_handler = "0"
+cheat1804_code = "800C0916#0086"
+
+cheat1805_desc = "物品栏 8M203改4 (榴弹发射器)"
+cheat1805_handler = "0"
+cheat1805_code = "800C0916#0087"
+
+cheat1806_desc = "物品栏 8M203改6 (榴弹发射器)"
+cheat1806_handler = "0"
+cheat1806_code = "800C0916#0088"
+
+cheat1807_desc = "物品栏 8M79 (榴弹发射器)"
+cheat1807_handler = "0"
+cheat1807_code = "800C0916#0089"
+
+cheat1808_desc = "物品栏 8M79改1 (榴弹发射器)"
+cheat1808_handler = "0"
+cheat1808_code = "800C0916#008A"
+
+cheat1809_desc = "物品栏 8M79改2 (榴弹发射器)"
+cheat1809_handler = "0"
+cheat1809_code = "800C0916#008B"
+
+cheat1810_desc = "物品栏 8M79改3 (榴弹发射器)"
+cheat1810_handler = "0"
+cheat1810_code = "800C0916#008C"
+
+cheat1811_desc = "物品栏 8M79改4 (榴弹发射器)"
+cheat1811_handler = "0"
+cheat1811_code = "800C0916#008D"
+
+cheat1812_desc = "物品栏 8M79改5 (榴弹发射器)"
+cheat1812_handler = "0"
+cheat1812_code = "800C0916#008E"
+
+cheat1813_desc = "物品栏 8HK40 (榴弹发射器)"
+cheat1813_handler = "0"
+cheat1813_code = "800C0916#008F"
+
+cheat1814_desc = "物品栏 8AT4 (火箭筒)"
+cheat1814_handler = "0"
+cheat1814_code = "800C0916#0090"
+
+cheat1815_desc = "物品栏 8AT4 (火箭筒)"
+cheat1815_handler = "0"
+cheat1815_code = "800C0916#0091"
+
+cheat1816_desc = "物品栏 8LAW80 (火箭筒)"
+cheat1816_handler = "0"
+cheat1816_code = "800C0916#0092"
+
+cheat1817_desc = "物品栏 8前田的枪"
+cheat1817_handler = "0"
+cheat1817_code = "800C0916#0093"
+
+cheat1818_desc = "物品栏 8M92F (手枪)"
+cheat1818_handler = "0"
+cheat1818_code = "800C0916#0094"
+
+cheat1819_desc = "物品栏 8女装 (女礼服)"
+cheat1819_handler = "0"
+cheat1819_code = "800C0916#0095"
+
+cheat1820_desc = "物品栏 8N 背心"
+cheat1820_handler = "0"
+cheat1820_code = "800C0916#0096"
+
+cheat1821_desc = "物品栏 8N 防护衣"
+cheat1821_handler = "0"
+cheat1821_code = "800C0916#0097"
+
+cheat1822_desc = "物品栏 8N 夹克"
+cheat1822_handler = "0"
+cheat1822_code = "800C0916#0098"
+
+cheat1823_desc = "物品栏 8N 套装"
+cheat1823_handler = "0"
+cheat1823_code = "800C0916#0099"
+
+cheat1824_desc = "物品栏 8N 盔甲"
+cheat1824_handler = "0"
+cheat1824_code = "800C0916#009A"
+
+cheat1825_desc = "物品栏 8KV 背心1"
+cheat1825_handler = "0"
+cheat1825_code = "800C0916#009B"
+
+cheat1826_desc = "物品栏 8KV 防护衣"
+cheat1826_handler = "0"
+cheat1826_code = "800C0916#009C"
+
+cheat1827_desc = "物品栏 8KV 夹克"
+cheat1827_handler = "0"
+cheat1827_code = "800C0916#009D"
+
+cheat1828_desc = "物品栏 8KV 套装"
+cheat1828_handler = "0"
+cheat1828_code = "800C0916#009E"
+
+cheat1829_desc = "物品栏 8KV 盔甲"
+cheat1829_handler = "0"
+cheat1829_code = "800C0916#009F"
+
+cheat1830_desc = "物品栏 8SP 背心1"
+cheat1830_handler = "0"
+cheat1830_code = "800C0916#00A0"
+
+cheat1831_desc = "物品栏 8SP 背心2"
+cheat1831_handler = "0"
+cheat1831_code = "800C0916#00A1"
+
+cheat1832_desc = "物品栏 8SP 防护衣"
+cheat1832_handler = "0"
+cheat1832_code = "800C0916#00A2"
+
+cheat1833_desc = "物品栏 8SP 夹克"
+cheat1833_handler = "0"
+cheat1833_code = "800C0916#00A3"
+
+cheat1834_desc = "物品栏 8SP 套装1"
+cheat1834_handler = "0"
+cheat1834_code = "800C0916#00A4"
+
+cheat1835_desc = "物品栏 8SP 套装2"
+cheat1835_handler = "0"
+cheat1835_code = "800C0916#00A5"
+
+cheat1836_desc = "物品栏 8SP 盔甲1"
+cheat1836_handler = "0"
+cheat1836_code = "800C0916#00A6"
+
+cheat1837_desc = "物品栏 8SP 盔甲2"
+cheat1837_handler = "0"
+cheat1837_code = "800C0916#00A7"
+
+cheat1838_desc = "物品栏 8SV 背心1"
+cheat1838_handler = "0"
+cheat1838_code = "800C0916#00A8"
+
+cheat1839_desc = "物品栏 8SV 背心2"
+cheat1839_handler = "0"
+cheat1839_code = "800C0916#00A9"
+
+cheat1840_desc = "物品栏 8SV 防护衣"
+cheat1840_handler = "0"
+cheat1840_code = "800C0916#00AA"
+
+cheat1841_desc = "物品栏 8SV 夹克"
+cheat1841_handler = "0"
+cheat1841_code = "800C0916#00AB"
+
+cheat1842_desc = "物品栏 8SV 套装1"
+cheat1842_handler = "0"
+cheat1842_code = "800C0916#00AC"
+
+cheat1843_desc = "物品栏 8SV 套装2"
+cheat1843_handler = "0"
+cheat1843_code = "800C0916#00AD"
+
+cheat1844_desc = "物品栏 8SV 盔甲1"
+cheat1844_handler = "0"
+cheat1844_code = "800C0916#00AE"
+
+cheat1845_desc = "物品栏 8SV 盔甲2"
+cheat1845_handler = "0"
+cheat1845_code = "800C0916#00AF"
+
+cheat1846_desc = "物品栏 8CR 背心1"
+cheat1846_handler = "0"
+cheat1846_code = "800C0916#00B0"
+
+cheat1847_desc = "物品栏 8CR 背心2"
+cheat1847_handler = "0"
+cheat1847_code = "800C0916#00B1"
+
+cheat1848_desc = "物品栏 8CR 防护衣"
+cheat1848_handler = "0"
+cheat1848_code = "800C0916#00B2"
+
+cheat1849_desc = "物品栏 8CR 夹克"
+cheat1849_handler = "0"
+cheat1849_code = "800C0916#00B3"
+
+cheat1850_desc = "物品栏 8CR 套装1"
+cheat1850_handler = "0"
+cheat1850_code = "800C0916#00B4"
+
+cheat1851_desc = "物品栏 8CR 套装2"
+cheat1851_handler = "0"
+cheat1851_code = "800C0916#00B5"
+
+cheat1852_desc = "物品栏 8CR 盔甲1"
+cheat1852_handler = "0"
+cheat1852_code = "800C0916#00B6"
+
+cheat1853_desc = "物品栏 8CR 盔甲2"
+cheat1853_handler = "0"
+cheat1853_code = "800C0916#00B7"
+
+cheat1854_desc = "物品栏 8B 背心1"
+cheat1854_handler = "0"
+cheat1854_code = "800C0916#00B8"
+
+cheat1855_desc = "物品栏 8B 背心2"
+cheat1855_handler = "0"
+cheat1855_code = "800C0916#00B9"
+
+cheat1856_desc = "物品栏 8B 防护衣"
+cheat1856_handler = "0"
+cheat1856_code = "800C0916#00BA"
+
+cheat1857_desc = "物品栏 8B 夹克1"
+cheat1857_handler = "0"
+cheat1857_code = "800C0916#00BB"
+
+cheat1858_desc = "物品栏 8B 夹克2"
+cheat1858_handler = "0"
+cheat1858_code = "800C0916#00BC"
+
+cheat1859_desc = "物品栏 8B 套装1"
+cheat1859_handler = "0"
+cheat1859_code = "800C0916#00BD"
+
+cheat1860_desc = "物品栏 8B 套装2"
+cheat1860_handler = "0"
+cheat1860_code = "800C0916#00BE"
+
+cheat1861_desc = "物品栏 8B 盔甲"
+cheat1861_handler = "0"
+cheat1861_code = "800C0916#00BF"
+
+cheat1862_desc = "物品栏 8CM 背心1"
+cheat1862_handler = "0"
+cheat1862_code = "800C0916#00C0"
+
+cheat1863_desc = "物品栏 8CM 背心2"
+cheat1863_handler = "0"
+cheat1863_code = "800C0916#00C1"
+
+cheat1864_desc = "物品栏 8CM 防护衣"
+cheat1864_handler = "0"
+cheat1864_code = "800C0916#00C2"
+
+cheat1865_desc = "物品栏 8CM 夹克"
+cheat1865_handler = "0"
+cheat1865_code = "800C0916#00C3"
+
+cheat1866_desc = "物品栏 8CM 套装1"
+cheat1866_handler = "0"
+cheat1866_code = "800C0916#00C4"
+
+cheat1867_desc = "物品栏 8CM 盔甲1"
+cheat1867_handler = "0"
+cheat1867_code = "800C0916#00C5"
+
+cheat1868_desc = "物品栏 8CM 盔甲2"
+cheat1868_handler = "0"
+cheat1868_code = "800C0916#00C6"
+
+cheat1869_desc = "物品栏 8CM 套装2"
+cheat1869_handler = "0"
+cheat1869_code = "800C0916#00C7"
+
+cheat1870_desc = "物品栏 8剧院钥匙 (更衣间钥匙)"
+cheat1870_handler = "0"
+cheat1870_code = "800C0916#00C8"
+
+cheat1871_desc = "物品栏 8排练房钥匙"
+cheat1871_handler = "0"
+cheat1871_code = "800C0916#00C9"
+
+cheat1872_desc = "物品栏 8动物园钥匙 (中心公园钥匙)"
+cheat1872_handler = "0"
+cheat1872_code = "800C0916#00CA"
+
+cheat1873_desc = "物品栏 8Narita (护身符)"
+cheat1873_handler = "0"
+cheat1873_code = "800C0916#00CB"
+
+cheat1874_desc = "物品栏 8Mayoke (有用的护身符)"
+cheat1874_handler = "0"
+cheat1874_code = "800C0916#00CC"
+
+cheat1875_desc = "物品栏 8hamaya (特别的护身符)"
+cheat1875_handler = "0"
+cheat1875_code = "800C0916#00CD"
+
+cheat1876_desc = "物品栏 8保险丝1"
+cheat1876_handler = "0"
+cheat1876_code = "800C0916#00CE"
+
+cheat1877_desc = "物品栏 8保险丝2"
+cheat1877_handler = "0"
+cheat1877_code = "800C0916#00CF"
+
+cheat1878_desc = "物品栏 8保险丝3"
+cheat1878_handler = "0"
+cheat1878_code = "800C0916#00D0"
+
+cheat1879_desc = "物品栏 8停尸房钥匙 (医院钥匙)"
+cheat1879_handler = "0"
+cheat1879_code = "800C0916#00D1"
+
+cheat1880_desc = "物品栏 8蓝钥匙"
+cheat1880_handler = "0"
+cheat1880_code = "800C0916#00D2"
+
+cheat1881_desc = "物品栏 8绿钥匙"
+cheat1881_handler = "0"
+cheat1881_code = "800C0916#00D3"
+
+cheat1882_desc = "物品栏 8泵房钥匙"
+cheat1882_handler = "0"
+cheat1882_code = "800C0916#00D4"
+
+cheat1883_desc = "物品栏 8克拉姆的钥匙"
+cheat1883_handler = "0"
+cheat1883_code = "800C0916#00D5"
+
+cheat1884_desc = "物品栏 8储藏室的钥匙 (武器仓库的钥匙)"
+cheat1884_handler = "0"
+cheat1884_code = "800C0916#00D6"
+
+cheat1885_desc = "物品栏 8柜子钥匙"
+cheat1885_handler = "0"
+cheat1885_code = "800C0916#00D7"
+
+cheat1886_desc = "物品栏 8武器备忘录"
+cheat1886_handler = "0"
+cheat1886_code = "800C0916#00D8"
+
+cheat1887_desc = "物品栏 8奖励币"
+cheat1887_handler = "0"
+cheat1887_code = "800C0916#00D9"
+
+cheat1888_desc = "物品栏 8电梯钥匙"
+cheat1888_handler = "0"
+cheat1888_code = "800C0916#00DA"
+
+cheat1889_desc = "物品栏 8地铁大门钥匙"
+cheat1889_handler = "0"
+cheat1889_code = "800C0916#00DB"
+
+cheat1890_desc = "物品栏 8港口仓库钥匙"
+cheat1890_handler = "0"
+cheat1890_code = "800C0916#00DC"
+
+cheat1891_desc = "物品栏 8GSP 交易卡 (武器交易卡)"
+cheat1891_handler = "0"
+cheat1891_code = "800C0916#00DD"
+
+cheat1892_desc = "物品栏 8P38 交易卡 (武器交易卡)"
+cheat1892_handler = "0"
+cheat1892_code = "800C0916#00DE"
+
+cheat1893_desc = "物品栏 8B鹰 交易卡 (武器交易卡)"
+cheat1893_handler = "0"
+cheat1893_code = "800C0916#00DF"
+
+cheat1894_desc = "物品栏 8Kasul 交易卡 (武器交易卡)"
+cheat1894_handler = "0"
+cheat1894_code = "800C0916#00E0"
+
+cheat1895_desc = "物品栏 8PPKS 交易卡 (武器交易卡)"
+cheat1895_handler = "0"
+cheat1895_code = "800C0916#00E1"
+
+cheat1896_desc = "物品栏 8M1 交易卡 (武器交易卡)"
+cheat1896_handler = "0"
+cheat1896_code = "800C0916#00E2"
+
+cheat1897_desc = "物品栏 8MK5 交易卡 (武器交易卡)"
+cheat1897_handler = "0"
+cheat1897_code = "800C0916#00E3"
+
+cheat1898_desc = "物品栏 8MP44 交易卡 (武器交易卡)"
+cheat1898_handler = "0"
+cheat1898_code = "800C0916#00E4"
+
+cheat1899_desc = "物品栏 8BAR 交易卡 (武器交易卡)"
+cheat1899_handler = "0"
+cheat1899_code = "800C0916#00E5"
+
+cheat1900_desc = "物品栏 8MG42 交易卡 (武器交易卡)"
+cheat1900_handler = "0"
+cheat1900_code = "800C0916#00E6"
+
+cheat1901_desc = "物品栏 8M29 交易卡 (武器交易卡)"
+cheat1901_handler = "0"
+cheat1901_code = "800C0916#00E7"
+
+cheat1902_desc = "物品栏 8M73 交易卡 (武器交易卡)"
+cheat1902_handler = "0"
+cheat1902_code = "800C0916#00E8"
+
+cheat1903_desc = "物品栏 838型 交易卡 (武器交易卡)"
+cheat1903_handler = "0"
+cheat1903_code = "800C0916#00E9"
+
+cheat1904_desc = "物品栏 83型 交易卡 (武器交易卡)"
+cheat1904_handler = "0"
+cheat1904_code = "800C0916#00EA"
+
+cheat1905_desc = "物品栏 8鹰 交易卡 (武器交易卡)"
+cheat1905_handler = "0"
+cheat1905_code = "800C0916#00EB"
+
+cheat1906_desc = "特别代码行走加速"
+cheat1906_handler = "0"
+cheat1906_code = "80070BF0#000A"
+
+cheat1907_desc = "特别代码跑步加速"
+cheat1907_handler = "0"
+cheat1907_code = "80070E70#002C"
+
+cheats = 1908

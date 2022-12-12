@@ -1,0 +1,9 @@
+cheat0_desc = "hp"
+cheat0_handler = "2"
+cheat0_code = "30ED,48"
+
+cheat1_desc = "分數"
+cheat1_handler = "2"
+cheat1_code = "312D,FF,FF,0"
+
+cheats = 2

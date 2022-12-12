@@ -139,7 +139,7 @@ then
     sed -i "/input_save_state_btn/d" ${RACONF}
     sed -i "/input_load_state_btn/d" ${RACONF}
     cat <<EOF >>${RACONF}
-input_enable_hotkey_btn = "${input_select_btn}"
+input_enable_hotkey_btn = "${DEVICE_BTN_MODE}"
 input_bind_hold = "${input_select_btn}"
 input_exit_emulator_btn = "${input_start_btn}"
 input_fps_toggle_btn = "${input_y_btn}"

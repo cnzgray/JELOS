@@ -1,0 +1,33 @@
+cheat0_desc = "能源HOT VIOLET"
+cheat0_handler = "2"
+cheat0_code = "12DEB,64"
+
+cheat1_desc = "能源FIRE BALL"
+cheat1_handler = "2"
+cheat1_code = "12EB7,64"
+
+cheat2_desc = "能源J.B.CRYSTAL"
+cheat2_handler = "2"
+cheat2_code = "12F83,64"
+
+cheat3_desc = "能源CRAZY HOUSE"
+cheat3_handler = "2"
+cheat3_code = "1304F,64"
+
+cheat4_desc = "速度HOT VIOLET"
+cheat4_handler = "2"
+cheat4_code = "12DD4,FF,14"
+
+cheat5_desc = "速度FIRE BALL"
+cheat5_handler = "2"
+cheat5_code = "12EA0,FF,14"
+
+cheat6_desc = "速度J.B.CRYSTAL"
+cheat6_handler = "2"
+cheat6_code = "12F6C,FF,64"
+
+cheat7_desc = "速度CRAZY HOUSE"
+cheat7_handler = "2"
+cheat7_code = "13038,FF,14"
+
+cheats = 8

@@ -1,0 +1,605 @@
+cheat0_desc = "クイズ模式打开"
+cheat0_handler = "2"
+cheat0_code = "240BC,1"
+
+cheat1_desc = "全忍具"
+cheat1_handler = "2"
+cheat1_code = "2880,59,1;28F0,1,0;28F4,2,0;28F8,3,0;28FC,4,0;2900,5,0;2904,6,0;2908,7,0;290C,8,0;2910,9,0;2914,A,0;2918,B,0;291C,C,0;2920,D,0;2924,E,0;2928,F,0;292C,10,0;2930,11,0;2934,12,0;2938,13,0;293C,14,0;2940,15,0;2944,16,0;2948,17,0;294C,18,0;2950,19,0;2954,1A,0;2958,1B,0;295C,1C,0;2960,1D,0;2964,1E,0;2968,1F,0;296C,20,0;2970,21,0;2974,22,0;2978,23,0;297C,24,0;2980,25,0;2984,26,0;2988,27,0;298C,28,0;2990,29,0;2994,2A,0;2998,2B,0;299C,2C,0;29A0,2D,0;29A4,2E,0;29A8,2F,0;29AC,30,0;29B0,31,0;29B4,32,0;29B8,33,0;29BC,34,0;29C0,35,0;29C4,36,0;29C8,37,0;29CC,38,0;29D0,39,0;29D4,3A,0;29D8,3B,0;29DC,3C,0;29E0,3D,0;29E4,3F,0;29E8,40,0;29EC,41,0;29F0,42,0;29F4,43,0;29F8,44,0;29FC,45,0;2A00,49,0;2A04,4A,0;2A08,4B,0;2A0C,4C,0;2A10,4D,0;2A14,4E,0;2A18,4F,0;2A1C,50,0;2A20,51,0;2A24,52,0;2A28,53,0;2A2C,54,0;2A30,55,0;2A34,56,0;2A38,57,0;2A3C,58,0;2A40,59,0;2A44,5A,0;2A48,5B,0;2A4C,5C,0;2A50,5D,0"
+
+cheat2_desc = "漩涡鸣人忍术修炼点数"
+cheat2_handler = "2"
+cheat2_code = "22FAA,9"
+
+cheat3_desc = "宇智波佐助忍术修炼点数"
+cheat3_handler = "2"
+cheat3_code = "23066,9"
+
+cheat4_desc = "春野樱忍术修炼点数"
+cheat4_handler = "2"
+cheat4_code = "23122,9"
+
+cheat5_desc = "漩涡鸣人经验值"
+cheat5_handler = "2"
+cheat5_code = "22F00,E7,3"
+
+cheat6_desc = "宇智波佐助经验值"
+cheat6_handler = "2"
+cheat6_code = "22FBC,E7,3"
+
+cheat7_desc = "春野樱经验值"
+cheat7_handler = "2"
+cheat7_code = "23078,E7,3"
+
+cheat8_desc = "角色1移动范围(谨慎使用!)"
+cheat8_handler = "2"
+cheat8_code = "24299,14"
+
+cheat9_desc = "角色2移动范围(谨慎使用!)"
+cheat9_handler = "2"
+cheat9_code = "2446D,14"
+
+cheat10_desc = "角色3移动范围(谨慎使用!)"
+cheat10_handler = "2"
+cheat10_code = "24641,14"
+
+cheat11_desc = "第一个人物鸣人"
+cheat11_handler = "2"
+cheat11_code = "24294,1;24350,1"
+
+cheat12_desc = "第一个人物佐助"
+cheat12_handler = "2"
+cheat12_code = "24294,2;24350,2"
+
+cheat13_desc = "第一个人物樱"
+cheat13_handler = "2"
+cheat13_code = "24294,3;24350,3"
+
+cheat14_desc = "第一个人物山中"
+cheat14_handler = "2"
+cheat14_code = "24294,4;24350,4"
+
+cheat15_desc = "第一个人物奈良"
+cheat15_handler = "2"
+cheat15_code = "24294,5;24350,5"
+
+cheat16_desc = "第一个人物秋道"
+cheat16_handler = "2"
+cheat16_code = "24294,6;24350,6"
+
+cheat17_desc = "第一个人物卡卡西"
+cheat17_handler = "2"
+cheat17_code = "24294,7;24350,7"
+
+cheat18_desc = "第一个人物犬冢"
+cheat18_handler = "2"
+cheat18_code = "24294,8;24350,8"
+
+cheat19_desc = "第一个人物油女"
+cheat19_handler = "2"
+cheat19_code = "24294,9;24350,9"
+
+cheat20_desc = "第一个人物日向ヒナタ"
+cheat20_handler = "2"
+cheat20_code = "24294,A;24350,A"
+
+cheat21_desc = "第一个人物日向ネヅ"
+cheat21_handler = "2"
+cheat21_code = "24294,B;24350,B"
+
+cheat22_desc = "第一个人物李洛克"
+cheat22_handler = "2"
+cheat22_code = "24294,C;24350,C"
+
+cheat23_desc = "第一个人物テンテン"
+cheat23_handler = "2"
+cheat23_code = "24294,D;24350,D"
+
+cheat24_desc = "第一个人物我爱罗"
+cheat24_handler = "2"
+cheat24_code = "24294,E;24350,E"
+
+cheat25_desc = "第一个人物カンクロウ"
+cheat25_handler = "2"
+cheat25_code = "24294,F;24350,F"
+
+cheat26_desc = "第一个人物テマリ"
+cheat26_handler = "2"
+cheat26_code = "24294,10;24350,10"
+
+cheat27_desc = "第一个人物ザク"
+cheat27_handler = "2"
+cheat27_code = "24294,11;24350,11"
+
+cheat28_desc = "第一个人物ドス"
+cheat28_handler = "2"
+cheat28_code = "24294,12;24350,12"
+
+cheat29_desc = "第一个人物キン·ツチ"
+cheat29_handler = "2"
+cheat29_code = "24294,13;24350,13"
+
+cheat30_desc = "第一个人物再不斩"
+cheat30_handler = "2"
+cheat30_code = "24294,14;24350,14"
+
+cheat31_desc = "第一个人物白"
+cheat31_handler = "2"
+cheat31_code = "24294,15;24350,15"
+
+cheat32_desc = "第一个人物篝"
+cheat32_handler = "2"
+cheat32_code = "24294,16;24350,16"
+
+cheat33_desc = "第一个人物胧"
+cheat33_handler = "2"
+cheat33_code = "24294,17;24350,17"
+
+cheat34_desc = "第一个人物梦火"
+cheat34_handler = "2"
+cheat34_code = "24294,18;24350,18"
+
+cheat35_desc = "第一个人物业头"
+cheat35_handler = "2"
+cheat35_code = "24294,19;24350,19"
+
+cheat36_desc = "第一个人物冥头"
+cheat36_handler = "2"
+cheat36_code = "24294,1A;24350,1A"
+
+cheat37_desc = "第一个人物ワラヅ"
+cheat37_handler = "2"
+cheat37_code = "24294,1B;24350,1B"
+
+cheat38_desc = "第一个人物ゾウリ"
+cheat38_handler = "2"
+cheat38_code = "24294,1C;24350,1C"
+
+cheat39_desc = "第一个人物大蛇丸"
+cheat39_handler = "2"
+cheat39_code = "24294,1D;24350,1D"
+
+cheat40_desc = "第一个人物木叶丸"
+cheat40_handler = "2"
+cheat40_code = "24294,1E;24350,1E"
+
+cheat41_desc = "第一个人物タズナ"
+cheat41_handler = "2"
+cheat41_code = "24294,1F;24350,1F"
+
+cheat42_desc = "第一个人物カト的手下"
+cheat42_handler = "2"
+cheat42_code = "24294,20;24350,20"
+
+cheat43_desc = "第一个人物なぞの忍者1"
+cheat43_handler = "2"
+cheat43_code = "24294,21;24350,21"
+
+cheat44_desc = "第一个人物なぞの忍者2"
+cheat44_handler = "2"
+cheat44_code = "24294,22;24350,22"
+
+cheat45_desc = "第一个人物木偶"
+cheat45_handler = "2"
+cheat45_code = "24294,23;24350,23"
+
+cheat46_desc = "第一个人物熊"
+cheat46_handler = "2"
+cheat46_code = "24294,24;24350,24"
+
+cheat47_desc = "第一个人物虎"
+cheat47_handler = "2"
+cheat47_code = "24294,25;24350,25"
+
+cheat48_desc = "第一个人物蜈蚣"
+cheat48_handler = "2"
+cheat48_code = "24294,26;24350,26"
+
+cheat49_desc = "第一个人物蟒头"
+cheat49_handler = "2"
+cheat49_code = "24294,27;24350,27"
+
+cheat50_desc = "第一个人物蟒尾"
+cheat50_handler = "2"
+cheat50_code = "24294,28;24350,28"
+
+cheat51_desc = "第一个人物狗"
+cheat51_handler = "2"
+cheat51_code = "24294,29;24350,29"
+
+cheat52_desc = "第一个人物封在水球中的卡卡西"
+cheat52_handler = "2"
+cheat52_code = "24294,2A;24350,2A"
+
+cheat53_desc = "第一个人物三代目火影"
+cheat53_handler = "2"
+cheat53_code = "24294,2B;24350,2B"
+
+cheat54_desc = "第一个人物伊鲁卡"
+cheat54_handler = "2"
+cheat54_code = "24294,2C;24350,2C"
+
+cheat55_desc = "第一个人物飞猿"
+cheat55_handler = "2"
+cheat55_code = "24294,2D;24350,2D"
+
+cheat56_desc = "第一个人物TOO MORE..."
+cheat56_handler = "2"
+cheat56_code = "24294,2E;24350,2E"
+
+cheat57_desc = "第二个人物鸣人"
+cheat57_handler = "2"
+cheat57_code = "24468,1;24524,1"
+
+cheat58_desc = "第二个人物佐助"
+cheat58_handler = "2"
+cheat58_code = "24468,2;24524,2"
+
+cheat59_desc = "第二个人物樱"
+cheat59_handler = "2"
+cheat59_code = "24468,3;24524,3"
+
+cheat60_desc = "第二个人物山中"
+cheat60_handler = "2"
+cheat60_code = "24468,4;24524,4"
+
+cheat61_desc = "第二个人物奈良"
+cheat61_handler = "2"
+cheat61_code = "24468,5;24524,5"
+
+cheat62_desc = "第二个人物秋道"
+cheat62_handler = "2"
+cheat62_code = "24468,6;24524,6"
+
+cheat63_desc = "第二个人物卡卡西"
+cheat63_handler = "2"
+cheat63_code = "24468,7;24524,7"
+
+cheat64_desc = "第二个人物犬冢"
+cheat64_handler = "2"
+cheat64_code = "24468,8;24524,8"
+
+cheat65_desc = "第二个人物油女"
+cheat65_handler = "2"
+cheat65_code = "24468,9;24524,9"
+
+cheat66_desc = "第二个人物日向ヒナタ"
+cheat66_handler = "2"
+cheat66_code = "24468,A;24524,A"
+
+cheat67_desc = "第二个人物日向ネヅ"
+cheat67_handler = "2"
+cheat67_code = "24468,B;24524,B"
+
+cheat68_desc = "第二个人物李洛克"
+cheat68_handler = "2"
+cheat68_code = "24468,C;24524,C"
+
+cheat69_desc = "第二个人物テンテン"
+cheat69_handler = "2"
+cheat69_code = "24468,D;24524,D"
+
+cheat70_desc = "第二个人物我爱罗"
+cheat70_handler = "2"
+cheat70_code = "24468,E;24524,E"
+
+cheat71_desc = "第二个人物カンクロウ"
+cheat71_handler = "2"
+cheat71_code = "24468,F;24524,F"
+
+cheat72_desc = "第二个人物テマリ"
+cheat72_handler = "2"
+cheat72_code = "24468,10;24524,10"
+
+cheat73_desc = "第二个人物ザク"
+cheat73_handler = "2"
+cheat73_code = "24468,11;24524,11"
+
+cheat74_desc = "第二个人物ドス"
+cheat74_handler = "2"
+cheat74_code = "24468,12;24524,12"
+
+cheat75_desc = "第二个人物キン·ツチ"
+cheat75_handler = "2"
+cheat75_code = "24468,13;24524,13"
+
+cheat76_desc = "第二个人物再不斩"
+cheat76_handler = "2"
+cheat76_code = "24468,14;24524,14"
+
+cheat77_desc = "第二个人物白"
+cheat77_handler = "2"
+cheat77_code = "24468,15;24524,15"
+
+cheat78_desc = "第二个人物篝"
+cheat78_handler = "2"
+cheat78_code = "24468,16;24524,16"
+
+cheat79_desc = "第二个人物胧"
+cheat79_handler = "2"
+cheat79_code = "24468,17;24524,17"
+
+cheat80_desc = "第二个人物梦火"
+cheat80_handler = "2"
+cheat80_code = "24468,18;24524,18"
+
+cheat81_desc = "第二个人物业头"
+cheat81_handler = "2"
+cheat81_code = "24468,19;24524,19"
+
+cheat82_desc = "第二个人物冥头"
+cheat82_handler = "2"
+cheat82_code = "24468,1A;24524,1A"
+
+cheat83_desc = "第二个人物ワラヅ"
+cheat83_handler = "2"
+cheat83_code = "24468,1B;24524,1B"
+
+cheat84_desc = "第二个人物ゾウリ"
+cheat84_handler = "2"
+cheat84_code = "24468,1C;24524,1C"
+
+cheat85_desc = "第二个人物大蛇丸"
+cheat85_handler = "2"
+cheat85_code = "24468,1D;24524,1D"
+
+cheat86_desc = "第二个人物木叶丸"
+cheat86_handler = "2"
+cheat86_code = "24468,1E;24524,1E"
+
+cheat87_desc = "第二个人物タズナ"
+cheat87_handler = "2"
+cheat87_code = "24468,1F;24524,1F"
+
+cheat88_desc = "第二个人物カト的手下"
+cheat88_handler = "2"
+cheat88_code = "24468,20;24524,20"
+
+cheat89_desc = "第二个人物なぞの忍者1"
+cheat89_handler = "2"
+cheat89_code = "24468,21;24524,21"
+
+cheat90_desc = "第二个人物なぞの忍者2"
+cheat90_handler = "2"
+cheat90_code = "24468,22;24524,22"
+
+cheat91_desc = "第二个人物木偶"
+cheat91_handler = "2"
+cheat91_code = "24468,23;24524,23"
+
+cheat92_desc = "第二个人物熊"
+cheat92_handler = "2"
+cheat92_code = "24468,24;24524,24"
+
+cheat93_desc = "第二个人物虎"
+cheat93_handler = "2"
+cheat93_code = "24468,25;24524,25"
+
+cheat94_desc = "第二个人物蜈蚣"
+cheat94_handler = "2"
+cheat94_code = "24468,26;24524,26"
+
+cheat95_desc = "第二个人物蟒头"
+cheat95_handler = "2"
+cheat95_code = "24468,27;24524,27"
+
+cheat96_desc = "第二个人物蟒尾"
+cheat96_handler = "2"
+cheat96_code = "24468,28;24524,28"
+
+cheat97_desc = "第二个人物狗"
+cheat97_handler = "2"
+cheat97_code = "24468,29;24524,29"
+
+cheat98_desc = "第二个人物封在水球中的卡卡西"
+cheat98_handler = "2"
+cheat98_code = "24468,2A;24524,2A"
+
+cheat99_desc = "第二个人物三代目火影"
+cheat99_handler = "2"
+cheat99_code = "24468,2B;24524,2B"
+
+cheat100_desc = "第二个人物伊鲁卡"
+cheat100_handler = "2"
+cheat100_code = "24468,2C;24524,2C"
+
+cheat101_desc = "第二个人物飞猿"
+cheat101_handler = "2"
+cheat101_code = "24468,2D;24524,2D"
+
+cheat102_desc = "第二个人物TOO MORE..."
+cheat102_handler = "2"
+cheat102_code = "24468,2E;24524,2E"
+
+cheat103_desc = "第三个人物鸣人"
+cheat103_handler = "2"
+cheat103_code = "2463C,1;246F8,1"
+
+cheat104_desc = "第三个人物佐助"
+cheat104_handler = "2"
+cheat104_code = "2463C,2;246F8,2"
+
+cheat105_desc = "第三个人物樱"
+cheat105_handler = "2"
+cheat105_code = "2463C,3;246F8,3"
+
+cheat106_desc = "第三个人物山中"
+cheat106_handler = "2"
+cheat106_code = "2463C,4;246F8,4"
+
+cheat107_desc = "第三个人物奈良"
+cheat107_handler = "2"
+cheat107_code = "2463C,5;246F8,5"
+
+cheat108_desc = "第三个人物秋道"
+cheat108_handler = "2"
+cheat108_code = "2463C,6;246F8,6"
+
+cheat109_desc = "第三个人物卡卡西"
+cheat109_handler = "2"
+cheat109_code = "2463C,7;246F8,7"
+
+cheat110_desc = "第三个人物犬冢"
+cheat110_handler = "2"
+cheat110_code = "2463C,8;246F8,8"
+
+cheat111_desc = "第三个人物油女"
+cheat111_handler = "2"
+cheat111_code = "2463C,9;246F8,9"
+
+cheat112_desc = "第三个人物日向ヒナタ"
+cheat112_handler = "2"
+cheat112_code = "2463C,A;246F8,A"
+
+cheat113_desc = "第三个人物日向ネヅ"
+cheat113_handler = "2"
+cheat113_code = "2463C,B;246F8,B"
+
+cheat114_desc = "第三个人物李洛克"
+cheat114_handler = "2"
+cheat114_code = "2463C,C;246F8,C"
+
+cheat115_desc = "第三个人物テンテン"
+cheat115_handler = "2"
+cheat115_code = "2463C,D;246F8,D"
+
+cheat116_desc = "第三个人物我爱罗"
+cheat116_handler = "2"
+cheat116_code = "2463C,E;246F8,E"
+
+cheat117_desc = "第三个人物カンクロウ"
+cheat117_handler = "2"
+cheat117_code = "2463C,F;246F8,F"
+
+cheat118_desc = "第三个人物テマリ"
+cheat118_handler = "2"
+cheat118_code = "2463C,10;246F8,10"
+
+cheat119_desc = "第三个人物ザク"
+cheat119_handler = "2"
+cheat119_code = "2463C,11;246F8,11"
+
+cheat120_desc = "第三个人物ドス"
+cheat120_handler = "2"
+cheat120_code = "2463C,12;246F8,12"
+
+cheat121_desc = "第三个人物キン·ツチ"
+cheat121_handler = "2"
+cheat121_code = "2463C,13;246F8,13"
+
+cheat122_desc = "第三个人物再不斩"
+cheat122_handler = "2"
+cheat122_code = "2463C,14;246F8,14"
+
+cheat123_desc = "第三个人物白"
+cheat123_handler = "2"
+cheat123_code = "2463C,15;246F8,15"
+
+cheat124_desc = "第三个人物篝"
+cheat124_handler = "2"
+cheat124_code = "2463C,16;246F8,16"
+
+cheat125_desc = "第三个人物胧"
+cheat125_handler = "2"
+cheat125_code = "2463C,17;246F8,17"
+
+cheat126_desc = "第三个人物梦火"
+cheat126_handler = "2"
+cheat126_code = "2463C,18;246F8,18"
+
+cheat127_desc = "第三个人物业头"
+cheat127_handler = "2"
+cheat127_code = "2463C,19;246F8,19"
+
+cheat128_desc = "第三个人物冥头"
+cheat128_handler = "2"
+cheat128_code = "2463C,1A;246F8,1A"
+
+cheat129_desc = "第三个人物ワラヅ"
+cheat129_handler = "2"
+cheat129_code = "2463C,1B;246F8,1B"
+
+cheat130_desc = "第三个人物ゾウリ"
+cheat130_handler = "2"
+cheat130_code = "2463C,1C;246F8,1C"
+
+cheat131_desc = "第三个人物大蛇丸"
+cheat131_handler = "2"
+cheat131_code = "2463C,1D;246F8,1D"
+
+cheat132_desc = "第三个人物木叶丸"
+cheat132_handler = "2"
+cheat132_code = "2463C,1E;246F8,1E"
+
+cheat133_desc = "第三个人物タズナ"
+cheat133_handler = "2"
+cheat133_code = "2463C,1F;246F8,1F"
+
+cheat134_desc = "第三个人物カト的手下"
+cheat134_handler = "2"
+cheat134_code = "2463C,20;246F8,20"
+
+cheat135_desc = "第三个人物なぞの忍者1"
+cheat135_handler = "2"
+cheat135_code = "2463C,21;246F8,21"
+
+cheat136_desc = "第三个人物なぞの忍者2"
+cheat136_handler = "2"
+cheat136_code = "2463C,22;246F8,22"
+
+cheat137_desc = "第三个人物木偶"
+cheat137_handler = "2"
+cheat137_code = "2463C,23;246F8,23"
+
+cheat138_desc = "第三个人物熊"
+cheat138_handler = "2"
+cheat138_code = "2463C,24;246F8,24"
+
+cheat139_desc = "第三个人物虎"
+cheat139_handler = "2"
+cheat139_code = "2463C,25;246F8,25"
+
+cheat140_desc = "第三个人物蜈蚣"
+cheat140_handler = "2"
+cheat140_code = "2463C,26;246F8,26"
+
+cheat141_desc = "第三个人物蟒头"
+cheat141_handler = "2"
+cheat141_code = "2463C,27;246F8,27"
+
+cheat142_desc = "第三个人物蟒尾"
+cheat142_handler = "2"
+cheat142_code = "2463C,28;246F8,28"
+
+cheat143_desc = "第三个人物狗"
+cheat143_handler = "2"
+cheat143_code = "2463C,29;246F8,29"
+
+cheat144_desc = "第三个人物封在水球中的卡卡西"
+cheat144_handler = "2"
+cheat144_code = "2463C,2A;246F8,2A"
+
+cheat145_desc = "第三个人物三代目火影"
+cheat145_handler = "2"
+cheat145_code = "2463C,2B;246F8,2B"
+
+cheat146_desc = "第三个人物伊鲁卡"
+cheat146_handler = "2"
+cheat146_code = "2463C,2C;246F8,2C"
+
+cheat147_desc = "第三个人物飞猿"
+cheat147_handler = "2"
+cheat147_code = "2463C,2D;246F8,2D"
+
+cheat148_desc = "第三个人物TOO MORE..."
+cheat148_handler = "2"
+cheat148_code = "2463C,2E;246F8,2E"
+
+cheat149_desc = "クイズ模式打开"
+cheat149_handler = "2"
+cheat149_code = "240BC,1"
+
+cheat150_desc = "全忍具"
+cheat150_handler = "2"
+cheat150_code = "2880,59,1;28F0,1,0;28F4,2,0;28F8,3,0;28FC,4,0;2900,5,0;2904,6,0;2908,7,0;"
+
+cheats = 151

@@ -1,0 +1,905 @@
+cheat0_desc = "全隐藏要素"
+cheat0_handler = "2"
+cheat0_code = "60,3"
+
+cheat1_desc = "偏移穿墙术分以下7种情况，在墙前站好后使用"
+cheat1_handler = "2"
+cheat1_code = "0,0"
+
+cheat2_desc = "偏移穿墙术穿完后请立即暂停解锁.拉下选则."
+cheat2_handler = "2"
+cheat2_code = "0,0"
+
+cheat3_desc = "偏移穿墙术墙不在版边，向左偏移2个身位"
+cheat3_handler = "2"
+cheat3_code = "526,46"
+
+cheat4_desc = "偏移穿墙术墙不在版边，向右偏移2个身位"
+cheat4_handler = "2"
+cheat4_code = "526,b4"
+
+cheat5_desc = "偏移穿墙术墙在左版边，直接穿墙"
+cheat5_handler = "2"
+cheat5_code = "526,14"
+
+cheat6_desc = "偏移穿墙术墙在右版边，直接穿墙"
+cheat6_handler = "2"
+cheat6_code = "526,E6"
+
+cheat7_desc = "偏移穿墙术原地向下1个身位"
+cheat7_handler = "2"
+cheat7_code = "52A,E6"
+
+cheat8_desc = "偏移穿墙术原地向上2个身位"
+cheat8_handler = "2"
+cheat8_code = "52A,20"
+
+cheat9_desc = "偏移穿墙术原地向上，直接穿到版边"
+cheat9_handler = "2"
+cheat9_code = "52A,A"
+
+cheat10_desc = "从存盘点瞬移用后千万解锁.拉下选则."
+cheat10_handler = "2"
+cheat10_code = "0,0"
+
+cheat11_desc = "从存盘点瞬移死神BOSS屋后"
+cheat11_handler = "2"
+cheat11_code = "88,38,f1,4e"
+
+cheat12_desc = "从存盘点瞬移教主BOSS屋后"
+cheat12_handler = "2"
+cheat12_code = "88,70,66,4f"
+
+cheat13_desc = "从存盘点瞬移混沌之间入口"
+cheat13_handler = "2"
+cheat13_code = "88,f8,df,4e"
+
+cheat14_desc = "所有BOSS复活用后千万解锁.拉下选则."
+cheat14_handler = "2"
+cheat14_code = "0,0"
+
+cheat15_desc = "所有BOSS复活ALL"
+cheat15_handler = "2"
+cheat15_code = "37e,0,0"
+
+cheat16_desc = "SOMA'S<----主角"
+cheat16_handler = "2"
+cheat16_code = "0,0"
+
+cheat17_desc = "LV1"
+cheat17_handler = "2"
+cheat17_code = "01326D,1"
+
+cheat18_desc = "LV99"
+cheat18_handler = "2"
+cheat18_code = "01326D,63"
+
+cheat19_desc = "透明"
+cheat19_handler = "2"
+cheat19_code = "000558,8,A"
+
+cheat20_desc = "HP&MP不减"
+cheat20_handler = "2"
+cheat20_code = "1326E,F,27;013270,F,27"
+
+cheat21_desc = "HP0"
+cheat21_handler = "2"
+cheat21_code = "013272,0,0"
+
+cheat22_desc = "HP9999"
+cheat22_handler = "2"
+cheat22_code = "013272,F,27"
+
+cheat23_desc = "MP0"
+cheat23_handler = "2"
+cheat23_code = "013274,0,0"
+
+cheat24_desc = "MP9999"
+cheat24_handler = "2"
+cheat24_code = "013274,F,27"
+
+cheat25_desc = "STR0"
+cheat25_handler = "2"
+cheat25_code = "013276,0,0"
+
+cheat26_desc = "STR999"
+cheat26_handler = "2"
+cheat26_code = "013276,E7,03"
+
+cheat27_desc = "CON0"
+cheat27_handler = "2"
+cheat27_code = "013278,0,0"
+
+cheat28_desc = "CON999"
+cheat28_handler = "2"
+cheat28_code = "013278,E7,03"
+
+cheat29_desc = "INT0"
+cheat29_handler = "2"
+cheat29_code = "01327a,0,0"
+
+cheat30_desc = "INT999"
+cheat30_handler = "2"
+cheat30_code = "01327A,E7,03"
+
+cheat31_desc = "LCK0"
+cheat31_handler = "2"
+cheat31_code = "01327c,0,0"
+
+cheat32_desc = "LCK999"
+cheat32_handler = "2"
+cheat32_code = "01327C,E7,03"
+
+cheat33_desc = "全魔导器"
+cheat33_handler = "2"
+cheat33_code = "013386,63,63,63,63"
+
+cheat34_desc = "JULIUS'<----配角"
+cheat34_handler = "2"
+cheat34_code = "0,0"
+
+cheat35_desc = "HP&MP不减"
+cheat35_handler = "2"
+cheat35_code = "1326E,20,3;013270,FF"
+
+cheat36_desc = "透明"
+cheat36_handler = "2"
+cheat36_code = "000558,8,A"
+
+cheat37_desc = "打开黑雾之门"
+cheat37_handler = "2"
+cheat37_code = "37e,81"
+
+cheat38_desc = "苍真JULIUS对话对话"
+cheat38_handler = "2"
+cheat38_code = "145C,D5;145D,9A;145E,5,8"
+
+cheat39_desc = "吸魂"
+cheat39_handler = "2"
+cheat39_code = "1464,1D,0;1465,49,0;1466,0;1466,1,0;1467,0;1467,49,0;1468,10,70"
+
+cheat40_desc = "soul"
+cheat40_handler = "2"
+cheat40_code = "1464,1D,52;1465,52,1;1466,1;1466,1,4;1467,4;1467,4;1467,4,1;1468,1;1468,1,F8;1469,F8"
+
+cheat41_desc = "格拉罕die"
+cheat41_handler = "2"
+cheat41_code = "135E,F0,0,1,FF;136A,9C"
+
+cheat42_desc = "混沌三神像底盘膨胀"
+cheat42_handler = "2"
+cheat42_code = "3242,0,0;3243,0,D;3244,D;3244,D,40;3245,40;3245,40;3245,40,4;3246,4;3246,4,8;3247,8,81;324A,3,8;324B,8,57;324C,57;324C,57,FE;324D,FE;324D,FE;324D,FE,2;324E,2;324E,2;324E,2,6;324F,6;324F,6,0,22;3251,22,0,0,58;3259,44,1;325A,1,2;325B,2;325B,2,B8;325C,B8;325C,B8;325C,B8,30;325D,30;325D,30,0,2"
+
+cheat43_desc = "混沌三神像底盘消失"
+cheat43_handler = "2"
+cheat43_code = "3259,44,1,2,B8"
+
+cheat44_desc = "透明"
+cheat44_handler = "2"
+cheat44_code = "558,8,0,0,A0"
+
+cheat45_desc = "立刻GAMEOVER"
+cheat45_handler = "2"
+cheat45_code = "64,2"
+
+cheat46_desc = "出地图"
+cheat46_handler = "2"
+cheat46_code = "64,4"
+
+cheat47_desc = "装备图"
+cheat47_handler = "2"
+cheat47_code = "64,6"
+
+cheat48_desc = "交易"
+cheat48_handler = "2"
+cheat48_code = "64,9"
+
+cheat49_desc = "人名表"
+cheat49_handler = "2"
+cheat49_code = "64,A"
+
+cheat50_desc = "mistdoor"
+cheat50_handler = "2"
+cheat50_code = "130,2D;37e,81"
+
+cheat51_desc = "Access Warp Gates"
+cheat51_handler = "2"
+cheat51_code = "64,7;130,37;378,63,63"
+
+cheat52_desc = "BOSSRUSHBOSS立死大骷髅立死"
+cheat52_handler = "2"
+cheat52_code = "1464,1D,22;1465,22,2;1466,2;1466,2,0;1467,0,1;1468,1,2A"
+
+cheat53_desc = "BOSSRUSHBOSS立死狮子王立死"
+cheat53_handler = "2"
+cheat53_code = "1463,8,1D;1464,1D,1F;1465,1F;1465,1F"
+
+cheat54_desc = "BOSSRUSH大骷髅闪光"
+cheat54_handler = "2"
+cheat54_code = "1486,0,0;1487,0,A;1488,A;1488,A,8;1489,8;1489,8;1489,8,3;148A,3;148A,3,1;148B,1,1"
+
+cheat55_desc = "BOSSRUSHBOSS一击必死大骷髅"
+cheat55_handler = "2"
+cheat55_code = "148E,0,0;148F,0,CE;1490,CE,FF;1491,FF,21"
+
+cheat56_desc = "BOSSRUSHBOSS一击必死狮子王"
+cheat56_handler = "2"
+cheat56_code = "148F,0,0,0,36"
+
+cheat57_desc = "BOSSRUSHBOSS跟定你大骷髅"
+cheat57_handler = "2"
+cheat57_code = "149A,3,0;149B,0,68;149C,68;149C,68,55;149D,55;149D,55;149D,55,54;149E,54;149E,54;149E,54"
+
+cheat58_desc = "BOSSRUSHBOSS跟定你狮子王"
+cheat58_handler = "2"
+cheat58_code = "149A,0,0;149B,0,14;149C,14;149C,14,D2;149D,D2;149D,D2;149D,D2,8F;149E,8F;149E,8F;149E,8F,0,0,EF"
+
+cheat59_desc = "混沌三神像定住"
+cheat59_handler = "2"
+cheat59_code = "143F6,0,0;143F7,0,80;143F8,80;143F8,80,FC;143F9,FC;143F9,FC;143F9,FC,1;143FA,1;143FA,1"
+
+cheat60_desc = "不与混沌对话"
+cheat60_handler = "2"
+cheat60_code = "42c,1"
+
+cheat61_desc = "随时打BOSS最终混沌一战"
+cheat61_handler = "2"
+cheat61_code = "42A,0,0;42B,0,1;42C,1;42C,1,A;42D,A;42D,A;42D,A;87,0,3C;88,3C,8E;89,8E,4F;8A,4F,8"
+
+cheat62_desc = "随时打BOSS去右面向左打格拉罕"
+cheat62_handler = "2"
+cheat62_code = "37A,0,0;37B,0,1;37C,1;37C,1,2;37D,2;37D,2;37D,2,0;37E,0;37E,0,8;37F,8;37F,8;37F,8;42B,0,21;42C,21,2;42D,2;42D,2,0;42E,0;42E,0,2;42F,2;42F,2;86,0,0;87,0,98;88,98;88,98,64;89,64;89,64,4F;8A,4F,8"
+
+cheat63_desc = "随时打BOSS去右边打格拉罕"
+cheat63_handler = "2"
+cheat63_code = "37A,0,0;37B,0,1;37C,1;37C,1,2;37D,2;37D,2;37D,2,0;37E,0;37E,0,8;37F,8;37F,8;37F,8;42B,0,21;42C,21,2;42D,2;42D,2,0;42E,0;42E,0,2;42F,2;42F,2;86,0,0;87,0,F0;88,F0;88,F0,63;89,63;89,63,4F;8A,4F,8"
+
+cheat64_desc = "随时打BOSS完美打死神"
+cheat64_handler = "2"
+cheat64_code = "37B,0,1;37C,1,2;37D,2;37D,2,71;37E,71;37E,71;37E,71,98;37F,98;37F,98;37F,98;86,0,0;87,0,38;88,38;88,38,F7;89,F7;89,F7,4E;8A,4E,8"
+
+cheat65_desc = "随时打BOSS去右边打JULIUS"
+cheat65_handler = "2"
+cheat65_code = "37B,0,FF;37C,FF,F7;37D,F7;37D,F7,71;37E,71;37E,71;37E,71,98;37F,98;37F,98;37F,98;86,0,0;87,0,70;88,70;88,70,E4;89,E4;89,E4,4E;8A,4E,8"
+
+cheat66_desc = "随时打BOSS去左边打JULIUS"
+cheat66_handler = "2"
+cheat66_code = "37B,0,FF;37C,FF,F7;37D,F7;37D,F7,71;37E,71;37E,71;37E,71,98;37F,98;37F,98;37F,98;87,0,90;88,90,E0;89,E0,4E;8A,4E,8"
+
+cheat67_desc = "随时打BOSS去右边打三头蜥蜴魔"
+cheat67_handler = "2"
+cheat67_code = "37B,0,10;37C,10,0,0,0;86,0,0;87,0,F0;88,F0;88,F0,C7;89,C7;89,C7,4E;8A,4E,8"
+
+cheat68_desc = "随时打BOSS去左边打三头蜥蜴魔"
+cheat68_handler = "2"
+cheat68_code = "37B,0,10;37C,10,0,0,0;86,0,0;87,0,E0;88,E0;88,E0,CC;89,CC;89,CC,4E;8A,4E,8"
+
+cheat69_desc = "随时打BOSS打重装铠兵"
+cheat69_handler = "2"
+cheat69_code = "37A,0,0;37B,0,1F;37C,1F;37C,1F,0,0,0;42A,0,0;42B,0,2;42C,2;42C,2,0,0,0;86,0,0;87,0,DC;88,DC;88,DC,97;89,97;89,97,4E;8A,4E,8"
+
+cheat70_desc = "随时开BOSS之门(很全有些通用)混沌黑门及格拉罕房间之门打开"
+cheat70_handler = "2"
+cheat70_code = "37B,0,21;37C,21,2;37D,2;37D,2,71;37E,71;37E,71;37E,71,98;37F,98;37F,98"
+
+cheat71_desc = "随时开BOSS之门(很全有些通用)开JULIUS的BOSS铁门"
+cheat71_handler = "2"
+cheat71_code = "37B,0,FF;37C,FF,F7;37D,F7;37D,F7,75;37E,75;37E,75;37E,75,98;37F,98;37F,98"
+
+cheat72_desc = "随时开BOSS之门(很全有些通用)格拉罕房间之门打开"
+cheat72_handler = "2"
+cheat72_code = "37B,0,1;37C,1,2;37D,2;37D,2,1;37E,1;37E,1;37E,1,8;37F,8;37F,8"
+
+cheat73_desc = "随时开BOSS之门(很全有些通用)打开死神の黑门"
+cheat73_handler = "2"
+cheat73_code = "37B,0,1;37C,1,A;37D,A;37D,A,73;37E,73;37E,73;37E,73,98;37F,98;37F,98"
+
+cheat74_desc = "随时开BOSS之门(很全有些通用)开三头蜥蜴魔黑门"
+cheat74_handler = "2"
+cheat74_code = "37B,0,10;37C,10,0;37D,0;37D,0,10;37E,10;37E,10;37E,10"
+
+cheat75_desc = "随时开BOSS之门(很全有些通用)开狮子王和巴格尔的BOSS铁门"
+cheat75_handler = "2"
+cheat75_code = "37C,3,2;37D,2,71;37E,71;37E,71,9C;37F,9C;37F,9C;37F,9C"
+
+cheat76_desc = "随时开BOSS之门(很全有些通用)开骷髅王的BOSS铁门"
+cheat76_handler = "2"
+cheat76_code = "37C,1,0;37D,0,0;37E,0;37E,0,8;37F,8;37F,8;37F,8"
+
+cheat77_desc = "随时开BOSS之门(很全有些通用)藏书库“怪物大口门”张嘴"
+cheat77_handler = "2"
+cheat77_code = "14E8,1E,49;14E9,49,0;14EA,0;14EA,0,1;14EB,1;14EB,1;14EB,1"
+
+cheat78_desc = "随时开BOSS之门(很全有些通用)穿过不可侵洞穴铁门"
+cheat78_handler = "2"
+cheat78_code = "135C,49,4F;135D,4F,0;135E,0;135E,0,B;135F,B;135F,B;135F,B,0;1360,0,55;1361,55"
+
+cheat79_desc = "BOSS重现开门逃走返回格拉罕还在"
+cheat79_handler = "2"
+cheat79_code = "37B,0,1;37C,1,2;37D,2;37D,2,0;37E,0;37E,0,8;37F,8;37F,8;37F,8"
+
+cheat80_desc = "BOSS重现格拉罕被julius打死后再现"
+cheat80_handler = "2"
+cheat80_code = "42B,0,21;42C,21,2;42D,2;42D,2,0;42E,0;42E,0,2;42F,2;42F,2"
+
+cheat81_desc = "BOSS重现开门逃走julius还在"
+cheat81_handler = "2"
+cheat81_code = "37B,0,FF;37C,FF,F7;37D,F7;37D,F7,71;37E,71;37E,71;37E,71,98;37F,98;37F,98;37F,98"
+
+cheat82_desc = "BOSS重现死神再现"
+cheat82_handler = "2"
+cheat82_code = "37B,0,1;37C,1,2;37D,2;37D,2,71;37E,71;37E,71;37E,71,98;37F,98;37F,98;37F,98"
+
+cheat83_desc = "BOSS重现巴格尔再现"
+cheat83_handler = "2"
+cheat83_code = "37B,0,10;37C,10,1;37D,1;37D,1,0,0"
+
+cheat84_desc = "BOSS重现三头蜥蜴魔再现"
+cheat84_handler = "2"
+cheat84_code = "37B,0,10;37C,10,0,0,0"
+
+cheat85_desc = "BOSS重现死人军团再现"
+cheat85_handler = "2"
+cheat85_code = "37B,0,9F;37C,9F,0;37D,0,0;37E,0;37E,0,80;37F,80;37F,80;37F,80"
+
+cheat86_desc = "BOSS重现重装铠兵再现"
+cheat86_handler = "2"
+cheat86_code = "37B,0,1F;37C,1F,0,0,0"
+
+cheat87_desc = "BOSS重现巨人再现"
+cheat87_handler = "2"
+cheat87_code = "37B,0,19;37C,19,0,0,0"
+
+cheat88_desc = "BOSS重现再见狮子王"
+cheat88_handler = "2"
+cheat88_code = "37B,0,3;37C,3,2;37D,2;37D,2,71;37E,71;37E,71;37E,71,98;37F,98;37F,98;37F,98"
+
+cheat89_desc = "BOSS重现骷髅王再现"
+cheat89_handler = "2"
+cheat89_code = "37B,0,1;37C,1,0,0,0"
+
+cheat90_desc = "BOSS出现混沌向JULIUS发动总攻HOT!"
+cheat90_handler = "2"
+cheat90_code = "42A,0,0,21,8A;42B,0,21,8A,1;42C,21,8A,1,2;42D,8A,1,2"
+
+cheat91_desc = "BOSS出现死神现身"
+cheat91_handler = "2"
+cheat91_code = "42A,0,0;42B,0,23;42C,23;42C,23,82;42D,82;42D,82;42D,82,1;42E,1;42E,1;42E,1,2;42F,2;42F,2"
+
+cheat92_desc = "BOSS出现三头蜥蜴魔出现"
+cheat92_handler = "2"
+cheat92_code = "42A,0,0;42B,0,3;42C,3;42C,3"
+
+cheat93_desc = "选关荒城回廊"
+cheat93_handler = "2"
+cheat93_code = "87,0,5C;88,5C,5A;89,5A,4E;8A,4E,8"
+
+cheat94_desc = "选关游戏开始的地方"
+cheat94_handler = "2"
+cheat94_code = "87,0,9C;88,9C,58;89,58,4E;8A,4E,8"
+
+cheat95_desc = "选关骷髅王"
+cheat95_handler = "2"
+cheat95_code = "87,0,8C;88,8C,5E;89,5E,4E;8A,4E,8"
+
+cheat96_desc = "选关地下水域"
+cheat96_handler = "2"
+cheat96_code = "87,0,54;88,54,2A;89,2A,4F;8A,4F,8"
+
+cheat97_desc = "选关礼拜堂"
+cheat97_handler = "2"
+cheat97_code = "87,0,FC;88,FC,8A;89,8A,4E;8A,4E,8"
+
+cheat98_desc = "选关向左有狮子王"
+cheat98_handler = "2"
+cheat98_code = "87,0,CC;88,CC,86;89,86,4E;8A,4E,8"
+
+cheat99_desc = "选关恶魔城藏书库"
+cheat99_handler = "2"
+cheat99_code = "87,0,84;88,84,8B;89,8B,4E;8A,4E,8"
+
+cheat100_desc = "选关重装铠兵room"
+cheat100_handler = "2"
+cheat100_code = "87,0,64;88,64,9E;89,9E,4E;8A,4E,8"
+
+cheat101_desc = "选关舞蹈馆"
+cheat101_handler = "2"
+cheat101_code = "87,0,8;88,8,B3;89,B3,4E;8A,4E,8"
+
+cheat102_desc = "选关右去巨人"
+cheat102_handler = "2"
+cheat102_code = "87,0,F0;88,F0,AE;89,AE,4E;8A,4E,8"
+
+cheat103_desc = "选关左去巨人"
+cheat103_handler = "2"
+cheat103_code = "87,0,E8;88,E8,B5;89,B5,4E;8A,4E,8"
+
+cheat104_desc = "选关幻梦宫"
+cheat104_handler = "2"
+cheat104_code = "87,0,E8;88,E8,D0;89,D0,4E;8A,4E,8"
+
+cheat105_desc = "选关三头蜥蜴魔地点"
+cheat105_handler = "2"
+cheat105_code = "87,0,E0;88,E0,CC;89,CC,4E;8A,4E,8"
+
+cheat106_desc = "选关忘却之庭院"
+cheat106_handler = "2"
+cheat106_code = "86,0,0;87,0,80;88,80;88,80,DC;89,DC;89,DC,4E;8A,4E,8"
+
+cheat107_desc = "选关时计塔"
+cheat107_handler = "2"
+cheat107_code = "87,0,A8;88,A8,F6;89,F6,4E;8A,4E,8"
+
+cheat108_desc = "选关去到死神面前"
+cheat108_handler = "2"
+cheat108_code = "87,0,78;88,78,F8;89,F8,4E;8A,4E,8"
+
+cheat109_desc = "选关上去时计塔需解锁"
+cheat109_handler = "2"
+cheat109_code = "87,0,30;88,30,F9;89,F9,4E;8A,4E,8"
+
+cheat110_desc = "选关死人军团所在地"
+cheat110_handler = "2"
+cheat110_code = "87,0,1C,28,4F;88,1C,28,4F,8"
+
+cheat111_desc = "选关炼狱斗技场"
+cheat111_handler = "2"
+cheat111_code = "87,0,A8;88,A8,5A;89,5A,4F;8A,4F,8"
+
+cheat112_desc = "选关炼狱斗技场(需解锁)"
+cheat112_handler = "2"
+cheat112_code = "87,0,5C;88,5C,29;89,29,4F;8A,4F,8"
+
+cheat113_desc = "选关炼狱斗技场修道间"
+cheat113_handler = "2"
+cheat113_code = "87,0,30,50,4F;88,30;88,F8,50;89,50,4F;8A,4F,8;8B,8"
+
+cheat114_desc = "选关炼狱斗技场修道间电梯"
+cheat114_handler = "2"
+cheat114_code = "87,0,F8,50,4F;88,F8,50,4F,8"
+
+cheat115_desc = "选关修道间·心"
+cheat115_handler = "2"
+cheat115_code = "87,0,F8;88,F8,50;89,50,4F;8A,4F,8"
+
+cheat116_desc = "选关修道间·技"
+cheat116_handler = "2"
+cheat116_code = "87,0,38;88,38,53;89,53,4F;8A,4F,8"
+
+cheat117_desc = "选关修道间·体"
+cheat117_handler = "2"
+cheat117_code = "87,0,68;88,68,54;89,54,4F;8A,4F,8"
+
+cheat118_desc = "选关巴格尔"
+cheat118_handler = "2"
+cheat118_code = "87,0,28;88,28,4E;89,4E,4F;8A,4F,8"
+
+cheat119_desc = "选关恶魔城最上部"
+cheat119_handler = "2"
+cheat119_code = "87,0,88;88,88,74;89,74,4F;8A,4F,8"
+
+cheat120_desc = "选关地图位置锁定在恶魔城最上阶"
+cheat120_handler = "2"
+cheat120_code = "61,0,0,0,7;62,0,0;63,0,7;64,7;64,7,2;65,2;65,2"
+
+cheat121_desc = "选关grakam房子后面"
+cheat121_handler = "2"
+cheat121_code = "87,0,70;88,70,66;89,66,4F;8A,4F,8"
+
+cheat122_desc = "选关决战JULIUS之地"
+cheat122_handler = "2"
+cheat122_code = "37B,0,FF;37C,FF,F7;37D,F7;37D,F7,71;37E,71;37E,71;37E,71,98;37F,98;37F,98;37F,98;87,0,90;88,90,E0;89,E0,4E;8A,4E,8"
+
+cheat123_desc = "选关向上走到原初之混沌"
+cheat123_handler = "2"
+cheat123_code = "87,0,F8;88,F8,DF;89,DF,4E;8A,4E,8"
+
+cheat124_desc = "选关原初之混沌"
+cheat124_handler = "2"
+cheat124_code = "87,0,3C,8E,4F"
+
+cheat125_desc = "选关混沌之神的地方"
+cheat125_handler = "2"
+cheat125_code = "86,0,0,9C,8F"
+
+cheat126_desc = "选关BOSSRUSH模式随时生效需解锁"
+cheat126_handler = "2"
+cheat126_code = "86,0,0;87,0,B4;88,B4;88,B4,B0;89,B0;89,B0,4F;8A,4F,8"
+
+cheat127_desc = "选关bossrush"
+cheat127_handler = "2"
+cheat127_code = "87,0,4C,B1,4F;88,4C;88,E4,B1;89,B1,4F;8A,4F,8;8B,8"
+
+cheat128_desc = "选关cleartime room"
+cheat128_handler = "2"
+cheat128_code = "87,0,E4,B1,4F"
+
+cheat129_desc = "超级出城最左出城法"
+cheat129_handler = "2"
+cheat129_code = "523,0,DD;524,DD,98;525,98;525,98,6;526,6;526,6;526,6"
+
+cheat130_desc = "超级出城最右出城法"
+cheat130_handler = "2"
+cheat130_code = "523,0,5A;524,5A,2F;525,2F;525,2F,EB;526,EB;526,EB;526,EB"
+
+cheat131_desc = "超级出城最高上出城"
+cheat131_handler = "2"
+cheat131_code = "527,0,0;528,0,0;529,0;529,0,F;52A,F;52A,F;52A,F"
+
+cheat132_desc = "超级出城下跳回城"
+cheat132_handler = "2"
+cheat132_code = "527,0,0;528,0,0;529,0;529,0,7F;52A,7F;52A,7F;52A,7F"
+
+cheat133_desc = "超级出城墙不在左版边出城"
+cheat133_handler = "2"
+cheat133_code = "523,0,DD;524,DD,B0;525,B0;525,B0,2F;526,2F;526,2F;526,2F"
+
+cheat134_desc = "超级出城上一个往右移一身位"
+cheat134_handler = "2"
+cheat134_code = "523,0,DD;524,DD,B0;525,B0;525,B0,54;526,54;526,54;526,54"
+
+cheat135_desc = "超级出城墙不在右版边出城"
+cheat135_handler = "2"
+cheat135_code = "523,0,BE;524,BE,36;525,36;525,36,C9;526,C9;526,C9;526,C9"
+
+cheat136_desc = "超级出城格拉罕房前天花板上"
+cheat136_handler = "2"
+cheat136_code = "523,0,30;524,30,44;525,44;525,44,C2;526,C2;526,C2;526,C2,0,0;528,0,0;529,0;529,0,F;52A,F;52A,F;52A,F"
+
+cheat137_desc = "超级出城到格拉罕房前狭小位"
+cheat137_handler = "2"
+cheat137_code = "523,0,20;524,20,BA;525,BA;525,BA,CA;526,CA;526,CA;52A,27"
+
+cheat138_desc = "超级出城中上位置"
+cheat138_handler = "2"
+cheat138_code = "523,0,30;524,30,44;525,44;525,44,78;526,78;526,78;526,78,0,0;528,0,0;529,0;529,0,7;52A,7;52A,7;52A,7"
+
+cheat139_desc = "苍真古书三魂"
+cheat139_handler = "2"
+cheat139_code = "1325C,11,2C;1325D,2C,2;1325E,2,7;1325F,7,8"
+
+cheat140_desc = "苍真JULIUS吸魂大法(有点看头)"
+cheat140_handler = "2"
+cheat140_code = "13EA,0,0;13EB,0,30;13EC,30;145B,0,D5;145C,D5,9A;145D,9A,5;145E,5,8;1462,3,8;1463,8,1D;1464,1D;1464,1D,49;1465,49;1465,49,1;1466,1,7;146D,1C,0;146E,0,0;146F,0,3;1470,3;1489,0,0;148A,0,0;148B,0;148B,0,F;148C,F;148C,F;14BD,0,0;14BE,0,0;14BF,0;14BF,0,15;14C0,15;14C0,15;14C0,15,1;14C1,1;14C1,1;14C1,1,0,0;14C3,0,3C;14C4,3C;14C4,3C,FE;14C5,FE;14C5,FE,22;14C6,22;14C6,22,8;14C7,8,9;40C,4,BC;40D,BC,E;40E,E,8;40F,8;411,0,0;412,0,0;413,0;413,0,2;414,2;414,2;414,2,0;415,0;415,0,2;416,2;416,2;416,2,1;417,1;417,1;417,1,36;418,36;418,36"
+
+cheat141_desc = "隐形JULIUS现身混沌"
+cheat141_handler = "2"
+cheat141_code = "53B,0,40,2"
+
+cheat142_desc = "JULIUS现身面向右"
+cheat142_handler = "2"
+cheat142_code = "53B,0,0,3"
+
+cheat143_desc = "人物倒转崑崙"
+cheat143_handler = "2"
+cheat143_code = "53B,0,80"
+
+cheat144_desc = "混沌战显示分数武器"
+cheat144_handler = "2"
+cheat144_code = "42A,0,0;42B,0,2;42C,2;42C,2,0"
+
+cheat145_desc = "混沌战显示分数武器[格拉罕死后继续玩(不太行)]"
+cheat145_handler = "2"
+cheat145_code = "42A,0,0;42B,0,23;42C,23;42C,23,2;42D,2;42D,2,0,2"
+
+cheat146_desc = "魂聚"
+cheat146_handler = "2"
+cheat146_code = "1467,2,0,FF"
+
+cheat147_desc = "有角"
+cheat147_handler = "2"
+cheat147_code = "14B2,0,0;14B3,0,40;14B4,40;14B4,40,2;14B5,2;14B5,2,50;14B6,50"
+
+cheat148_desc = "锁定十字架武器谁都适用"
+cheat148_handler = "2"
+cheat148_code = "1325A,1,0;1325B,0,32;1325C,32;1325C,32,3;1325D,3;1325D,3;1325D,3,0,0,FF;E0A,0,0;E0B,0,4;E0C,4;E0C,4,9;E0D,9;E0D,9;E0D,9"
+
+cheat149_desc = "开启special mode"
+cheat149_handler = "2"
+cheat149_code = "60,3"
+
+cheat150_desc = "无敌"
+cheat150_handler = "2"
+cheat150_code = "4FF,8,0,0,FE"
+
+cheat151_desc = "敌人隐身"
+cheat151_handler = "2"
+cheat151_code = "11,0,0,54"
+
+cheat152_desc = "锁定游戏人物名称为JULIUSJULIUS"
+cheat152_handler = "2"
+cheat152_code = "20,B,16;21,16,D;22,D;22,D,A;23,A;23,A,16;24,16,14"
+
+cheat153_desc = "对话自动跳"
+cheat153_handler = "2"
+cheat153_code = "411,0,0;412,0,0;413,0;413,0,4;414,4;414,4;414,4,2;415,2;415,2,2;416,2"
+
+cheat154_desc = "人物按跳跃fly"
+cheat154_handler = "2"
+cheat154_code = "4F4,0,4,10,48"
+
+cheat155_desc = "人物按跳跃fly2"
+cheat155_handler = "2"
+cheat155_code = "4F4,0,20,10,48"
+
+cheat156_desc = "soundmode随时出现"
+cheat156_handler = "2"
+cheat156_code = "10,B;D,0,0,0"
+
+cheat157_desc = "bgm on"
+cheat157_handler = "2"
+cheat157_code = "10,B,3;E,0,0;10,B;10,B,3;11,3,0,3;F,0"
+
+cheat158_desc = "苍真魂.能力.装备画面"
+cheat158_handler = "2"
+cheat158_code = "61,0,0;62,0,0;63,0;63,0,6;64,6;64,6;64,6,6;65,6;65,6,60;66,60"
+
+cheat159_desc = "julius现身"
+cheat159_handler = "2"
+cheat159_code = "53A,0,0;53B,0,0;53C,0;53C,0,2;53D,2;53D,2,0,1"
+
+cheat160_desc = "displayHP9999以上"
+cheat160_handler = "2"
+cheat160_code = "42A,0,0;42B,0,2;42C,2;42C,2,0"
+
+cheat161_desc = "保持站立姿势"
+cheat161_handler = "2"
+cheat161_code = "4EB,8,FF,16"
+
+cheat162_desc = "soul"
+cheat162_handler = "2"
+cheat162_code = "145C,D5,9A,5,8;1489,0,0;148A,0,0;148B,0;148B,0,F;148C,F;148C,F"
+
+cheat163_desc = "GRAKAM"
+cheat163_handler = "2"
+cheat163_code = "135B,8,49;135C,49,1D;135D,1D;135D,1D,1;135E,1;135E,1"
+
+cheat164_desc = "苍真begin story"
+cheat164_handler = "2"
+cheat164_code = "145B,0,D5;145C,D5,9A;145D,9A,5;145E,5,8"
+
+cheat165_desc = "苍真TEST"
+cheat165_handler = "2"
+cheat165_code = "42A,0,0;42B,0,21;42C,21;42C,21,2;42D,2;42D,2;42D,2,0;42E,0;42E,0,2;42F,2;42F,2;42F,2"
+
+cheat166_desc = "苍真TEST2"
+cheat166_handler = "2"
+cheat166_code = "42A,0,0;42B,0,21;42C,21;42C,21,2;42D,2;42D,2,4;42E,4,2"
+
+cheat167_desc = "城主"
+cheat167_handler = "2"
+cheat167_code = "42A,0,0;42B,0,21;42C,21;42C,21,0;42D,0,0;42E,0;42E,0,3;42F,3;42F,3;42F,3"
+
+cheat168_desc = "生命条color生命条color1"
+cheat168_handler = "2"
+cheat168_code = "127B1,28,E7,20,6F"
+
+cheat169_desc = "生命条color生命条color2"
+cheat169_handler = "2"
+cheat169_code = "127BF,42,98,52,BA"
+
+cheat170_desc = "生命条color生命条color3"
+cheat170_handler = "2"
+cheat170_code = "127C1,52,BA,3E,FB"
+
+cheat171_desc = "生命条color生命条color4"
+cheat171_handler = "2"
+cheat171_code = "127C2,BA,3E,FB,52"
+
+cheat172_desc = "生命条color生命条color5"
+cheat172_handler = "2"
+cheat172_code = "127C3,3E,FB,52,FA"
+
+cheat173_desc = "生命条color生命条color6"
+cheat173_handler = "2"
+cheat173_code = "127C9,63,5E,5B,BF"
+
+cheat174_desc = "生命条color生命条color7"
+cheat174_handler = "2"
+cheat174_code = "127CA,5E,5B,BF,6B"
+
+cheat175_desc = "生命条color生命条color8"
+cheat175_handler = "2"
+cheat175_code = "127CB,5B,BF,6B,FF"
+
+cheat176_desc = "STR"
+cheat176_handler = "2"
+cheat176_code = "13276,E7,3"
+
+cheat177_desc = "CON"
+cheat177_handler = "2"
+cheat177_code = "13278,E7,3"
+
+cheat178_desc = "INT"
+cheat178_handler = "2"
+cheat178_code = "1327A,E7,3"
+
+cheat179_desc = "LCK"
+cheat179_handler = "2"
+cheat179_code = "1327C,E7,3"
+
+cheat180_desc = "LV"
+cheat180_handler = "2"
+cheat180_code = "1326D,63"
+
+cheat181_desc = "MONEY"
+cheat181_handler = "2"
+cheat181_code = "13284,7F,96,98"
+
+cheat182_desc = "装备的武器"
+cheat182_handler = "2"
+cheat182_code = "1325C,11"
+
+cheat183_desc = "装备的防具"
+cheat183_handler = "2"
+cheat183_code = "13260,8"
+
+cheat184_desc = "装备的装饰品"
+cheat184_handler = "2"
+cheat184_code = "13261,27"
+
+cheat185_desc = "所有能力"
+cheat185_handler = "2"
+cheat185_code = "13386,FF,FF,FF"
+
+cheat186_desc = "生命值"
+cheat186_handler = "2"
+cheat186_code = "1326E,F,27"
+
+cheat187_desc = "魔力值"
+cheat187_handler = "2"
+cheat187_code = "13270,F,27"
+
+cheat188_desc = "经验值"
+cheat188_handler = "2"
+cheat188_code = "13280,FF,C9,9A,3B"
+
+cheat189_desc = "金币"
+cheat189_handler = "2"
+cheat189_code = "13284,3F,42,F"
+
+cheat190_desc = "全隐藏要素"
+cheat190_handler = "2"
+cheat190_code = "60,3"
+
+cheat191_desc = "偏移穿墙术分以下7种情况，在墙前站好后使用"
+cheat191_handler = "2"
+cheat191_code = "0,0"
+
+cheat192_desc = "偏移穿墙术穿完后请立即暂停解锁.以下."
+cheat192_handler = "2"
+cheat192_code = "0,0"
+
+cheat193_desc = "偏移穿墙术墙不在版边，向左偏移2个身位"
+cheat193_handler = "2"
+cheat193_code = "526,46"
+
+cheat194_desc = "偏移穿墙术墙不在版边，向右偏移2个身位"
+cheat194_handler = "2"
+cheat194_code = "526,E6"
+
+cheat195_desc = "偏移穿墙术墙在左版边，直接穿墙"
+cheat195_handler = "2"
+cheat195_code = "526,14"
+
+cheat196_desc = "偏移穿墙术墙在右版边，直接穿墙"
+cheat196_handler = "2"
+cheat196_code = "526,E6"
+
+cheat197_desc = "偏移穿墙术原地向下1个身位"
+cheat197_handler = "2"
+cheat197_code = "52A,E6"
+
+cheat198_desc = "偏移穿墙术原地向上2个身位"
+cheat198_handler = "2"
+cheat198_code = "52A,20"
+
+cheat199_desc = "偏移穿墙术原地向上，直接穿到版边"
+cheat199_handler = "2"
+cheat199_code = "52A,A"
+
+cheat200_desc = "从存盘点瞬移用后千万解锁"
+cheat200_handler = "2"
+cheat200_code = "0,0"
+
+cheat201_desc = "从存盘点瞬移死神BOSS"
+cheat201_handler = "2"
+cheat201_code = "88,38,f1,4e"
+
+cheat202_desc = "从存盘点瞬移教主BOSS"
+cheat202_handler = "2"
+cheat202_code = "88,70,66,4f"
+
+cheat203_desc = "从存盘点瞬移混沌之间入口"
+cheat203_handler = "2"
+cheat203_code = "88,f8,df,4e"
+
+cheat204_desc = "SOMA'S  "
+cheat204_handler = "2"
+cheat204_code = "0,0"
+
+cheat205_desc = "LV1"
+cheat205_handler = "2"
+cheat205_code = "01326D,1"
+
+cheat206_desc = "LV99"
+cheat206_handler = "2"
+cheat206_code = "01326D,63"
+
+cheat207_desc = "透明"
+cheat207_handler = "2"
+cheat207_code = "000558,8,A"
+
+cheat208_desc = "HP&MP不减"
+cheat208_handler = "2"
+cheat208_code = "1326E,F,27;013270,F,27"
+
+cheat209_desc = "HP0"
+cheat209_handler = "2"
+cheat209_code = "013272,0,0"
+
+cheat210_desc = "HP9999"
+cheat210_handler = "2"
+cheat210_code = "013272,F,27"
+
+cheat211_desc = "MP0"
+cheat211_handler = "2"
+cheat211_code = "013274,0,0"
+
+cheat212_desc = "MP9999"
+cheat212_handler = "2"
+cheat212_code = "013274,F,27"
+
+cheat213_desc = "STR0"
+cheat213_handler = "2"
+cheat213_code = "013276,0,0"
+
+cheat214_desc = "STR999"
+cheat214_handler = "2"
+cheat214_code = "013276,E7,03"
+
+cheat215_desc = "CON0"
+cheat215_handler = "2"
+cheat215_code = "013278,0,0"
+
+cheat216_desc = "CON999"
+cheat216_handler = "2"
+cheat216_code = "013278,E7,03"
+
+cheat217_desc = "INT0"
+cheat217_handler = "2"
+cheat217_code = "01327a,0,0"
+
+cheat218_desc = "INT999"
+cheat218_handler = "2"
+cheat218_code = "01327A,E7,03"
+
+cheat219_desc = "LCK0"
+cheat219_handler = "2"
+cheat219_code = "01327c,0,0"
+
+cheat220_desc = "LCK999"
+cheat220_handler = "2"
+cheat220_code = "01327C,E7,03"
+
+cheat221_desc = "全魔导器"
+cheat221_handler = "2"
+cheat221_code = "013386,63,63,63,63"
+
+cheat222_desc = "JULIUS' "
+cheat222_handler = "2"
+cheat222_code = "0,0"
+
+cheat223_desc = "HP&MP不减"
+cheat223_handler = "2"
+cheat223_code = "1326E,20,3;013270,FF"
+
+cheat224_desc = "透明"
+cheat224_handler = "2"
+cheat224_code = "000558,8,A"
+
+cheat225_desc = "打开黑雾之门"
+cheat225_handler = "2"
+cheat225_code = "37e,81"
+
+cheats = 226

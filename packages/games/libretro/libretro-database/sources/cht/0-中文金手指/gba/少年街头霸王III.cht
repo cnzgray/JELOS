@@ -1,0 +1,589 @@
+cheat0_desc = "游戏时间99秒"
+cheat0_handler = "2"
+cheat0_code = "3EC9,63"
+
+cheat1_desc = "1P选人RYU"
+cheat1_handler = "2"
+cheat1_code = "8EA,0"
+
+cheat2_desc = "1P选人KEN"
+cheat2_handler = "2"
+cheat2_code = "8EA,1"
+
+cheat3_desc = "1P选人GOUKI"
+cheat3_handler = "2"
+cheat3_code = "8EA,2"
+
+cheat4_desc = "1P选人NASH"
+cheat4_handler = "2"
+cheat4_code = "8EA,3"
+
+cheat5_desc = "1P选人CHUNLI"
+cheat5_handler = "2"
+cheat5_code = "8EA,4"
+
+cheat6_desc = "1P选人ADON"
+cheat6_handler = "2"
+cheat6_code = "8EA,5"
+
+cheat7_desc = "1P选人SODOM"
+cheat7_handler = "2"
+cheat7_code = "8EA,6"
+
+cheat8_desc = "1P选人GUY"
+cheat8_handler = "2"
+cheat8_code = "8EA,7"
+
+cheat9_desc = "1P选人BIRDIE"
+cheat9_handler = "2"
+cheat9_code = "8EA,8"
+
+cheat10_desc = "1P选人ROSE"
+cheat10_handler = "2"
+cheat10_code = "8EA,9"
+
+cheat11_desc = "1P选人VEGA"
+cheat11_handler = "2"
+cheat11_code = "8EA,A"
+
+cheat12_desc = "1P选人SAGAT"
+cheat12_handler = "2"
+cheat12_code = "8EA,B"
+
+cheat13_desc = "1P选人DAN"
+cheat13_handler = "2"
+cheat13_code = "8EA,C"
+
+cheat14_desc = "1P选人SAKURA"
+cheat14_handler = "2"
+cheat14_code = "8EA,D"
+
+cheat15_desc = "1P选人ROLENTO"
+cheat15_handler = "2"
+cheat15_code = "8EA,E"
+
+cheat16_desc = "1P选人DHALSIM"
+cheat16_handler = "2"
+cheat16_code = "8EA,F"
+
+cheat17_desc = "1P选人ZANGIEF"
+cheat17_handler = "2"
+cheat17_code = "8EA,10"
+
+cheat18_desc = "1P选人GEN"
+cheat18_handler = "2"
+cheat18_code = "8EA,11"
+
+cheat19_desc = "1P选人CHUNLI?"
+cheat19_handler = "2"
+cheat19_code = "8EA,12"
+
+cheat20_desc = "1P选人GEN2"
+cheat20_handler = "2"
+cheat20_code = "8EA,13"
+
+cheat21_desc = "1P选人SODOM?"
+cheat21_handler = "2"
+cheat21_code = "8EA,14"
+
+cheat22_desc = "1P选人M.BISON"
+cheat22_handler = "2"
+cheat22_code = "8EA,15"
+
+cheat23_desc = "1P选人CAMMY"
+cheat23_handler = "2"
+cheat23_code = "8EA,16"
+
+cheat24_desc = "1P选人EVIL RYU"
+cheat24_handler = "2"
+cheat24_code = "8EA,17"
+
+cheat25_desc = "1P选人E.HONDA"
+cheat25_handler = "2"
+cheat25_code = "8EA,18"
+
+cheat26_desc = "1P选人BLANKA"
+cheat26_handler = "2"
+cheat26_code = "8EA,19"
+
+cheat27_desc = "1P选人R.MIKA"
+cheat27_handler = "2"
+cheat27_code = "8EA,1A"
+
+cheat28_desc = "1P选人CODY"
+cheat28_handler = "2"
+cheat28_code = "8EA,1B"
+
+cheat29_desc = "1P选人BALROG"
+cheat29_handler = "2"
+cheat29_code = "8EA,1C"
+
+cheat30_desc = "1P选人KARIN"
+cheat30_handler = "2"
+cheat30_code = "8EA,1D"
+
+cheat31_desc = "1P选人JULI"
+cheat31_handler = "2"
+cheat31_code = "8EA,1E"
+
+cheat32_desc = "1P选人JUNI"
+cheat32_handler = "2"
+cheat32_code = "8EA,1F"
+
+cheat33_desc = "1P选人GUILE"
+cheat33_handler = "2"
+cheat33_code = "8EA,20"
+
+cheat34_desc = "1P选人FEILONG"
+cheat34_handler = "2"
+cheat34_code = "8EA,21"
+
+cheat35_desc = "1P选人DEE JAY"
+cheat35_handler = "2"
+cheat35_code = "8EA,22"
+
+cheat36_desc = "1P选人T.HAWK"
+cheat36_handler = "2"
+cheat36_code = "8EA,23"
+
+cheat37_desc = "1P选人TRUE GOUKI"
+cheat37_handler = "2"
+cheat37_code = "8EA,24"
+
+cheat38_desc = "1P选人M.BISON2"
+cheat38_handler = "2"
+cheat38_code = "8EA,25"
+
+cheat39_desc = "1P选人EAGLE"
+cheat39_handler = "2"
+cheat39_code = "8EA,26"
+
+cheat40_desc = "1P选人MAKI"
+cheat40_handler = "2"
+cheat40_code = "8EA,27"
+
+cheat41_desc = "1P选人YUN"
+cheat41_handler = "2"
+cheat41_code = "8EA,28"
+
+cheat42_desc = "1P选人JULI&JUNI"
+cheat42_handler = "2"
+cheat42_code = "8EA,29"
+
+cheat43_desc = "1P HP满血"
+cheat43_handler = "2"
+cheat43_code = "818,90"
+
+cheat44_desc = "1P POWER最大"
+cheat44_handler = "2"
+cheat44_code = "90E,90"
+
+cheat45_desc = "1P MODEZISM"
+cheat45_handler = "2"
+cheat45_code = "922,0"
+
+cheat46_desc = "1P MODEVISM"
+cheat46_handler = "2"
+cheat46_code = "922,1"
+
+cheat47_desc = "1P MODEXISM"
+cheat47_handler = "2"
+cheat47_code = "922,FF"
+
+cheat48_desc = "1P VISM模式爆怒槽时间"
+cheat48_handler = "2"
+cheat48_code = "8A4,90"
+
+cheat49_desc = "2P选人RYU"
+cheat49_handler = "2"
+cheat49_code = "44FA,0"
+
+cheat50_desc = "2P选人KEN"
+cheat50_handler = "2"
+cheat50_code = "44FA,1"
+
+cheat51_desc = "2P选人GOUKI"
+cheat51_handler = "2"
+cheat51_code = "44FA,2"
+
+cheat52_desc = "2P选人NASH"
+cheat52_handler = "2"
+cheat52_code = "44FA,3"
+
+cheat53_desc = "2P选人CHUNLI"
+cheat53_handler = "2"
+cheat53_code = "44FA,4"
+
+cheat54_desc = "2P选人ADON"
+cheat54_handler = "2"
+cheat54_code = "44FA,5"
+
+cheat55_desc = "2P选人SODOM"
+cheat55_handler = "2"
+cheat55_code = "44FA,6"
+
+cheat56_desc = "2P选人GUY"
+cheat56_handler = "2"
+cheat56_code = "44FA,7"
+
+cheat57_desc = "2P选人BIRDIE"
+cheat57_handler = "2"
+cheat57_code = "44FA,8"
+
+cheat58_desc = "2P选人ROSE"
+cheat58_handler = "2"
+cheat58_code = "44FA,9"
+
+cheat59_desc = "2P选人VEGA"
+cheat59_handler = "2"
+cheat59_code = "44FA,A"
+
+cheat60_desc = "2P选人SAGAT"
+cheat60_handler = "2"
+cheat60_code = "44FA,B"
+
+cheat61_desc = "2P选人DAN"
+cheat61_handler = "2"
+cheat61_code = "44FA,C"
+
+cheat62_desc = "2P选人SAKURA"
+cheat62_handler = "2"
+cheat62_code = "44FA,D"
+
+cheat63_desc = "2P选人ROLENTO"
+cheat63_handler = "2"
+cheat63_code = "44FA,E"
+
+cheat64_desc = "2P选人DHALSIM"
+cheat64_handler = "2"
+cheat64_code = "44FA,F"
+
+cheat65_desc = "2P选人ZANGIEF"
+cheat65_handler = "2"
+cheat65_code = "44FA,10"
+
+cheat66_desc = "2P选人GEN"
+cheat66_handler = "2"
+cheat66_code = "44FA,11"
+
+cheat67_desc = "2P选人CHUNLI?"
+cheat67_handler = "2"
+cheat67_code = "44FA,12"
+
+cheat68_desc = "2P选人GEN2"
+cheat68_handler = "2"
+cheat68_code = "44FA,13"
+
+cheat69_desc = "2P选人SODOM?"
+cheat69_handler = "2"
+cheat69_code = "44FA,14"
+
+cheat70_desc = "2P选人M.BISON"
+cheat70_handler = "2"
+cheat70_code = "44FA,15"
+
+cheat71_desc = "2P选人CAMMY"
+cheat71_handler = "2"
+cheat71_code = "44FA,16"
+
+cheat72_desc = "2P选人EVIL RYU"
+cheat72_handler = "2"
+cheat72_code = "44FA,17"
+
+cheat73_desc = "2P选人E.HONDA"
+cheat73_handler = "2"
+cheat73_code = "44FA,18"
+
+cheat74_desc = "2P选人BLANKA"
+cheat74_handler = "2"
+cheat74_code = "44FA,19"
+
+cheat75_desc = "2P选人R.MIKA"
+cheat75_handler = "2"
+cheat75_code = "44FA,1A"
+
+cheat76_desc = "2P选人CODY"
+cheat76_handler = "2"
+cheat76_code = "44FA,1B"
+
+cheat77_desc = "2P选人BALROG"
+cheat77_handler = "2"
+cheat77_code = "44FA,1C"
+
+cheat78_desc = "2P选人KARIN"
+cheat78_handler = "2"
+cheat78_code = "44FA,1D"
+
+cheat79_desc = "2P选人JULI"
+cheat79_handler = "2"
+cheat79_code = "44FA,1E"
+
+cheat80_desc = "2P选人JUNI"
+cheat80_handler = "2"
+cheat80_code = "44FA,1F"
+
+cheat81_desc = "2P选人GUILE"
+cheat81_handler = "2"
+cheat81_code = "44FA,20"
+
+cheat82_desc = "2P选人FEILONG"
+cheat82_handler = "2"
+cheat82_code = "44FA,21"
+
+cheat83_desc = "2P选人DEE JAY"
+cheat83_handler = "2"
+cheat83_code = "44FA,22"
+
+cheat84_desc = "2P选人T.HAWK"
+cheat84_handler = "2"
+cheat84_code = "44FA,23"
+
+cheat85_desc = "2P选人TRUE GOUKI"
+cheat85_handler = "2"
+cheat85_code = "44FA,24"
+
+cheat86_desc = "2P选人M.BISON2"
+cheat86_handler = "2"
+cheat86_code = "44FA,25"
+
+cheat87_desc = "2P选人EAGLE"
+cheat87_handler = "2"
+cheat87_code = "44FA,26"
+
+cheat88_desc = "2P选人MAKI"
+cheat88_handler = "2"
+cheat88_code = "44FA,27"
+
+cheat89_desc = "2P选人YUN"
+cheat89_handler = "2"
+cheat89_code = "44FA,28"
+
+cheat90_desc = "2P选人JULI&JUNI"
+cheat90_handler = "2"
+cheat90_code = "44FA,29"
+
+cheat91_desc = "2P HP满血"
+cheat91_handler = "2"
+cheat91_code = "4428,90"
+
+cheat92_desc = "2P HP一击必死"
+cheat92_handler = "2"
+cheat92_code = "4428,0"
+
+cheat93_desc = "2P POWER最大"
+cheat93_handler = "2"
+cheat93_code = "451E,90"
+
+cheat94_desc = "2P POWER没有"
+cheat94_handler = "2"
+cheat94_code = "451E,0"
+
+cheat95_desc = "2P MODEZISM"
+cheat95_handler = "2"
+cheat95_code = "4532,0"
+
+cheat96_desc = "2P MODEVISM"
+cheat96_handler = "2"
+cheat96_code = "4532,1"
+
+cheat97_desc = "2P MODEXISM"
+cheat97_handler = "2"
+cheat97_code = "4532,FF"
+
+cheat98_desc = "SPEEDTURBO 1"
+cheat98_handler = "2"
+cheat98_code = "4362,0"
+
+cheat99_desc = "SPEEDTURBO 2"
+cheat99_handler = "2"
+cheat99_code = "4362,1"
+
+cheat100_desc = "背景背景1"
+cheat100_handler = "2"
+cheat100_code = "3EC0,0"
+
+cheat101_desc = "背景背景2"
+cheat101_handler = "2"
+cheat101_code = "3EC0,1"
+
+cheat102_desc = "背景背景3"
+cheat102_handler = "2"
+cheat102_code = "3EC0,2"
+
+cheat103_desc = "背景背景4"
+cheat103_handler = "2"
+cheat103_code = "3EC0,3"
+
+cheat104_desc = "背景背景5"
+cheat104_handler = "2"
+cheat104_code = "3EC0,4"
+
+cheat105_desc = "背景背景6"
+cheat105_handler = "2"
+cheat105_code = "3EC0,5"
+
+cheat106_desc = "背景背景7"
+cheat106_handler = "2"
+cheat106_code = "3EC0,6"
+
+cheat107_desc = "背景背景8"
+cheat107_handler = "2"
+cheat107_code = "3EC0,7"
+
+cheat108_desc = "背景背景9"
+cheat108_handler = "2"
+cheat108_code = "3EC0,8"
+
+cheat109_desc = "背景背景10"
+cheat109_handler = "2"
+cheat109_code = "3EC0,9"
+
+cheat110_desc = "背景背景11"
+cheat110_handler = "2"
+cheat110_code = "3EC0,A"
+
+cheat111_desc = "背景背景12"
+cheat111_handler = "2"
+cheat111_code = "3EC0,B"
+
+cheat112_desc = "背景背景13"
+cheat112_handler = "2"
+cheat112_code = "3EC0,C"
+
+cheat113_desc = "背景背景14"
+cheat113_handler = "2"
+cheat113_code = "3EC0,D"
+
+cheat114_desc = "背景背景15"
+cheat114_handler = "2"
+cheat114_code = "3EC0,E"
+
+cheat115_desc = "背景背景16"
+cheat115_handler = "2"
+cheat115_code = "3EC0,F"
+
+cheat116_desc = "背景背景17"
+cheat116_handler = "2"
+cheat116_code = "3EC0,10"
+
+cheat117_desc = "背景背景18"
+cheat117_handler = "2"
+cheat117_code = "3EC0,1"
+
+cheat118_desc = "背景背景19"
+cheat118_handler = "2"
+cheat118_code = "3EC0,12"
+
+cheat119_desc = "背景背景20"
+cheat119_handler = "2"
+cheat119_code = "3EC0,13"
+
+cheat120_desc = "背景背景21"
+cheat120_handler = "2"
+cheat120_code = "3EC0,14"
+
+cheat121_desc = "背景背景22"
+cheat121_handler = "2"
+cheat121_code = "3EC0,15"
+
+cheat122_desc = "背景背景23"
+cheat122_handler = "2"
+cheat122_code = "3EC0,16"
+
+cheat123_desc = "背景背景24"
+cheat123_handler = "2"
+cheat123_code = "3EC0,17"
+
+cheat124_desc = "背景背景25"
+cheat124_handler = "2"
+cheat124_code = "3EC0,18"
+
+cheat125_desc = "背景背景26"
+cheat125_handler = "2"
+cheat125_code = "3EC0,19"
+
+cheat126_desc = "背景背景27"
+cheat126_handler = "2"
+cheat126_code = "3EC0,1A"
+
+cheat127_desc = "背景背景28"
+cheat127_handler = "2"
+cheat127_code = "3EC0,1B"
+
+cheat128_desc = "背景背景29"
+cheat128_handler = "2"
+cheat128_code = "3EC0,1C"
+
+cheat129_desc = "背景背景30"
+cheat129_handler = "2"
+cheat129_code = "3EC0,1D"
+
+cheat130_desc = "背景背景31"
+cheat130_handler = "2"
+cheat130_code = "3EC0,1E"
+
+cheat131_desc = "背景背景32"
+cheat131_handler = "2"
+cheat131_code = "3EC0,1F"
+
+cheat132_desc = "背景背景33"
+cheat132_handler = "2"
+cheat132_code = "3EC0,20"
+
+cheat133_desc = "背景背景34"
+cheat133_handler = "2"
+cheat133_code = "3EC0,21"
+
+cheat134_desc = "背景背景35"
+cheat134_handler = "2"
+cheat134_code = "3EC0,22"
+
+cheat135_desc = "背景背景36"
+cheat135_handler = "2"
+cheat135_code = "3EC0,23"
+
+cheat136_desc = "背景背景37"
+cheat136_handler = "2"
+cheat136_code = "3EC0,24"
+
+cheat137_desc = "背景背景38"
+cheat137_handler = "2"
+cheat137_code = "3EC0,25"
+
+cheat138_desc = "背景背景39"
+cheat138_handler = "2"
+cheat138_code = "3EC0,26"
+
+cheat139_desc = "背景背景40"
+cheat139_handler = "2"
+cheat139_code = "3EC0,27"
+
+cheat140_desc = "背景背景41"
+cheat140_handler = "2"
+cheat140_code = "3EC0,28"
+
+cheat141_desc = "背景背景42"
+cheat141_handler = "2"
+cheat141_code = "3EC0,29"
+
+cheat142_desc = "背景背景43"
+cheat142_handler = "2"
+cheat142_code = "3EC0,2A"
+
+cheat143_desc = "背景背景44"
+cheat143_handler = "2"
+cheat143_code = "3EC0,2B"
+
+cheat144_desc = "GAME MODESURVIVAL MODE"
+cheat144_handler = "2"
+cheat144_code = "3F4D8,2;3F4DA,0"
+
+cheat145_desc = "GAME MODEDRAMATIC MODE"
+cheat145_handler = "2"
+cheat145_code = "3F4D8,2;3F4DA,1"
+
+cheat146_desc = "GAME MODEFINAL BATTLE"
+cheat146_handler = "2"
+cheat146_code = "3F4D8,2;3F4DA,2"
+
+cheats = 147

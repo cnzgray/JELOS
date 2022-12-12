@@ -1,0 +1,289 @@
+cheat0_desc = "蠻hp"
+cheat0_handler = "2"
+cheat0_code = "153A,E7,3"
+
+cheat1_desc = "蠻mp"
+cheat1_handler = "2"
+cheat1_code = "153E,E7,3"
+
+cheat2_desc = "蠻升級需要exp"
+cheat2_handler = "2"
+cheat2_code = "1534,1"
+
+cheat3_desc = "蠻max hp"
+cheat3_handler = "2"
+cheat3_code = "153C,E7,3"
+
+cheat4_desc = "蠻ap"
+cheat4_handler = "2"
+cheat4_code = "1542,E7,3"
+
+cheat5_desc = "蠻dp"
+cheat5_handler = "2"
+cheat5_code = "1544,E7,3"
+
+cheat6_desc = "蠻sp"
+cheat6_handler = "2"
+cheat6_code = "1546,E7,3"
+
+cheat7_desc = "銀次升級需要exp"
+cheat7_handler = "2"
+cheat7_code = "15AC,1"
+
+cheat8_desc = "銀次mp"
+cheat8_handler = "2"
+cheat8_code = "15B6,E7,3"
+
+cheat9_desc = "銀次hp"
+cheat9_handler = "2"
+cheat9_code = "15B2,E7,3"
+
+cheat10_desc = "銀次max hp"
+cheat10_handler = "2"
+cheat10_code = "15B4,E7,3"
+
+cheat11_desc = "銀次ap"
+cheat11_handler = "2"
+cheat11_code = "15BA,E7,3"
+
+cheat12_desc = "銀次dp"
+cheat12_handler = "2"
+cheat12_code = "15BC,E7,3"
+
+cheat13_desc = "銀次max mp"
+cheat13_handler = "2"
+cheat13_code = "15B8,E7,3"
+
+cheat14_desc = "銀次sp"
+cheat14_handler = "2"
+cheat14_code = "15BE,E7,3"
+
+cheat15_desc = "蠻max mp"
+cheat15_handler = "2"
+cheat15_code = "1540,E7,3"
+
+cheat16_desc = "士度升級需要exp"
+cheat16_handler = "2"
+cheat16_code = "178C,1"
+
+cheat17_desc = "士度mp"
+cheat17_handler = "2"
+cheat17_code = "1796,E7,3"
+
+cheat18_desc = "士度max hp"
+cheat18_handler = "2"
+cheat18_code = "1794,E7,3"
+
+cheat19_desc = "士度hp"
+cheat19_handler = "2"
+cheat19_code = "1792,E7,3"
+
+cheat20_desc = "士度ap"
+cheat20_handler = "2"
+cheat20_code = "179A,E7,3"
+
+cheat21_desc = "士度dp"
+cheat21_handler = "2"
+cheat21_code = "179C,E7,3"
+
+cheat22_desc = "士度sp"
+cheat22_handler = "2"
+cheat22_code = "179E,E7,3"
+
+cheat23_desc = "士度max mp"
+cheat23_handler = "2"
+cheat23_code = "1798,E7,3"
+
+cheat24_desc = "花月升級所需exp"
+cheat24_handler = "2"
+cheat24_code = "1714,1"
+
+cheat25_desc = "花月ap"
+cheat25_handler = "2"
+cheat25_code = "1722,E7,3"
+
+cheat26_desc = "花月dp"
+cheat26_handler = "2"
+cheat26_code = "1724,E7,3"
+
+cheat27_desc = "花月sp"
+cheat27_handler = "2"
+cheat27_code = "1726,E7,3"
+
+cheat28_desc = "花月hp"
+cheat28_handler = "2"
+cheat28_code = "171A,E7,3"
+
+cheat29_desc = "花月max hp"
+cheat29_handler = "2"
+cheat29_code = "171C,E7,3"
+
+cheat30_desc = "花月mp"
+cheat30_handler = "2"
+cheat30_code = "171E,E7,3"
+
+cheat31_desc = "花月max mp"
+cheat31_handler = "2"
+cheat31_code = "1720,E7,3"
+
+cheat32_desc = "笑樹hp"
+cheat32_handler = "2"
+cheat32_code = "180A,E7,3"
+
+cheat33_desc = "笑樹max hp"
+cheat33_handler = "2"
+cheat33_code = "180C,E7,3"
+
+cheat34_desc = "笑樹升級所需exp"
+cheat34_handler = "2"
+cheat34_code = "1804,1"
+
+cheat35_desc = "笑樹mp"
+cheat35_handler = "2"
+cheat35_code = "180E,E7,3"
+
+cheat36_desc = "笑樹max mp"
+cheat36_handler = "2"
+cheat36_code = "1810,E7,3"
+
+cheat37_desc = "笑樹ap"
+cheat37_handler = "2"
+cheat37_code = "1812,E7,3"
+
+cheat38_desc = "笑樹dp"
+cheat38_handler = "2"
+cheat38_code = "1814,E7,3"
+
+cheat39_desc = "笑樹sp"
+cheat39_handler = "2"
+cheat39_code = "1816,E7,3"
+
+cheat40_desc = "工滕升級所要exp"
+cheat40_handler = "2"
+cheat40_code = "1624,1"
+
+cheat41_desc = "工滕hp"
+cheat41_handler = "2"
+cheat41_code = "162A,E7,3"
+
+cheat42_desc = "工滕max hp"
+cheat42_handler = "2"
+cheat42_code = "162C,E7,3"
+
+cheat43_desc = "工滕mp"
+cheat43_handler = "2"
+cheat43_code = "162E,E7,3"
+
+cheat44_desc = "工滕max mp"
+cheat44_handler = "2"
+cheat44_code = "1630,E7,3"
+
+cheat45_desc = "工滕ap"
+cheat45_handler = "2"
+cheat45_code = "1632,E7,3"
+
+cheat46_desc = "工滕dp"
+cheat46_handler = "2"
+cheat46_code = "1634,E7,3"
+
+cheat47_desc = "工滕sp"
+cheat47_handler = "2"
+cheat47_code = "1636,E7,3"
+
+cheat48_desc = "十兵衛升級所需exp"
+cheat48_handler = "2"
+cheat48_code = "187C,1"
+
+cheat49_desc = "十兵衛hp"
+cheat49_handler = "2"
+cheat49_code = "1882,E7,3"
+
+cheat50_desc = "十兵衛max hp"
+cheat50_handler = "2"
+cheat50_code = "1884,E7,3"
+
+cheat51_desc = "十兵衛mp"
+cheat51_handler = "2"
+cheat51_code = "1886,E7,3"
+
+cheat52_desc = "十兵衛max mp"
+cheat52_handler = "2"
+cheat52_code = "1888,E7,3"
+
+cheat53_desc = "十兵衛ap"
+cheat53_handler = "2"
+cheat53_code = "188A,E7,3"
+
+cheat54_desc = "十兵衛dp"
+cheat54_handler = "2"
+cheat54_code = "188C,E7,3"
+
+cheat55_desc = "十兵衛sp"
+cheat55_handler = "2"
+cheat55_code = "188E,E7,3"
+
+cheat56_desc = "赤屍升級所需exp"
+cheat56_handler = "2"
+cheat56_code = "169C,1"
+
+cheat57_desc = "赤屍hp"
+cheat57_handler = "2"
+cheat57_code = "16A2,E7,3"
+
+cheat58_desc = "赤屍max hp"
+cheat58_handler = "2"
+cheat58_code = "16A4,E7,3"
+
+cheat59_desc = "赤屍ap"
+cheat59_handler = "2"
+cheat59_code = "16AA,E7,3"
+
+cheat60_desc = "赤屍dp"
+cheat60_handler = "2"
+cheat60_code = "16AC,E7,3"
+
+cheat61_desc = "赤屍sp"
+cheat61_handler = "2"
+cheat61_code = "16AE,E7,3"
+
+cheat62_desc = "赤屍mp"
+cheat62_handler = "2"
+cheat62_code = "16A6,E7,3"
+
+cheat63_desc = "赤屍max mp"
+cheat63_handler = "2"
+cheat63_code = "16A8,E7,3"
+
+cheat64_desc = "鏡升級所需exp"
+cheat64_handler = "2"
+cheat64_code = "18F4,1"
+
+cheat65_desc = "鏡mp"
+cheat65_handler = "2"
+cheat65_code = "18FE,E7,3"
+
+cheat66_desc = "鏡hp"
+cheat66_handler = "2"
+cheat66_code = "18FA,E7,3"
+
+cheat67_desc = "鏡max hp"
+cheat67_handler = "2"
+cheat67_code = "18FC,E7,3"
+
+cheat68_desc = "鏡dp"
+cheat68_handler = "2"
+cheat68_code = "1904,E7,3"
+
+cheat69_desc = "鏡ap"
+cheat69_handler = "2"
+cheat69_code = "1902,E7,3"
+
+cheat70_desc = "鏡sp"
+cheat70_handler = "2"
+cheat70_code = "1906,E7,3"
+
+cheat71_desc = "鏡max mp"
+cheat71_handler = "2"
+cheat71_code = "1900,E7,3"
+
+cheats = 72

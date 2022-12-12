@@ -1,0 +1,13 @@
+cheat0_desc = "HP"
+cheat0_handler = "2"
+cheat0_code = "20FE0,C,C"
+
+cheat1_desc = "命"
+cheat1_handler = "2"
+cheat1_code = "20FE2,63"
+
+cheat2_desc = "電源"
+cheat2_handler = "2"
+cheat2_code = "20FBC,3"
+
+cheats = 3

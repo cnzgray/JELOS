@@ -1,0 +1,3763 @@
+cheats = 940
+
+cheat0_desc = "诸葛亮 等级"
+cheat0_code = "0200BA15 00000063"
+cheat0_enable = false
+
+cheat1_desc = "诸葛亮 经验"
+cheat1_code = "0200BA16 00000063"
+cheat1_enable = false
+
+cheat2_desc = "诸葛亮 全能力"
+cheat2_code = "0200BA09 000000FF+0200BA10 000000FF+0200BA11 000000FF"
+cheat2_enable = false
+
+cheat3_desc = "诸葛亮 加入队伍"
+cheat3_code = "0200BA08 00000006"
+cheat3_enable = false
+
+cheat4_desc = "刘备 等级"
+cheat4_code = "0200BA41 00000063"
+cheat4_enable = false
+
+cheat5_desc = "刘备 经验"
+cheat5_code = "0200BA42 00000063"
+cheat5_enable = false
+
+cheat6_desc = "刘备 全能力"
+cheat6_code = "0200BA35 000000FF+0200BA3C 000000FF+0200BA3D 000000FF"
+cheat6_enable = false
+
+cheat7_desc = "刘备 加入队伍"
+cheat7_code = "0200BA34 00000006"
+cheat7_enable = false
+
+cheat8_desc = "关羽 等级"
+cheat8_code = "0200BA6D 00000063"
+cheat8_enable = false
+
+cheat9_desc = "关羽 经验"
+cheat9_code = "0200BA6E 00000063"
+cheat9_enable = false
+
+cheat10_desc = "关羽 全能力"
+cheat10_code = "0200BA61 000000FF+0200BA68 000000FF+0200BA69 000000FF"
+cheat10_enable = false
+
+cheat11_desc = "关羽 加入队伍"
+cheat11_code = "0200BA60 00000006"
+cheat11_enable = false
+
+cheat12_desc = "张飞 等级"
+cheat12_code = "0200BA99 00000063"
+cheat12_enable = false
+
+cheat13_desc = "张飞 经验"
+cheat13_code = "0200BA9A 00000063"
+cheat13_enable = false
+
+cheat14_desc = "张飞 全能力"
+cheat14_code = "0200BA8D 000000FF+0200BA94 000000FF+0200BA95 000000FF"
+cheat14_enable = false
+
+cheat15_desc = "张飞 加入队伍"
+cheat15_code = "0200BA8C 00000006"
+cheat15_enable = false
+
+cheat16_desc = "姜维 等级"
+cheat16_code = "0200BAC5 00000063"
+cheat16_enable = false
+
+cheat17_desc = "姜维 经验"
+cheat17_code = "0200BAC6 00000063"
+cheat17_enable = false
+
+cheat18_desc = "姜维 全能力"
+cheat18_code = "0200BAB9 000000FF+0200BAC0 000000FF+0200BAC1 000000FF"
+cheat18_enable = false
+
+cheat19_desc = "姜维 加入队伍"
+cheat19_code = "0200BAB8 00000006"
+cheat19_enable = false
+
+cheat20_desc = "马谡 等级"
+cheat20_code = "0200BAF1 00000063"
+cheat20_enable = false
+
+cheat21_desc = "马谡 经验"
+cheat21_code = "0200BAF2 00000063"
+cheat21_enable = false
+
+cheat22_desc = "马谡 全能力"
+cheat22_code = "0200BAE5 000000FF+0200BAEC 000000FF+0200BAED 000000FF"
+cheat22_enable = false
+
+cheat23_desc = "马谡 加入队伍"
+cheat23_code = "0200BAE4 00000006"
+cheat23_enable = false
+
+cheat24_desc = "赵云 等级"
+cheat24_code = "0200BB1D 00000063"
+cheat24_enable = false
+
+cheat25_desc = "赵云 经验"
+cheat25_code = "0200BB1E 00000063"
+cheat25_enable = false
+
+cheat26_desc = "赵云 全能力"
+cheat26_code = "0200BB11 000000FF+0200BB18 000000FF+0200BB19 000000FF"
+cheat26_enable = false
+
+cheat27_desc = "赵云 加入队伍"
+cheat27_code = "0200BB10 00000006"
+cheat27_enable = false
+
+cheat28_desc = "魏延 等级"
+cheat28_code = "0200BB49 00000063"
+cheat28_enable = false
+
+cheat29_desc = "魏延 经验"
+cheat29_code = "0200BB4A 00000063"
+cheat29_enable = false
+
+cheat30_desc = "魏延 全能力"
+cheat30_code = "0200BB3D 000000FF+0200BB44 000000FF+0200BB45 000000FF"
+cheat30_enable = false
+
+cheat31_desc = "魏延 加入队伍"
+cheat31_code = "0200BB3C 00000006"
+cheat31_enable = false
+
+cheat32_desc = "关兴 等级"
+cheat32_code = "0200BB75 00000063"
+cheat32_enable = false
+
+cheat33_desc = "关兴 经验"
+cheat33_code = "0200BB76 00000063"
+cheat33_enable = false
+
+cheat34_desc = "关兴 全能力"
+cheat34_code = "0200BB70 000000FF+0200BB71 000000FF"
+cheat34_enable = false
+
+cheat35_desc = "关兴 加入队伍"
+cheat35_code = "0200BB68 00000006"
+cheat35_enable = false
+
+cheat36_desc = "张苞 等级"
+cheat36_code = "0200BBA1 00000063"
+cheat36_enable = false
+
+cheat37_desc = "张苞 经验"
+cheat37_code = "0200BBA2 00000063"
+cheat37_enable = false
+
+cheat38_desc = "张苞 全能力"
+cheat38_code = "0200BB95 000000FF+0200BB9C 000000FF+0200BB9D 000000FF"
+cheat38_enable = false
+
+cheat39_desc = "张苞 加入队伍"
+cheat39_code = "0200BB94 00000006"
+cheat39_enable = false
+
+cheat40_desc = "马岱 等级"
+cheat40_code = "0200BBCD 00000063"
+cheat40_enable = false
+
+cheat41_desc = "马岱 经验"
+cheat41_code = "0200BBCE 00000063"
+cheat41_enable = false
+
+cheat42_desc = "马岱 全能力"
+cheat42_code = "0200BBC1 000000FF+0200BBC8 000000FF+0200BBC9 000000FF"
+cheat42_enable = false
+
+cheat43_desc = "马岱 加入队伍"
+cheat43_code = "0200BBC0 00000006"
+cheat43_enable = false
+
+cheat44_desc = "王平 等级"
+cheat44_code = "0200BBF9 00000063"
+cheat44_enable = false
+
+cheat45_desc = "王平 经验"
+cheat45_code = "0200BBFA 00000063"
+cheat45_enable = false
+
+cheat46_desc = "王平 全能力"
+cheat46_code = "0200BBED 000000FF+0200BBF4 000000FF+0200BBF5 000000FF"
+cheat46_enable = false
+
+cheat47_desc = "王平 加入队伍"
+cheat47_code = "0200BBEC 00000006"
+cheat47_enable = false
+
+cheat48_desc = "徐庶 等级"
+cheat48_code = "0200BC25 00000063"
+cheat48_enable = false
+
+cheat49_desc = "徐庶 经验"
+cheat49_code = "0200BC26 00000063"
+cheat49_enable = false
+
+cheat50_desc = "徐庶 全能力"
+cheat50_code = "0200BC19 000000FF+0200BC20 000000FF+0200BC21 000000FF"
+cheat50_enable = false
+
+cheat51_desc = "徐庶 加入队伍"
+cheat51_code = "0200BC18 00000006"
+cheat51_enable = false
+
+cheat52_desc = "庞统 等级"
+cheat52_code = "0200BC51 00000063"
+cheat52_enable = false
+
+cheat53_desc = "庞统 经验"
+cheat53_code = "0200BC52 00000063"
+cheat53_enable = false
+
+cheat54_desc = "庞统 全能力"
+cheat54_code = "0200BC45 000000FF+0200BC4C 000000FF+0200BC4D 000000FF"
+cheat54_enable = false
+
+cheat55_desc = "庞统 加入队伍"
+cheat55_code = "0200BC44 00000006"
+cheat55_enable = false
+
+cheat56_desc = "马超 等级"
+cheat56_code = "0200BC7D 00000063"
+cheat56_enable = false
+
+cheat57_desc = "马超 经验"
+cheat57_code = "0200BC7E 00000063"
+cheat57_enable = false
+
+cheat58_desc = "马超 全能力"
+cheat58_code = "0200BC71 000000FF+0200BC78 000000FF+0200BC79 000000FF"
+cheat58_enable = false
+
+cheat59_desc = "马超 加入队伍"
+cheat59_code = "0200BC70 00000006"
+cheat59_enable = false
+
+cheat60_desc = "蒋琬 等级"
+cheat60_code = "0200BCA9 00000063"
+cheat60_enable = false
+
+cheat61_desc = "蒋琬 经验"
+cheat61_code = "0200BCAA 00000063"
+cheat61_enable = false
+
+cheat62_desc = "蒋琬 全能力"
+cheat62_code = "0200BC9D 000000FF+0200BCA4 000000FF+0200BCA5 000000FF"
+cheat62_enable = false
+
+cheat63_desc = "蒋琬 加入队伍"
+cheat63_code = "0200BC9C 00000006"
+cheat63_enable = false
+
+cheat64_desc = "费炜 等级"
+cheat64_code = "0200BCD5 00000063"
+cheat64_enable = false
+
+cheat65_desc = "费炜 经验"
+cheat65_code = "0200BCD6 00000063"
+cheat65_enable = false
+
+cheat66_desc = "费炜 全能力"
+cheat66_code = "0200BCC9 000000FF+0200BCD0 000000FF+0200BCD1 000000FF"
+cheat66_enable = false
+
+cheat67_desc = "费炜 加入队伍"
+cheat67_code = "0200BCC8 00000006"
+cheat67_enable = false
+
+cheat68_desc = "诸葛瞻 等级"
+cheat68_code = "0200BD01 00000063"
+cheat68_enable = false
+
+cheat69_desc = "诸葛瞻 经验"
+cheat69_code = "0200BD02 00000063"
+cheat69_enable = false
+
+cheat70_desc = "诸葛瞻 全能力"
+cheat70_code = "0200BCF5 000000FF+0200BCFC 000000FF+0200BCFD 000000FF"
+cheat70_enable = false
+
+cheat71_desc = "诸葛瞻 加入队伍"
+cheat71_code = "0200BCF4 00000006"
+cheat71_enable = false
+
+cheat72_desc = "杨仪 等级"
+cheat72_code = "0200BD2D 00000063"
+cheat72_enable = false
+
+cheat73_desc = "杨仪 经验"
+cheat73_code = "0200BD2E 00000063"
+cheat73_enable = false
+
+cheat74_desc = "杨仪 全能力"
+cheat74_code = "0200BD21 000000FF+0200BD28 000000FF+0200BD29 000000FF"
+cheat74_enable = false
+
+cheat75_desc = "杨仪 加入队伍"
+cheat75_code = "0200BD20 00000006"
+cheat75_enable = false
+
+cheat76_desc = "邓芝 等级"
+cheat76_code = "0200BD59 00000063"
+cheat76_enable = false
+
+cheat77_desc = "邓芝 经验"
+cheat77_code = "0200BD5A 00000063"
+cheat77_enable = false
+
+cheat78_desc = "邓芝 全能力"
+cheat78_code = "0200BD4D 000000FF+0200BD54 000000FF+0200BD55 000000FF"
+cheat78_enable = false
+
+cheat79_desc = "邓芝 加入队伍"
+cheat79_code = "0200BD4C 00000006"
+cheat79_enable = false
+
+cheat80_desc = "廖化 等级"
+cheat80_code = "0200BD85 00000063"
+cheat80_enable = false
+
+cheat81_desc = "廖化 经验"
+cheat81_code = "0200BD86 00000063"
+cheat81_enable = false
+
+cheat82_desc = "廖化 全能力"
+cheat82_code = "0200BD79 000000FF+0200BD80 000000FF+0200BD81 000000FF"
+cheat82_enable = false
+
+cheat83_desc = "廖化 加入队伍"
+cheat83_code = "0200BD78 00000006"
+cheat83_enable = false
+
+cheat84_desc = "关索 等级"
+cheat84_code = "0200BDB1 00000063"
+cheat84_enable = false
+
+cheat85_desc = "关索 经验"
+cheat85_code = "0200BDB2 00000063"
+cheat85_enable = false
+
+cheat86_desc = "关索 全能力"
+cheat86_code = "0200BDA5 000000FF+0200BDAC 000000FF+0200BDAD 000000FF"
+cheat86_enable = false
+
+cheat87_desc = "关索 加入队伍"
+cheat87_code = "0200BDA4 00000006"
+cheat87_enable = false
+
+cheat88_desc = "诸葛均 等级"
+cheat88_code = "0200BDDD 00000063"
+cheat88_enable = false
+
+cheat89_desc = "诸葛均 经验"
+cheat89_code = "0200BDDE 00000063"
+cheat89_enable = false
+
+cheat90_desc = "诸葛均 全能力"
+cheat90_code = "0200BDD1 000000FF+0200BDD8 000000FF+0200BDD9 000000FF"
+cheat90_enable = false
+
+cheat91_desc = "诸葛均 加入队伍"
+cheat91_code = "0200BDD0 00000006"
+cheat91_enable = false
+
+cheat92_desc = "刘禅 等级"
+cheat92_code = "0200BE09 00000063"
+cheat92_enable = false
+
+cheat93_desc = "刘禅 经验"
+cheat93_code = "0200BE0A 00000063"
+cheat93_enable = false
+
+cheat94_desc = "刘禅 全能力"
+cheat94_code = "0200BDFD 000000FF+0200BE04 000000FF+0200BE05 000000FF"
+cheat94_enable = false
+
+cheat95_desc = "刘禅 加入队伍"
+cheat95_code = "0200BDFC 00000006"
+cheat95_enable = false
+
+cheat96_desc = "吴懿 等级"
+cheat96_code = "0200BE35 00000063"
+cheat96_enable = false
+
+cheat97_desc = "吴懿 经验"
+cheat97_code = "0200BE36 00000063"
+cheat97_enable = false
+
+cheat98_desc = "吴懿 全能力"
+cheat98_code = "0200BE29 000000FF+0200BE30 000000FF+0200BE31 000000FF"
+cheat98_enable = false
+
+cheat99_desc = "吴懿 加入队伍"
+cheat99_code = "0200BE28 00000006"
+cheat99_enable = false
+
+cheat100_desc = "吴班 等级"
+cheat100_code = "0200BE61 00000063"
+cheat100_enable = false
+
+cheat101_desc = "吴班 经验"
+cheat101_code = "0200BE62 00000063"
+cheat101_enable = false
+
+cheat102_desc = "吴班 全能力"
+cheat102_code = "0200BE55 000000FF+0200BE5C 000000FF+0200BE5D 000000FF"
+cheat102_enable = false
+
+cheat103_desc = "吴班 加入队伍"
+cheat103_code = "0200BE54 00000006"
+cheat103_enable = false
+
+cheat104_desc = "张翼 等级"
+cheat104_code = "0200BE8D 00000063"
+cheat104_enable = false
+
+cheat105_desc = "张翼 经验"
+cheat105_code = "0200BE8E 00000063"
+cheat105_enable = false
+
+cheat106_desc = "张翼 全能力"
+cheat106_code = "0200BE81 000000FF+0200BE88 000000FF+0200BE89 000000FF"
+cheat106_enable = false
+
+cheat107_desc = "张翼 加入队伍"
+cheat107_code = "0200BE80 00000006"
+cheat107_enable = false
+
+cheat108_desc = "张嶷 等级"
+cheat108_code = "0200BEB9 00000063"
+cheat108_enable = false
+
+cheat109_desc = "张嶷 经验"
+cheat109_code = "0200BEBA 00000063"
+cheat109_enable = false
+
+cheat110_desc = "张嶷 全能力"
+cheat110_code = "0200BEAD 000000FF+0200BEB4 000000FF+0200BEB5 000000FF"
+cheat110_enable = false
+
+cheat111_desc = "张嶷 加入队伍"
+cheat111_code = "0200BEAC 00000006"
+cheat111_enable = false
+
+cheat112_desc = "马忠 等级"
+cheat112_code = "0200BEE5 00000063"
+cheat112_enable = false
+
+cheat113_desc = "马忠 经验"
+cheat113_code = "0200BEE6 00000063"
+cheat113_enable = false
+
+cheat114_desc = "马忠 全能力"
+cheat114_code = "0200BED9 000000FF+0200BEE0 000000FF+0200BEE1 000000FF"
+cheat114_enable = false
+
+cheat115_desc = "马忠 加入队伍"
+cheat115_code = "0200BED8 00000006"
+cheat115_enable = false
+
+cheat116_desc = "高翔 等级"
+cheat116_code = "0200BF11 00000063"
+cheat116_enable = false
+
+cheat117_desc = "高翔 经验"
+cheat117_code = "0200BF12 00000063"
+cheat117_enable = false
+
+cheat118_desc = "高翔 全能力"
+cheat118_code = "0200BF05 000000FF+0200BF0C 000000FF+0200BF0D 000000FF"
+cheat118_enable = false
+
+cheat119_desc = "高翔 加入队伍"
+cheat119_code = "0200BF04 00000006"
+cheat119_enable = false
+
+cheat120_desc = "李严 等级"
+cheat120_code = "0200BF3D 00000063"
+cheat120_enable = false
+
+cheat121_desc = "李严 经验"
+cheat121_code = "0200BF3E 00000063"
+cheat121_enable = false
+
+cheat122_desc = "李严 全能力"
+cheat122_code = "0200BF31 000000FF+0200BF38 000000FF+0200BF39 000000FF"
+cheat122_enable = false
+
+cheat123_desc = "李严 加入队伍"
+cheat123_code = "0200BF30 00000006"
+cheat123_enable = false
+
+cheat124_desc = "李恢 等级"
+cheat124_code = "0200BF95 00000063"
+cheat124_enable = false
+
+cheat125_desc = "李恢 经验"
+cheat125_code = "0200BF96 00000063"
+cheat125_enable = false
+
+cheat126_desc = "李恢 全能力"
+cheat126_code = "0200BF89 000000FF+0200BF90 000000FF+0200BF91 000000FF"
+cheat126_enable = false
+
+cheat127_desc = "李恢 加入队伍"
+cheat127_code = "0200BF88 00000006"
+cheat127_enable = false
+
+cheat128_desc = "陈式 等级"
+cheat128_code = "0200BFED 00000063"
+cheat128_enable = false
+
+cheat129_desc = "陈式 经验"
+cheat129_code = "0200BFEE 00000063"
+cheat129_enable = false
+
+cheat130_desc = "陈式 全能力"
+cheat130_code = "0200BFE1 000000FF+0200BFE8 000000FF+0200BFE9 000000FF"
+cheat130_enable = false
+
+cheat131_desc = "陈式 加入队伍"
+cheat131_code = "0200BFE0 00000006"
+cheat131_enable = false
+
+cheat132_desc = "董允 等级"
+cheat132_code = "0200C019 00000063"
+cheat132_enable = false
+
+cheat133_desc = "董允 经验"
+cheat133_code = "0200C01A 00000063"
+cheat133_enable = false
+
+cheat134_desc = "董允 全能力"
+cheat134_code = "0200C00D 000000FF+0200C014 000000FF+0200C015 000000FF"
+cheat134_enable = false
+
+cheat135_desc = "董允 加入队伍"
+cheat135_code = "0200C00C 00000006"
+cheat135_enable = false
+
+cheat136_desc = "郭攸之 等级"
+cheat136_code = "0200C045 00000063"
+cheat136_enable = false
+
+cheat137_desc = "郭攸之 经验"
+cheat137_code = "0200C046 00000063"
+cheat137_enable = false
+
+cheat138_desc = "郭攸之 全能力"
+cheat138_code = "0200C039 000000FF+0200C040 000000FF+0200C041 000000FF"
+cheat138_enable = false
+
+cheat139_desc = "郭攸之 加入队伍"
+cheat139_code = "0200C038 00000006"
+cheat139_enable = false
+
+cheat140_desc = "马良 等级"
+cheat140_code = "0200C071 00000063"
+cheat140_enable = false
+
+cheat141_desc = "马良 经验"
+cheat141_code = "0200C072 00000063"
+cheat141_enable = false
+
+cheat142_desc = "马良 全能力"
+cheat142_code = "0200C065 000000FF+0200C06C 000000FF+0200C06D 000000FF"
+cheat142_enable = false
+
+cheat143_desc = "马良 加入队伍"
+cheat143_code = "0200C064 00000006"
+cheat143_enable = false
+
+cheat144_desc = "杨兰 等级"
+cheat144_code = "0200C09D 00000063"
+cheat144_enable = false
+
+cheat145_desc = "杨兰 经验"
+cheat145_code = "0200C09E 00000063"
+cheat145_enable = false
+
+cheat146_desc = "杨兰 全能力"
+cheat146_code = "0200C091 000000FF+0200C098 000000FF+0200C099 000000FF"
+cheat146_enable = false
+
+cheat147_desc = "杨兰 加入队伍"
+cheat147_code = "0200C090 00000006"
+cheat147_enable = false
+
+cheat148_desc = "孟达 等级"
+cheat148_code = "0200C0F5 00000063"
+cheat148_enable = false
+
+cheat149_desc = "孟达 经验"
+cheat149_code = "0200C0F6 00000063"
+cheat149_enable = false
+
+cheat150_desc = "孟达 全能力"
+cheat150_code = "0200C0E9 000000FF+0200C0F0 000000FF+0200C0F1 000000FF"
+cheat150_enable = false
+
+cheat151_desc = "孟达 加入队伍"
+cheat151_code = "0200C0E8 00000006"
+cheat151_enable = false
+
+cheat152_desc = "王伉 等级"
+cheat152_code = "0200C14D 00000063"
+cheat152_enable = false
+
+cheat153_desc = "王伉 经验"
+cheat153_code = "0200C14E 00000063"
+cheat153_enable = false
+
+cheat154_desc = "王伉 全能力"
+cheat154_code = "0200C141 000000FF+0200C148 000000FF+0200C149 000000FF"
+cheat154_enable = false
+
+cheat155_desc = "王伉 加入队伍"
+cheat155_code = "0200C140 00000006"
+cheat155_enable = false
+
+cheat156_desc = "吕凯 等级"
+cheat156_code = "0200C179 00000063"
+cheat156_enable = false
+
+cheat157_desc = "吕凯 经验"
+cheat157_code = "0200C17A 00000063"
+cheat157_enable = false
+
+cheat158_desc = "吕凯 全能力"
+cheat158_code = "0200C16D 000000FF+0200C174 000000FF+0200C175 000000FF"
+cheat158_enable = false
+
+cheat159_desc = "吕凯 加入队伍"
+cheat159_code = "0200C16C 00000006"
+cheat159_enable = false
+
+cheat160_desc = "赵统 等级"
+cheat160_code = "0200C1A5 00000063"
+cheat160_enable = false
+
+cheat161_desc = "赵统 经验"
+cheat161_code = "0200C1A6 00000063"
+cheat161_enable = false
+
+cheat162_desc = "赵统 全能力"
+cheat162_code = "0200C199 000000FF+0200C1A0 000000FF+0200C1A1 000000FF"
+cheat162_enable = false
+
+cheat163_desc = "赵统 加入队伍"
+cheat163_code = "0200C198 00000006"
+cheat163_enable = false
+
+cheat164_desc = "赵广 等级"
+cheat164_code = "0200C1D1 00000063"
+cheat164_enable = false
+
+cheat165_desc = "赵广 经验"
+cheat165_code = "0200C1D2 00000063"
+cheat165_enable = false
+
+cheat166_desc = "赵广 全能力"
+cheat166_code = "0200C1C5 000000FF+0200C1CC 000000FF+0200C1CD 000000FF"
+cheat166_enable = false
+
+cheat167_desc = "赵广 加入队伍"
+cheat167_code = "0200C1C4 00000006"
+cheat167_enable = false
+
+cheat168_desc = "黄忠 等级"
+cheat168_code = "0200C229 00000063"
+cheat168_enable = false
+
+cheat169_desc = "黄忠 经验"
+cheat169_code = "0200C22A 00000063"
+cheat169_enable = false
+
+cheat170_desc = "黄忠 全能力"
+cheat170_code = "0200C21D 000000FF+0200C224 000000FF+0200C225 000000FF"
+cheat170_enable = false
+
+cheat171_desc = "黄忠 加入队伍"
+cheat171_code = "0200C21C 00000006"
+cheat171_enable = false
+
+cheat172_desc = "法正 等级"
+cheat172_code = "0200C255 00000063"
+cheat172_enable = false
+
+cheat173_desc = "法正 经验"
+cheat173_code = "0200C256 00000063"
+cheat173_enable = false
+
+cheat174_desc = "法正 全能力"
+cheat174_code = "0200C249 000000FF+0200C250 000000FF+0200C251 000000FF"
+cheat174_enable = false
+
+cheat175_desc = "法正 加入队伍"
+cheat175_code = "0200C248 00000006"
+cheat175_enable = false
+
+cheat176_desc = "张松 等级"
+cheat176_code = "0200C281 00000063"
+cheat176_enable = false
+
+cheat177_desc = "张松 经验"
+cheat177_code = "0200C282 00000063"
+cheat177_enable = false
+
+cheat178_desc = "张松 全能力"
+cheat178_code = "0200C275 000000FF+0200C27C 000000FF+0200C27D 000000FF"
+cheat178_enable = false
+
+cheat179_desc = "张松 加入队伍"
+cheat179_code = "0200C274 00000006"
+cheat179_enable = false
+
+cheat180_desc = "孙干 等级"
+cheat180_code = "0200C2D9 00000063"
+cheat180_enable = false
+
+cheat181_desc = "孙干 经验"
+cheat181_code = "0200C2DA 00000063"
+cheat181_enable = false
+
+cheat182_desc = "孙干 全能力"
+cheat182_code = "0200C2CD 000000FF+0200C2D4 000000FF+0200C2D5 000000FF"
+cheat182_enable = false
+
+cheat183_desc = "孙干 加入队伍"
+cheat183_code = "0200C2CC 00000006"
+cheat183_enable = false
+
+cheat184_desc = "糜竺 等级"
+cheat184_code = "0200C305 00000063"
+cheat184_enable = false
+
+cheat185_desc = "糜竺 经验"
+cheat185_code = "0200C306 00000063"
+cheat185_enable = false
+
+cheat186_desc = "糜竺 全能力"
+cheat186_code = "0200C2F9 000000FF+0200C300 000000FF+0200C301 000000FF"
+cheat186_enable = false
+
+cheat187_desc = "糜竺 加入队伍"
+cheat187_code = "0200C2F8 00000006"
+cheat187_enable = false
+
+cheat188_desc = "糜芳 等级"
+cheat188_code = "0200C35D 00000063"
+cheat188_enable = false
+
+cheat189_desc = "糜芳 经验"
+cheat189_code = "0200C35E 00000063"
+cheat189_enable = false
+
+cheat190_desc = "糜芳 全能力"
+cheat190_code = "0200C351 000000FF+0200C358 000000FF+0200C359 000000FF"
+cheat190_enable = false
+
+cheat191_desc = "糜芳 加入队伍"
+cheat191_code = "0200C350 00000006"
+cheat191_enable = false
+
+cheat192_desc = "刘封 等级"
+cheat192_code = "0200C389 00000063"
+cheat192_enable = false
+
+cheat193_desc = "刘封 经验"
+cheat193_code = "0200C38A 00000063"
+cheat193_enable = false
+
+cheat194_desc = "刘封 全能力"
+cheat194_code = "0200C37D 000000FF+0200C384 000000FF+0200C385 000000FF"
+cheat194_enable = false
+
+cheat195_desc = "刘封 加入队伍"
+cheat195_code = "0200C37C 00000006"
+cheat195_enable = false
+
+cheat196_desc = "关平 等级"
+cheat196_code = "0200C3B5 00000063"
+cheat196_enable = false
+
+cheat197_desc = "关平 经验"
+cheat197_code = "0200C3B6 00000063"
+cheat197_enable = false
+
+cheat198_desc = "关平 全能力"
+cheat198_code = "0200C3A9 000000FF+0200C3B0 000000FF+0200C3B1 000000FF"
+cheat198_enable = false
+
+cheat199_desc = "关平 加入队伍"
+cheat199_code = "0200C3A8 00000006"
+cheat199_enable = false
+
+cheat200_desc = "周仓 等级"
+cheat200_code = "0200C3E1 00000063"
+cheat200_enable = false
+
+cheat201_desc = "周仓 经验"
+cheat201_code = "0200C3E2 00000063"
+cheat201_enable = false
+
+cheat202_desc = "周仓 全能力"
+cheat202_code = "0200C3D5 000000FF+0200C3DC 000000FF+0200C3DD 000000FF"
+cheat202_enable = false
+
+cheat203_desc = "周仓 加入队伍"
+cheat203_code = "0200C3D4 00000006"
+cheat203_enable = false
+
+cheat204_desc = "严颜 等级"
+cheat204_code = "0200C40D 00000063"
+cheat204_enable = false
+
+cheat205_desc = "严颜 经验"
+cheat205_code = "0200C40E 00000063"
+cheat205_enable = false
+
+cheat206_desc = "严颜 全能力"
+cheat206_code = "0200C401 000000FF+0200C408 000000FF+0200C409 000000FF"
+cheat206_enable = false
+
+cheat207_desc = "严颜 加入队伍"
+cheat207_code = "0200C400 00000006"
+cheat207_enable = false
+
+cheat208_desc = "王甫 等级"
+cheat208_code = "0200C439 00000063"
+cheat208_enable = false
+
+cheat209_desc = "王甫 经验"
+cheat209_code = "0200C43A 00000063"
+cheat209_enable = false
+
+cheat210_desc = "王甫 全能力"
+cheat210_code = "0200C42D 000000FF+0200C434 000000FF+0200C435 000000FF"
+cheat210_enable = false
+
+cheat211_desc = "王甫 加入队伍"
+cheat211_code = "0200C42C 00000006"
+cheat211_enable = false
+
+cheat212_desc = "沙摩柯 等级"
+cheat212_code = "0200C465 00000063"
+cheat212_enable = false
+
+cheat213_desc = "沙摩柯 经验"
+cheat213_code = "0200C466 00000063"
+cheat213_enable = false
+
+cheat214_desc = "沙摩柯 全能力"
+cheat214_code = "0200C459 000000FF+0200C460 000000FF+0200C461 000000FF"
+cheat214_enable = false
+
+cheat215_desc = "沙摩柯 加入队伍"
+cheat215_code = "0200C458 00000006"
+cheat215_enable = false
+
+cheat216_desc = "吴兰 等级"
+cheat216_code = "0200C491 00000063"
+cheat216_enable = false
+
+cheat217_desc = "吴兰 经验"
+cheat217_code = "0200C492 00000063"
+cheat217_enable = false
+
+cheat218_desc = "吴兰 全能力"
+cheat218_code = "0200C485 000000FF+0200C48C 000000FF+0200C48D 000000FF"
+cheat218_enable = false
+
+cheat219_desc = "吴兰 加入队伍"
+cheat219_code = "0200C484 00000006"
+cheat219_enable = false
+
+cheat220_desc = "雷铜 等级"
+cheat220_code = "0200C4BD 00000063"
+cheat220_enable = false
+
+cheat221_desc = "雷铜 经验"
+cheat221_code = "0200C4BE 00000063"
+cheat221_enable = false
+
+cheat222_desc = "雷铜 全能力"
+cheat222_code = "0200C4B1 000000FF+0200C4B8 000000FF+0200C4B9 000000FF"
+cheat222_enable = false
+
+cheat223_desc = "雷铜 加入队伍"
+cheat223_code = "0200C4B0 00000006"
+cheat223_enable = false
+
+cheat224_desc = "傅士仁 等级"
+cheat224_code = "0200C4E9 00000063"
+cheat224_enable = false
+
+cheat225_desc = "傅士仁 经验"
+cheat225_code = "0200C4EA 00000063"
+cheat225_enable = false
+
+cheat226_desc = "傅士仁 全能力"
+cheat226_code = "0200C4DD 000000FF+0200C4E4 000000FF+0200C4E5 000000FF"
+cheat226_enable = false
+
+cheat227_desc = "傅士仁 加入队伍"
+cheat227_code = "0200C4DC 00000006"
+cheat227_enable = false
+
+cheat228_desc = "张南 等级"
+cheat228_code = "0200C515 00000063"
+cheat228_enable = false
+
+cheat229_desc = "张南 经验"
+cheat229_code = "0200C516 00000063"
+cheat229_enable = false
+
+cheat230_desc = "张南 全能力"
+cheat230_code = "0200C509 000000FF+0200C510 000000FF+0200C511 000000FF"
+cheat230_enable = false
+
+cheat231_desc = "张南 加入队伍"
+cheat231_code = "0200C508 00000006"
+cheat231_enable = false
+
+cheat232_desc = "曹操 等级"
+cheat232_code = "0200C541 00000063"
+cheat232_enable = false
+
+cheat233_desc = "曹操 经验"
+cheat233_code = "0200C542 00000063"
+cheat233_enable = false
+
+cheat234_desc = "曹操 全能力"
+cheat234_code = "0200C535 000000FF+0200C53C 000000FF+0200C53D 000000FF"
+cheat234_enable = false
+
+cheat235_desc = "曹操 加入队伍"
+cheat235_code = "0200C534 00000006"
+cheat235_enable = false
+
+cheat236_desc = "夏侯惇 等级"
+cheat236_code = "0200C56D 00000063"
+cheat236_enable = false
+
+cheat237_desc = "夏侯惇 经验"
+cheat237_code = "0200C56E 00000063"
+cheat237_enable = false
+
+cheat238_desc = "夏侯惇 全能力"
+cheat238_code = "0200C561 000000FF+0200C568 000000FF+0200C569 000000FF"
+cheat238_enable = false
+
+cheat239_desc = "夏侯惇 加入队伍"
+cheat239_code = "0200C560 00000006"
+cheat239_enable = false
+
+cheat240_desc = "夏侯渊 等级"
+cheat240_code = "0200C599 00000063"
+cheat240_enable = false
+
+cheat241_desc = "夏侯渊 经验"
+cheat241_code = "0200C59A 00000063"
+cheat241_enable = false
+
+cheat242_desc = "夏侯渊 全能力"
+cheat242_code = "0200C58D 000000FF+0200C594 000000FF+0200C595 000000FF"
+cheat242_enable = false
+
+cheat243_desc = "夏侯渊 加入队伍"
+cheat243_code = "0200C58C 00000006"
+cheat243_enable = false
+
+cheat244_desc = "曹仁 等级"
+cheat244_code = "0200C5C5 00000063"
+cheat244_enable = false
+
+cheat245_desc = "曹仁 经验"
+cheat245_code = "0200C5C6 00000063"
+cheat245_enable = false
+
+cheat246_desc = "曹仁 全能力"
+cheat246_code = "0200C5B9 000000FF+0200C5C0 000000FF+0200C5C1 000000FF"
+cheat246_enable = false
+
+cheat247_desc = "曹仁 加入队伍"
+cheat247_code = "0200C5B8 00000006"
+cheat247_enable = false
+
+cheat248_desc = "曹洪 等级"
+cheat248_code = "0200C5F1 00000063"
+cheat248_enable = false
+
+cheat249_desc = "曹洪 经验"
+cheat249_code = "0200C5F2 00000063"
+cheat249_enable = false
+
+cheat250_desc = "曹洪 全能力"
+cheat250_code = "0200C5E5 000000FF+0200C5EC 000000FF+0200C5ED 000000FF"
+cheat250_enable = false
+
+cheat251_desc = "曹洪 加入队伍"
+cheat251_code = "0200C5E4 00000006"
+cheat251_enable = false
+
+cheat252_desc = "荀彧 等级"
+cheat252_code = "0200C61D 00000063"
+cheat252_enable = false
+
+cheat253_desc = "荀彧 经验"
+cheat253_code = "0200C61E 00000063"
+cheat253_enable = false
+
+cheat254_desc = "荀彧 全能力"
+cheat254_code = "0200C611 000000FF+0200C618 000000FF+0200C619 000000FF"
+cheat254_enable = false
+
+cheat255_desc = "荀彧 加入队伍"
+cheat255_code = "0200C610 00000006"
+cheat255_enable = false
+
+cheat256_desc = "荀攸 等级"
+cheat256_code = "0200C649 00000063"
+cheat256_enable = false
+
+cheat257_desc = "荀攸 经验"
+cheat257_code = "0200C64A 00000063"
+cheat257_enable = false
+
+cheat258_desc = "荀攸 全能力"
+cheat258_code = "0200C63D 000000FF+0200C644 000000FF+0200C645 000000FF"
+cheat258_enable = false
+
+cheat259_desc = "荀攸 加入队伍"
+cheat259_code = "0200C63C 00000006"
+cheat259_enable = false
+
+cheat260_desc = "郭嘉 等级"
+cheat260_code = "0200C675 00000063"
+cheat260_enable = false
+
+cheat261_desc = "郭嘉 经验"
+cheat261_code = "0200C676 00000063"
+cheat261_enable = false
+
+cheat262_desc = "郭嘉 全能力"
+cheat262_code = "0200C669 000000FF+0200C670 000000FF+0200C671 000000FF"
+cheat262_enable = false
+
+cheat263_desc = "郭嘉 加入队伍"
+cheat263_code = "0200C668 00000006"
+cheat263_enable = false
+
+cheat264_desc = "程昱 等级"
+cheat264_code = "0200C6A1 00000063"
+cheat264_enable = false
+
+cheat265_desc = "程昱 经验"
+cheat265_code = "0200C6A2 00000063"
+cheat265_enable = false
+
+cheat266_desc = "程昱 全能力"
+cheat266_code = "0200C695 000000FF+0200C69C 000000FF+0200C69D 000000FF"
+cheat266_enable = false
+
+cheat267_desc = "程昱 加入队伍"
+cheat267_code = "0200C694 00000006"
+cheat267_enable = false
+
+cheat268_desc = "张辽 等级"
+cheat268_code = "0200C6CD 00000063"
+cheat268_enable = false
+
+cheat269_desc = "张辽 经验"
+cheat269_code = "0200C6CE 00000063"
+cheat269_enable = false
+
+cheat270_desc = "张辽 全能力"
+cheat270_code = "0200C6C1 000000FF+0200C6C8 000000FF+0200C6C9 000000FF"
+cheat270_enable = false
+
+cheat271_desc = "张辽 加入队伍"
+cheat271_code = "0200C6C0 00000006"
+cheat271_enable = false
+
+cheat272_desc = "许褚 等级"
+cheat272_code = "0200C6F9 00000063"
+cheat272_enable = false
+
+cheat273_desc = "许褚 经验"
+cheat273_code = "0200C6FA 00000063"
+cheat273_enable = false
+
+cheat274_desc = "许褚 全能力"
+cheat274_code = "0200C6ED 000000FF+0200C6F4 000000FF+0200C6F5 000000FF"
+cheat274_enable = false
+
+cheat275_desc = "许褚 加入队伍"
+cheat275_code = "0200C6EC 00000006"
+cheat275_enable = false
+
+cheat276_desc = "徐晃 等级"
+cheat276_code = "0200C725 00000063"
+cheat276_enable = false
+
+cheat277_desc = "徐晃 经验"
+cheat277_code = "0200C726 00000063"
+cheat277_enable = false
+
+cheat278_desc = "徐晃 全能力"
+cheat278_code = "0200C719 000000FF+0200C720 000000FF+0200C721 000000FF"
+cheat278_enable = false
+
+cheat279_desc = "徐晃 加入队伍"
+cheat279_code = "0200C718 00000006"
+cheat279_enable = false
+
+cheat280_desc = "于禁 等级"
+cheat280_code = "0200C751 00000063"
+cheat280_enable = false
+
+cheat281_desc = "于禁 经验"
+cheat281_code = "0200C752 00000063"
+cheat281_enable = false
+
+cheat282_desc = "于禁 全能力"
+cheat282_code = "0200C745 000000FF+0200C74C 000000FF+0200C74D 000000FF"
+cheat282_enable = false
+
+cheat283_desc = "于禁 加入队伍"
+cheat283_code = "0200C744 00000006"
+cheat283_enable = false
+
+cheat284_desc = "乐进 等级"
+cheat284_code = "0200C77D 00000063"
+cheat284_enable = false
+
+cheat285_desc = "乐进 经验"
+cheat285_code = "0200C77E 00000063"
+cheat285_enable = false
+
+cheat286_desc = "乐进 全能力"
+cheat286_code = "0200C771 000000FF+0200C778 000000FF+0200C779 000000FF"
+cheat286_enable = false
+
+cheat287_desc = "乐进 加入队伍"
+cheat287_code = "0200C770 00000006"
+cheat287_enable = false
+
+cheat288_desc = "李典 等级"
+cheat288_code = "0200C7A9 00000063"
+cheat288_enable = false
+
+cheat289_desc = "李典 经验"
+cheat289_code = "0200C7AA 00000063"
+cheat289_enable = false
+
+cheat290_desc = "李典 全能力"
+cheat290_code = "0200C79D 000000FF+0200C7A4 000000FF+0200C7A5 000000FF"
+cheat290_enable = false
+
+cheat291_desc = "李典 加入队伍"
+cheat291_code = "0200C79C 00000006"
+cheat291_enable = false
+
+cheat292_desc = "贾诩 等级"
+cheat292_code = "0200C7D5 00000063"
+cheat292_enable = false
+
+cheat293_desc = "贾诩 经验"
+cheat293_code = "0200C7D6 00000063"
+cheat293_enable = false
+
+cheat294_desc = "贾诩 全能力"
+cheat294_code = "0200C7C9 000000FF+0200C7D0 000000FF+0200C7D1 000000FF"
+cheat294_enable = false
+
+cheat295_desc = "贾诩 加入队伍"
+cheat295_code = "0200C7C8 00000006"
+cheat295_enable = false
+
+cheat296_desc = "庞德 等级"
+cheat296_code = "0200C82D 00000063"
+cheat296_enable = false
+
+cheat297_desc = "庞德 经验"
+cheat297_code = "0200C82E 00000063"
+cheat297_enable = false
+
+cheat298_desc = "庞德 全能力"
+cheat298_code = "0200C821 000000FF+0200C828 000000FF+0200C829 000000FF"
+cheat298_enable = false
+
+cheat299_desc = "庞德 加入队伍"
+cheat299_code = "0200C820 00000006"
+cheat299_enable = false
+
+cheat300_desc = "毛玠 等级"
+cheat300_code = "0200C859 00000063"
+cheat300_enable = false
+
+cheat301_desc = "毛玠 经验"
+cheat301_code = "0200C85A 00000063"
+cheat301_enable = false
+
+cheat302_desc = "毛玠 全能力"
+cheat302_code = "0200C84D 000000FF+0200C854 000000FF+0200C855 000000FF"
+cheat302_enable = false
+
+cheat303_desc = "毛玠 加入队伍"
+cheat303_code = "0200C84C 00000006"
+cheat303_enable = false
+
+cheat304_desc = "陈矫 等级"
+cheat304_code = "0200C885 00000063"
+cheat304_enable = false
+
+cheat305_desc = "陈矫 经验"
+cheat305_code = "0200C886 00000063"
+cheat305_enable = false
+
+cheat306_desc = "陈矫 全能力"
+cheat306_code = "0200C879 000000FF+0200C880 000000FF+0200C881 000000FF"
+cheat306_enable = false
+
+cheat307_desc = "陈矫 加入队伍"
+cheat307_code = "0200C878 00000006"
+cheat307_enable = false
+
+cheat308_desc = "韩浩 等级"
+cheat308_code = "0200C8DD 00000063"
+cheat308_enable = false
+
+cheat309_desc = "韩浩 经验"
+cheat309_code = "0200C8DE 00000063"
+cheat309_enable = false
+
+cheat310_desc = "韩浩 全能力"
+cheat310_code = "0200C8D1 000000FF+0200C8D8 000000FF+0200C8D9 000000FF"
+cheat310_enable = false
+
+cheat311_desc = "韩浩 加入队伍"
+cheat311_code = "0200C8D0 00000006"
+cheat311_enable = false
+
+cheat312_desc = "夏侯德 等级"
+cheat312_code = "0200C909 00000063"
+cheat312_enable = false
+
+cheat313_desc = "夏侯德 经验"
+cheat313_code = "0200C90A 00000063"
+cheat313_enable = false
+
+cheat314_desc = "夏侯德 全能力"
+cheat314_code = "0200C8FD 000000FF+0200C904 000000FF+0200C905 000000FF"
+cheat314_enable = false
+
+cheat315_desc = "夏侯德 加入队伍"
+cheat315_code = "0200C8FC 00000006"
+cheat315_enable = false
+
+cheat316_desc = "曹彰 等级"
+cheat316_code = "0200C935 00000063"
+cheat316_enable = false
+
+cheat317_desc = "曹彰 经验"
+cheat317_code = "0200C936 00000063"
+cheat317_enable = false
+
+cheat318_desc = "曹彰 全能力"
+cheat318_code = "0200C929 000000FF+0200C930 000000FF+0200C931 000000FF"
+cheat318_enable = false
+
+cheat319_desc = "曹彰 加入队伍"
+cheat319_code = "0200C928 00000006"
+cheat319_enable = false
+
+cheat320_desc = "夏侯恩 等级"
+cheat320_code = "0200C961 00000063"
+cheat320_enable = false
+
+cheat321_desc = "夏侯恩 经验"
+cheat321_code = "0200C962 00000063"
+cheat321_enable = false
+
+cheat322_desc = "夏侯恩 全能力"
+cheat322_code = "0200C955 000000FF+0200C95C 000000FF+0200C95D 000000FF"
+cheat322_enable = false
+
+cheat323_desc = "夏侯恩 加入队伍"
+cheat323_code = "0200C954 00000006"
+cheat323_enable = false
+
+cheat324_desc = "夏侯杰 等级"
+cheat324_code = "0200C98D 00000063"
+cheat324_enable = false
+
+cheat325_desc = "夏侯杰 经验"
+cheat325_code = "0200C98E 00000063"
+cheat325_enable = false
+
+cheat326_desc = "夏侯杰 全能力"
+cheat326_code = "0200C981 000000FF+0200C988 000000FF+0200C989 000000FF"
+cheat326_enable = false
+
+cheat327_desc = "夏侯杰 加入队伍"
+cheat327_code = "0200C980 00000006"
+cheat327_enable = false
+
+cheat328_desc = "张郃 等级"
+cheat328_code = "0200C9B9 00000063"
+cheat328_enable = false
+
+cheat329_desc = "张郃 经验"
+cheat329_code = "0200C9BA 00000063"
+cheat329_enable = false
+
+cheat330_desc = "张郃 全能力"
+cheat330_code = "0200C9AD 000000FF+0200C9B4 000000FF+0200C9B5 000000FF"
+cheat330_enable = false
+
+cheat331_desc = "张郃 加入队伍"
+cheat331_code = "0200C9AC 00000006"
+cheat331_enable = false
+
+cheat332_desc = "曹植 等级"
+cheat332_code = "0200C9E5 00000063"
+cheat332_enable = false
+
+cheat333_desc = "曹植 经验"
+cheat333_code = "0200C9E6 00000063"
+cheat333_enable = false
+
+cheat334_desc = "曹植 全能力"
+cheat334_code = "0200C9D9 000000FF+0200C9E0 000000FF+0200C9E1 000000FF"
+cheat334_enable = false
+
+cheat335_desc = "曹植 加入队伍"
+cheat335_code = "0200C9D8 00000006"
+cheat335_enable = false
+
+cheat336_desc = "曹休 等级"
+cheat336_code = "0200CA11 00000063"
+cheat336_enable = false
+
+cheat337_desc = "曹休 经验"
+cheat337_code = "0200CA12 00000063"
+cheat337_enable = false
+
+cheat338_desc = "曹休 全能力"
+cheat338_code = "0200CA05 000000FF+0200CA0C 000000FF+0200CA0D 000000FF"
+cheat338_enable = false
+
+cheat339_desc = "曹休 加入队伍"
+cheat339_code = "0200CA04 00000006"
+cheat339_enable = false
+
+cheat340_desc = "满宠 等级"
+cheat340_code = "0200CA3D 00000063"
+cheat340_enable = false
+
+cheat341_desc = "满宠 经验"
+cheat341_code = "0200CA3E 00000063"
+cheat341_enable = false
+
+cheat342_desc = "满宠 全能力"
+cheat342_code = "0200CA31 000000FF+0200CA38 000000FF+0200CA39 000000FF"
+cheat342_enable = false
+
+cheat343_desc = "满宠 加入队伍"
+cheat343_code = "0200CA30 00000006"
+cheat343_enable = false
+
+cheat344_desc = "刘晔 等级"
+cheat344_code = "0200CA59 00000063"
+cheat344_enable = false
+
+cheat345_desc = "刘晔 经验"
+cheat345_code = "0200CA5A 00000063"
+cheat345_enable = false
+
+cheat346_desc = "刘晔 全能力"
+cheat346_code = "0200CA5D 000000FF+0200CA64 000000FF+0200CA65 000000FF"
+cheat346_enable = false
+
+cheat347_desc = "刘晔 加入队伍"
+cheat347_code = "0200CA5C 00000006"
+cheat347_enable = false
+
+cheat348_desc = "司马懿 等级"
+cheat348_code = "0200CA95 00000063"
+cheat348_enable = false
+
+cheat349_desc = "司马懿 经验"
+cheat349_code = "0200CA96 00000063"
+cheat349_enable = false
+
+cheat350_desc = "司马懿 全能力"
+cheat350_code = "0200CA89 000000FF+0200CA90 000000FF+0200CA91 000000FF"
+cheat350_enable = false
+
+cheat351_desc = "司马懿 加入队伍"
+cheat351_code = "0200CA88 00000006"
+cheat351_enable = false
+
+cheat352_desc = "曹丕 等级"
+cheat352_code = "0200CAC1 00000063"
+cheat352_enable = false
+
+cheat353_desc = "曹丕 经验"
+cheat353_code = "0200CAC2 00000063"
+cheat353_enable = false
+
+cheat354_desc = "曹丕 全能力"
+cheat354_code = "0200CAB5 000000FF+0200CABC 000000FF+0200CABD 000000FF"
+cheat354_enable = false
+
+cheat355_desc = "曹丕 加入队伍"
+cheat355_code = "0200CAB4 00000006"
+cheat355_enable = false
+
+cheat356_desc = "曹叡 等级"
+cheat356_code = "0200CAED 00000063"
+cheat356_enable = false
+
+cheat357_desc = "曹叡 经验"
+cheat357_code = "0200CAEE 00000063"
+cheat357_enable = false
+
+cheat358_desc = "曹叡 全能力"
+cheat358_code = "0200CAE1 000000FF+0200CAE8 000000FF+0200CAE9 000000FF"
+cheat358_enable = false
+
+cheat359_desc = "曹叡 加入队伍"
+cheat359_code = "0200CAE0 00000006"
+cheat359_enable = false
+
+cheat360_desc = "曹真 等级"
+cheat360_code = "0200CB19 00000063"
+cheat360_enable = false
+
+cheat361_desc = "曹真 经验"
+cheat361_code = "0200CB1A 00000063"
+cheat361_enable = false
+
+cheat362_desc = "曹真 全能力"
+cheat362_code = "0200CB0D 000000FF+0200CB14 000000FF+0200CB15 000000FF"
+cheat362_enable = false
+
+cheat363_desc = "曹真 加入队伍"
+cheat363_code = "0200CB0C 00000006"
+cheat363_enable = false
+
+cheat364_desc = "钟繇 等级"
+cheat364_code = "0200CB45 00000063"
+cheat364_enable = false
+
+cheat365_desc = "钟繇 经验"
+cheat365_code = "0200CB46 00000063"
+cheat365_enable = false
+
+cheat366_desc = "钟繇 全能力"
+cheat366_code = "0200CB39 000000FF+0200CB40 000000FF+0200CB41 000000FF"
+cheat366_enable = false
+
+cheat367_desc = "钟繇 加入队伍"
+cheat367_code = "0200CB38 00000006"
+cheat367_enable = false
+
+cheat368_desc = "华歆 等级"
+cheat368_code = "0200CB71 00000063"
+cheat368_enable = false
+
+cheat369_desc = "华歆 经验"
+cheat369_code = "0200CB72 00000063"
+cheat369_enable = false
+
+cheat370_desc = "华歆 全能力"
+cheat370_code = "0200CB65 000000FF+0200CB6C 000000FF+0200CB6D 000000FF"
+cheat370_enable = false
+
+cheat371_desc = "华歆 加入队伍"
+cheat371_code = "0200CB64 00000006"
+cheat371_enable = false
+
+cheat372_desc = "王朗 等级"
+cheat372_code = "0200CB9D 00000063"
+cheat372_enable = false
+
+cheat373_desc = "王朗 经验"
+cheat373_code = "0200CB9E 00000063"
+cheat373_enable = false
+
+cheat374_desc = "王朗 全能力"
+cheat374_code = "0200CB91 000000FF+0200CB98 000000FF+0200CB99 000000FF"
+cheat374_enable = false
+
+cheat375_desc = "王朗 加入队伍"
+cheat375_code = "0200CB90 00000006"
+cheat375_enable = false
+
+cheat376_desc = "陈群 等级"
+cheat376_code = "0200CBC9 00000063"
+cheat376_enable = false
+
+cheat377_desc = "陈群 经验"
+cheat377_code = "0200CBCA 00000063"
+cheat377_enable = false
+
+cheat378_desc = "陈群 全能力"
+cheat378_code = "0200CBBD 000000FF+0200CBC4 000000FF+0200CBC5 000000FF"
+cheat378_enable = false
+
+cheat379_desc = "陈群 加入队伍"
+cheat379_code = "0200CBBC 00000006"
+cheat379_enable = false
+
+cheat380_desc = "夏侯楙 等级"
+cheat380_code = "0200CBF5 00000063"
+cheat380_enable = false
+
+cheat381_desc = "夏侯楙 经验"
+cheat381_code = "0200CBF6 00000063"
+cheat381_enable = false
+
+cheat382_desc = "夏侯楙 全能力"
+cheat382_code = "0200CBE9 000000FF+0200CBF0 000000FF+0200CBF1 000000FF"
+cheat382_enable = false
+
+cheat383_desc = "夏侯楙 加入队伍"
+cheat383_code = "0200CBE8 00000006"
+cheat383_enable = false
+
+cheat384_desc = "崔谅 等级"
+cheat384_code = "0200CC21 00000063"
+cheat384_enable = false
+
+cheat385_desc = "崔谅 经验"
+cheat385_code = "0200CC22 00000063"
+cheat385_enable = false
+
+cheat386_desc = "崔谅 全能力"
+cheat386_code = "0200CC15 000000FF+0200CC1C 000000FF+0200CC1D 000000FF"
+cheat386_enable = false
+
+cheat387_desc = "崔谅 加入队伍"
+cheat387_code = "0200CC14 00000006"
+cheat387_enable = false
+
+cheat388_desc = "马遵 等级"
+cheat388_code = "0200CC4D 00000063"
+cheat388_enable = false
+
+cheat389_desc = "马遵 经验"
+cheat389_code = "0200CC4E 00000063"
+cheat389_enable = false
+
+cheat390_desc = "马遵 全能力"
+cheat390_code = "0200CC41 000000FF+0200CC48 000000FF+0200CC49 000000FF"
+cheat390_enable = false
+
+cheat391_desc = "马遵 加入队伍"
+cheat391_code = "0200CC40 00000006"
+cheat391_enable = false
+
+cheat392_desc = "曹遵 等级"
+cheat392_code = "0200CC79 00000063"
+cheat392_enable = false
+
+cheat393_desc = "曹遵 经验"
+cheat393_code = "0200CC7A 00000063"
+cheat393_enable = false
+
+cheat394_desc = "曹遵 全能力"
+cheat394_code = "0200CC6D 000000FF+0200CC74 000000FF+0200CC75 000000FF"
+cheat394_enable = false
+
+cheat395_desc = "曹遵 加入队伍"
+cheat395_code = "0200CC6C 00000006"
+cheat395_enable = false
+
+cheat396_desc = "朱赞 等级"
+cheat396_code = "0200CCA5 00000063"
+cheat396_enable = false
+
+cheat397_desc = "朱赞 经验"
+cheat397_code = "0200CCA6 00000063"
+cheat397_enable = false
+
+cheat398_desc = "朱赞 全能力"
+cheat398_code = "0200CC99 000000FF+0200CCA0 000000FF+0200CCA1 000000FF"
+cheat398_enable = false
+
+cheat399_desc = "朱赞 加入队伍"
+cheat399_code = "0200CC98 00000006"
+cheat399_enable = false
+
+cheat400_desc = "司马师 等级"
+cheat400_code = "0200CCD1 00000063"
+cheat400_enable = false
+
+cheat401_desc = "司马师 经验"
+cheat401_code = "0200CCD2 00000063"
+cheat401_enable = false
+
+cheat402_desc = "司马师 全能力"
+cheat402_code = "0200CCC5 000000FF+0200CCCC 000000FF+0200CCCD 000000FF"
+cheat402_enable = false
+
+cheat403_desc = "司马师 加入队伍"
+cheat403_code = "0200CCC4 00000006"
+cheat403_enable = false
+
+cheat404_desc = "司马昭 等级"
+cheat404_code = "0200CCFD 00000063"
+cheat404_enable = false
+
+cheat405_desc = "司马昭 经验"
+cheat405_code = "0200CCFE 00000063"
+cheat405_enable = false
+
+cheat406_desc = "司马昭 全能力"
+cheat406_code = "0200CCF1 000000FF+0200CCF8 000000FF+0200CCF9 000000FF"
+cheat406_enable = false
+
+cheat407_desc = "司马昭 加入队伍"
+cheat407_code = "0200CCF0 00000006"
+cheat407_enable = false
+
+cheat408_desc = "郝昭 等级"
+cheat408_code = "0200CD29 00000063"
+cheat408_enable = false
+
+cheat409_desc = "郝昭 经验"
+cheat409_code = "0200CD2A 00000063"
+cheat409_enable = false
+
+cheat410_desc = "郝昭 全能力"
+cheat410_code = "0200CD1D 000000FF+0200CD24 000000FF+0200CD25 000000FF"
+cheat410_enable = false
+
+cheat411_desc = "郝昭 加入队伍"
+cheat411_code = "0200CD1C 00000006"
+cheat411_enable = false
+
+cheat412_desc = "王双 等级"
+cheat412_code = "0200CD55 00000063"
+cheat412_enable = false
+
+cheat413_desc = "王双 经验"
+cheat413_code = "0200CD56 00000063"
+cheat413_enable = false
+
+cheat414_desc = "王双 全能力"
+cheat414_code = "0200CD49 000000FF+0200CD50 000000FF+0200CD51 000000FF"
+cheat414_enable = false
+
+cheat415_desc = "王双 加入队伍"
+cheat415_code = "0200CD48 00000006"
+cheat415_enable = false
+
+cheat416_desc = "费耀 等级"
+cheat416_code = "0200CD81 00000063"
+cheat416_enable = false
+
+cheat417_desc = "费耀 经验"
+cheat417_code = "0200CD82 00000063"
+cheat417_enable = false
+
+cheat418_desc = "费耀 全能力"
+cheat418_code = "0200CD75 000000FF+0200CD7C 000000FF+0200CD7D 000000FF"
+cheat418_enable = false
+
+cheat419_desc = "费耀 加入队伍"
+cheat419_code = "0200CD74 00000006"
+cheat419_enable = false
+
+cheat420_desc = "郭淮 等级"
+cheat420_code = "0200CDAD 00000063"
+cheat420_enable = false
+
+cheat421_desc = "郭淮 经验"
+cheat421_code = "0200CDAE 00000063"
+cheat421_enable = false
+
+cheat422_desc = "郭淮 全能力"
+cheat422_code = "0200CDA1 000000FF+0200CDA8 000000FF+0200CDA9 000000FF"
+cheat422_enable = false
+
+cheat423_desc = "郭淮 加入队伍"
+cheat423_code = "0200CDA0 00000006"
+cheat423_enable = false
+
+cheat424_desc = "孙礼 等级"
+cheat424_code = "0200CDD9 00000063"
+cheat424_enable = false
+
+cheat425_desc = "孙礼 经验"
+cheat425_code = "0200CDDA 00000063"
+cheat425_enable = false
+
+cheat426_desc = "孙礼 全能力"
+cheat426_code = "0200CDCD 000000FF+0200CDD4 000000FF+0200CDD5 000000FF"
+cheat426_enable = false
+
+cheat427_desc = "孙礼 加入队伍"
+cheat427_code = "0200CDCC 00000006"
+cheat427_enable = false
+
+cheat428_desc = "张虎 等级"
+cheat428_code = "0200CE05 00000063"
+cheat428_enable = false
+
+cheat429_desc = "张虎 经验"
+cheat429_code = "0200CE06 00000063"
+cheat429_enable = false
+
+cheat430_desc = "张虎 全能力"
+cheat430_code = "0200CDF9 000000FF+0200CE00 000000FF+0200CE01 000000FF"
+cheat430_enable = false
+
+cheat431_desc = "张虎 加入队伍"
+cheat431_code = "0200CDF8 00000006"
+cheat431_enable = false
+
+cheat432_desc = "乐綝 等级"
+cheat432_code = "0200CE31 00000063"
+cheat432_enable = false
+
+cheat433_desc = "乐綝 经验"
+cheat433_code = "0200CE32 00000063"
+cheat433_enable = false
+
+cheat434_desc = "乐綝 全能力"
+cheat434_code = "0200CE25 000000FF+0200CE2C 000000FF+0200CE2D 000000FF"
+cheat434_enable = false
+
+cheat435_desc = "乐綝 加入队伍"
+cheat435_code = "0200CE24 00000006"
+cheat435_enable = false
+
+cheat436_desc = "陈到 等级"
+cheat436_code = "0200CE5D 00000063"
+cheat436_enable = false
+
+cheat437_desc = "陈到 经验"
+cheat437_code = "0200CE5E 00000063"
+cheat437_enable = false
+
+cheat438_desc = "陈到 全能力"
+cheat438_code = "0200CE51 000000FF+0200CE58 000000FF+0200CE59 000000FF"
+cheat438_enable = false
+
+cheat439_desc = "陈到 加入队伍"
+cheat439_code = "0200CE50 00000006"
+cheat439_enable = false
+
+cheat440_desc = "秦朗 等级"
+cheat440_code = "0200CE89 00000063"
+cheat440_enable = false
+
+cheat441_desc = "秦朗 经验"
+cheat441_code = "0200CE8A 00000063"
+cheat441_enable = false
+
+cheat442_desc = "秦朗 全能力"
+cheat442_code = "0200CE7D 000000FF+0200CE84 000000FF+0200CE85 000000FF"
+cheat442_enable = false
+
+cheat443_desc = "秦朗 加入队伍"
+cheat443_code = "0200CE7C 00000006"
+cheat443_enable = false
+
+cheat444_desc = "秦明 等级"
+cheat444_code = "0200CEB5 00000063"
+cheat444_enable = false
+
+cheat445_desc = "秦明 经验"
+cheat445_code = "0200CEB6 00000063"
+cheat445_enable = false
+
+cheat446_desc = "秦明 全能力"
+cheat446_code = "0200CEA9 000000FF+0200CEB0 000000FF+0200CEB1 000000FF"
+cheat446_enable = false
+
+cheat447_desc = "秦明 加入队伍"
+cheat447_code = "0200CEA8 00000006"
+cheat447_enable = false
+
+cheat448_desc = "韩德 等级"
+cheat448_code = "0200CEE1 00000063"
+cheat448_enable = false
+
+cheat449_desc = "韩德 经验"
+cheat449_code = "0200CEE2 00000063"
+cheat449_enable = false
+
+cheat450_desc = "韩德 全能力"
+cheat450_code = "0200CED5 000000FF+0200CEDC 000000FF+0200CEDD 000000FF"
+cheat450_enable = false
+
+cheat451_desc = "韩德 加入队伍"
+cheat451_code = "0200CED4 00000006"
+cheat451_enable = false
+
+cheat452_desc = "陈造 等级"
+cheat452_code = "0200CF0D 00000063"
+cheat452_enable = false
+
+cheat453_desc = "陈造 经验"
+cheat453_code = "0200CF0E 00000063"
+cheat453_enable = false
+
+cheat454_desc = "陈造 全能力"
+cheat454_code = "0200CF01 000000FF+0200CF08 000000FF+0200CF09 000000FF"
+cheat454_enable = false
+
+cheat455_desc = "陈造 加入队伍"
+cheat455_code = "0200CF00 00000006"
+cheat455_enable = false
+
+cheat456_desc = "万政 等级"
+cheat456_code = "0200CF39 00000063"
+cheat456_enable = false
+
+cheat457_desc = "万政 经验"
+cheat457_code = "0200CF3A 00000063"
+cheat457_enable = false
+
+cheat458_desc = "万政 全能力"
+cheat458_code = "0200CF2D 000000FF+0200CF34 000000FF+0200CF35 000000FF"
+cheat458_enable = false
+
+cheat459_desc = "万政 加入队伍"
+cheat459_code = "0200CF2C 00000006"
+cheat459_enable = false
+
+cheat460_desc = "夏侯霸 等级"
+cheat460_code = "0200CF65 00000063"
+cheat460_enable = false
+
+cheat461_desc = "夏侯霸 经验"
+cheat461_code = "0200CF66 00000063"
+cheat461_enable = false
+
+cheat462_desc = "夏侯霸 全能力"
+cheat462_code = "0200CF59 000000FF+0200CF60 000000FF+0200CF61 000000FF"
+cheat462_enable = false
+
+cheat463_desc = "夏侯霸 加入队伍"
+cheat463_code = "0200CF58 00000006"
+cheat463_enable = false
+
+cheat464_desc = "夏侯威 等级"
+cheat464_code = "0200CF91 00000063"
+cheat464_enable = false
+
+cheat465_desc = "夏侯威 经验"
+cheat465_code = "0200CF92 00000063"
+cheat465_enable = false
+
+cheat466_desc = "夏侯威 全能力"
+cheat466_code = "0200CF85 000000FF+0200CF8C 000000FF+0200CF8D 000000FF"
+cheat466_enable = false
+
+cheat467_desc = "夏侯威 加入队伍"
+cheat467_code = "0200CF84 00000006"
+cheat467_enable = false
+
+cheat468_desc = "夏侯惠 等级"
+cheat468_code = "0200CFBD 00000063"
+cheat468_enable = false
+
+cheat469_desc = "夏侯惠 经验"
+cheat469_code = "0200CFBE 00000063"
+cheat469_enable = false
+
+cheat470_desc = "夏侯惠 全能力"
+cheat470_code = "0200CFB1 000000FF+0200CFB8 000000FF+0200CFB9 000000FF"
+cheat470_enable = false
+
+cheat471_desc = "夏侯惠 加入队伍"
+cheat471_code = "0200CFB0 00000006"
+cheat471_enable = false
+
+cheat472_desc = "夏侯和 等级"
+cheat472_code = "0200CFE9 00000063"
+cheat472_enable = false
+
+cheat473_desc = "夏侯和 经验"
+cheat473_code = "0200CFEA 00000063"
+cheat473_enable = false
+
+cheat474_desc = "夏侯和 全能力"
+cheat474_code = "0200CFDD 000000FF+0200CFE4 000000FF+0200CFE5 000000FF"
+cheat474_enable = false
+
+cheat475_desc = "夏侯和 加入队伍"
+cheat475_code = "0200CFDC 00000006"
+cheat475_enable = false
+
+cheat476_desc = "贾逵 等级"
+cheat476_code = "0200D015 00000063"
+cheat476_enable = false
+
+cheat477_desc = "贾逵 经验"
+cheat477_code = "0200D016 00000063"
+cheat477_enable = false
+
+cheat478_desc = "贾逵 全能力"
+cheat478_code = "0200D009 000000FF+0200D010 000000FF+0200D011 000000FF"
+cheat478_enable = false
+
+cheat479_desc = "贾逵 加入队伍"
+cheat479_code = "0200D008 00000006"
+cheat479_enable = false
+
+cheat480_desc = "辛毗 等级"
+cheat480_code = "0200D041 00000063"
+cheat480_enable = false
+
+cheat481_desc = "辛毗 经验"
+cheat481_code = "0200D042 00000063"
+cheat481_enable = false
+
+cheat482_desc = "辛毗 全能力"
+cheat482_code = "0200D035 000000FF+0200D03C 000000FF+0200D03D 000000FF"
+cheat482_enable = false
+
+cheat483_desc = "辛毗 加入队伍"
+cheat483_code = "0200D034 00000006"
+cheat483_enable = false
+
+cheat484_desc = "徐商 等级"
+cheat484_code = "0200D06D 00000063"
+cheat484_enable = false
+
+cheat485_desc = "徐商 经验"
+cheat485_code = "0200D06E 00000063"
+cheat485_enable = false
+
+cheat486_desc = "徐商 全能力"
+cheat486_code = "0200D061 000000FF+0200D068 000000FF+0200D069 000000FF"
+cheat486_enable = false
+
+cheat487_desc = "徐商 加入队伍"
+cheat487_code = "0200D060 00000006"
+cheat487_enable = false
+
+cheat488_desc = "邓艾 等级"
+cheat488_code = "0200D099 00000063"
+cheat488_enable = false
+
+cheat489_desc = "邓艾 经验"
+cheat489_code = "0200D09A 00000063"
+cheat489_enable = false
+
+cheat490_desc = "邓艾 全能力"
+cheat490_code = "0200D08D 000000FF+0200D094 000000FF+0200D095 000000FF"
+cheat490_enable = false
+
+cheat491_desc = "邓艾 加入队伍"
+cheat491_code = "0200D08C 00000006"
+cheat491_enable = false
+
+cheat492_desc = "曹芳 等级"
+cheat492_code = "0200D0C5 00000063"
+cheat492_enable = false
+
+cheat493_desc = "曹芳 经验"
+cheat493_code = "0200D0C6 00000063"
+cheat493_enable = false
+
+cheat494_desc = "曹芳 全能力"
+cheat494_code = "0200D0B9 000000FF+0200D0C0 000000FF+0200D0C1 000000FF"
+cheat494_enable = false
+
+cheat495_desc = "曹芳 加入队伍"
+cheat495_code = "0200D0B8 00000006"
+cheat495_enable = false
+
+cheat496_desc = "曹爽 等级"
+cheat496_code = "0200D0F1 00000063"
+cheat496_enable = false
+
+cheat497_desc = "曹爽 经验"
+cheat497_code = "0200D0F2 00000063"
+cheat497_enable = false
+
+cheat498_desc = "曹爽 全能力"
+cheat498_code = "0200D0E5 000000FF+0200D0EC 000000FF+0200D0ED 000000FF"
+cheat498_enable = false
+
+cheat499_desc = "曹爽 加入队伍"
+cheat499_code = "0200D0E4 00000006"
+cheat499_enable = false
+
+cheat500_desc = "曹羲 等级"
+cheat500_code = "0200D11D 00000063"
+cheat500_enable = false
+
+cheat501_desc = "曹羲 经验"
+cheat501_code = "0200D11E 00000063"
+cheat501_enable = false
+
+cheat502_desc = "曹羲 全能力"
+cheat502_code = "0200D111 000000FF+0200D118 000000FF+0200D119 000000FF"
+cheat502_enable = false
+
+cheat503_desc = "曹羲 加入队伍"
+cheat503_code = "0200D110 00000006"
+cheat503_enable = false
+
+cheat504_desc = "曹训 等级"
+cheat504_code = "0200D149 00000063"
+cheat504_enable = false
+
+cheat505_desc = "曹训 经验"
+cheat505_code = "0200D14A 00000063"
+cheat505_enable = false
+
+cheat506_desc = "曹训 全能力"
+cheat506_code = "0200D13D 000000FF+0200D144 000000FF+0200D145 000000FF"
+cheat506_enable = false
+
+cheat507_desc = "曹训 加入队伍"
+cheat507_code = "0200D13C 00000006"
+cheat507_enable = false
+
+cheat508_desc = "曹彦 等级"
+cheat508_code = "0200D175 00000063"
+cheat508_enable = false
+
+cheat509_desc = "曹彦 经验"
+cheat509_code = "0200D176 00000063"
+cheat509_enable = false
+
+cheat510_desc = "曹彦 全能力"
+cheat510_code = "0200D169 000000FF+0200D170 000000FF+0200D171 000000FF"
+cheat510_enable = false
+
+cheat511_desc = "曹彦 加入队伍"
+cheat511_code = "0200D168 00000006"
+cheat511_enable = false
+
+cheat512_desc = "彻里吉 等级"
+cheat512_code = "0200D1A1 00000063"
+cheat512_enable = false
+
+cheat513_desc = "彻里吉 经验"
+cheat513_code = "0200D1A2 00000063"
+cheat513_enable = false
+
+cheat514_desc = "彻里吉 全能力"
+cheat514_code = "0200D195 000000FF+0200D19C 000000FF+0200D19D 000000FF"
+cheat514_enable = false
+
+cheat515_desc = "彻里吉 加入队伍"
+cheat515_code = "0200D194 00000006"
+cheat515_enable = false
+
+cheat516_desc = "钟会 等级"
+cheat516_code = "0200D1CD 00000063"
+cheat516_enable = false
+
+cheat517_desc = "钟会 经验"
+cheat517_code = "0200D1CE 00000063"
+cheat517_enable = false
+
+cheat518_desc = "钟会 全能力"
+cheat518_code = "0200D1C1 000000FF+0200D1C8 000000FF+0200D1C9 000000FF"
+cheat518_enable = false
+
+cheat519_desc = "钟会 加入队伍"
+cheat519_code = "0200D1C0 00000006"
+cheat519_enable = false
+
+cheat520_desc = "张球 等级"
+cheat520_code = "0200D1F9 00000063"
+cheat520_enable = false
+
+cheat521_desc = "张球 经验"
+cheat521_code = "0200D1FA 00000063"
+cheat521_enable = false
+
+cheat522_desc = "张球 全能力"
+cheat522_code = "0200D1ED 000000FF+0200D1F4 000000FF+0200D1F5 000000FF"
+cheat522_enable = false
+
+cheat523_desc = "张球 加入队伍"
+cheat523_code = "0200D1EC 00000006"
+cheat523_enable = false
+
+cheat524_desc = "韩锳 等级"
+cheat524_code = "0200D225 00000063"
+cheat524_enable = false
+
+cheat525_desc = "韩锳 经验"
+cheat525_code = "0200D226 00000063"
+cheat525_enable = false
+
+cheat526_desc = "韩锳 全能力"
+cheat526_code = "0200D219 000000FF+0200D220 000000FF+0200D221 000000FF"
+cheat526_enable = false
+
+cheat527_desc = "韩锳 加入队伍"
+cheat527_code = "0200D218 00000006"
+cheat527_enable = false
+
+cheat528_desc = "杨陵 等级"
+cheat528_code = "0200D251 00000063"
+cheat528_enable = false
+
+cheat529_desc = "杨陵 经验"
+cheat529_code = "0200D252 00000063"
+cheat529_enable = false
+
+cheat530_desc = "杨陵 全能力"
+cheat530_code = "0200D245 000000FF+0200D24C 000000FF+0200D24D 000000FF"
+cheat530_enable = false
+
+cheat531_desc = "杨陵 加入队伍"
+cheat531_code = "0200D244 00000006"
+cheat531_enable = false
+
+cheat532_desc = "梁绪 等级"
+cheat532_code = "0200D27D 00000063"
+cheat532_enable = false
+
+cheat533_desc = "梁绪 经验"
+cheat533_code = "0200D27E 00000063"
+cheat533_enable = false
+
+cheat534_desc = "梁绪 全能力"
+cheat534_code = "0200D271 000000FF+0200D278 000000FF+0200D279 000000FF"
+cheat534_enable = false
+
+cheat535_desc = "梁绪 加入队伍"
+cheat535_code = "0200D270 00000006"
+cheat535_enable = false
+
+cheat536_desc = "梁虔 等级"
+cheat536_code = "0200D2A9 00000063"
+cheat536_enable = false
+
+cheat537_desc = "梁虔 经验"
+cheat537_code = "0200D2AA 00000063"
+cheat537_enable = false
+
+cheat538_desc = "梁虔 全能力"
+cheat538_code = "0200D29D 000000FF+0200D2A4 000000FF+0200D2A5 000000FF"
+cheat538_enable = false
+
+cheat539_desc = "梁虔 加入队伍"
+cheat539_code = "0200D29C 00000006"
+cheat539_enable = false
+
+cheat540_desc = "尹赏 等级"
+cheat540_code = "0200D2D5 00000063"
+cheat540_enable = false
+
+cheat541_desc = "尹赏 经验"
+cheat541_code = "0200D2D6 00000063"
+cheat541_enable = false
+
+cheat542_desc = "尹赏 全能力"
+cheat542_code = "0200D2C9 000000FF+0200D2D0 000000FF+0200D2D1 000000FF"
+cheat542_enable = false
+
+cheat543_desc = "尹赏 加入队伍"
+cheat543_code = "0200D2C8 00000006"
+cheat543_enable = false
+
+cheat544_desc = "申耽 等级"
+cheat544_code = "0200D301 00000063"
+cheat544_enable = false
+
+cheat545_desc = "申耽 经验"
+cheat545_code = "0200D302 00000063"
+cheat545_enable = false
+
+cheat546_desc = "申耽 全能力"
+cheat546_code = "0200D2F5 000000FF+0200D2FC 000000FF+0200D2FD 000000FF"
+cheat546_enable = false
+
+cheat547_desc = "申耽 加入队伍"
+cheat547_code = "0200D2F4 00000006"
+cheat547_enable = false
+
+cheat548_desc = "申仪 等级"
+cheat548_code = "0200D32D 00000063"
+cheat548_enable = false
+
+cheat549_desc = "申仪 经验"
+cheat549_code = "0200D32E 00000063"
+cheat549_enable = false
+
+cheat550_desc = "申仪 全能力"
+cheat550_code = "0200D321 000000FF+0200D328 000000FF+0200D329 000000FF"
+cheat550_enable = false
+
+cheat551_desc = "申仪 加入队伍"
+cheat551_code = "0200D320 00000006"
+cheat551_enable = false
+
+cheat552_desc = "戴陵 等级"
+cheat552_code = "0200D359 00000063"
+cheat552_enable = false
+
+cheat553_desc = "戴陵 经验"
+cheat553_code = "0200D35A 00000063"
+cheat553_enable = false
+
+cheat554_desc = "戴陵 全能力"
+cheat554_code = "0200D34D 000000FF+0200D354 000000FF+0200D355 000000FF"
+cheat554_enable = false
+
+cheat555_desc = "戴陵 加入队伍"
+cheat555_code = "0200D34C 00000006"
+cheat555_enable = false
+
+cheat556_desc = "秦良 等级"
+cheat556_code = "0200D385 00000063"
+cheat556_enable = false
+
+cheat557_desc = "秦良 经验"
+cheat557_code = "0200D386 00000063"
+cheat557_enable = false
+
+cheat558_desc = "秦良 全能力"
+cheat558_code = "0200D379 000000FF+0200D380 000000FF+0200D381 000000FF"
+cheat558_enable = false
+
+cheat559_desc = "秦良 加入队伍"
+cheat559_code = "0200D378 00000006"
+cheat559_enable = false
+
+cheat560_desc = "孙权 等级"
+cheat560_code = "0200D3B1 00000063"
+cheat560_enable = false
+
+cheat561_desc = "孙权 经验"
+cheat561_code = "0200D3B2 00000063"
+cheat561_enable = false
+
+cheat562_desc = "孙权 全能力"
+cheat562_code = "0200D3A5 000000FF+0200D3AC 000000FF+0200D3AD 000000FF"
+cheat562_enable = false
+
+cheat563_desc = "孙权 加入队伍"
+cheat563_code = "0200D3A4 00000006"
+cheat563_enable = false
+
+cheat564_desc = "周瑜 等级"
+cheat564_code = "0200D3DD 00000063"
+cheat564_enable = false
+
+cheat565_desc = "周瑜 经验"
+cheat565_code = "0200D3DE 00000063"
+cheat565_enable = false
+
+cheat566_desc = "周瑜 全能力"
+cheat566_code = "0200D3D1 000000FF+0200D3D8 000000FF+0200D3D9 000000FF"
+cheat566_enable = false
+
+cheat567_desc = "周瑜 加入队伍"
+cheat567_code = "0200D3D0 00000006"
+cheat567_enable = false
+
+cheat568_desc = "鲁肃 等级"
+cheat568_code = "0200D409 00000063"
+cheat568_enable = false
+
+cheat569_desc = "鲁肃 经验"
+cheat569_code = "0200D40A 00000063"
+cheat569_enable = false
+
+cheat570_desc = "鲁肃 全能力"
+cheat570_code = "0200D3FD 000000FF+0200D404 000000FF+0200D405 000000FF"
+cheat570_enable = false
+
+cheat571_desc = "鲁肃 加入队伍"
+cheat571_code = "0200D3FC 00000006"
+cheat571_enable = false
+
+cheat572_desc = "诸葛瑾 等级"
+cheat572_code = "0200D435 00000063"
+cheat572_enable = false
+
+cheat573_desc = "诸葛瑾 经验"
+cheat573_code = "0200D436 00000063"
+cheat573_enable = false
+
+cheat574_desc = "诸葛瑾 全能力"
+cheat574_code = "0200D429 000000FF+0200D430 000000FF+0200D431 000000FF"
+cheat574_enable = false
+
+cheat575_desc = "诸葛瑾 加入队伍"
+cheat575_code = "0200D428 00000006"
+cheat575_enable = false
+
+cheat576_desc = "诸葛恪 等级"
+cheat576_code = "0200D461 00000063"
+cheat576_enable = false
+
+cheat577_desc = "诸葛恪 经验"
+cheat577_code = "0200D462 00000063"
+cheat577_enable = false
+
+cheat578_desc = "诸葛恪 全能力"
+cheat578_code = "0200D455 000000FF+0200D45C 000000FF+0200D45D 000000FF"
+cheat578_enable = false
+
+cheat579_desc = "诸葛恪 加入队伍"
+cheat579_code = "0200D454 00000006"
+cheat579_enable = false
+
+cheat580_desc = "吕蒙 等级"
+cheat580_code = "0200D48D 00000063"
+cheat580_enable = false
+
+cheat581_desc = "吕蒙 经验"
+cheat581_code = "0200D48E 00000063"
+cheat581_enable = false
+
+cheat582_desc = "吕蒙 全能力"
+cheat582_code = "0200D481 000000FF+0200D488 000000FF+0200D489 000000FF"
+cheat582_enable = false
+
+cheat583_desc = "吕蒙 加入队伍"
+cheat583_code = "0200D480 00000006"
+cheat583_enable = false
+
+cheat584_desc = "陆逊 等级"
+cheat584_code = "0200D4B9 00000063"
+cheat584_enable = false
+
+cheat585_desc = "陆逊 经验"
+cheat585_code = "0200D4BA 00000063"
+cheat585_enable = false
+
+cheat586_desc = "陆逊 全能力"
+cheat586_code = "0200D4AD 000000FF+0200D4B4 000000FF+0200D4B5 000000FF"
+cheat586_enable = false
+
+cheat587_desc = "陆逊 加入队伍"
+cheat587_code = "0200D4AC 00000006"
+cheat587_enable = false
+
+cheat588_desc = "潘璋 等级"
+cheat588_code = "0200D4E5 00000063"
+cheat588_enable = false
+
+cheat589_desc = "潘璋 经验"
+cheat589_code = "0200D4E6 00000063"
+cheat589_enable = false
+
+cheat590_desc = "潘璋 全能力"
+cheat590_code = "0200D4D9 000000FF+0200D4E0 000000FF+0200D4E1 000000FF"
+cheat590_enable = false
+
+cheat591_desc = "潘璋 加入队伍"
+cheat591_code = "0200D4D8 00000006"
+cheat591_enable = false
+
+cheat592_desc = "徐盛 等级"
+cheat592_code = "0200D511 00000063"
+cheat592_enable = false
+
+cheat593_desc = "徐盛 经验"
+cheat593_code = "0200D512 00000063"
+cheat593_enable = false
+
+cheat594_desc = "徐盛 全能力"
+cheat594_code = "0200D505 000000FF+0200D50C 000000FF+0200D50D 000000FF"
+cheat594_enable = false
+
+cheat595_desc = "徐盛 加入队伍"
+cheat595_code = "0200D504 00000006"
+cheat595_enable = false
+
+cheat596_desc = "甘宁 等级"
+cheat596_code = "0200D53D 00000063"
+cheat596_enable = false
+
+cheat597_desc = "甘宁 经验"
+cheat597_code = "0200D53E 00000063"
+cheat597_enable = false
+
+cheat598_desc = "甘宁 全能力"
+cheat598_code = "0200D531 000000FF+0200D538 000000FF+0200D539 000000FF"
+cheat598_enable = false
+
+cheat599_desc = "甘宁 加入队伍"
+cheat599_code = "0200D530 00000006"
+cheat599_enable = false
+
+cheat600_desc = "凌统 等级"
+cheat600_code = "0200D559 00000063"
+cheat600_enable = false
+
+cheat601_desc = "凌统 经验"
+cheat601_code = "0200D55A 00000063"
+cheat601_enable = false
+
+cheat602_desc = "凌统 全能力"
+cheat602_code = "0200D55D 000000FF+0200D564 000000FF+0200D565 000000FF"
+cheat602_enable = false
+
+cheat603_desc = "凌统 加入队伍"
+cheat603_code = "0200D55C 00000006"
+cheat603_enable = false
+
+cheat604_desc = "周泰 等级"
+cheat604_code = "0200D595 00000063"
+cheat604_enable = false
+
+cheat605_desc = "周泰 经验"
+cheat605_code = "0200D596 00000063"
+cheat605_enable = false
+
+cheat606_desc = "周泰 全能力"
+cheat606_code = "0200D589 000000FF+0200D590 000000FF+0200D591 000000FF"
+cheat606_enable = false
+
+cheat607_desc = "周泰 加入队伍"
+cheat607_code = "0200D588 00000006"
+cheat607_enable = false
+
+cheat608_desc = "蒋钦 等级"
+cheat608_code = "0200D5C1 00000063"
+cheat608_enable = false
+
+cheat609_desc = "蒋钦 经验"
+cheat609_code = "0200D5C2 00000063"
+cheat609_enable = false
+
+cheat610_desc = "蒋钦 全能力"
+cheat610_code = "0200D5B5 000000FF+0200D5BC 000000FF+0200D5BD 000000FF"
+cheat610_enable = false
+
+cheat611_desc = "蒋钦 加入队伍"
+cheat611_code = "0200D5B4 00000006"
+cheat611_enable = false
+
+cheat612_desc = "吕范 等级"
+cheat612_code = "0200D5ED 00000063"
+cheat612_enable = false
+
+cheat613_desc = "吕范 经验"
+cheat613_code = "0200D5EE 00000063"
+cheat613_enable = false
+
+cheat614_desc = "吕范 全能力"
+cheat614_code = "0200D5E1 000000FF+0200D5E8 000000FF+0200D5E9 000000FF"
+cheat614_enable = false
+
+cheat615_desc = "吕范 加入队伍"
+cheat615_code = "0200D5E0 00000006"
+cheat615_enable = false
+
+cheat616_desc = "张昭 等级"
+cheat616_code = "0200D619 00000063"
+cheat616_enable = false
+
+cheat617_desc = "张昭 经验"
+cheat617_code = "0200D61A 00000063"
+cheat617_enable = false
+
+cheat618_desc = "张昭 全能力"
+cheat618_code = "0200D60D 000000FF+0200D614 000000FF+0200D615 000000FF"
+cheat618_enable = false
+
+cheat619_desc = "张昭 加入队伍"
+cheat619_code = "0200D60C 00000006"
+cheat619_enable = false
+
+cheat620_desc = "陈武 等级"
+cheat620_code = "0200D645 00000063"
+cheat620_enable = false
+
+cheat621_desc = "陈武 经验"
+cheat621_code = "0200D646 00000063"
+cheat621_enable = false
+
+cheat622_desc = "陈武 全能力"
+cheat622_code = "0200D639 000000FF+0200D640 000000FF+0200D641 000000FF"
+cheat622_enable = false
+
+cheat623_desc = "陈武 加入队伍"
+cheat623_code = "0200D638 00000006"
+cheat623_enable = false
+
+cheat624_desc = "虞翻 等级"
+cheat624_code = "0200D671 00000063"
+cheat624_enable = false
+
+cheat625_desc = "虞翻 经验"
+cheat625_code = "0200D672 00000063"
+cheat625_enable = false
+
+cheat626_desc = "虞翻 全能力"
+cheat626_code = "0200D665 000000FF+0200D66C 000000FF+0200D66D 000000FF"
+cheat626_enable = false
+
+cheat627_desc = "虞翻 加入队伍"
+cheat627_code = "0200D664 00000006"
+cheat627_enable = false
+
+cheat628_desc = "步骘 等级"
+cheat628_code = "0200D69D 00000063"
+cheat628_enable = false
+
+cheat629_desc = "步骘 经验"
+cheat629_code = "0200D69E 00000063"
+cheat629_enable = false
+
+cheat630_desc = "步骘 全能力"
+cheat630_code = "0200D691 000000FF+0200D698 000000FF+0200D699 000000FF"
+cheat630_enable = false
+
+cheat631_desc = "步骘 加入队伍"
+cheat631_code = "0200D690 00000006"
+cheat631_enable = false
+
+cheat632_desc = "薛综 等级"
+cheat632_code = "0200D6C9 00000063"
+cheat632_enable = false
+
+cheat633_desc = "薛综 经验"
+cheat633_code = "0200D6CA 00000063"
+cheat633_enable = false
+
+cheat634_desc = "薛综 全能力"
+cheat634_code = "0200D6BD 000000FF+0200D6C4 000000FF+0200D6C5 000000FF"
+cheat634_enable = false
+
+cheat635_desc = "薛综 加入队伍"
+cheat635_code = "0200D6BC 00000006"
+cheat635_enable = false
+
+cheat636_desc = "陆绩 等级"
+cheat636_code = "0200D6F5 00000063"
+cheat636_enable = false
+
+cheat637_desc = "陆绩 经验"
+cheat637_code = "0200D6F6 00000063"
+cheat637_enable = false
+
+cheat638_desc = "陆绩 全能力"
+cheat638_code = "0200D6E9 000000FF+0200D6F0 000000FF+0200D6F1 000000FF"
+cheat638_enable = false
+
+cheat639_desc = "陆绩 加入队伍"
+cheat639_code = "0200D6E8 00000006"
+cheat639_enable = false
+
+cheat640_desc = "孙瑜 等级"
+cheat640_code = "0200D721 00000063"
+cheat640_enable = false
+
+cheat641_desc = "孙瑜 经验"
+cheat641_code = "0200D722 00000063"
+cheat641_enable = false
+
+cheat642_desc = "孙瑜 全能力"
+cheat642_code = "0200D715 000000FF+0200D71C 000000FF+0200D71D 000000FF"
+cheat642_enable = false
+
+cheat643_desc = "孙瑜 加入队伍"
+cheat643_code = "0200D714 00000006"
+cheat643_enable = false
+
+cheat644_desc = "黄盖 等级"
+cheat644_code = "0200D74D 00000063"
+cheat644_enable = false
+
+cheat645_desc = "黄盖 经验"
+cheat645_code = "0200D74E 00000063"
+cheat645_enable = false
+
+cheat646_desc = "黄盖 全能力"
+cheat646_code = "0200D741 000000FF+0200D748 000000FF+0200D749 000000FF"
+cheat646_enable = false
+
+cheat647_desc = "黄盖 加入队伍"
+cheat647_code = "0200D740 00000006"
+cheat647_enable = false
+
+cheat648_desc = "孙晧 等级"
+cheat648_code = "0200D779 00000063"
+cheat648_enable = false
+
+cheat649_desc = "孙晧 经验"
+cheat649_code = "0200D77A 00000063"
+cheat649_enable = false
+
+cheat650_desc = "孙晧 全能力"
+cheat650_code = "0200D76D 000000FF+0200D774 000000FF+0200D775 000000FF"
+cheat650_enable = false
+
+cheat651_desc = "孙晧 加入队伍"
+cheat651_code = "0200D76C 00000006"
+cheat651_enable = false
+
+cheat652_desc = "朱然 等级"
+cheat652_code = "0200D7A5 00000063"
+cheat652_enable = false
+
+cheat653_desc = "朱然 经验"
+cheat653_code = "0200D7A6 00000063"
+cheat653_enable = false
+
+cheat654_desc = "朱然 全能力"
+cheat654_code = "0200D799 000000FF+0200D7A0 000000FF+0200D7A1 000000FF"
+cheat654_enable = false
+
+cheat655_desc = "朱然 加入队伍"
+cheat655_code = "0200D798 00000006"
+cheat655_enable = false
+
+cheat656_desc = "朱桓 等级"
+cheat656_code = "0200D7D1 00000063"
+cheat656_enable = false
+
+cheat657_desc = "朱桓 经验"
+cheat657_code = "0200D7D2 00000063"
+cheat657_enable = false
+
+cheat658_desc = "朱桓 全能力"
+cheat658_code = "0200D7C5 000000FF+0200D7CC 000000FF+0200D7CD 000000FF"
+cheat658_enable = false
+
+cheat659_desc = "朱桓 加入队伍"
+cheat659_code = "0200D7C4 00000006"
+cheat659_enable = false
+
+cheat660_desc = "孙韶 等级"
+cheat660_code = "0200D7FD 00000063"
+cheat660_enable = false
+
+cheat661_desc = "孙韶 经验"
+cheat661_code = "0200D7FE 00000063"
+cheat661_enable = false
+
+cheat662_desc = "孙韶 全能力"
+cheat662_code = "0200D7F1 000000FF+0200D7F8 000000FF+0200D7F9 000000FF"
+cheat662_enable = false
+
+cheat663_desc = "孙韶 加入队伍"
+cheat663_code = "0200D7F0 00000006"
+cheat663_enable = false
+
+cheat664_desc = "董袭 等级"
+cheat664_code = "0200D829 00000063"
+cheat664_enable = false
+
+cheat665_desc = "董袭 经验"
+cheat665_code = "0200D82A 00000063"
+cheat665_enable = false
+
+cheat666_desc = "董袭 全能力"
+cheat666_code = "0200D81D 000000FF+0200D824 000000FF+0200D825 000000FF"
+cheat666_enable = false
+
+cheat667_desc = "董袭 加入队伍"
+cheat667_code = "0200D81C 00000006"
+cheat667_enable = false
+
+cheat668_desc = "宋谦 等级"
+cheat668_code = "0200D855 00000063"
+cheat668_enable = false
+
+cheat669_desc = "宋谦 经验"
+cheat669_code = "0200D856 00000063"
+cheat669_enable = false
+
+cheat670_desc = "宋谦 全能力"
+cheat670_code = "0200D849 000000FF+0200D850 000000FF+0200D851 000000FF"
+cheat670_enable = false
+
+cheat671_desc = "宋谦 加入队伍"
+cheat671_code = "0200D848 00000006"
+cheat671_enable = false
+
+cheat672_desc = "全琮 等级"
+cheat672_code = "0200D881 00000063"
+cheat672_enable = false
+
+cheat673_desc = "全琮 经验"
+cheat673_code = "0200D882 00000063"
+cheat673_enable = false
+
+cheat674_desc = "全琮 全能力"
+cheat674_code = "0200D875 000000FF+0200D87C 000000FF+0200D87D 000000FF"
+cheat674_enable = false
+
+cheat675_desc = "全琮 加入队伍"
+cheat675_code = "0200D874 00000006"
+cheat675_enable = false
+
+cheat676_desc = "张达 等级"
+cheat676_code = "0200D8AD 00000063"
+cheat676_enable = false
+
+cheat677_desc = "张达 经验"
+cheat677_code = "0200D8AE 00000063"
+cheat677_enable = false
+
+cheat678_desc = "张达 全能力"
+cheat678_code = "0200D8A1 000000FF+0200D8A8 000000FF+0200D8A9 000000FF"
+cheat678_enable = false
+
+cheat679_desc = "张达 加入队伍"
+cheat679_code = "0200D8A0 00000006"
+cheat679_enable = false
+
+cheat680_desc = "范疆 等级"
+cheat680_code = "0200D8D9 00000063"
+cheat680_enable = false
+
+cheat681_desc = "范疆 经验"
+cheat681_code = "0200D8DA 00000063"
+cheat681_enable = false
+
+cheat682_desc = "范疆 全能力"
+cheat682_code = "0200D8CD 000000FF+0200D8D4 000000FF+0200D8D5 000000FF"
+cheat682_enable = false
+
+cheat683_desc = "范疆 加入队伍"
+cheat683_code = "0200D8CC 00000006"
+cheat683_enable = false
+
+cheat684_desc = "顾雍 等级"
+cheat684_code = "0200D905 00000063"
+cheat684_enable = false
+
+cheat685_desc = "顾雍 经验"
+cheat685_code = "0200D906 00000063"
+cheat685_enable = false
+
+cheat686_desc = "顾雍 全能力"
+cheat686_code = "0200D8F9 000000FF+0200D900 000000FF+0200D901 000000FF"
+cheat686_enable = false
+
+cheat687_desc = "顾雍 加入队伍"
+cheat687_code = "0200D8F8 00000006"
+cheat687_enable = false
+
+cheat688_desc = "严畯 等级"
+cheat688_code = "0200D931 00000063"
+cheat688_enable = false
+
+cheat689_desc = "严畯 经验"
+cheat689_code = "0200D932 00000063"
+cheat689_enable = false
+
+cheat690_desc = "严畯 全能力"
+cheat690_code = "0200D925 000000FF+0200D92C 000000FF+0200D92D 000000FF"
+cheat690_enable = false
+
+cheat691_desc = "严畯 加入队伍"
+cheat691_code = "0200D924 00000006"
+cheat691_enable = false
+
+cheat692_desc = "孟获 等级"
+cheat692_code = "0200E24D 00000063"
+cheat692_enable = false
+
+cheat693_desc = "孟获 经验"
+cheat693_code = "0200E24E 00000063"
+cheat693_enable = false
+
+cheat694_desc = "孟获 全能力"
+cheat694_code = "0200E241 000000FF+0200E248 000000FF+0200E249 000000FF"
+cheat694_enable = false
+
+cheat695_desc = "孟获 加入队伍"
+cheat695_code = "0200E240 00000006"
+cheat695_enable = false
+
+cheat696_desc = "金环结 等级"
+cheat696_code = "0200D989 00000063"
+cheat696_enable = false
+
+cheat697_desc = "金环结 经验"
+cheat697_code = "0200D98A 00000063"
+cheat697_enable = false
+
+cheat698_desc = "金环结 全能力"
+cheat698_code = "0200D97D 000000FF+0200D984 000000FF+0200D985 000000FF"
+cheat698_enable = false
+
+cheat699_desc = "金环结 加入队伍"
+cheat699_code = "0200D97C 00000006"
+cheat699_enable = false
+
+cheat700_desc = "董荼那 等级"
+cheat700_code = "0200D9B5 00000063"
+cheat700_enable = false
+
+cheat701_desc = "董荼那 经验"
+cheat701_code = "0200D9B6 00000063"
+cheat701_enable = false
+
+cheat702_desc = "董荼那 全能力"
+cheat702_code = "0200D9A9 000000FF+0200D9B0 000000FF+0200D9B1 000000FF"
+cheat702_enable = false
+
+cheat703_desc = "董荼那 加入队伍"
+cheat703_code = "0200D9A8 00000006"
+cheat703_enable = false
+
+cheat704_desc = "阿会喃 等级"
+cheat704_code = "0200D9E1 00000063"
+cheat704_enable = false
+
+cheat705_desc = "阿会喃 经验"
+cheat705_code = "0200D9E2 00000063"
+cheat705_enable = false
+
+cheat706_desc = "阿会喃 全能力"
+cheat706_code = "0200D9D5 000000FF+0200D9DC 000000FF+0200D9DD 000000FF"
+cheat706_enable = false
+
+cheat707_desc = "阿会喃 加入队伍"
+cheat707_code = "0200D9D4 00000006"
+cheat707_enable = false
+
+cheat708_desc = "忙牙长 等级"
+cheat708_code = "0200DA0D 00000063"
+cheat708_enable = false
+
+cheat709_desc = "忙牙长 经验"
+cheat709_code = "0200DA0E 00000063"
+cheat709_enable = false
+
+cheat710_desc = "忙牙长 全能力"
+cheat710_code = "0200DA01 000000FF+0200DA08 000000FF+0200DA09 000000FF"
+cheat710_enable = false
+
+cheat711_desc = "忙牙长 加入队伍"
+cheat711_code = "0200DA00 00000006"
+cheat711_enable = false
+
+cheat712_desc = "孟优 等级"
+cheat712_code = "0200DA39 00000063"
+cheat712_enable = false
+
+cheat713_desc = "孟优 经验"
+cheat713_code = "0200DA3A 00000063"
+cheat713_enable = false
+
+cheat714_desc = "孟优 全能力"
+cheat714_code = "0200DA2D 000000FF+0200DA34 000000FF+0200DA35 000000FF"
+cheat714_enable = false
+
+cheat715_desc = "孟优 加入队伍"
+cheat715_code = "0200DA2C 00000006"
+cheat715_enable = false
+
+cheat716_desc = "祝融 等级"
+cheat716_code = "0200DA65 00000063"
+cheat716_enable = false
+
+cheat717_desc = "祝融 经验"
+cheat717_code = "0200DA66 00000063"
+cheat717_enable = false
+
+cheat718_desc = "祝融 全能力"
+cheat718_code = "0200DA59 000000FF+0200DA60 000000FF+0200DA61 000000FF"
+cheat718_enable = false
+
+cheat719_desc = "祝融 加入队伍"
+cheat719_code = "0200DA58 00000006"
+cheat719_enable = false
+
+cheat720_desc = "朵思王 等级"
+cheat720_code = "0200DA91 00000063"
+cheat720_enable = false
+
+cheat721_desc = "朵思王 经验"
+cheat721_code = "0200DA92 00000063"
+cheat721_enable = false
+
+cheat722_desc = "朵思王 全能力"
+cheat722_code = "0200DA85 000000FF+0200DA8C 000000FF+0200DA8D 000000FF"
+cheat722_enable = false
+
+cheat723_desc = "朵思王 加入队伍"
+cheat723_code = "0200DA84 00000006"
+cheat723_enable = false
+
+cheat724_desc = "木鹿王 等级"
+cheat724_code = "0200DABD 00000063"
+cheat724_enable = false
+
+cheat725_desc = "木鹿王 经验"
+cheat725_code = "0200DABE 00000063"
+cheat725_enable = false
+
+cheat726_desc = "木鹿王 全能力"
+cheat726_code = "0200DAB1 000000FF+0200DAB8 000000FF+0200DAB9 000000FF"
+cheat726_enable = false
+
+cheat727_desc = "木鹿王 加入队伍"
+cheat727_code = "0200DAB0 00000006"
+cheat727_enable = false
+
+cheat728_desc = "兀突骨 等级"
+cheat728_code = "0200DAE9 00000063"
+cheat728_enable = false
+
+cheat729_desc = "兀突骨 经验"
+cheat729_code = "0200DAEA 00000063"
+cheat729_enable = false
+
+cheat730_desc = "兀突骨 全能力"
+cheat730_code = "0200DADD 000000FF+0200DAE4 000000FF+0200DAE5 000000FF"
+cheat730_enable = false
+
+cheat731_desc = "兀突骨 加入队伍"
+cheat731_code = "0200DADC 00000006"
+cheat731_enable = false
+
+cheat732_desc = "杨锋 等级"
+cheat732_code = "0200DB15 00000063"
+cheat732_enable = false
+
+cheat733_desc = "杨锋 经验"
+cheat733_code = "0200DB16 00000063"
+cheat733_enable = false
+
+cheat734_desc = "杨锋 全能力"
+cheat734_code = "0200DB09 000000FF+0200DB10 000000FF+0200DB11 000000FF"
+cheat734_enable = false
+
+cheat735_desc = "杨锋 加入队伍"
+cheat735_code = "0200DB08 00000006"
+cheat735_enable = false
+
+cheat736_desc = "带来 等级"
+cheat736_code = "0200DB41 00000063"
+cheat736_enable = false
+
+cheat737_desc = "带来 经验"
+cheat737_code = "0200DB42 00000063"
+cheat737_enable = false
+
+cheat738_desc = "带来 全能力"
+cheat738_code = "0200DB35 000000FF+0200DB3C 000000FF+0200DB3D 000000FF"
+cheat738_enable = false
+
+cheat739_desc = "带来 加入队伍"
+cheat739_code = "0200DB34 00000006"
+cheat739_enable = false
+
+cheat740_desc = "孟节 等级"
+cheat740_code = "0200DB6D 00000063"
+cheat740_enable = false
+
+cheat741_desc = "孟节 经验"
+cheat741_code = "0200DB6E 00000063"
+cheat741_enable = false
+
+cheat742_desc = "孟节 全能力"
+cheat742_code = "0200DB61 000000FF+0200DB68 000000FF+0200DB69 000000FF"
+cheat742_enable = false
+
+cheat743_desc = "孟节 加入队伍"
+cheat743_code = "0200DB60 00000006"
+cheat743_enable = false
+
+cheat744_desc = "刘表 等级"
+cheat744_code = "0200DB99 00000063"
+cheat744_enable = false
+
+cheat745_desc = "刘表 经验"
+cheat745_code = "0200DB9A 00000063"
+cheat745_enable = false
+
+cheat746_desc = "刘表 全能力"
+cheat746_code = "0200DB8D 000000FF+0200DB94 000000FF+0200DB95 000000FF"
+cheat746_enable = false
+
+cheat747_desc = "刘表 加入队伍"
+cheat747_code = "0200DB8C 00000006"
+cheat747_enable = false
+
+cheat748_desc = "蒯越 等级"
+cheat748_code = "0200DBC5 00000063"
+cheat748_enable = false
+
+cheat749_desc = "蒯越 经验"
+cheat749_code = "0200DBC6 00000063"
+cheat749_enable = false
+
+cheat750_desc = "蒯越 全能力"
+cheat750_code = "0200DBB9 000000FF+0200DBC0 000000FF+0200DBC1 000000FF"
+cheat750_enable = false
+
+cheat751_desc = "蒯越 加入队伍"
+cheat751_code = "0200DBB8 00000006"
+cheat751_enable = false
+
+cheat752_desc = "蔡瑁 等级"
+cheat752_code = "0200DBF1 00000063"
+cheat752_enable = false
+
+cheat753_desc = "蔡瑁 经验"
+cheat753_code = "0200DBF2 00000063"
+cheat753_enable = false
+
+cheat754_desc = "蔡瑁 全能力"
+cheat754_code = "0200DBE5 000000FF+0200DBEC 000000FF+0200DBED 000000FF"
+cheat754_enable = false
+
+cheat755_desc = "蔡瑁 加入队伍"
+cheat755_code = "0200DBE4 00000006"
+cheat755_enable = false
+
+cheat756_desc = "刘琦 等级"
+cheat756_code = "0200DC1D 00000063"
+cheat756_enable = false
+
+cheat757_desc = "刘琦 经验"
+cheat757_code = "0200DC1E 00000063"
+cheat757_enable = false
+
+cheat758_desc = "刘琦 全能力"
+cheat758_code = "0200DC11 000000FF+0200DC18 000000FF+0200DC19 000000FF"
+cheat758_enable = false
+
+cheat759_desc = "刘琦 加入队伍"
+cheat759_code = "0200DC10 00000006"
+cheat759_enable = false
+
+cheat760_desc = "刘琮 等级"
+cheat760_code = "0200DC49 00000063"
+cheat760_enable = false
+
+cheat761_desc = "刘琮 经验"
+cheat761_code = "0200DC4A 00000063"
+cheat761_enable = false
+
+cheat762_desc = "刘琮 全能力"
+cheat762_code = "0200DC3D 000000FF+0200DC44 000000FF+0200DC45 000000FF"
+cheat762_enable = false
+
+cheat763_desc = "刘琮 加入队伍"
+cheat763_code = "0200DC3C 00000006"
+cheat763_enable = false
+
+cheat764_desc = "刘度 等级"
+cheat764_code = "0200DC75 00000063"
+cheat764_enable = false
+
+cheat765_desc = "刘度 经验"
+cheat765_code = "0200DC76 00000063"
+cheat765_enable = false
+
+cheat766_desc = "刘度 全能力"
+cheat766_code = "0200DC69 000000FF+0200DC70 000000FF+0200DC71 000000FF"
+cheat766_enable = false
+
+cheat767_desc = "刘度 加入队伍"
+cheat767_code = "0200DC68 00000006"
+cheat767_enable = false
+
+cheat768_desc = "刘贤 等级"
+cheat768_code = "0200DCA1 00000063"
+cheat768_enable = false
+
+cheat769_desc = "刘贤 经验"
+cheat769_code = "0200DCA2 00000063"
+cheat769_enable = false
+
+cheat770_desc = "刘贤 全能力"
+cheat770_code = "0200DC95 000000FF+0200DC9C 000000FF+0200DC9D 000000FF"
+cheat770_enable = false
+
+cheat771_desc = "刘贤 加入队伍"
+cheat771_code = "0200DC94 00000006"
+cheat771_enable = false
+
+cheat772_desc = "邢道荣 等级"
+cheat772_code = "0200DCCD 00000063"
+cheat772_enable = false
+
+cheat773_desc = "邢道荣 经验"
+cheat773_code = "0200DCCE 00000063"
+cheat773_enable = false
+
+cheat774_desc = "邢道荣 全能力"
+cheat774_code = "0200DCC1 000000FF+0200DCC8 000000FF+0200DCC9 000000FF"
+cheat774_enable = false
+
+cheat775_desc = "邢道荣 加入队伍"
+cheat775_code = "0200DCC0 00000006"
+cheat775_enable = false
+
+cheat776_desc = "赵范 等级"
+cheat776_code = "0200DCF9 00000063"
+cheat776_enable = false
+
+cheat777_desc = "赵范 经验"
+cheat777_code = "0200DCFA 00000063"
+cheat777_enable = false
+
+cheat778_desc = "赵范 全能力"
+cheat778_code = "0200DCED 000000FF+0200DCF4 000000FF+0200DCF5 000000FF"
+cheat778_enable = false
+
+cheat779_desc = "赵范 加入队伍"
+cheat779_code = "0200DCEC 00000006"
+cheat779_enable = false
+
+cheat780_desc = "陈应 等级"
+cheat780_code = "0200DD25 00000063"
+cheat780_enable = false
+
+cheat781_desc = "陈应 经验"
+cheat781_code = "0200DD26 00000063"
+cheat781_enable = false
+
+cheat782_desc = "陈应 全能力"
+cheat782_code = "0200DD19 000000FF+0200DD20 000000FF+0200DD21 000000FF"
+cheat782_enable = false
+
+cheat783_desc = "陈应 加入队伍"
+cheat783_code = "0200DD18 00000006"
+cheat783_enable = false
+
+cheat784_desc = "金旋 等级"
+cheat784_code = "0200DD51 00000063"
+cheat784_enable = false
+
+cheat785_desc = "金旋 经验"
+cheat785_code = "0200DD52 00000063"
+cheat785_enable = false
+
+cheat786_desc = "金旋 全能力"
+cheat786_code = "0200DD45 000000FF+0200DD4C 000000FF+0200DD4D 000000FF"
+cheat786_enable = false
+
+cheat787_desc = "金旋 加入队伍"
+cheat787_code = "0200DD44 00000006"
+cheat787_enable = false
+
+cheat788_desc = "巩志 等级"
+cheat788_code = "0200DD7D 00000063"
+cheat788_enable = false
+
+cheat789_desc = "巩志 经验"
+cheat789_code = "0200DD7E 00000063"
+cheat789_enable = false
+
+cheat790_desc = "巩志 全能力"
+cheat790_code = "0200DD71 000000FF+0200DD78 000000FF+0200DD79 000000FF"
+cheat790_enable = false
+
+cheat791_desc = "巩志 加入队伍"
+cheat791_code = "0200DD70 00000006"
+cheat791_enable = false
+
+cheat792_desc = "韩玄 等级"
+cheat792_code = "0200DDA9 00000063"
+cheat792_enable = false
+
+cheat793_desc = "韩玄 经验"
+cheat793_code = "0200DDAA 00000063"
+cheat793_enable = false
+
+cheat794_desc = "韩玄 全能力"
+cheat794_code = "0200DD9D 000000FF+0200DDA4 000000FF+0200DDA5 000000FF"
+cheat794_enable = false
+
+cheat795_desc = "韩玄 加入队伍"
+cheat795_code = "0200DD9C 00000006"
+cheat795_enable = false
+
+cheat796_desc = "杨龄 等级"
+cheat796_code = "0200DDD5 00000063"
+cheat796_enable = false
+
+cheat797_desc = "杨龄 经验"
+cheat797_code = "0200DDD6 00000063"
+cheat797_enable = false
+
+cheat798_desc = "杨龄 全能力"
+cheat798_code = "0200DDC9 000000FF+0200DDD0 000000FF+0200DDD1 000000FF"
+cheat798_enable = false
+
+cheat799_desc = "杨龄 加入队伍"
+cheat799_code = "0200DDC8 00000006"
+cheat799_enable = false
+
+cheat800_desc = "刘璋 等级"
+cheat800_code = "0200DE01 00000063"
+cheat800_enable = false
+
+cheat801_desc = "刘璋 经验"
+cheat801_code = "0200DE02 00000063"
+cheat801_enable = false
+
+cheat802_desc = "刘璋 全能力"
+cheat802_code = "0200DDF5 000000FF+0200DDFC 000000FF+0200DDFD 000000FF"
+cheat802_enable = false
+
+cheat803_desc = "刘璋 加入队伍"
+cheat803_code = "0200DDF4 00000006"
+cheat803_enable = false
+
+cheat804_desc = "刘循 等级"
+cheat804_code = "0200DE2D 00000063"
+cheat804_enable = false
+
+cheat805_desc = "刘循 经验"
+cheat805_code = "0200DE2E 00000063"
+cheat805_enable = false
+
+cheat806_desc = "刘循 全能力"
+cheat806_code = "0200DE21 000000FF+0200DE28 000000FF+0200DE29 000000FF"
+cheat806_enable = false
+
+cheat807_desc = "刘循 加入队伍"
+cheat807_code = "0200DE20 00000006"
+cheat807_enable = false
+
+cheat808_desc = "刘瑰 等级"
+cheat808_code = "0200DE59 00000063"
+cheat808_enable = false
+
+cheat809_desc = "刘瑰 经验"
+cheat809_code = "0200DE5A 00000063"
+cheat809_enable = false
+
+cheat810_desc = "刘瑰 全能力"
+cheat810_code = "0200DE4D 000000FF+0200DE54 000000FF+0200DE55 000000FF"
+cheat810_enable = false
+
+cheat811_desc = "刘瑰 加入队伍"
+cheat811_code = "0200DE4C 00000006"
+cheat811_enable = false
+
+cheat812_desc = "张任 等级"
+cheat812_code = "0200DE85 00000063"
+cheat812_enable = false
+
+cheat813_desc = "张任 经验"
+cheat813_code = "0200DE86 00000063"
+cheat813_enable = false
+
+cheat814_desc = "张任 全能力"
+cheat814_code = "0200DE79 000000FF+0200DE80 000000FF+0200DE81 000000FF"
+cheat814_enable = false
+
+cheat815_desc = "张任 加入队伍"
+cheat815_code = "0200DE78 00000006"
+cheat815_enable = false
+
+cheat816_desc = "雍闿 等级"
+cheat816_code = "0200DF09 00000063"
+cheat816_enable = false
+
+cheat817_desc = "雍闿 经验"
+cheat817_code = "0200DF0A 00000063"
+cheat817_enable = false
+
+cheat818_desc = "雍闿 全能力"
+cheat818_code = "0200DEFD 000000FF+0200DF04 000000FF+0200DF05 000000FF"
+cheat818_enable = false
+
+cheat819_desc = "雍闿 加入队伍"
+cheat819_code = "0200DEFC 00000006"
+cheat819_enable = false
+
+cheat820_desc = "高定 等级"
+cheat820_code = "0200DF35 00000063"
+cheat820_enable = false
+
+cheat821_desc = "高定 经验"
+cheat821_code = "0200DF36 00000063"
+cheat821_enable = false
+
+cheat822_desc = "高定 全能力"
+cheat822_code = "0200DF29 000000FF+0200DF30 000000FF+0200DF31 000000FF"
+cheat822_enable = false
+
+cheat823_desc = "高定 加入队伍"
+cheat823_code = "0200DF28 00000006"
+cheat823_enable = false
+
+cheat824_desc = "朱褒 等级"
+cheat824_code = "0200DF61 00000063"
+cheat824_enable = false
+
+cheat825_desc = "朱褒 经验"
+cheat825_code = "0200DF62 00000063"
+cheat825_enable = false
+
+cheat826_desc = "朱褒 全能力"
+cheat826_code = "0200DF55 000000FF+0200DF5C 000000FF+0200DF5D 000000FF"
+cheat826_enable = false
+
+cheat827_desc = "朱褒 加入队伍"
+cheat827_code = "0200DF54 00000006"
+cheat827_enable = false
+
+cheat828_desc = "鄂焕 等级"
+cheat828_code = "0200DF8D 00000063"
+cheat828_enable = false
+
+cheat829_desc = "鄂焕 经验"
+cheat829_code = "0200DF8E 00000063"
+cheat829_enable = false
+
+cheat830_desc = "鄂焕 全能力"
+cheat830_code = "0200DF81 000000FF+0200DF88 000000FF+0200DF89 000000FF"
+cheat830_enable = false
+
+cheat831_desc = "鄂焕 加入队伍"
+cheat831_code = "0200DF80 00000006"
+cheat831_enable = false
+
+cheat832_desc = "张鲁 等级"
+cheat832_code = "0200DFB9 00000063"
+cheat832_enable = false
+
+cheat833_desc = "张鲁 经验"
+cheat833_code = "0200DFBA 00000063"
+cheat833_enable = false
+
+cheat834_desc = "张鲁 全能力"
+cheat834_code = "0200DFAD 000000FF+0200DFB4 000000FF+0200DFB5 000000FF"
+cheat834_enable = false
+
+cheat835_desc = "张鲁 加入队伍"
+cheat835_code = "0200DFAC 00000006"
+cheat835_enable = false
+
+cheat836_desc = "张卫 等级"
+cheat836_code = "0200DFE5 00000063"
+cheat836_enable = false
+
+cheat837_desc = "张卫 经验"
+cheat837_code = "0200DFE6 00000063"
+cheat837_enable = false
+
+cheat838_desc = "张卫 全能力"
+cheat838_code = "0200DFD9 000000FF+0200DFE0 000000FF+0200DFE1 000000FF"
+cheat838_enable = false
+
+cheat839_desc = "张卫 加入队伍"
+cheat839_code = "0200DFD8 00000006"
+cheat839_enable = false
+
+cheat840_desc = "阎圃 等级"
+cheat840_code = "0200E011 00000063"
+cheat840_enable = false
+
+cheat841_desc = "阎圃 经验"
+cheat841_code = "0200E012 00000063"
+cheat841_enable = false
+
+cheat842_desc = "阎圃 全能力"
+cheat842_code = "0200E005 000000FF+0200E00C 000000FF+0200E00D 000000FF"
+cheat842_enable = false
+
+cheat843_desc = "阎圃 加入队伍"
+cheat843_code = "0200E004 00000006"
+cheat843_enable = false
+
+cheat844_desc = "雅丹 等级"
+cheat844_code = "0200E059 00000063"
+cheat844_enable = false
+
+cheat845_desc = "雅丹 经验"
+cheat845_code = "0200E05A 00000063"
+cheat845_enable = false
+
+cheat846_desc = "雅丹 全能力"
+cheat846_code = "0200E05D 000000FF+0200E064 000000FF+0200E065 000000FF"
+cheat846_enable = false
+
+cheat847_desc = "雅丹 加入队伍"
+cheat847_code = "0200E05C 00000006"
+cheat847_enable = false
+
+cheat848_desc = "越吉 等级"
+cheat848_code = "0200E095 00000063"
+cheat848_enable = false
+
+cheat849_desc = "越吉 经验"
+cheat849_code = "0200E096 00000063"
+cheat849_enable = false
+
+cheat850_desc = "越吉 全能力"
+cheat850_code = "0200E089 000000FF+0200E090 000000FF+0200E091 000000FF"
+cheat850_enable = false
+
+cheat851_desc = "越吉 加入队伍"
+cheat851_code = "0200E088 00000006"
+cheat851_enable = false
+
+cheat852_desc = "轲比能 等级"
+cheat852_code = "0200E0C1 00000063"
+cheat852_enable = false
+
+cheat853_desc = "轲比能 经验"
+cheat853_code = "0200E0C2 00000063"
+cheat853_enable = false
+
+cheat854_desc = "轲比能 全能力"
+cheat854_code = "0200E0B5 000000FF+0200E0BC 000000FF+0200E0BD 000000FF"
+cheat854_enable = false
+
+cheat855_desc = "轲比能 加入队伍"
+cheat855_code = "0200E0B4 00000006"
+cheat855_enable = false
+
+cheat856_desc = "文聘 等级"
+cheat856_code = "0200E0ED 00000063"
+cheat856_enable = false
+
+cheat857_desc = "文聘 经验"
+cheat857_code = "0200E0EE 00000063"
+cheat857_enable = false
+
+cheat858_desc = "文聘 全能力"
+cheat858_code = "0200E0E1 000000FF+0200E0E8 000000FF+0200E0E9 000000FF"
+cheat858_enable = false
+
+cheat859_desc = "文聘 加入队伍"
+cheat859_code = "0200E0E0 00000006"
+cheat859_enable = false
+
+cheat860_desc = "杨修 等级"
+cheat860_code = "0200E119 00000063"
+cheat860_enable = false
+
+cheat861_desc = "杨修 经验"
+cheat861_code = "0200E11A 00000063"
+cheat861_enable = false
+
+cheat862_desc = "杨修 全能力"
+cheat862_code = "2200E10D 00FFE114+0200E110 000000FF+0200E111 000000FF"
+cheat862_enable = false
+
+cheat863_desc = "杨修 加入队伍"
+cheat863_code = "0200E10C 00000006"
+cheat863_enable = false
+
+cheat864_desc = "张绍 等级"
+cheat864_code = "0200E145 00000063"
+cheat864_enable = false
+
+cheat865_desc = "张绍 经验"
+cheat865_code = "0200E146 00000063"
+cheat865_enable = false
+
+cheat866_desc = "张绍 全能力"
+cheat866_code = "0200E139 000000FF+0200E140 000000FF+0200E141 000000FF"
+cheat866_enable = false
+
+cheat867_desc = "张绍 加入队伍"
+cheat867_code = "0200E138 00000006"
+cheat867_enable = false
+
+cheat868_desc = "黄权 等级"
+cheat868_code = "0200E171 00000063"
+cheat868_enable = false
+
+cheat869_desc = "黄权 经验"
+cheat869_code = "0200E172 00000063"
+cheat869_enable = false
+
+cheat870_desc = "黄权 全能力"
+cheat870_code = "0200E165 000000FF+0200E16C 000000FF+0200E16D 000000FF"
+cheat870_enable = false
+
+cheat871_desc = "黄权 加入队伍"
+cheat871_code = "0200E164 00000006"
+cheat871_enable = false
+
+cheat872_desc = "孙登 等级"
+cheat872_code = "0200E19D 00000063"
+cheat872_enable = false
+
+cheat873_desc = "孙登 经验"
+cheat873_code = "0200E19E 00000063"
+cheat873_enable = false
+
+cheat874_desc = "孙登 全能力"
+cheat874_code = "0200E191 000000FF+0200E198 000000FF+0200E199 000000FF"
+cheat874_enable = false
+
+cheat875_desc = "孙登 加入队伍"
+cheat875_code = "0200E190 00000006"
+cheat875_enable = false
+
+cheat876_desc = "阚泽 等级"
+cheat876_code = "0200E1C9 00000063"
+cheat876_enable = false
+
+cheat877_desc = "阚泽 经验"
+cheat877_code = "0200E1CA 00000063"
+cheat877_enable = false
+
+cheat878_desc = "阚泽 全能力"
+cheat878_code = "0200E1BD 000000FF+0200E1C4 000000FF+0200E1C5 000000FF"
+cheat878_enable = false
+
+cheat879_desc = "阚泽 加入队伍"
+cheat879_code = "0200E1BC 00000006"
+cheat879_enable = false
+
+cheat880_desc = "丁奉 等级"
+cheat880_code = "0200E221 00000063"
+cheat880_enable = false
+
+cheat881_desc = "丁奉 经验"
+cheat881_code = "0200E222 00000063"
+cheat881_enable = false
+
+cheat882_desc = "丁奉 全能力"
+cheat882_code = "0200E215 000000FF+0200E21C 000000FF+0200E21D 000000FF"
+cheat882_enable = false
+
+cheat883_desc = "丁奉 加入队伍"
+cheat883_code = "0200E214 00000006"
+cheat883_enable = false
+
+cheat884_desc = "石广元 等级"
+cheat884_code = "0200E279 00000063"
+cheat884_enable = false
+
+cheat885_desc = "石广元 经验"
+cheat885_code = "0200E27A 00000063"
+cheat885_enable = false
+
+cheat886_desc = "石广元 全能力"
+cheat886_code = "0200E26D 000000FF+0200E274 000000FF+0200E275 000000FF"
+cheat886_enable = false
+
+cheat887_desc = "石广元 加入队伍"
+cheat887_code = "0200E26C 00000006"
+cheat887_enable = false
+
+cheat888_desc = "全武将列传"
+cheat888_code = "0200BA25 00000003+0200BA51 00000003+0200BA7D 00000003+0200BAA9 00000003+0200BAD5 00000003+0200BB01 00000003+0200BB2D 00000003+0200BB59 00000003+0200BB85 00000003+0200BBB1 00000003+0200BBDD 00000003+0200BC09 00000003+0200BC35 00000003+0200BC61 00000003+0200BC8D 00000003+0200BCB9 00000003+0200BCE5 00000003+0200BD11 00000003+0200BD3D 00000003+0200BD69 00000003+0200BD95 00000003+0200BDC1 00000003+0200BDED 00000003+0200BE19 00000003+0200BE45 00000003+0200BE71 00000003+0200BE9D 00000003+0200BEC9 00000003+0200BEF5 00000003+0200BF21 00000003+0200BF4D 00000003+0200BF79 00000003+0200BFA5 00000003+0200BFD1 00000003+0200BFFD 00000003+0200C029 00000003+0200C055 00000003+0200C081 00000003+0200C0AD 00000003+0200C0D9 00000003+0200C105 00000003+0200C131 00000003+0200C15D 00000003+0200C189 00000003+0200C1B5 00000003+0200C1E1 00000003+0200C20D 00000003+0200C239 00000003+0200C265 00000003+0200C291 00000003+0200C2BD 00000003+0200C2E9 00000003+0200C315 00000003+0200C341 00000003+0200C36D 00000003+0200C399 00000003+0200C3C5 00000003+0200C3F1 00000003+0200C41D 00000003+0200C449 00000003+0200C475 00000003+0200C4A1 00000003+0200C4CD 00000003+0200C4F9 00000003+0200C525 00000003+0200C551 00000003+0200C57D 00000003+0200C5A9 00000003+0200C5D5 00000003+0200C601 00000003+0200C62D 00000003+0200C659 00000003+0200C685 00000003+0200C6B1 00000003+0200C6DD 00000003+0200C709 00000003+0200C735 00000003+0200C761 00000003+0200C78D 00000003+0200C7B9 00000003+0200C7E5 00000003+0200C811 00000003+0200C83D 00000003+0200C869 00000003+0200C895 00000003+0200C8C1 00000003+0200C8ED 00000003+0200C919 00000003+0200C945 00000003+0200C971 00000003+0200C99D 00000003+0200C9C9 00000003+0200C9F5 00000003+0200CA21 00000003+0200CA4D 00000003+0200CA79 00000003+0200CAA5 00000003+0200CAD1 00000003+0200CAFD 00000003+0200CB29 00000003+0200CB55 00000003+0200CB81 00000003+0200CBAD 00000003+0200CBD9 00000003+0200CC05 00000003+0200CC31 00000003+0200CC5D 00000003+0200CC89 00000003+0200CCB5 00000003+0200CCE1 00000003+0200CD0D 00000003+0200CD39 00000003+0200CD65 00000003+0200CD91 00000003+0200CDBD 00000003+0200CDE9 00000003+0200CE15 00000003+0200CE41 00000003+0200CE6D 00000003+0200CE99 00000003+0200CEC5 00000003+0200CEF1 00000003+0200CF1D 00000003+0200CF49 00000003+0200CF75 00000003+0200CFA1 00000003+0200CFCD 00000003+0200CFF9 00000003+0200D025 00000003+0200D051 00000003+0200D07D 00000003+0200D0A9 00000003+0200D0D5 00000003+0200D101 00000003+0200D12D 00000003+0200D159 00000003+0200D185 00000003+0200D1B1 00000003+0200D1DD 00000003+0200D209 00000003+0200D235 00000003+0200D261 00000003+0200D28D 00000003+0200D2B9 00000003+0200D2E5 00000003+0200D311 00000003+0200D33D 00000003+0200D369 00000003+0200D395 00000003+0200D3C1 00000003+0200D3ED 00000003+0200D419 00000003+0200D445 00000003+0200D471 00000003+0200D49D 00000003+0200D4C9 00000003+0200D4F5 00000003+0200D521 00000003+0200D54D 00000003+0200D579 00000003+0200D5A5 00000003+0200D5D1 00000003+0200D5FD 00000003+0200D629 00000003+0200D655 00000003+0200D681 00000003+0200D6AD 00000003+0200D6D9 00000003+0200D705 00000003+0200D731 00000003+0200D75D 00000003+0200D789 00000003+0200D7B5 00000003+0200D7E1 00000003+0200D80D 00000003+0200D839 00000003+0200D865 00000003+0200D891 00000003+0200D8BD 00000003+0200D8E9 00000003+0200D915 00000003+0200D941 00000003+0200D96D 00000003+0200D999 00000003+0200D9C5 00000003+0200D9F1 00000003+0200DA1D 00000003+0200DA49 00000003+0200DA75 00000003+0200DAA1 00000003+0200DACD 00000003+0200DAF9 00000003+0200DB25 00000003+0200DB51 00000003+0200DB7D 00000003+0200DBA9 00000003+0200DBD5 00000003+0200DC01 00000003+0200DC2D 00000003+0200DC59 00000003+0200DC85 00000003+0200DCB1 00000003+0200DCDD 00000003+0200DD09 00000003+0200DD35 00000003+0200DD61 00000003+0200DD8D 00000003+0200DDB9 00000003+0200DDE5 00000003+0200DE11 00000003+0200DE3D 00000003+0200DE69 00000003+0200DE95 00000003+0200DEC1 00000003+0200DEED 00000003+0200DF19 00000003+0200DF45 00000003+0200DF71 00000003+0200DF9D 00000003+0200DFC9 00000003+0200DFF5 00000003+0200E021 00000003+0200E04D 00000003+0200E079 00000003+0200E0A5 00000003+0200E0D1 00000003+0200E0FD 00000003+0200E129 00000003+0200E155 00000003+0200E181 00000003+0200E1AD 00000003+0200E1D9 00000003+0200E205 00000003+0200E231 00000003+0200E25D 00000003+020105C5 00000003+020105F1 00000003+0201061D 00000003+02010751 00000003+02010C79 00000003+02010E5D 00000003+02010F0D 00000003+02010F91 00000003"
+cheat888_enable = false
+
+cheat889_desc = "自由战全地图"
+cheat889_code = "02000734 00000003+0200073C 00000003+02000744 00000003+0200074C 00000003+02000754 00000003+0200075C 00000003+02000764 00000003+0200076C 00000003+02000774 00000003+0200077C 00000003"
+cheat889_enable = false
+
+cheat890_desc = "金钱"
+cheat890_code = "020117FC 0000003F+020117FD 00000042+020117FE 0000000F"
+cheat890_enable = false
+
+cheat891_desc = "仓库全道具"
+cheat891_code = "02011822 00000001+02011823 00000001+02011824 00000001+02011825 00000001+02011826 00000001+02011827 00000001+02011828 00000001+02011829 00000001+0201182A 00000001+0201182B 00000001+0201182C 00000001+0201182D 00000001+0201182E 00000001+0201182F 00000001+02011830 00000001+02011831 00000001+02011832 00000001+02011833 00000001+02011834 00000001+02011835 00000001+02011836 00000001+02011837 00000001+02011838 00000001+02011839 00000001+0201183A 00000001+0201183B 00000001+0201183C 00000001+0201183D 00000001+0201183E 00000001+0201183F 00000001+02011840 00000001+02011841 00000001+02011842 00000001+02011843 00000001+02011844 00000001+02011845 00000001+02011846 00000001+02011847 00000001+02011848 00000001+02011849 00000001+0201184A 00000001+0201184B 00000001+0201184C 00000001+0201184D 00000001+0201184E 00000001+0201184F 00000001+02011850 00000001+02011851 00000001+02011852 00000001+02011853 00000001+02011854 00000001+02011855 00000001+02011856 00000001+02011857 00000001+02011858 00000001+02011859 00000001+0201185A 00000001+0201185B 00000001+0201185C 00000001+0201185D 00000001+0201185E 00000001+0201185F 00000001+02011860 00000001+02011861 00000001+02011862 00000001+02011863 00000001+02011864 00000001+02011865 00000001+02011866 00000001+02011867 00000001+02011868 00000001+02011869 00000001+0201186A 00000001+0201186B 00000001+0201186C 00000001+0201186D 00000001+0201186E 00000001+0201186F 00000001+02011870 00000001+02011871 00000001+02011872 00000001+02011873 00000001+02011874 00000001+02011875 00000001+02011876 00000001+02011877 00000001+02011878 00000001+02011879 00000001+0201187A 00000001+0201187B 00000001+0201187C 00000001+0201187D 00000001+0201187E 00000001+0201187F 00000001+02011880 00000001+02011881 00000001+02011882 00000001+02011883 00000001+02011884 00000001+02011885 00000001+02011886 00000001+02011887 00000001+02011888 00000001+02011889 00000001+0201188A 00000001+0201188B 00000001+0201188C 00000001+0201188D 00000001+0201188E 00000001+0201188F 00000001+02011890 00000001+02011891 00000001+02011892 00000001+02011893 00000001+02011894 00000001+02011895 00000001+02011896 00000001+02011897 00000001+02011898 00000001+02011899 00000001+0201189A 00000001+0201189B 00000001+0201189C 00000001+0201189D 00000001+0201189E 00000001+0201189F 00000001+020118A0 00000001+020118A1 00000001+020118A2 00000001+020118A3 00000001+020118A4 00000001+020118A5 00000001+020118A6 00000001+020118A7 00000001+020118A8 00000001+020118A9 00000001+020118AA 00000001+020118AB 00000001+020118AC 00000001+020118AD 00000001+020118AE 00000001+020118AF 00000001+020118B0 00000001+020118B1 00000001+020118B2 00000001+020118B3 00000001+020118B4 00000001+020118B5 00000001+020118B6 00000001+020118B7 00000001+020118B8 00000001+020118B9 00000001+020118BA 00000001+020118BB 00000001+020118BC 00000001+020118BD 00000001+020118BE 00000001+020118BF 00000001+020118C0 00000001+020118C1 00000001+020118C2 00000001+020118C3 00000001+020118C4 00000001+020118C5 00000001+020118C6 00000001+020118C7 00000001+020118C8 00000001+020118C9 00000001+020118CA 00000001+020118CB 00000001+020118CC 00000001+020118CD 00000001+020118CE 00000001+020118CF 00000001+020118D0 00000001+020118D1 00000001+020118D2 00000001+020118D3 00000001+020118D4 00000001+020118D5 00000001+020118D6 00000001+020118D7 00000001+020118D8 00000001+020118D9 00000001+020118DA 00000001+020118DB 00000001+020118DC 00000001+020118DD 00000001+020118DE 00000001+020118DF 00000001+020118E0 00000001+020118E1 00000001+020118E2 00000001+020118E3 00000001+020118E4 00000001"
+cheat891_enable = false
+
+cheat892_desc = "回合数"
+cheat892_code = "020336B7 00000000"
+cheat892_enable = false
+
+cheat893_desc = "全员无限移动"
+cheat893_code = "02032E0A 00000020+02032E32 00000020+02032E5A 00000020+02032E82 00000020+02032EAA 00000020+02032ED2 00000020+02032EFA 00000020+02032F22 00000020+02032F4A 00000020+02032F72 00000020+02032F9A 00000020+02032FC2 00000020+02032FEA 00000020+02033012 00000020+0203303A 00000020"
+cheat893_enable = false
+
+cheat894_desc = "全员兵数最大"
+cheat894_code = "02032E10 0000000F+02032E11 00000027+02032E38 0000000F+02032E39 00000027+02032E60 0000000F+02032E61 00000027+02032E88 0000000F+32032E89 02732EB0+02032E8D 0000000F+02032E8E 00000027+02032ED8 0000000F+02032ED9 00000027+02032F00 0000000F+02032F01 00000027+02032F28 0000000F+02032F29 00000027+02032F50 0000000F+02032F51 00000027+02032F78 0000000F+02032F79 00000027+02032FA0 0000000F+02032FA1 00000027+02032FC8 0000000F+02032FC9 00000027+02032FF0 0000000F+02032FF1 00000027+02033018 0000000F+02033019 00000027+02033040 0000000F+02033041 00000027"
+cheat894_enable = false
+
+cheat895_desc = "全员策略最大"
+cheat895_code = "02032E14 0000000F+02032E15 00000027+02032E3C 0000000F+02032E3D 00000027+02032E64 0000000F+02032E65 00000027+02032E8C 0000000F+02032E8D 00000027+02032EB4 0000000F+02032EB5 00000027+02032EDC 0000000F+02032EDD 00000027+02032F04 0000000F+02032F05 00000027+02032F2C 0000000F+02032F2D 00000027+02032F54 0000000F+02032F55 00000027+02032F7C 0000000F+02032F7D 00000027+02032FA4 0000000F+02032FA5 00000027+02032FCC 0000000F+02032FCD 00000027+02032FF4 0000000F+02032FF5 00000027+0203301C 0000000F+0203301D 00000027+02033044 0000000F+02033045 00000027"
+cheat895_enable = false
+
+cheat896_desc = "全员状态正常"
+cheat896_code = "02032E1A 00000000+02032E42 00000000+02032E6A 00000000+02032E92 00000000+02032EBA 00000000+02032EE2 00000000+02032F0A 00000000+02032F32 00000000+02032F5A 00000000+02032F82 00000000+02032FAA 00000000+02032FD2 00000000+02032FFA 00000000+02033022 00000000+0203304A 00000000"
+cheat896_enable = false
+
+cheat897_desc = "敌人行动不能"
+cheat897_code = "02033062 000000E0+0203308A 000000E0+020330B2 000000E0+020330DA 000000E0+02033102 000000E0+0203312A 000000E0+02033152 000000E0+0203317A 000000E0+020331A2 000000E0+020331CA 000000E0+020331F2 000000E0+0203321A 000000E0+02033242 000000E0+0203326A 000000E0+02033292 000000E0+020332BA 000000E0+020332E2 000000E0+0203330A 000000E0+02033332 000000E0+0203335A 000000E0+02033382 000000E0+020333AA 000000E0+020333D2 000000E0+020333FA 000000E0+02033422 000000E0+0203344A 000000E0+02033472 000000E0+0203349A 000000E0+020334C2 000000E0+020334EA 000000E0"
+cheat897_enable = false
+
+cheat898_desc = "敌人一击死"
+cheat898_code = "02033068 00000001+02033069 00000000+02033090 00000001+02033091 00000000+020330B8 00000001+020330B9 00000000+020330E0 00000001+020330E1 00000000+02033108 00000001+02033109 00000000+02033130 00000001+02033131 00000000+02033158 00000001+02033159 00000000+02033180 00000001+02033181 00000000+020331A8 00000001+020331A9 00000000+020331D0 00000001+020331D1 00000000+020331F8 00000001+020331F9 00000000+02033220 00000001+02033221 00000000+02033248 00000001+02033249 00000000+02033270 00000001+02033271 00000000+02033298 00000001+02033299 00000000+020332C0 00000001+020332C1 00000000+020332E8 00000001+020332E9 00000000+02033310 00000001+02033311 00000000+02033338 00000001+02033339 00000000+02033360 00000001+02033361 00000000+02033388 00000001+02033389 00000000+020333B0 00000001+020333B1 00000000+020333D8 00000001+020333D9 00000000+02033400 00000001+02033401 00000000+02033428 00000001+02033429 00000000+02033450 00000001+02033451 00000000+02033478 00000001+02033479 00000000+020334A0 00000001+020334A1 00000000+020334C8 00000001+020334C9 00000000+020334F0 00000001+020334F1 00000000"
+cheat898_enable = false
+
+cheat899_desc = "敌人无策略"
+cheat899_code = "0203306C 00000000+0203306D 00000000+02033094 00000000+02033095 00000000+020330BC 00000000+020330BD 00000000+020330E4 00000000+020330E5 00000000+0203310C 00000000+0203310D 00000000+02033134 00000000+02033135 00000000+0203315C 00000000+0203315D 00000000+02033184 00000000+02033185 00000000+020331AC 00000000+020331AD 00000000+020331D4 00000000+020331D5 00000000+020331FC 00000000+020331FD 00000000+02033224 00000000+02033225 00000000+0203324C 00000000+0203324D 00000000+02033274 00000000+02033275 00000000+0203329C 00000000+0203329D 00000000+020332C4 00000000+020332C5 00000000+020332EC 00000000+020332ED 00000000+02033314 00000000+02033315 00000000+0203333C 00000000+0203333D 00000000+02033364 00000000+02033365 00000000+0203338C 00000000+0203338D 00000000+020333B4 00000000+020333B5 00000000+020333DC 00000000+020333DD 00000000+02033404 00000000+02033405 00000000+0203342C 00000000+0203342D 00000000+02033454 00000000+02033455 00000000+0203347C 00000000+0203347D 00000000+020334A4 00000000+020334A5 00000000+020334CC 00000000+020334CD 00000000+020334F4 00000000+020334F5 00000000"
+cheat899_enable = false
+
+cheat900_desc = "诸葛亮职业选择 短兵"
+cheat900_code = "0200BA14 00000000"
+cheat900_enable = false
+
+cheat901_desc = "诸葛亮职业选择 长兵"
+cheat901_code = "0200BA14 00000001"
+cheat901_enable = false
+
+cheat902_desc = "诸葛亮职业选择 近卫兵"
+cheat902_code = "0200BA14 00000002"
+cheat902_enable = false
+
+cheat903_desc = "诸葛亮职业选择 弓兵"
+cheat903_code = "0200BA14 00000003"
+cheat903_enable = false
+
+cheat904_desc = "诸葛亮职业选择 弩兵"
+cheat904_code = "0200BA14 00000004"
+cheat904_enable = false
+
+cheat905_desc = "诸葛亮职业选择 连弩兵"
+cheat905_code = "0200BA14 00000005"
+cheat905_enable = false
+
+cheat906_desc = "诸葛亮职业选择 轻骑兵"
+cheat906_code = "0200BA14 00000006"
+cheat906_enable = false
+
+cheat907_desc = "诸葛亮职业选择 重骑兵"
+cheat907_code = "0200BA14 00000007"
+cheat907_enable = false
+
+cheat908_desc = "诸葛亮职业选择 亲卫队"
+cheat908_code = "0200BA14 00000008"
+cheat908_enable = false
+
+cheat909_desc = "诸葛亮职业选择 轻战车"
+cheat909_code = "0200BA14 00000009"
+cheat909_enable = false
+
+cheat910_desc = "诸葛亮职业选择 重战车"
+cheat910_code = "0200BA14 0000000A"
+cheat910_enable = false
+
+cheat911_desc = "诸葛亮职业选择 大战车"
+cheat911_code = "0200BA14 0000000B"
+cheat911_enable = false
+
+cheat912_desc = "诸葛亮职业选择 小炮车"
+cheat912_code = "0200BA14 0000000C"
+cheat912_enable = false
+
+cheat913_desc = "诸葛亮职业选择 大炮车"
+cheat913_code = "0200BA14 0000000D"
+cheat913_enable = false
+
+cheat914_desc = "诸葛亮职业选择 霹雳车"
+cheat914_code = "0200BA14 0000000E"
+cheat914_enable = false
+
+cheat915_desc = "诸葛亮职业选择 弓骑兵"
+cheat915_code = "0200BA14 0000000F"
+cheat915_enable = false
+
+cheat916_desc = "诸葛亮职业选择 弩骑兵"
+cheat916_code = "0200BA14 00000010"
+cheat916_enable = false
+
+cheat917_desc = "诸葛亮职业选择 凶贼"
+cheat917_code = "0200BA14 00000011"
+cheat917_enable = false
+
+cheat918_desc = "诸葛亮职业选择 军师"
+cheat918_code = "0200BA14 00000012"
+cheat918_enable = false
+
+cheat919_desc = "诸葛亮职业选择 名军师"
+cheat919_code = "0200BA14 00000013"
+cheat919_enable = false
+
+cheat920_desc = "诸葛亮职业选择 大军师"
+cheat920_code = "0200BA14 00000014"
+cheat920_enable = false
+
+cheat921_desc = "诸葛亮职业选择 山贼"
+cheat921_code = "0200BA14 00000015"
+cheat921_enable = false
+
+cheat922_desc = "诸葛亮职业选择 义贼"
+cheat922_code = "0200BA14 00000016"
+cheat922_enable = false
+
+cheat923_desc = "诸葛亮职业选择 武道家"
+cheat923_code = "0200BA14 00000017"
+cheat923_enable = false
+
+cheat924_desc = "诸葛亮职业选择 大武道家"
+cheat924_code = "0200BA14 00000018"
+cheat924_enable = false
+
+cheat925_desc = "诸葛亮职业选择 虎使い"
+cheat925_code = "0200BA14 00000019"
+cheat925_enable = false
+
+cheat926_desc = "诸葛亮职业选择 猛虎使い"
+cheat926_code = "0200BA14 0000001A"
+cheat926_enable = false
+
+cheat927_desc = "诸葛亮职业选择 食粮队"
+cheat927_code = "0200BA14 0000001B"
+cheat927_enable = false
+
+cheat928_desc = "诸葛亮职业选择 物资队"
+cheat928_code = "0200BA14 0000001C"
+cheat928_enable = false
+
+cheat929_desc = "诸葛亮职业选择 军乐队"
+cheat929_code = "0200BA14 0000001D"
+cheat929_enable = false
+
+cheat930_desc = "诸葛亮职业选择 南蛮兵"
+cheat930_code = "0200BA14 0000001E"
+cheat930_enable = false
+
+cheat931_desc = "诸葛亮职业选择 南蛮骑兵"
+cheat931_code = "0200BA14 0000001F"
+cheat931_enable = false
+
+cheat932_desc = "诸葛亮职业选择 皇帝"
+cheat932_code = "0200BA14 00000020"
+cheat932_enable = false
+
+cheat933_desc = "诸葛亮职业选择 总司令官"
+cheat933_code = "0200BA14 00000021"
+cheat933_enable = false
+
+cheat934_desc = "诸葛亮职业选择 藤甲兵"
+cheat934_code = "0200BA14 00000022"
+cheat934_enable = false
+
+cheat935_desc = "诸葛亮职业选择 羌族兵"
+cheat935_code = "0200BA14 00000023"
+cheat935_enable = false
+
+cheat936_desc = "诸葛亮职业选择 象使い"
+cheat936_code = "0200BA14 00000024"
+cheat936_enable = false
+
+cheat937_desc = "诸葛亮职业选择 毒蛇使い"
+cheat937_code = "0200BA14 00000025"
+cheat937_enable = false
+
+cheat938_desc = "诸葛亮职业选择 幻术师"
+cheat938_code = "0200BA14 00000026"
+cheat938_enable = false
+
+cheat939_desc = "诸葛亮职业选择 军师将军"
+cheat939_code = "0200BA14 00000027"
+cheat939_enable = false
+
+

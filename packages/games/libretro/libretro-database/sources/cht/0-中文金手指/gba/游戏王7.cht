@@ -1,0 +1,29 @@
+cheat0_desc = "无限LP"
+cheat0_handler = "2"
+cheat0_code = "2107D,9F,86,1"
+
+cheat1_desc = "敌人一击必杀"
+cheat1_handler = "2"
+cheat1_code = "2107E,01"
+
+cheat2_desc = "敌人一击必杀01"
+cheat2_handler = "2"
+cheat2_code = "2107F,01"
+
+cheat3_desc = "敌人一击必杀02"
+cheat3_handler = "2"
+cheat3_code = "2107D,01"
+
+cheat4_desc = "等级最高"
+cheat4_handler = "2"
+cheat4_code = "1E840,F,27"
+
+cheat5_desc = "金钱最高"
+cheat5_handler = "2"
+cheat5_code = "1E9A0,F,27"
+
+cheat6_desc = "DC值最高"
+cheat6_handler = "2"
+cheat6_code = "1E83D,99"
+
+cheats = 7

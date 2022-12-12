@@ -1,0 +1,89 @@
+cheat0_desc = "敵一擊死(大型怪物不可)OFF(请选择男或女角色)"
+cheat0_handler = "0"
+cheat0_code = "0000,0"
+
+cheat1_desc = "敵一擊死(大型怪物不可)男主角(CD-A)"
+cheat1_handler = "0"
+cheat1_code = "80041D70#FFFF;80041D72#2402"
+
+cheat2_desc = "第二路线OFF(请选择男或女角色)"
+cheat2_handler = "0"
+cheat2_code = "0000,0"
+
+cheat3_desc = "第二路线男主角(CD-A)"
+cheat3_handler = "0"
+cheat3_code = "300D054B#0040"
+
+cheat4_desc = "体力不減OFF(请选择男或女角色)"
+cheat4_handler = "0"
+cheat4_code = "0000,0"
+
+cheat5_desc = "体力不減男主角(CD-A)"
+cheat5_handler = "0"
+cheat5_code = "800D06BE#00C8"
+
+cheat6_desc = "随身道具为十格OFF(一锁定就快速解锁)"
+cheat6_handler = "0"
+cheat6_code = "0000,0"
+
+cheat7_desc = "随身道具为十格男主角(CD-A)"
+cheat7_handler = "0"
+cheat7_code = "300D5230#0001"
+
+cheat8_desc = "最终首脑的时间OFF(请选择男或女角色)"
+cheat8_handler = "0"
+cheat8_code = "0000,0"
+
+cheat9_desc = "最终首脑的时间男主角(CD-A)"
+cheat9_handler = "0"
+cheat9_code = "8002D35C#0000"
+
+cheat10_desc = "時間为 00 `00`OFF(请选择男或女角色)"
+cheat10_handler = "0"
+cheat10_code = "0000,0"
+
+cheat11_desc = "時間为 00 `00`男主角(CD-A)"
+cheat11_handler = "0"
+cheat11_code = "800D5014#0000;800D5016#0000"
+
+cheat12_desc = "記憶储存 00 回OFF(请选择男或女角色)"
+cheat12_handler = "0"
+cheat12_code = "0000,0"
+
+cheat13_desc = "記憶储存 00 回男主角(CD-A)"
+cheat13_handler = "0"
+cheat13_code = "800D5034#0000"
+
+cheat14_desc = "隨時呼叫道具箱(按 L2+正方键)OFF(请选择男或女角色)"
+cheat14_handler = "0"
+cheat14_code = "0000,0"
+
+cheat15_desc = "隨時呼叫道具箱(按 L2+正方键)男主角(CD-A)"
+cheat15_handler = "0"
+cheat15_code = "D00CEC6C#0002;800D6570#0001"
+
+cheat16_desc = "隨時隨地可記憶(选择SELECT键)OFF(请选择男或女角色)"
+cheat16_handler = "0"
+cheat16_code = "0000,0"
+
+cheat17_desc = "隨時隨地可記憶(选择SELECT键)男主角(CD-A)"
+cheat17_handler = "0"
+cheat17_code = "D00CEC6C#0100;800D4E0C#1F9C;D00CEC6C#0100;800D4E0E#8005"
+
+cheat18_desc = "开启特别模式与第四生存者模式OFF(成功后一定要解锁)"
+cheat18_handler = "0"
+cheat18_code = "0000,0"
+
+cheat19_desc = "开启特别模式与第四生存者模式男主角(CD-A)第四生存者特工"
+cheat19_handler = "0"
+cheat19_code = "300D04E4#0008"
+
+cheat20_desc = "开启特别模式与第四生存者模式男主角(CD-A)第四生存者豆腐"
+cheat20_handler = "0"
+cheat20_code = "300D04E4#0009"
+
+cheat21_desc = "开启特别模式与第四生存者模式男主角(CD-A)EXTREME BATTLE"
+cheat21_handler = "0"
+cheat21_code = "800D04E6#0100;800D54F6#0002"
+
+cheats = 22

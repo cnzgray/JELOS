@@ -1,0 +1,29 @@
+cheat0_desc = "我方得分200"
+cheat0_handler = "2"
+cheat0_code = "4368C,C8"
+
+cheat1_desc = "我方得分99"
+cheat1_handler = "2"
+cheat1_code = "4368C,63"
+
+cheat2_desc = "我方得分0"
+cheat2_handler = "2"
+cheat2_code = "4368C,0"
+
+cheat3_desc = "时间"
+cheat3_handler = "2"
+cheat3_code = "43824,78"
+
+cheat4_desc = "对方得分0"
+cheat4_handler = "2"
+cheat4_code = "435C4,0"
+
+cheat5_desc = "对方得分99"
+cheat5_handler = "2"
+cheat5_code = "435C4,63"
+
+cheat6_desc = "对方得分200"
+cheat6_handler = "2"
+cheat6_code = "435C4,C8"
+
+cheats = 7

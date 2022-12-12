@@ -1,0 +1,53 @@
+cheat0_desc = "最高级Lv99"
+cheat0_handler = "2"
+cheat0_code = "25664,63"
+
+cheat1_desc = "无限心"
+cheat1_handler = "2"
+cheat1_code = "2563C,f6"
+
+cheat2_desc = "生命值"
+cheat2_handler = "2"
+cheat2_code = "2562E,38,4"
+
+cheat3_desc = "能量值"
+cheat3_handler = "2"
+cheat3_code = "25636,38,4"
+
+cheat4_desc = "武器类型追踪飞刀"
+cheat4_handler = "2"
+cheat4_code = "25640,1,1"
+
+cheat5_desc = "武器类型暂无"
+cheat5_handler = "2"
+cheat5_code = "25640,0,0"
+
+cheat6_desc = "武器类型飞刀"
+cheat6_handler = "2"
+cheat6_code = "25640,1,0"
+
+cheat7_desc = "武器类型斧头"
+cheat7_handler = "2"
+cheat7_code = "25640,2"
+
+cheat8_desc = "武器类型圣水"
+cheat8_handler = "2"
+cheat8_code = "25640,3"
+
+cheat9_desc = "武器类型时表"
+cheat9_handler = "2"
+cheat9_code = "25640,5"
+
+cheat10_desc = "武器类型回旋刀"
+cheat10_handler = "2"
+cheat10_code = "25640,4"
+
+cheat11_desc = "透明隐身禁用"
+cheat11_handler = "2"
+cheat11_code = "0000,0"
+
+cheat12_desc = "透明隐身启用"
+cheat12_handler = "2"
+cheat12_code = "C0,63"
+
+cheats = 13

@@ -1,0 +1,81 @@
+cheat0_desc = "金錢MAX"
+cheat0_handler = "0"
+cheat0_code = "8019BA6A#9698;8019BA6C#007F"
+
+cheat1_desc = "機器人能力最強不推荐"
+cheat1_handler = "0"
+cheat1_code = "30199F2F#00F0;80199F30#FFFF"
+
+cheat2_desc = "快速升級"
+cheat2_handler = "0"
+cheat2_code = "8007F708#01F4;8007F70A#2406"
+
+cheat3_desc = "EN不減"
+cheat3_handler = "0"
+cheat3_code = "80098CEE#0040;80095ADA#0040"
+
+cheat4_desc = "精神力不減"
+cheat4_handler = "0"
+cheat4_code = "80083BC4#0000;80083BC6#0000"
+
+cheat5_desc = "所有事典"
+cheat5_handler = "0"
+cheat5_code = "301478C0#0001;72154738#FFFF;80154766#0000"
+
+cheat6_desc = "所有圖鑑"
+cheat6_handler = "0"
+cheat6_code = "30147838#0001;72154778#FFFF;801547A8#0000;301547AA#00FF"
+
+cheat7_desc = "武器追加"
+cheat7_handler = "0"
+cheat7_code = "8019BAFE#FFFF"
+
+cheat8_desc = "所有武器攻擊力最高自己看着办"
+cheat8_handler = "0"
+cheat8_code = "B4000011#00000000,3002CFE5#00FF;B4000011#00000000,3002CFE6#00FF"
+
+cheat9_desc = "超熱血"
+cheat9_handler = "0"
+cheat9_code = "800810E8#1CBF"
+
+cheat10_desc = "超集中"
+cheat10_handler = "0"
+cheat10_code = "80081B7C#1CBF"
+
+cheat11_desc = "超回避"
+cheat11_handler = "0"
+cheat11_code = "800814A8#1CBF"
+
+cheat12_desc = "激励后気力200"
+cheat12_handler = "0"
+cheat12_code = "800A9C28#00C8;800A9C2A#2404;800A9C48#00C8"
+
+cheat13_desc = "EVA戦闘後同步值400％"
+cheat13_handler = "0"
+cheat13_code = "80095B5E#9462;800A4D6E#94C3"
+
+cheat14_desc = "机体15段改造可能"
+cheat14_handler = "0"
+cheat14_code = "30145577#000F"
+
+cheat15_desc = "武器15段改造可能"
+cheat15_handler = "0"
+cheat15_code = "30145578#000F"
+
+cheat16_desc = "人物战斗中使用精神MAX自己看着办"
+cheat16_handler = "0"
+cheat16_code = "B0300010#00000000,8019A0BE#FCBF"
+
+cheat17_desc = "各角色發射武器EN不減"
+cheat17_handler = "0"
+cheat17_code = "80095AF2#2400"
+
+cheat18_desc = "各角色彈數不減"
+cheat18_handler = "0"
+cheat18_code = "80078776#2400"
+
+cheat19_desc = "強化配件"
+cheat19_handler = "0"
+cheat19_code = "3019BB35#0009;7219BB36#0909;8019BB48#0000;3019BB4A#0009"
+
+cheats = 20

@@ -1,0 +1,21 @@
+cheat0_desc = "ALL魔石"
+cheat0_handler = "0"
+cheat0_code = "B00A0090#00000000,3008FAA3#0063"
+
+cheat1_desc = "最多魔石"
+cheat1_handler = "0"
+cheat1_code = "B00A0090#00000000,3008FAAB#0063"
+
+cheat2_desc = "HP"
+cheat2_handler = "0"
+cheat2_code = "B00A0090#00000000,8008FA9C#270F;B00A0090#00000000,8008FAA4#03E7"
+
+cheat3_desc = "MP"
+cheat3_handler = "0"
+cheat3_code = "B00A0090#00000000,8008FA9E#270F;B00A0090#00000000,8008FA9C#270F"
+
+cheat4_desc = "ALL"
+cheat4_handler = "0"
+cheat4_code = "B00A0090#00000000,8008FAB0#6363;B00A0090#00000000,8008FAB2#6363;B00A0090#00000000,8008FAB4#FFFF;B00A0090#00000000,8008FAB6#FFFF"
+
+cheats = 5

@@ -1,0 +1,85 @@
+cheat0_desc = "1P 战斗中角色"
+cheat0_handler = "2"
+cheat0_code = "15042,14"
+
+cheat1_desc = "2P 战斗中角色"
+cheat1_handler = "2"
+cheat1_code = "152C2,14"
+
+cheat2_desc = "钻石点数"
+cheat2_handler = "2"
+cheat2_code = "150E4,3F,42,F"
+
+cheat3_desc = "1P 战斗中能力LV 999"
+cheat3_handler = "2"
+cheat3_code = "150F4,E7,3"
+
+cheat4_desc = "1P 战斗中能力HP"
+cheat4_handler = "2"
+cheat4_code = "1509E,BC,2"
+
+cheat5_desc = "1P 战斗中能力MP"
+cheat5_handler = "2"
+cheat5_code = "150A0,2C,1"
+
+cheat6_desc = "1P 战斗中能力HP MAX"
+cheat6_handler = "2"
+cheat6_code = "150A4,F,27"
+
+cheat7_desc = "1P 战斗中能力MP MAX"
+cheat7_handler = "2"
+cheat7_code = "150A6,F,27"
+
+cheat8_desc = "练习模式中1P隐藏角色选择NICOLE"
+cheat8_handler = "2"
+cheat8_code = "2974F,7"
+
+cheat9_desc = "练习模式中1P隐藏角色选择CERENA"
+cheat9_handler = "2"
+cheat9_code = "2974F,8"
+
+cheat10_desc = "练习模式中1P隐藏角色选择VALGAR"
+cheat10_handler = "2"
+cheat10_code = "2974F,9"
+
+cheat11_desc = "练习模式中1P隐藏角色选择ZUR"
+cheat11_handler = "2"
+cheat11_code = "2974F,A"
+
+cheat12_desc = "练习模式中1P隐藏角色选择KANON"
+cheat12_handler = "2"
+cheat12_code = "2974F,B"
+
+cheat13_desc = "故事模式中1P隐藏角色选择NICOLE"
+cheat13_handler = "2"
+cheat13_code = "29D94,7,7"
+
+cheat14_desc = "故事模式中1P隐藏角色选择CERENA"
+cheat14_handler = "2"
+cheat14_code = "29D94,8,8"
+
+cheat15_desc = "故事模式中1P隐藏角色选择VALGAR"
+cheat15_handler = "2"
+cheat15_code = "29D94,9,9"
+
+cheat16_desc = "故事模式中1P隐藏角色选择ZUR"
+cheat16_handler = "2"
+cheat16_code = "29D94,A,A"
+
+cheat17_desc = "故事模式中1P隐藏角色选择KANON"
+cheat17_handler = "2"
+cheat17_code = "29D94,B,B"
+
+cheat18_desc = "GAMEINFONAME"
+cheat18_handler = "2"
+cheat18_code = "守护英雄"
+
+cheat19_desc = "GAMEINFOSYSTEM"
+cheat19_handler = "2"
+cheat19_code = "GBA"
+
+cheat20_desc = "GAMEINFOTEXT"
+cheat20_handler = "2"
+cheat20_code = "1653_-_Advance_Guardian_Heroes BY KRIZAL"
+
+cheats = 21

@@ -1,0 +1,45 @@
+cheat0_desc = "战斗准备画面-武将武器极一闪"
+cheat0_handler = "2"
+cheat0_code = "3141,BC"
+
+cheat1_desc = "武将全能力超强攻击力"
+cheat1_handler = "2"
+cheat1_code = "31B6,E7,3;314A,E7,3"
+
+cheat2_desc = "武将全能力超强移动力"
+cheat2_handler = "2"
+cheat2_code = "31BA,E7,3;314E,E7,3"
+
+cheat3_desc = "我军部队士气999"
+cheat3_handler = "2"
+cheat3_code = "4010,E7,3"
+
+cheat4_desc = "斩杀人数9999"
+cheat4_handler = "2"
+cheat4_code = "3180,F,27"
+
+cheat5_desc = "武将LV 99"
+cheat5_handler = "2"
+cheat5_code = "3140,63"
+
+cheat6_desc = "能力情报勇猛-攻击力增加999"
+cheat6_handler = "2"
+cheat6_code = "314A,E7,3"
+
+cheat7_desc = "我方无限移动"
+cheat7_handler = "2"
+cheat7_code = "16A79,0,1,2"
+
+cheat8_desc = "GAMEINFONAME"
+cheat8_handler = "2"
+cheat8_code = "真三国无双 ADVANCE"
+
+cheat9_desc = "GAMEINFOSYSTEM"
+cheat9_handler = "2"
+cheat9_code = "GBA"
+
+cheat10_desc = "GAMEINFOTEXT"
+cheat10_handler = "2"
+cheat10_code = "1951 - Shin Sangoku Musou Advance BY KRIZAL 2005/3/24"
+
+cheats = 11

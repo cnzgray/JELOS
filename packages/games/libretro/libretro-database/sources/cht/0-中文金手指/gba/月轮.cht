@@ -1,0 +1,69 @@
+cheat0_desc = "上下位移最上出城"
+cheat0_handler = "2"
+cheat0_code = "3A,16,0"
+
+cheat1_desc = "上下位移中间位置"
+cheat1_handler = "2"
+cheat1_code = "3A,76"
+
+cheat2_desc = "上下位移最下出城"
+cheat2_handler = "2"
+cheat2_code = "3A,1,2"
+
+cheat3_desc = "左右位移最左出城"
+cheat3_handler = "2"
+cheat3_code = "35,0,8"
+
+cheat4_desc = "左右位移最右出城"
+cheat4_handler = "2"
+cheat4_code = "35,E0,F7"
+
+cheat5_desc = "最高级Lv99"
+cheat5_handler = "2"
+cheat5_code = "25664,63"
+
+cheat6_desc = "无限心"
+cheat6_handler = "2"
+cheat6_code = "2563C,f6"
+
+cheat7_desc = "生命值"
+cheat7_handler = "2"
+cheat7_code = "2562E,38,4"
+
+cheat8_desc = "能量值"
+cheat8_handler = "2"
+cheat8_code = "25636,38,4"
+
+cheat9_desc = "武器类型追踪飞刀"
+cheat9_handler = "2"
+cheat9_code = "25640,1,1"
+
+cheat10_desc = "武器类型暂无"
+cheat10_handler = "2"
+cheat10_code = "25640,0,0"
+
+cheat11_desc = "武器类型飞刀"
+cheat11_handler = "2"
+cheat11_code = "25640,1,0"
+
+cheat12_desc = "武器类型斧头"
+cheat12_handler = "2"
+cheat12_code = "25640,2"
+
+cheat13_desc = "武器类型圣水"
+cheat13_handler = "2"
+cheat13_code = "25640,3"
+
+cheat14_desc = "武器类型时表"
+cheat14_handler = "2"
+cheat14_code = "25640,5"
+
+cheat15_desc = "武器类型回旋刀"
+cheat15_handler = "2"
+cheat15_code = "25640,4"
+
+cheat16_desc = "透明隐身启用"
+cheat16_handler = "2"
+cheat16_code = "C0,63"
+
+cheats = 17

@@ -1,0 +1,33 @@
+cheat0_desc = "P1 INFINITE HP"
+cheat0_handler = "0"
+cheat0_code = "801E9204#00C8"
+
+cheat1_desc = "P2 INFINITE HP"
+cheat1_handler = "0"
+cheat1_code = "801EAA80#00C8"
+
+cheat2_desc = "P1 INFINITE POWER GAUGE"
+cheat2_handler = "0"
+cheat2_code = "801217AC#96C8;801E9204#96C8"
+
+cheat3_desc = "P2 INFINITE POWER GAUGE"
+cheat3_handler = "0"
+cheat3_code = "801EAA80#96C8;8012A554#96C8"
+
+cheat4_desc = "ALL HIDDEN CHARACTERS"
+cheat4_handler = "0"
+cheat4_code = "801F47B0#FFFF;801F47B2#FFFF"
+
+cheat5_desc = "BOUNS"
+cheat5_handler = "0"
+cheat5_code = "801EE3C8#0101"
+
+cheat6_desc = "1P Excel不减"
+cheat6_handler = "0"
+cheat6_code = "801E923E#0070"
+
+cheat7_desc = "2P Excel不减"
+cheat7_handler = "0"
+cheat7_code = "801EAABA#0084"
+
+cheats = 8

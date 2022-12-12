@@ -1,0 +1,3813 @@
+cheat0_desc = "时间0"
+cheat0_handler = "2"
+cheat0_code = "40010,00,00"
+
+cheat1_desc = "战后升级"
+cheat1_handler = "2"
+cheat1_code = "3921D,64;3927E,64"
+
+cheat2_desc = "金钱9999999"
+cheat2_handler = "2"
+cheat2_code = "2AA50,7F,96,98"
+
+cheat3_desc = "回合数(不建议锁定)10"
+cheat3_handler = "2"
+cheat3_code = "2AA58,0A"
+
+cheat4_desc = "回合数(不建议锁定)5"
+cheat4_handler = "2"
+cheat4_code = "2AA58,05"
+
+cheat5_desc = "回合数(不建议锁定)1"
+cheat5_handler = "2"
+cheat5_code = "2AA58,01"
+
+cheat6_desc = "回合数(不建议锁定)Text"
+cheat6_handler = "2"
+cheat6_code = "不建议锁定，锁定会影响剧情的发生"
+
+cheat7_desc = "ロイ无限移动"
+cheat7_handler = "2"
+cheat7_code = "2AB84,0"
+
+cheat8_desc = "ロイ级数1"
+cheat8_handler = "2"
+cheat8_code = "2AAB0,1"
+
+cheat9_desc = "ロイ级数10"
+cheat9_handler = "2"
+cheat9_code = "2AB80,0A"
+
+cheat10_desc = "ロイ级数20"
+cheat10_handler = "2"
+cheat10_code = "2AB80,14"
+
+cheat11_desc = "ロイ级数MAX"
+cheat11_handler = "2"
+cheat11_code = "2AB80,63"
+
+cheat12_desc = "ロイ经验值99"
+cheat12_handler = "2"
+cheat12_code = "2AB81,63"
+
+cheat13_desc = "ロイ职业ロ－ド"
+cheat13_handler = "2"
+cheat13_code = "2AB7C,30,A1"
+
+cheat14_desc = "ロイ职业マスタ－ロ－ド"
+cheat14_handler = "2"
+cheat14_code = "2AB7C,C0,B3"
+
+cheat15_desc = "ロイ职业魔龙(只供观赏,不要战斗)"
+cheat15_handler = "2"
+cheat15_code = "2AB7C,C8,B1"
+
+cheat16_desc = "ロイ职业国王"
+cheat16_handler = "2"
+cheat16_code = "2AB7C,10,B2"
+
+cheat17_desc = "ロイ职业勇者"
+cheat17_handler = "2"
+cheat17_code = "2AB7C,08,A2"
+
+cheat18_desc = "ロイ职业贤者"
+cheat18_handler = "2"
+cheat18_code = "2AB7C,38,A8"
+
+cheat19_desc = "ロイ职业司祭"
+cheat19_handler = "2"
+cheat19_code = "2AB7C,60,A7"
+
+cheat20_desc = "ロイ职业剑士"
+cheat20_handler = "2"
+cheat20_code = "2AB7C,98,A2"
+
+cheat21_desc = "ロイ职业游牧民"
+cheat21_handler = "2"
+cheat21_code = "2AB7C,98,AB"
+
+cheat22_desc = "ロイ职业游牧骑兵"
+cheat22_handler = "2"
+cheat22_code = "2AB7C,28,AC"
+
+cheat23_desc = "ロイ职业ソ－ドマスタ－"
+cheat23_handler = "2"
+cheat23_code = "2AB7C,28,A3"
+
+cheat24_desc = "ロイ职业ファルコソナイト"
+cheat24_handler = "2"
+cheat24_code = "2AB7C,00,AD"
+
+cheat25_desc = "ロイ职业ドルイド"
+cheat25_handler = "2"
+cheat25_code = "2AB7C,58,A9"
+
+cheat26_desc = "ロイ职业ウォ－リア"
+cheat26_handler = "2"
+cheat26_code = "2AB7C,00,A4"
+
+cheat27_desc = "ロイ职业スナイパ－"
+cheat27_handler = "2"
+cheat27_code = "2AB7C,F8,A5"
+
+cheat28_desc = "ロイ职业魔道士(女)"
+cheat28_handler = "2"
+cheat28_code = "2AB7C,F0,A7"
+
+cheat29_desc = "ロイ职业魔道士(男)"
+cheat29_handler = "2"
+cheat29_code = "2AB7C,A8,A7"
+
+cheat30_desc = "ロイ职业盗贼(女)"
+cheat30_handler = "2"
+cheat30_code = "2AB7C,D0,AF"
+
+cheat31_desc = "ロイ职业盗贼(男)"
+cheat31_handler = "2"
+cheat31_code = "2AB7C,88,AF"
+
+cheat32_desc = "ロイ职业山贼"
+cheat32_handler = "2"
+cheat32_code = "2AB7C,B0,AE"
+
+cheat33_desc = "ロイ职业ドラゴソナイト"
+cheat33_handler = "2"
+cheat33_code = "2AB7C,48,AD"
+
+cheat34_desc = "ロイ职业ドラゴソマスタ－"
+cheat34_handler = "2"
+cheat34_code = "2AB7C,D8,AD"
+
+cheat35_desc = "ロイ职业ソシアルナイト"
+cheat35_handler = "2"
+cheat35_code = "2AB7C,E8,A9"
+
+cheat36_desc = "ロイ职业パラディソ"
+cheat36_handler = "2"
+cheat36_code = "2AB7C,78,AA"
+
+cheat37_desc = "ロイ职业ア－マ－ナイト"
+cheat37_handler = "2"
+cheat37_code = "2AB7C,48,A4"
+
+cheat38_desc = "ロイ职业ァ－チャ－"
+cheat38_handler = "2"
+cheat38_code = "2AB7C,68,A5"
+
+cheat39_desc = "ロイ职业战士"
+cheat39_handler = "2"
+cheat39_code = "2AB7C,B8,A3"
+
+cheat40_desc = "ロイ职业バ－サ－カ－"
+cheat40_handler = "2"
+cheat40_code = "2AB7C,40,AF"
+
+cheat41_desc = "ロイ职业输送队"
+cheat41_handler = "2"
+cheat41_code = "2AB7C,78,B3"
+
+cheat42_desc = "ロイ职业曾侣(女)"
+cheat42_handler = "2"
+cheat42_code = "2AB7C,D0,A6"
+
+cheat43_desc = "ロイ职业曾侣(男)"
+cheat43_handler = "2"
+cheat43_code = "2AB7C,88,A6"
+
+cheat44_desc = "ロイ职业シャマ－ソ"
+cheat44_handler = "2"
+cheat44_code = "2AB7C,C8,A8"
+
+cheat45_desc = "ロイ职业庸兵"
+cheat45_handler = "2"
+cheat45_code = "2AB7C,78,A1"
+
+cheat46_desc = "ロイ职业パガサスナイト"
+cheat46_handler = "2"
+cheat46_code = "2AB7C,B8,AC"
+
+cheat47_desc = "ロイ职业ソルジャ－"
+cheat47_handler = "2"
+cheat47_code = "2AB7C,68,AE"
+
+cheat48_desc = "ロイ职业ジェネラル"
+cheat48_handler = "2"
+cheat48_code = "2AB7C,D8,A4"
+
+cheat49_desc = "ロイ职业トルバド－ル"
+cheat49_handler = "2"
+cheat49_code = "2AB7C,08,AB"
+
+cheat50_desc = "ロイ职业ヴァルキュリア"
+cheat50_handler = "2"
+cheat50_code = "2AB7C,50,AB"
+
+cheat51_desc = "ロイ职业マムク－ト(女)"
+cheat51_handler = "2"
+cheat51_code = "2AB7C,F0,B0"
+
+cheat52_desc = "ロイ职业マムク－ト(男)"
+cheat52_handler = "2"
+cheat52_code = "2AB7C,A8,B0"
+
+cheat53_desc = "ロイ坐标X轴1"
+cheat53_handler = "2"
+cheat53_code = "2AB86,01"
+
+cheat54_desc = "ロイ坐标X轴2"
+cheat54_handler = "2"
+cheat54_code = "2AB86,02"
+
+cheat55_desc = "ロイ坐标X轴3"
+cheat55_handler = "2"
+cheat55_code = "2AB86,03"
+
+cheat56_desc = "ロイ坐标X轴4"
+cheat56_handler = "2"
+cheat56_code = "2AB86,04"
+
+cheat57_desc = "ロイ坐标X轴5"
+cheat57_handler = "2"
+cheat57_code = "2AB86,05"
+
+cheat58_desc = "ロイ坐标X轴6"
+cheat58_handler = "2"
+cheat58_code = "2AB86,06"
+
+cheat59_desc = "ロイ坐标X轴7"
+cheat59_handler = "2"
+cheat59_code = "2AB86,07"
+
+cheat60_desc = "ロイ坐标X轴8"
+cheat60_handler = "2"
+cheat60_code = "2AB86,08"
+
+cheat61_desc = "ロイ坐标X轴9"
+cheat61_handler = "2"
+cheat61_code = "2AB86,09"
+
+cheat62_desc = "ロイ坐标X轴10"
+cheat62_handler = "2"
+cheat62_code = "2AB86,0A"
+
+cheat63_desc = "ロイ坐标X轴11"
+cheat63_handler = "2"
+cheat63_code = "2AB86,0B"
+
+cheat64_desc = "ロイ坐标X轴12"
+cheat64_handler = "2"
+cheat64_code = "2AB86,0C"
+
+cheat65_desc = "ロイ坐标X轴13"
+cheat65_handler = "2"
+cheat65_code = "2AB86,0D"
+
+cheat66_desc = "ロイ坐标X轴14"
+cheat66_handler = "2"
+cheat66_code = "2AB86,0E"
+
+cheat67_desc = "ロイ坐标X轴15"
+cheat67_handler = "2"
+cheat67_code = "2AB86,0F"
+
+cheat68_desc = "ロイ坐标X轴16"
+cheat68_handler = "2"
+cheat68_code = "2AB86,10"
+
+cheat69_desc = "ロイ坐标X轴17"
+cheat69_handler = "2"
+cheat69_code = "2AB86,11"
+
+cheat70_desc = "ロイ坐标X轴18"
+cheat70_handler = "2"
+cheat70_code = "2AB86,12"
+
+cheat71_desc = "ロイ坐标X轴19"
+cheat71_handler = "2"
+cheat71_code = "2AB86,13"
+
+cheat72_desc = "ロイ坐标X轴20"
+cheat72_handler = "2"
+cheat72_code = "2AB86,14"
+
+cheat73_desc = "ロイ坐标X轴21"
+cheat73_handler = "2"
+cheat73_code = "2AB86,15"
+
+cheat74_desc = "ロイ坐标X轴22"
+cheat74_handler = "2"
+cheat74_code = "2AB86,16"
+
+cheat75_desc = "ロイ坐标X轴23"
+cheat75_handler = "2"
+cheat75_code = "2AB86,17"
+
+cheat76_desc = "ロイ坐标X轴24"
+cheat76_handler = "2"
+cheat76_code = "2AB86,18"
+
+cheat77_desc = "ロイ坐标X轴25"
+cheat77_handler = "2"
+cheat77_code = "2AB86,19"
+
+cheat78_desc = "ロイ坐标X轴26"
+cheat78_handler = "2"
+cheat78_code = "2AB86,1A"
+
+cheat79_desc = "ロイ坐标X轴27"
+cheat79_handler = "2"
+cheat79_code = "2AB86,1B"
+
+cheat80_desc = "ロイ坐标X轴28"
+cheat80_handler = "2"
+cheat80_code = "2AB86,1C"
+
+cheat81_desc = "ロイ坐标X轴29"
+cheat81_handler = "2"
+cheat81_code = "2AB86,1D"
+
+cheat82_desc = "ロイ坐标X轴30"
+cheat82_handler = "2"
+cheat82_code = "2AB86,1E"
+
+cheat83_desc = "ロイ坐标X轴31"
+cheat83_handler = "2"
+cheat83_code = "2AB86,1F"
+
+cheat84_desc = "ロイ坐标X轴32"
+cheat84_handler = "2"
+cheat84_code = "2AB86,20"
+
+cheat85_desc = "ロイ坐标X轴33"
+cheat85_handler = "2"
+cheat85_code = "2AB86,21"
+
+cheat86_desc = "ロイ坐标X轴34"
+cheat86_handler = "2"
+cheat86_code = "2AB86,22"
+
+cheat87_desc = "ロイ坐标X轴35"
+cheat87_handler = "2"
+cheat87_code = "2AB86,23"
+
+cheat88_desc = "ロイ坐标X轴36"
+cheat88_handler = "2"
+cheat88_code = "2AB86,24"
+
+cheat89_desc = "ロイ坐标X轴37"
+cheat89_handler = "2"
+cheat89_code = "2AB86,25"
+
+cheat90_desc = "ロイ坐标X轴38"
+cheat90_handler = "2"
+cheat90_code = "2AB86,26"
+
+cheat91_desc = "ロイ坐标X轴39"
+cheat91_handler = "2"
+cheat91_code = "2AB86,27"
+
+cheat92_desc = "ロイ坐标X轴40"
+cheat92_handler = "2"
+cheat92_code = "2AB86,28"
+
+cheat93_desc = "ロイ坐标X轴41"
+cheat93_handler = "2"
+cheat93_code = "2AB86,29"
+
+cheat94_desc = "ロイ坐标X轴42"
+cheat94_handler = "2"
+cheat94_code = "2AB86,2A"
+
+cheat95_desc = "ロイ坐标X轴43"
+cheat95_handler = "2"
+cheat95_code = "2AB86,2B"
+
+cheat96_desc = "ロイ坐标X轴44"
+cheat96_handler = "2"
+cheat96_code = "2AB86,2C"
+
+cheat97_desc = "ロイ坐标X轴45"
+cheat97_handler = "2"
+cheat97_code = "2AB86,2D"
+
+cheat98_desc = "ロイ坐标X轴46"
+cheat98_handler = "2"
+cheat98_code = "2AB86,2E"
+
+cheat99_desc = "ロイ坐标X轴47"
+cheat99_handler = "2"
+cheat99_code = "2AB86,2F"
+
+cheat100_desc = "ロイ坐标X轴48"
+cheat100_handler = "2"
+cheat100_code = "2AB86,30"
+
+cheat101_desc = "ロイ坐标X轴49"
+cheat101_handler = "2"
+cheat101_code = "2AB86,31"
+
+cheat102_desc = "ロイ坐标X轴50"
+cheat102_handler = "2"
+cheat102_code = "2AB86,32"
+
+cheat103_desc = "ロイ坐标X轴51"
+cheat103_handler = "2"
+cheat103_code = "2AB86,33"
+
+cheat104_desc = "ロイ坐标X轴52"
+cheat104_handler = "2"
+cheat104_code = "2AB86,34"
+
+cheat105_desc = "ロイ坐标X轴53"
+cheat105_handler = "2"
+cheat105_code = "2AB86,35"
+
+cheat106_desc = "ロイ坐标X轴54"
+cheat106_handler = "2"
+cheat106_code = "2AB86,36"
+
+cheat107_desc = "ロイ坐标X轴55"
+cheat107_handler = "2"
+cheat107_code = "2AB86,37"
+
+cheat108_desc = "ロイ坐标X轴56"
+cheat108_handler = "2"
+cheat108_code = "2AB86,38"
+
+cheat109_desc = "ロイ坐标X轴57"
+cheat109_handler = "2"
+cheat109_code = "2AB86,39"
+
+cheat110_desc = "ロイ坐标X轴58"
+cheat110_handler = "2"
+cheat110_code = "2AB86,3A"
+
+cheat111_desc = "ロイ坐标X轴59"
+cheat111_handler = "2"
+cheat111_code = "2AB86,3B"
+
+cheat112_desc = "ロイ坐标X轴60"
+cheat112_handler = "2"
+cheat112_code = "2AB86,3C"
+
+cheat113_desc = "ロイ坐标X轴61"
+cheat113_handler = "2"
+cheat113_code = "2AB86,3D"
+
+cheat114_desc = "ロイ坐标X轴62"
+cheat114_handler = "2"
+cheat114_code = "2AB86,3E"
+
+cheat115_desc = "ロイ坐标X轴63"
+cheat115_handler = "2"
+cheat115_code = "2AB86,3F"
+
+cheat116_desc = "ロイ坐标X轴64"
+cheat116_handler = "2"
+cheat116_code = "2AB86,40"
+
+cheat117_desc = "ロイ坐标X轴65"
+cheat117_handler = "2"
+cheat117_code = "2AB86,41"
+
+cheat118_desc = "ロイ坐标X轴66"
+cheat118_handler = "2"
+cheat118_code = "2AB86,42"
+
+cheat119_desc = "ロイ坐标X轴67"
+cheat119_handler = "2"
+cheat119_code = "2AB86,43"
+
+cheat120_desc = "ロイ坐标X轴68"
+cheat120_handler = "2"
+cheat120_code = "2AB86,44"
+
+cheat121_desc = "ロイ坐标X轴69"
+cheat121_handler = "2"
+cheat121_code = "2AB86,45"
+
+cheat122_desc = "ロイ坐标X轴70"
+cheat122_handler = "2"
+cheat122_code = "2AB86,46"
+
+cheat123_desc = "ロイ坐标X轴71"
+cheat123_handler = "2"
+cheat123_code = "2AB86,47"
+
+cheat124_desc = "ロイ坐标X轴72"
+cheat124_handler = "2"
+cheat124_code = "2AB86,48"
+
+cheat125_desc = "ロイ坐标X轴73"
+cheat125_handler = "2"
+cheat125_code = "2AB86,49"
+
+cheat126_desc = "ロイ坐标X轴74"
+cheat126_handler = "2"
+cheat126_code = "2AB86,4A"
+
+cheat127_desc = "ロイ坐标X轴75"
+cheat127_handler = "2"
+cheat127_code = "2AB86,4B"
+
+cheat128_desc = "ロイ坐标X轴76"
+cheat128_handler = "2"
+cheat128_code = "2AB86,4C"
+
+cheat129_desc = "ロイ坐标X轴77"
+cheat129_handler = "2"
+cheat129_code = "2AB86,4D"
+
+cheat130_desc = "ロイ坐标X轴78"
+cheat130_handler = "2"
+cheat130_code = "2AB86,4E"
+
+cheat131_desc = "ロイ坐标X轴79"
+cheat131_handler = "2"
+cheat131_code = "2AB86,4F"
+
+cheat132_desc = "ロイ坐标X轴80"
+cheat132_handler = "2"
+cheat132_code = "2AB86,50"
+
+cheat133_desc = "ロイ坐标X轴81"
+cheat133_handler = "2"
+cheat133_code = "2AB86,51"
+
+cheat134_desc = "ロイ坐标X轴82"
+cheat134_handler = "2"
+cheat134_code = "2AB86,52"
+
+cheat135_desc = "ロイ坐标X轴83"
+cheat135_handler = "2"
+cheat135_code = "2AB86,53"
+
+cheat136_desc = "ロイ坐标X轴84"
+cheat136_handler = "2"
+cheat136_code = "2AB86,54"
+
+cheat137_desc = "ロイ坐标X轴85"
+cheat137_handler = "2"
+cheat137_code = "2AB86,55"
+
+cheat138_desc = "ロイ坐标X轴86"
+cheat138_handler = "2"
+cheat138_code = "2AB86,56"
+
+cheat139_desc = "ロイ坐标X轴87"
+cheat139_handler = "2"
+cheat139_code = "2AB86,57"
+
+cheat140_desc = "ロイ坐标X轴88"
+cheat140_handler = "2"
+cheat140_code = "2AB86,58"
+
+cheat141_desc = "ロイ坐标X轴89"
+cheat141_handler = "2"
+cheat141_code = "2AB86,59"
+
+cheat142_desc = "ロイ坐标X轴90"
+cheat142_handler = "2"
+cheat142_code = "2AB86,5A"
+
+cheat143_desc = "ロイ坐标X轴91"
+cheat143_handler = "2"
+cheat143_code = "2AB86,5B"
+
+cheat144_desc = "ロイ坐标X轴92"
+cheat144_handler = "2"
+cheat144_code = "2AB86,5C"
+
+cheat145_desc = "ロイ坐标X轴93"
+cheat145_handler = "2"
+cheat145_code = "2AB86,5D"
+
+cheat146_desc = "ロイ坐标X轴94"
+cheat146_handler = "2"
+cheat146_code = "2AB86,5E"
+
+cheat147_desc = "ロイ坐标X轴95"
+cheat147_handler = "2"
+cheat147_code = "2AB86,5F"
+
+cheat148_desc = "ロイ坐标X轴96"
+cheat148_handler = "2"
+cheat148_code = "2AB86,60"
+
+cheat149_desc = "ロイ坐标X轴97"
+cheat149_handler = "2"
+cheat149_code = "2AB86,61"
+
+cheat150_desc = "ロイ坐标X轴98"
+cheat150_handler = "2"
+cheat150_code = "2AB86,62"
+
+cheat151_desc = "ロイ坐标X轴99"
+cheat151_handler = "2"
+cheat151_code = "2AB86,63"
+
+cheat152_desc = "ロイ坐标X轴100"
+cheat152_handler = "2"
+cheat152_code = "2AB86,64"
+
+cheat153_desc = "ロイ坐标X轴Text"
+cheat153_handler = "2"
+cheat153_code = "从左上角开始向右数格数，修改后不要锁定，不要超出地图范围"
+
+cheat154_desc = "ロイ坐标Y轴1"
+cheat154_handler = "2"
+cheat154_code = "2AB87,01"
+
+cheat155_desc = "ロイ坐标Y轴2"
+cheat155_handler = "2"
+cheat155_code = "2AB87,02"
+
+cheat156_desc = "ロイ坐标Y轴3"
+cheat156_handler = "2"
+cheat156_code = "2AB87,03"
+
+cheat157_desc = "ロイ坐标Y轴4"
+cheat157_handler = "2"
+cheat157_code = "2AB87,04"
+
+cheat158_desc = "ロイ坐标Y轴5"
+cheat158_handler = "2"
+cheat158_code = "2AB87,05"
+
+cheat159_desc = "ロイ坐标Y轴6"
+cheat159_handler = "2"
+cheat159_code = "2AB87,06"
+
+cheat160_desc = "ロイ坐标Y轴7"
+cheat160_handler = "2"
+cheat160_code = "2AB87,07"
+
+cheat161_desc = "ロイ坐标Y轴8"
+cheat161_handler = "2"
+cheat161_code = "2AB87,08"
+
+cheat162_desc = "ロイ坐标Y轴9"
+cheat162_handler = "2"
+cheat162_code = "2AB87,09"
+
+cheat163_desc = "ロイ坐标Y轴10"
+cheat163_handler = "2"
+cheat163_code = "2AB87,0A"
+
+cheat164_desc = "ロイ坐标Y轴11"
+cheat164_handler = "2"
+cheat164_code = "2AB87,0B"
+
+cheat165_desc = "ロイ坐标Y轴12"
+cheat165_handler = "2"
+cheat165_code = "2AB87,0C"
+
+cheat166_desc = "ロイ坐标Y轴13"
+cheat166_handler = "2"
+cheat166_code = "2AB87,0D"
+
+cheat167_desc = "ロイ坐标Y轴14"
+cheat167_handler = "2"
+cheat167_code = "2AB87,0E"
+
+cheat168_desc = "ロイ坐标Y轴15"
+cheat168_handler = "2"
+cheat168_code = "2AB87,0F"
+
+cheat169_desc = "ロイ坐标Y轴16"
+cheat169_handler = "2"
+cheat169_code = "2AB87,10"
+
+cheat170_desc = "ロイ坐标Y轴17"
+cheat170_handler = "2"
+cheat170_code = "2AB87,11"
+
+cheat171_desc = "ロイ坐标Y轴18"
+cheat171_handler = "2"
+cheat171_code = "2AB87,12"
+
+cheat172_desc = "ロイ坐标Y轴19"
+cheat172_handler = "2"
+cheat172_code = "2AB87,13"
+
+cheat173_desc = "ロイ坐标Y轴20"
+cheat173_handler = "2"
+cheat173_code = "2AB87,14"
+
+cheat174_desc = "ロイ坐标Y轴21"
+cheat174_handler = "2"
+cheat174_code = "2AB87,15"
+
+cheat175_desc = "ロイ坐标Y轴22"
+cheat175_handler = "2"
+cheat175_code = "2AB87,16"
+
+cheat176_desc = "ロイ坐标Y轴23"
+cheat176_handler = "2"
+cheat176_code = "2AB87,17"
+
+cheat177_desc = "ロイ坐标Y轴24"
+cheat177_handler = "2"
+cheat177_code = "2AB87,18"
+
+cheat178_desc = "ロイ坐标Y轴25"
+cheat178_handler = "2"
+cheat178_code = "2AB87,19"
+
+cheat179_desc = "ロイ坐标Y轴26"
+cheat179_handler = "2"
+cheat179_code = "2AB87,1A"
+
+cheat180_desc = "ロイ坐标Y轴27"
+cheat180_handler = "2"
+cheat180_code = "2AB87,1B"
+
+cheat181_desc = "ロイ坐标Y轴28"
+cheat181_handler = "2"
+cheat181_code = "2AB87,1C"
+
+cheat182_desc = "ロイ坐标Y轴29"
+cheat182_handler = "2"
+cheat182_code = "2AB87,1D"
+
+cheat183_desc = "ロイ坐标Y轴30"
+cheat183_handler = "2"
+cheat183_code = "2AB87,1E"
+
+cheat184_desc = "ロイ坐标Y轴31"
+cheat184_handler = "2"
+cheat184_code = "2AB87,1F"
+
+cheat185_desc = "ロイ坐标Y轴32"
+cheat185_handler = "2"
+cheat185_code = "2AB87,20"
+
+cheat186_desc = "ロイ坐标Y轴33"
+cheat186_handler = "2"
+cheat186_code = "2AB87,21"
+
+cheat187_desc = "ロイ坐标Y轴34"
+cheat187_handler = "2"
+cheat187_code = "2AB87,22"
+
+cheat188_desc = "ロイ坐标Y轴35"
+cheat188_handler = "2"
+cheat188_code = "2AB87,23"
+
+cheat189_desc = "ロイ坐标Y轴36"
+cheat189_handler = "2"
+cheat189_code = "2AB87,24"
+
+cheat190_desc = "ロイ坐标Y轴37"
+cheat190_handler = "2"
+cheat190_code = "2AB87,25"
+
+cheat191_desc = "ロイ坐标Y轴38"
+cheat191_handler = "2"
+cheat191_code = "2AB87,26"
+
+cheat192_desc = "ロイ坐标Y轴39"
+cheat192_handler = "2"
+cheat192_code = "2AB87,27"
+
+cheat193_desc = "ロイ坐标Y轴40"
+cheat193_handler = "2"
+cheat193_code = "2AB87,28"
+
+cheat194_desc = "ロイ坐标Y轴41"
+cheat194_handler = "2"
+cheat194_code = "2AB87,29"
+
+cheat195_desc = "ロイ坐标Y轴42"
+cheat195_handler = "2"
+cheat195_code = "2AB87,2A"
+
+cheat196_desc = "ロイ坐标Y轴43"
+cheat196_handler = "2"
+cheat196_code = "2AB87,2B"
+
+cheat197_desc = "ロイ坐标Y轴44"
+cheat197_handler = "2"
+cheat197_code = "2AB87,2C"
+
+cheat198_desc = "ロイ坐标Y轴45"
+cheat198_handler = "2"
+cheat198_code = "2AB87,2D"
+
+cheat199_desc = "ロイ坐标Y轴46"
+cheat199_handler = "2"
+cheat199_code = "2AB87,2E"
+
+cheat200_desc = "ロイ坐标Y轴47"
+cheat200_handler = "2"
+cheat200_code = "2AB87,2F"
+
+cheat201_desc = "ロイ坐标Y轴48"
+cheat201_handler = "2"
+cheat201_code = "2AB87,30"
+
+cheat202_desc = "ロイ坐标Y轴49"
+cheat202_handler = "2"
+cheat202_code = "2AB87,31"
+
+cheat203_desc = "ロイ坐标Y轴50"
+cheat203_handler = "2"
+cheat203_code = "2AB87,32"
+
+cheat204_desc = "ロイ坐标Y轴51"
+cheat204_handler = "2"
+cheat204_code = "2AB87,33"
+
+cheat205_desc = "ロイ坐标Y轴52"
+cheat205_handler = "2"
+cheat205_code = "2AB87,34"
+
+cheat206_desc = "ロイ坐标Y轴53"
+cheat206_handler = "2"
+cheat206_code = "2AB87,35"
+
+cheat207_desc = "ロイ坐标Y轴54"
+cheat207_handler = "2"
+cheat207_code = "2AB87,36"
+
+cheat208_desc = "ロイ坐标Y轴55"
+cheat208_handler = "2"
+cheat208_code = "2AB87,37"
+
+cheat209_desc = "ロイ坐标Y轴56"
+cheat209_handler = "2"
+cheat209_code = "2AB87,38"
+
+cheat210_desc = "ロイ坐标Y轴57"
+cheat210_handler = "2"
+cheat210_code = "2AB87,39"
+
+cheat211_desc = "ロイ坐标Y轴58"
+cheat211_handler = "2"
+cheat211_code = "2AB87,3A"
+
+cheat212_desc = "ロイ坐标Y轴59"
+cheat212_handler = "2"
+cheat212_code = "2AB87,3B"
+
+cheat213_desc = "ロイ坐标Y轴60"
+cheat213_handler = "2"
+cheat213_code = "2AB87,3C"
+
+cheat214_desc = "ロイ坐标Y轴61"
+cheat214_handler = "2"
+cheat214_code = "2AB87,3D"
+
+cheat215_desc = "ロイ坐标Y轴62"
+cheat215_handler = "2"
+cheat215_code = "2AB87,3E"
+
+cheat216_desc = "ロイ坐标Y轴63"
+cheat216_handler = "2"
+cheat216_code = "2AB87,3F"
+
+cheat217_desc = "ロイ坐标Y轴64"
+cheat217_handler = "2"
+cheat217_code = "2AB87,40"
+
+cheat218_desc = "ロイ坐标Y轴65"
+cheat218_handler = "2"
+cheat218_code = "2AB87,41"
+
+cheat219_desc = "ロイ坐标Y轴66"
+cheat219_handler = "2"
+cheat219_code = "2AB87,42"
+
+cheat220_desc = "ロイ坐标Y轴67"
+cheat220_handler = "2"
+cheat220_code = "2AB87,43"
+
+cheat221_desc = "ロイ坐标Y轴68"
+cheat221_handler = "2"
+cheat221_code = "2AB87,44"
+
+cheat222_desc = "ロイ坐标Y轴69"
+cheat222_handler = "2"
+cheat222_code = "2AB87,45"
+
+cheat223_desc = "ロイ坐标Y轴70"
+cheat223_handler = "2"
+cheat223_code = "2AB87,46"
+
+cheat224_desc = "ロイ坐标Y轴71"
+cheat224_handler = "2"
+cheat224_code = "2AB87,47"
+
+cheat225_desc = "ロイ坐标Y轴72"
+cheat225_handler = "2"
+cheat225_code = "2AB87,48"
+
+cheat226_desc = "ロイ坐标Y轴73"
+cheat226_handler = "2"
+cheat226_code = "2AB87,49"
+
+cheat227_desc = "ロイ坐标Y轴74"
+cheat227_handler = "2"
+cheat227_code = "2AB87,4A"
+
+cheat228_desc = "ロイ坐标Y轴75"
+cheat228_handler = "2"
+cheat228_code = "2AB87,4B"
+
+cheat229_desc = "ロイ坐标Y轴76"
+cheat229_handler = "2"
+cheat229_code = "2AB87,4C"
+
+cheat230_desc = "ロイ坐标Y轴77"
+cheat230_handler = "2"
+cheat230_code = "2AB87,4D"
+
+cheat231_desc = "ロイ坐标Y轴78"
+cheat231_handler = "2"
+cheat231_code = "2AB87,4E"
+
+cheat232_desc = "ロイ坐标Y轴79"
+cheat232_handler = "2"
+cheat232_code = "2AB87,4F"
+
+cheat233_desc = "ロイ坐标Y轴80"
+cheat233_handler = "2"
+cheat233_code = "2AB87,50"
+
+cheat234_desc = "ロイ坐标Y轴81"
+cheat234_handler = "2"
+cheat234_code = "2AB87,51"
+
+cheat235_desc = "ロイ坐标Y轴82"
+cheat235_handler = "2"
+cheat235_code = "2AB87,52"
+
+cheat236_desc = "ロイ坐标Y轴83"
+cheat236_handler = "2"
+cheat236_code = "2AB87,53"
+
+cheat237_desc = "ロイ坐标Y轴84"
+cheat237_handler = "2"
+cheat237_code = "2AB87,54"
+
+cheat238_desc = "ロイ坐标Y轴85"
+cheat238_handler = "2"
+cheat238_code = "2AB87,55"
+
+cheat239_desc = "ロイ坐标Y轴86"
+cheat239_handler = "2"
+cheat239_code = "2AB87,56"
+
+cheat240_desc = "ロイ坐标Y轴87"
+cheat240_handler = "2"
+cheat240_code = "2AB87,57"
+
+cheat241_desc = "ロイ坐标Y轴88"
+cheat241_handler = "2"
+cheat241_code = "2AB87,58"
+
+cheat242_desc = "ロイ坐标Y轴89"
+cheat242_handler = "2"
+cheat242_code = "2AB87,59"
+
+cheat243_desc = "ロイ坐标Y轴90"
+cheat243_handler = "2"
+cheat243_code = "2AB87,5A"
+
+cheat244_desc = "ロイ坐标Y轴91"
+cheat244_handler = "2"
+cheat244_code = "2AB87,5B"
+
+cheat245_desc = "ロイ坐标Y轴92"
+cheat245_handler = "2"
+cheat245_code = "2AB87,5C"
+
+cheat246_desc = "ロイ坐标Y轴93"
+cheat246_handler = "2"
+cheat246_code = "2AB87,5D"
+
+cheat247_desc = "ロイ坐标Y轴94"
+cheat247_handler = "2"
+cheat247_code = "2AB87,5E"
+
+cheat248_desc = "ロイ坐标Y轴95"
+cheat248_handler = "2"
+cheat248_code = "2AB87,5F"
+
+cheat249_desc = "ロイ坐标Y轴96"
+cheat249_handler = "2"
+cheat249_code = "2AB87,60"
+
+cheat250_desc = "ロイ坐标Y轴97"
+cheat250_handler = "2"
+cheat250_code = "2AB87,61"
+
+cheat251_desc = "ロイ坐标Y轴98"
+cheat251_handler = "2"
+cheat251_code = "2AB87,62"
+
+cheat252_desc = "ロイ坐标Y轴99"
+cheat252_handler = "2"
+cheat252_code = "2AB87,63"
+
+cheat253_desc = "ロイ坐标Y轴100"
+cheat253_handler = "2"
+cheat253_code = "2AB87,64"
+
+cheat254_desc = "ロイ坐标Y轴Text"
+cheat254_handler = "2"
+cheat254_code = "从左上角开始向下数格数，修改后不要锁定，不要超出地图范围"
+
+cheat255_desc = "ロイHP60"
+cheat255_handler = "2"
+cheat255_code = "2AB88,3C;2AB89,3C"
+
+cheat256_desc = "ロイHPMAX"
+cheat256_handler = "2"
+cheat256_code = "2AB88,63;2AB89,63"
+
+cheat257_desc = "ロイHPText"
+cheat257_handler = "2"
+cheat257_code = "60为安全值"
+
+cheat258_desc = "ロイ力20"
+cheat258_handler = "2"
+cheat258_code = "2AB8A,14"
+
+cheat259_desc = "ロイ力MAX"
+cheat259_handler = "2"
+cheat259_code = "2AB8A,63"
+
+cheat260_desc = "ロイ技20"
+cheat260_handler = "2"
+cheat260_code = "2AB8B,14"
+
+cheat261_desc = "ロイ技MAX"
+cheat261_handler = "2"
+cheat261_code = "2AB8B,63"
+
+cheat262_desc = "ロイ速度20"
+cheat262_handler = "2"
+cheat262_code = "2AB8C,14"
+
+cheat263_desc = "ロイ速度MAX"
+cheat263_handler = "2"
+cheat263_code = "2AB8C,63"
+
+cheat264_desc = "ロイ幸运20"
+cheat264_handler = "2"
+cheat264_code = "2AB8F,1E"
+
+cheat265_desc = "ロイ幸运MAX"
+cheat265_handler = "2"
+cheat265_code = "2AB8F,63"
+
+cheat266_desc = "ロイ守备20"
+cheat266_handler = "2"
+cheat266_code = "2AB8D,14"
+
+cheat267_desc = "ロイ守备MAX"
+cheat267_handler = "2"
+cheat267_code = "2AB8D,63"
+
+cheat268_desc = "ロイ魔防20"
+cheat268_handler = "2"
+cheat268_code = "2AB8E,14"
+
+cheat269_desc = "ロイ魔防MAX"
+cheat269_handler = "2"
+cheat269_code = "2AB8E,63"
+
+cheat270_desc = "ロイ体格+MAX"
+cheat270_handler = "2"
+cheat270_code = "2AB90,63"
+
+cheat271_desc = "ロイ移动+MAX"
+cheat271_handler = "2"
+cheat271_code = "2AB92,63"
+
+cheat272_desc = "ロイ移动+Text"
+cheat272_handler = "2"
+cheat272_code = "注意移动时不要太贪心，路线箭头出错就重新指定路线。"
+
+cheat273_desc = "ロイ剑级数S"
+cheat273_handler = "2"
+cheat273_code = "2AB9E,FF"
+
+cheat274_desc = "ロイ剑级数A"
+cheat274_handler = "2"
+cheat274_code = "2AB9E,CC"
+
+cheat275_desc = "ロイ剑级数B"
+cheat275_handler = "2"
+cheat275_code = "2AB9E,99"
+
+cheat276_desc = "ロイ剑级数C"
+cheat276_handler = "2"
+cheat276_code = "2AB9E,66"
+
+cheat277_desc = "ロイ剑级数D"
+cheat277_handler = "2"
+cheat277_code = "2AB9E,33"
+
+cheat278_desc = "ロイ枪级数S"
+cheat278_handler = "2"
+cheat278_code = "2AB9F,FF"
+
+cheat279_desc = "ロイ枪级数A"
+cheat279_handler = "2"
+cheat279_code = "2AB9F,CC"
+
+cheat280_desc = "ロイ枪级数B"
+cheat280_handler = "2"
+cheat280_code = "2AB9F,99"
+
+cheat281_desc = "ロイ枪级数C"
+cheat281_handler = "2"
+cheat281_code = "2AB9F,66"
+
+cheat282_desc = "ロイ枪级数D"
+cheat282_handler = "2"
+cheat282_code = "2AB9F,33"
+
+cheat283_desc = "ロイ斧级数S"
+cheat283_handler = "2"
+cheat283_code = "2ABA0,FF"
+
+cheat284_desc = "ロイ斧级数A"
+cheat284_handler = "2"
+cheat284_code = "2ABA0,CC"
+
+cheat285_desc = "ロイ斧级数B"
+cheat285_handler = "2"
+cheat285_code = "2ABA0,99"
+
+cheat286_desc = "ロイ斧级数C"
+cheat286_handler = "2"
+cheat286_code = "2ABA0,66"
+
+cheat287_desc = "ロイ斧级数D"
+cheat287_handler = "2"
+cheat287_code = "2ABA0,33"
+
+cheat288_desc = "ロイ弓级数S"
+cheat288_handler = "2"
+cheat288_code = "2ABA1,FF"
+
+cheat289_desc = "ロイ弓级数A"
+cheat289_handler = "2"
+cheat289_code = "2ABA1,CC"
+
+cheat290_desc = "ロイ弓级数B"
+cheat290_handler = "2"
+cheat290_code = "2ABA1,99"
+
+cheat291_desc = "ロイ弓级数C"
+cheat291_handler = "2"
+cheat291_code = "2ABA1,66"
+
+cheat292_desc = "ロイ弓级数D"
+cheat292_handler = "2"
+cheat292_code = "2ABA1,33"
+
+cheat293_desc = "ロイ理级数S"
+cheat293_handler = "2"
+cheat293_code = "2ABA3,FF"
+
+cheat294_desc = "ロイ理级数A"
+cheat294_handler = "2"
+cheat294_code = "2ABA3,CC"
+
+cheat295_desc = "ロイ理级数B"
+cheat295_handler = "2"
+cheat295_code = "2ABA3,99"
+
+cheat296_desc = "ロイ理级数C"
+cheat296_handler = "2"
+cheat296_code = "2ABA3,66"
+
+cheat297_desc = "ロイ理级数D"
+cheat297_handler = "2"
+cheat297_code = "2ABA3,33"
+
+cheat298_desc = "ロイ暗级数S"
+cheat298_handler = "2"
+cheat298_code = "2ABA4,FF"
+
+cheat299_desc = "ロイ暗级数A"
+cheat299_handler = "2"
+cheat299_code = "2ABA4,CC"
+
+cheat300_desc = "ロイ暗级数B"
+cheat300_handler = "2"
+cheat300_code = "2ABA4,99"
+
+cheat301_desc = "ロイ暗级数C"
+cheat301_handler = "2"
+cheat301_code = "2ABA4,66"
+
+cheat302_desc = "ロイ暗级数D"
+cheat302_handler = "2"
+cheat302_code = "2ABA4,33"
+
+cheat303_desc = "ロイ光级数S"
+cheat303_handler = "2"
+cheat303_code = "2ABA5,FF"
+
+cheat304_desc = "ロイ光级数A"
+cheat304_handler = "2"
+cheat304_code = "2ABA5,CC"
+
+cheat305_desc = "ロイ光级数B"
+cheat305_handler = "2"
+cheat305_code = "2ABA5,99"
+
+cheat306_desc = "ロイ光级数C"
+cheat306_handler = "2"
+cheat306_code = "2ABA5,66"
+
+cheat307_desc = "ロイ光级数D"
+cheat307_handler = "2"
+cheat307_code = "2ABA5,33"
+
+cheat308_desc = "ロイ杖级数S"
+cheat308_handler = "2"
+cheat308_code = "2ABA2,FF"
+
+cheat309_desc = "ロイ杖级数A"
+cheat309_handler = "2"
+cheat309_code = "2ABA2,CC"
+
+cheat310_desc = "ロイ杖级数B"
+cheat310_handler = "2"
+cheat310_code = "2ABA2,99"
+
+cheat311_desc = "ロイ杖级数C"
+cheat311_handler = "2"
+cheat311_code = "2ABA2,66"
+
+cheat312_desc = "ロイ杖级数D"
+cheat312_handler = "2"
+cheat312_code = "2ABA2,33"
+
+cheat313_desc = "第一件物品使用次数无限99"
+cheat313_handler = "2"
+cheat313_code = "2AB95,63"
+
+cheat314_desc = "第二件物品使用次数无限99"
+cheat314_handler = "2"
+cheat314_code = "2AB97,63"
+
+cheat315_desc = "第三件物品使用次数无限99"
+cheat315_handler = "2"
+cheat315_code = "2AB99,63"
+
+cheat316_desc = "第四件物品使用次数无限99"
+cheat316_handler = "2"
+cheat316_code = "2AB9B,63"
+
+cheat317_desc = "第五件物品使用次数无限99"
+cheat317_handler = "2"
+cheat317_code = "2AB9D,63"
+
+cheat318_desc = "物品使用次数无限99"
+cheat318_handler = "2"
+cheat318_code = "2AB95,63;2AB97,63;2AB99,63;2AB9B,63;2AB9D,63"
+
+cheat319_desc = "ロイ第一道具てつの剑铁剑"
+cheat319_handler = "2"
+cheat319_code = "2AB94,01"
+
+cheat320_desc = "ロイ第一道具てつの大剑铁の大剑"
+cheat320_handler = "2"
+cheat320_code = "2AB94,02"
+
+cheat321_desc = "ロイ第一道具はがねの剑钢剑"
+cheat321_handler = "2"
+cheat321_code = "2AB94,03"
+
+cheat322_desc = "ロイ第一道具ぎんの剑银剑"
+cheat322_handler = "2"
+cheat322_code = "2AB94,04"
+
+cheat323_desc = "ロイ第一道具ほそみの剑细剑"
+cheat323_handler = "2"
+cheat323_code = "2AB94,05"
+
+cheat324_desc = "ロイ第一道具どくの剑毒剑"
+cheat324_handler = "2"
+cheat324_code = "2AB94,06"
+
+cheat325_desc = "ロイ第一道具ゆうしゃの剑勇者の剑"
+cheat325_handler = "2"
+cheat325_code = "2AB94,07"
+
+cheat326_desc = "ロイ第一道具ひかりの剑光の剑"
+cheat326_handler = "2"
+cheat326_code = "2AB94,08"
+
+cheat327_desc = "ロイ第一道具デュラソダル炎のの剑"
+cheat327_handler = "2"
+cheat327_code = "2AB94,09"
+
+cheat328_desc = "ロイ第一道具ア－マ－キラ－破甲剑"
+cheat328_handler = "2"
+cheat328_code = "2AB94,0A"
+
+cheat329_desc = "ロイ第一道具レイピア突刺剑"
+cheat329_handler = "2"
+cheat329_code = "2AB94,0B"
+
+cheat330_desc = "ロイ第一道具キルソ－ド必杀剑"
+cheat330_handler = "2"
+cheat330_code = "2AB94,0C"
+
+cheat331_desc = "ロイ第一道具ラソスバスタ－"
+cheat331_handler = "2"
+cheat331_code = "2AB94,0D"
+
+cheat332_desc = "ロイ第一道具侍刀东方の剑"
+cheat332_handler = "2"
+cheat332_code = "2AB94,0E"
+
+cheat333_desc = "ロイ第一道具封印の剑"
+cheat333_handler = "2"
+cheat333_code = "2AB94,0F"
+
+cheat334_desc = "ロイ第一道具てつのやり铁枪"
+cheat334_handler = "2"
+cheat334_code = "2AB94,10"
+
+cheat335_desc = "ロイ第一道具はがねのやり钢枪"
+cheat335_handler = "2"
+cheat335_code = "2AB94,11"
+
+cheat336_desc = "ロイ第一道具ぎんのやり银枪"
+cheat336_handler = "2"
+cheat336_code = "2AB94,12"
+
+cheat337_desc = "ロイ第一道具ほそみのやり细枪"
+cheat337_handler = "2"
+cheat337_code = "2AB94,13"
+
+cheat338_desc = "ロイ第一道具どくのやり毒枪"
+cheat338_handler = "2"
+cheat338_code = "2AB94,14"
+
+cheat339_desc = "ロイ第一道具ゆうしゃのやり勇者の枪"
+cheat339_handler = "2"
+cheat339_code = "2AB94,15"
+
+cheat340_desc = "ロイ第一道具てやり投枪"
+cheat340_handler = "2"
+cheat340_code = "2AB94,16"
+
+cheat341_desc = "ロイ第一道具マルテ冰雪の枪"
+cheat341_handler = "2"
+cheat341_code = "2AB94,17"
+
+cheat342_desc = "ロイ第一道具ナイトキラ－刺马枪"
+cheat342_handler = "2"
+cheat342_code = "2AB94,18"
+
+cheat343_desc = "ロイ第一道具キラ－ランス必杀の枪"
+cheat343_handler = "2"
+cheat343_code = "2AB94,19"
+
+cheat344_desc = "ロイ第一道具アクズバスタ－"
+cheat344_handler = "2"
+cheat344_code = "2AB94,1A"
+
+cheat345_desc = "ロイ第一道具てつのおの铁斧"
+cheat345_handler = "2"
+cheat345_code = "2AB94,1B"
+
+cheat346_desc = "ロイ第一道具はがねのおの钢斧"
+cheat346_handler = "2"
+cheat346_code = "2AB94,1C"
+
+cheat347_desc = "ロイ第一道具ぎんのおの银斧"
+cheat347_handler = "2"
+cheat347_code = "2AB94,1D"
+
+cheat348_desc = "ロイ第一道具どくのおの毒斧"
+cheat348_handler = "2"
+cheat348_code = "2AB94,1E"
+
+cheat349_desc = "ロイ第一道具ゆうしゃのおの勇者の斧"
+cheat349_handler = "2"
+cheat349_code = "2AB94,1F"
+
+cheat350_desc = "ロイ第一道具てつの斧铁斧"
+cheat350_handler = "2"
+cheat350_code = "2AB94,20"
+
+cheat351_desc = "ロイ第一道具アルマ－ズ天雷の斧"
+cheat351_handler = "2"
+cheat351_code = "2AB94,21"
+
+cheat352_desc = "ロイ第一道具ハンマ－大铁锤"
+cheat352_handler = "2"
+cheat352_code = "2AB94,22"
+
+cheat353_desc = "ロイ第一道具キラ－アクス必杀の斧"
+cheat353_handler = "2"
+cheat353_code = "2AB94,23"
+
+cheat354_desc = "ロイ第一道具ソ－ドバスタ－"
+cheat354_handler = "2"
+cheat354_code = "2AB94,24"
+
+cheat355_desc = "ロイ第一道具デビルアクス恶魔の斧"
+cheat355_handler = "2"
+cheat355_code = "2AB94,25"
+
+cheat356_desc = "ロイ第一道具ポ－ルアクス斩马斧"
+cheat356_handler = "2"
+cheat356_code = "2AB94,26"
+
+cheat357_desc = "ロイ第一道具てつの弓铁弓"
+cheat357_handler = "2"
+cheat357_code = "2AB94,27"
+
+cheat358_desc = "ロイ第一道具はがねの弓钢弓"
+cheat358_handler = "2"
+cheat358_code = "2AB94,28"
+
+cheat359_desc = "ロイ第一道具ぎんの弓银弓"
+cheat359_handler = "2"
+cheat359_code = "2AB94,29"
+
+cheat360_desc = "ロイ第一道具どくの弓毒弓"
+cheat360_handler = "2"
+cheat360_code = "2AB94,2A"
+
+cheat361_desc = "ロイ第一道具キラ－ボウ必杀の弓"
+cheat361_handler = "2"
+cheat361_code = "2AB94,2B"
+
+cheat362_desc = "ロイ第一道具ゆうしゃの弓勇者の弓"
+cheat362_handler = "2"
+cheat362_code = "2AB94,2C"
+
+cheat363_desc = "ロイ第一道具短弓"
+cheat363_handler = "2"
+cheat363_code = "2AB94,2D"
+
+cheat364_desc = "ロイ第一道具长弓"
+cheat364_handler = "2"
+cheat364_code = "2AB94,2E"
+
+cheat365_desc = "ロイ第一道具ミュルゲレ"
+cheat365_handler = "2"
+cheat365_code = "2AB94,2F"
+
+cheat366_desc = "ロイ第一道具ア－チ弓台"
+cheat366_handler = "2"
+cheat366_code = "2AB94,30"
+
+cheat367_desc = "ロイ第一道具ロソグアア－チ远程弓台"
+cheat367_handler = "2"
+cheat367_code = "2AB94,31"
+
+cheat368_desc = "ロイ第一道具キラ－ア－チ必杀の弓"
+cheat368_handler = "2"
+cheat368_code = "2AB94,32"
+
+cheat369_desc = "ロイ第一道具ファイア－火球"
+cheat369_handler = "2"
+cheat369_code = "2AB94,33"
+
+cheat370_desc = "ロイ第一道具サンダ－落雷"
+cheat370_handler = "2"
+cheat370_code = "2AB94,34"
+
+cheat371_desc = "ロイ第一道具フィソブル冰冻"
+cheat371_handler = "2"
+cheat371_code = "2AB94,35"
+
+cheat372_desc = "ロイ第一道具エルファイア－火炎壁"
+cheat372_handler = "2"
+cheat372_code = "2AB94,36"
+
+cheat373_desc = "ロイ第一道具エイルカリバ－风雪"
+cheat373_handler = "2"
+cheat373_code = "2AB94,37"
+
+cheat374_desc = "ロイ第一道具ノスフェラ－ト冷炎"
+cheat374_handler = "2"
+cheat374_code = "2AB94,37"
+
+cheat375_desc = "ロイ第一道具ダソダ－ストム－天雷"
+cheat375_handler = "2"
+cheat375_code = "2AB94,39"
+
+cheat376_desc = "ロイ第一道具フォルブレイズ業火の理"
+cheat376_handler = "2"
+cheat376_code = "2AB94,3A"
+
+cheat377_desc = "ロイ第一道具ライトニソグ"
+cheat377_handler = "2"
+cheat377_code = "2AB94,3B"
+
+cheat378_desc = "ロイ第一道具ディヴァイソ"
+cheat378_handler = "2"
+cheat378_code = "2AB94,3C"
+
+cheat379_desc = "ロイ第一道具パ－ジ"
+cheat379_handler = "2"
+cheat379_code = "2AB94,3D"
+
+cheat380_desc = "ロイ第一道具ア－リアル至高の光"
+cheat380_handler = "2"
+cheat380_code = "2AB94,3E"
+
+cheat381_desc = "ロイ第一道具ミィル"
+cheat381_handler = "2"
+cheat381_code = "2AB94,3F"
+
+cheat382_desc = "ロイ第一道具リザイアHP吸收"
+cheat382_handler = "2"
+cheat382_code = "2AB94,40"
+
+cheat383_desc = "ロイ第一道具イクリプス"
+cheat383_handler = "2"
+cheat383_code = "2AB94,41"
+
+cheat384_desc = "ロイ第一道具アポカリプス默示の暗"
+cheat384_handler = "2"
+cheat384_code = "2AB94,42"
+
+cheat385_desc = "ロイ第一道具ライブ回复"
+cheat385_handler = "2"
+cheat385_code = "2AB94,43"
+
+cheat386_desc = "ロイ第一道具リライブ大回复"
+cheat386_handler = "2"
+cheat386_code = "2AB94,44"
+
+cheat387_desc = "ロイ第一道具リカバ－重生"
+cheat387_handler = "2"
+cheat387_code = "2AB94,45"
+
+cheat388_desc = "ロイ第一道具リブロ－祝福"
+cheat388_handler = "2"
+cheat388_code = "2AB94,46"
+
+cheat389_desc = "ロイ第一道具リザ－ブ回复の光"
+cheat389_handler = "2"
+cheat389_code = "2AB94,47"
+
+cheat390_desc = "ロイ第一道具ワ－プ传送"
+cheat390_handler = "2"
+cheat390_code = "2AB94,48"
+
+cheat391_desc = "ロイ第一道具レスキュ－吸引"
+cheat391_handler = "2"
+cheat391_code = "2AB94,49"
+
+cheat392_desc = "ロイ第一道具レスト解咒"
+cheat392_handler = "2"
+cheat392_code = "2AB94,4A"
+
+cheat393_desc = "ロイ第一道具サイレス沉默"
+cheat393_handler = "2"
+cheat393_code = "2AB94,4B"
+
+cheat394_desc = "ロイ第一道具スリ－プ睡眠"
+cheat394_handler = "2"
+cheat394_code = "2AB94,4C"
+
+cheat395_desc = "ロイ第一道具ト－チ照明"
+cheat395_handler = "2"
+cheat395_code = "2AB94,4D"
+
+cheat396_desc = "ロイ第一道具ハマ－ソ"
+cheat396_handler = "2"
+cheat396_code = "2AB94,4E"
+
+cheat397_desc = "ロイ第一道具ウォッチ眺望"
+cheat397_handler = "2"
+cheat397_code = "2AB94,4F"
+
+cheat398_desc = "ロイ第一道具バ－サク混乱"
+cheat398_handler = "2"
+cheat398_code = "2AB94,50"
+
+cheat399_desc = "ロイ第一道具アンロック开锁"
+cheat399_handler = "2"
+cheat399_code = "2AB94,51"
+
+cheat400_desc = "ロイ第一道具Ｍアップ魔力"
+cheat400_handler = "2"
+cheat400_code = "2AB94,52"
+
+cheat401_desc = "ロイ第一道具火龙石"
+cheat401_handler = "2"
+cheat401_code = "2AB94,53"
+
+cheat402_desc = "ロイ第一道具神龙石"
+cheat402_handler = "2"
+cheat402_code = "2AB94,54"
+
+cheat403_desc = "ロイ第一道具魔龙石"
+cheat403_handler = "2"
+cheat403_code = "2AB94,55"
+
+cheat404_desc = "ロイ第一道具秘传の书"
+cheat404_handler = "2"
+cheat404_code = "2AB94,56"
+
+cheat405_desc = "ロイ第一道具女神のぞう"
+cheat405_handler = "2"
+cheat405_code = "2AB94,57"
+
+cheat406_desc = "ロイ第一道具天使の衣"
+cheat406_handler = "2"
+cheat406_code = "2AB94,58"
+
+cheat407_desc = "ロイ第一道具龙のたて"
+cheat407_handler = "2"
+cheat407_code = "2AB94,59"
+
+cheat408_desc = "ロイ第一道具エナジ－リソグ魔力戒指"
+cheat408_handler = "2"
+cheat408_code = "2AB94,5A"
+
+cheat409_desc = "ロイ第一道具はやての羽"
+cheat409_handler = "2"
+cheat409_code = "2AB94,5B"
+
+cheat410_desc = "ロイ第一道具魔よけ"
+cheat410_handler = "2"
+cheat410_code = "2AB94,5C"
+
+cheat411_desc = "ロイ第一道具ブ－ツ"
+cheat411_handler = "2"
+cheat411_code = "2AB94,5D"
+
+cheat412_desc = "ロイ第一道具ボディリング体格戒指"
+cheat412_handler = "2"
+cheat412_code = "2AB94,5E"
+
+cheat413_desc = "ロイ第一道具英雄の证"
+cheat413_handler = "2"
+cheat413_code = "2AB94,5F"
+
+cheat414_desc = "ロイ第一道具骑士の章"
+cheat414_handler = "2"
+cheat414_code = "2AB94,60"
+
+cheat415_desc = "ロイ第一道具オリオソの箭"
+cheat415_handler = "2"
+cheat415_code = "2AB94,61"
+
+cheat416_desc = "ロイ第一道具天使のムチ天使の鞭"
+cheat416_handler = "2"
+cheat416_code = "2AB94,62"
+
+cheat417_desc = "ロイ第一道具導きの指轮"
+cheat417_handler = "2"
+cheat417_code = "2AB94,63"
+
+cheat418_desc = "ロイ第一道具たからのかぎ门钥匙"
+cheat418_handler = "2"
+cheat418_code = "2AB94,64"
+
+cheat419_desc = "ロイ第一道具とびらのかぎ宝箱钥匙"
+cheat419_handler = "2"
+cheat419_code = "2AB94,65"
+
+cheat420_desc = "ロイ第一道具はねばしのかぎ吊挢钥匙"
+cheat420_handler = "2"
+cheat420_code = "2AB94,66"
+
+cheat421_desc = "ロイ第一道具とうぞくのかぎ盗贼钥匙"
+cheat421_handler = "2"
+cheat421_code = "2AB94,67"
+
+cheat422_desc = "ロイ第一道具きずぐすり伤药"
+cheat422_handler = "2"
+cheat422_code = "2AB94,68"
+
+cheat423_desc = "ロイ第一道具とっこうやく"
+cheat423_handler = "2"
+cheat423_code = "2AB94,69"
+
+cheat424_desc = "ロイ第一道具せいすい圣水"
+cheat424_handler = "2"
+cheat424_code = "2AB94,6A"
+
+cheat425_desc = "ロイ第一道具たいまつ火把"
+cheat425_handler = "2"
+cheat425_code = "2AB94,6B"
+
+cheat426_desc = "ロイ第一道具どくけし解毒药"
+cheat426_handler = "2"
+cheat426_code = "2AB94,6C"
+
+cheat427_desc = "ロイ第一道具メンバ－カ－ド会员卡"
+cheat427_handler = "2"
+cheat427_code = "2AB94,6D"
+
+cheat428_desc = "ロイ第一道具シルバ－カ－ド半价卡"
+cheat428_handler = "2"
+cheat428_code = "2AB94,6E"
+
+cheat429_desc = "ロイ第一道具ゴ－ルド"
+cheat429_handler = "2"
+cheat429_code = "2AB94,6F"
+
+cheat430_desc = "ロイ第一道具暗のブレス"
+cheat430_handler = "2"
+cheat430_code = "2AB94,70"
+
+cheat431_desc = "ロイ第一道具エツケザツクス"
+cheat431_handler = "2"
+cheat431_code = "2AB94,71"
+
+cheat432_desc = "ロイ第一道具はがねの大剑钢大剑"
+cheat432_handler = "2"
+cheat432_code = "2AB94,72"
+
+cheat433_desc = "ロイ第一道具ぎんの大剑银大剑"
+cheat433_handler = "2"
+cheat433_code = "2AB94,73"
+
+cheat434_desc = "ロイ第一道具アルの剑"
+cheat434_handler = "2"
+cheat434_code = "2AB94,74"
+
+cheat435_desc = "ロイ第一道具カントのやり"
+cheat435_handler = "2"
+cheat435_code = "2AB94,75"
+
+cheat436_desc = "ロイ第一道具ティ－ナの杖"
+cheat436_handler = "2"
+cheat436_code = "2AB94,76"
+
+cheat437_desc = "ロイ第一道具圣女の杖"
+cheat437_handler = "2"
+cheat437_code = "2AB94,77"
+
+cheat438_desc = "ロイ第一道具ドラゴンキラ－"
+cheat438_handler = "2"
+cheat438_code = "2AB94,78"
+
+cheat439_desc = "ロイ第一道具白の宝玉"
+cheat439_handler = "2"
+cheat439_code = "2AB94,79"
+
+cheat440_desc = "ロイ第一道具青の宝玉"
+cheat440_handler = "2"
+cheat440_code = "2AB94,7A"
+
+cheat441_desc = "ロイ第一道具赤の宝玉"
+cheat441_handler = "2"
+cheat441_code = "2AB94,7B"
+
+cheat442_desc = "ロイ第一道具デルフィの守リ"
+cheat442_handler = "2"
+cheat442_code = "2AB94,7C"
+
+cheat443_desc = "ロイ第一道具ル－ゾソ－ド"
+cheat443_handler = "2"
+cheat443_code = "2AB94,7D"
+
+cheat444_desc = "ロイ第一道具スレソドスピア"
+cheat444_handler = "2"
+cheat444_code = "2AB94,7E"
+
+cheat445_desc = "ロイ第一道具トマホ－ク"
+cheat445_handler = "2"
+cheat445_code = "2AB94,7F"
+
+cheat446_desc = "ロイ第二道具てつの剑铁剑"
+cheat446_handler = "2"
+cheat446_code = "2AB96,01"
+
+cheat447_desc = "ロイ第二道具てつの大剑铁の大剑"
+cheat447_handler = "2"
+cheat447_code = "2AB96,02"
+
+cheat448_desc = "ロイ第二道具はがねの剑钢剑"
+cheat448_handler = "2"
+cheat448_code = "2AB96,03"
+
+cheat449_desc = "ロイ第二道具ぎんの剑银剑"
+cheat449_handler = "2"
+cheat449_code = "2AB96,04"
+
+cheat450_desc = "ロイ第二道具ほそみの剑细剑"
+cheat450_handler = "2"
+cheat450_code = "2AB96,05"
+
+cheat451_desc = "ロイ第二道具どくの剑毒剑"
+cheat451_handler = "2"
+cheat451_code = "2AB96,06"
+
+cheat452_desc = "ロイ第二道具ゆうしゃの剑勇者の剑"
+cheat452_handler = "2"
+cheat452_code = "2AB96,07"
+
+cheat453_desc = "ロイ第二道具ひかりの剑光の剑"
+cheat453_handler = "2"
+cheat453_code = "2AB96,08"
+
+cheat454_desc = "ロイ第二道具デュラソダル炎のの剑"
+cheat454_handler = "2"
+cheat454_code = "2AB96,09"
+
+cheat455_desc = "ロイ第二道具ア－マ－キラ－破甲剑"
+cheat455_handler = "2"
+cheat455_code = "2AB96,0A"
+
+cheat456_desc = "ロイ第二道具レイピア突刺剑"
+cheat456_handler = "2"
+cheat456_code = "2AB96,0B"
+
+cheat457_desc = "ロイ第二道具キルソ－ド必杀剑"
+cheat457_handler = "2"
+cheat457_code = "2AB96,0C"
+
+cheat458_desc = "ロイ第二道具ラソスバスタ－"
+cheat458_handler = "2"
+cheat458_code = "2AB96,0D"
+
+cheat459_desc = "ロイ第二道具侍刀东方の剑"
+cheat459_handler = "2"
+cheat459_code = "2AB96,0E"
+
+cheat460_desc = "ロイ第二道具封印の剑"
+cheat460_handler = "2"
+cheat460_code = "2AB96,0F"
+
+cheat461_desc = "ロイ第二道具てつのやり铁枪"
+cheat461_handler = "2"
+cheat461_code = "2AB96,10"
+
+cheat462_desc = "ロイ第二道具はがねのやり钢枪"
+cheat462_handler = "2"
+cheat462_code = "2AB96,11"
+
+cheat463_desc = "ロイ第二道具ぎんのやり银枪"
+cheat463_handler = "2"
+cheat463_code = "2AB96,12"
+
+cheat464_desc = "ロイ第二道具ほそみのやり细枪"
+cheat464_handler = "2"
+cheat464_code = "2AB96,13"
+
+cheat465_desc = "ロイ第二道具どくのやり毒枪"
+cheat465_handler = "2"
+cheat465_code = "2AB96,14"
+
+cheat466_desc = "ロイ第二道具ゆうしゃのやり勇者の枪"
+cheat466_handler = "2"
+cheat466_code = "2AB96,15"
+
+cheat467_desc = "ロイ第二道具てやり投枪"
+cheat467_handler = "2"
+cheat467_code = "2AB96,16"
+
+cheat468_desc = "ロイ第二道具マルテ冰雪の枪"
+cheat468_handler = "2"
+cheat468_code = "2AB96,17"
+
+cheat469_desc = "ロイ第二道具ナイトキラ－刺马枪"
+cheat469_handler = "2"
+cheat469_code = "2AB96,18"
+
+cheat470_desc = "ロイ第二道具キラ－ランス必杀の枪"
+cheat470_handler = "2"
+cheat470_code = "2AB96,19"
+
+cheat471_desc = "ロイ第二道具アクズバスタ－"
+cheat471_handler = "2"
+cheat471_code = "2AB96,1A"
+
+cheat472_desc = "ロイ第二道具てつのおの铁斧"
+cheat472_handler = "2"
+cheat472_code = "2AB96,1B"
+
+cheat473_desc = "ロイ第二道具はがねのおの钢斧"
+cheat473_handler = "2"
+cheat473_code = "2AB96,1C"
+
+cheat474_desc = "ロイ第二道具ぎんのおの银斧"
+cheat474_handler = "2"
+cheat474_code = "2AB96,1D"
+
+cheat475_desc = "ロイ第二道具どくのおの毒斧"
+cheat475_handler = "2"
+cheat475_code = "2AB96,1E"
+
+cheat476_desc = "ロイ第二道具ゆうしゃのおの勇者の斧"
+cheat476_handler = "2"
+cheat476_code = "2AB96,1F"
+
+cheat477_desc = "ロイ第二道具てつの斧铁斧"
+cheat477_handler = "2"
+cheat477_code = "2AB96,20"
+
+cheat478_desc = "ロイ第二道具アルマ－ズ天雷の斧"
+cheat478_handler = "2"
+cheat478_code = "2AB96,21"
+
+cheat479_desc = "ロイ第二道具ハンマ－大铁锤"
+cheat479_handler = "2"
+cheat479_code = "2AB96,22"
+
+cheat480_desc = "ロイ第二道具キラ－アクス必杀の斧"
+cheat480_handler = "2"
+cheat480_code = "2AB96,23"
+
+cheat481_desc = "ロイ第二道具ソ－ドバスタ－"
+cheat481_handler = "2"
+cheat481_code = "2AB96,24"
+
+cheat482_desc = "ロイ第二道具デビルアクス恶魔の斧"
+cheat482_handler = "2"
+cheat482_code = "2AB96,25"
+
+cheat483_desc = "ロイ第二道具ポ－ルアクス斩马斧"
+cheat483_handler = "2"
+cheat483_code = "2AB96,26"
+
+cheat484_desc = "ロイ第二道具てつの弓铁弓"
+cheat484_handler = "2"
+cheat484_code = "2AB96,27"
+
+cheat485_desc = "ロイ第二道具はがねの弓钢弓"
+cheat485_handler = "2"
+cheat485_code = "2AB96,28"
+
+cheat486_desc = "ロイ第二道具ぎんの弓银弓"
+cheat486_handler = "2"
+cheat486_code = "2AB96,29"
+
+cheat487_desc = "ロイ第二道具どくの弓毒弓"
+cheat487_handler = "2"
+cheat487_code = "2AB96,2A"
+
+cheat488_desc = "ロイ第二道具キラ－ボウ必杀の弓"
+cheat488_handler = "2"
+cheat488_code = "2AB96,2B"
+
+cheat489_desc = "ロイ第二道具ゆうしゃの弓勇者の弓"
+cheat489_handler = "2"
+cheat489_code = "2AB96,2C"
+
+cheat490_desc = "ロイ第二道具短弓"
+cheat490_handler = "2"
+cheat490_code = "2AB96,2D"
+
+cheat491_desc = "ロイ第二道具长弓"
+cheat491_handler = "2"
+cheat491_code = "2AB96,2E"
+
+cheat492_desc = "ロイ第二道具ミュルゲレ"
+cheat492_handler = "2"
+cheat492_code = "2AB96,2F"
+
+cheat493_desc = "ロイ第二道具ア－チ弓台"
+cheat493_handler = "2"
+cheat493_code = "2AB96,30"
+
+cheat494_desc = "ロイ第二道具ロソグアア－チ远程弓台"
+cheat494_handler = "2"
+cheat494_code = "2AB96,31"
+
+cheat495_desc = "ロイ第二道具キラ－ア－チ必杀の弓"
+cheat495_handler = "2"
+cheat495_code = "2AB96,32"
+
+cheat496_desc = "ロイ第二道具ファイア－火球"
+cheat496_handler = "2"
+cheat496_code = "2AB96,33"
+
+cheat497_desc = "ロイ第二道具サンダ－落雷"
+cheat497_handler = "2"
+cheat497_code = "2AB96,34"
+
+cheat498_desc = "ロイ第二道具フィソブル冰冻"
+cheat498_handler = "2"
+cheat498_code = "2AB96,35"
+
+cheat499_desc = "ロイ第二道具エルファイア－火炎壁"
+cheat499_handler = "2"
+cheat499_code = "2AB96,36"
+
+cheat500_desc = "ロイ第二道具エイルカリバ－风雪"
+cheat500_handler = "2"
+cheat500_code = "2AB96,37"
+
+cheat501_desc = "ロイ第二道具ノスフェラ－ト冷炎"
+cheat501_handler = "2"
+cheat501_code = "2AB96,37"
+
+cheat502_desc = "ロイ第二道具ダソダ－ストム－天雷"
+cheat502_handler = "2"
+cheat502_code = "2AB96,39"
+
+cheat503_desc = "ロイ第二道具フォルブレイズ業火の理"
+cheat503_handler = "2"
+cheat503_code = "2AB96,3A"
+
+cheat504_desc = "ロイ第二道具ライトニソグ"
+cheat504_handler = "2"
+cheat504_code = "2AB96,3B"
+
+cheat505_desc = "ロイ第二道具ディヴァイソ"
+cheat505_handler = "2"
+cheat505_code = "2AB96,3C"
+
+cheat506_desc = "ロイ第二道具パ－ジ"
+cheat506_handler = "2"
+cheat506_code = "2AB96,3D"
+
+cheat507_desc = "ロイ第二道具ア－リアル至高の光"
+cheat507_handler = "2"
+cheat507_code = "2AB96,3E"
+
+cheat508_desc = "ロイ第二道具ミィル"
+cheat508_handler = "2"
+cheat508_code = "2AB96,3F"
+
+cheat509_desc = "ロイ第二道具リザイアHP吸收"
+cheat509_handler = "2"
+cheat509_code = "2AB96,40"
+
+cheat510_desc = "ロイ第二道具イクリプス"
+cheat510_handler = "2"
+cheat510_code = "2AB96,41"
+
+cheat511_desc = "ロイ第二道具アポカリプス默示の暗"
+cheat511_handler = "2"
+cheat511_code = "2AB96,42"
+
+cheat512_desc = "ロイ第二道具ライブ回复"
+cheat512_handler = "2"
+cheat512_code = "2AB96,43"
+
+cheat513_desc = "ロイ第二道具リライブ大回复"
+cheat513_handler = "2"
+cheat513_code = "2AB96,44"
+
+cheat514_desc = "ロイ第二道具リカバ－重生"
+cheat514_handler = "2"
+cheat514_code = "2AB96,45"
+
+cheat515_desc = "ロイ第二道具リブロ－祝福"
+cheat515_handler = "2"
+cheat515_code = "2AB96,46"
+
+cheat516_desc = "ロイ第二道具リザ－ブ回复の光"
+cheat516_handler = "2"
+cheat516_code = "2AB96,47"
+
+cheat517_desc = "ロイ第二道具ワ－プ传送"
+cheat517_handler = "2"
+cheat517_code = "2AB96,48"
+
+cheat518_desc = "ロイ第二道具レスキュ－吸引"
+cheat518_handler = "2"
+cheat518_code = "2AB96,49"
+
+cheat519_desc = "ロイ第二道具レスト解咒"
+cheat519_handler = "2"
+cheat519_code = "2AB96,4A"
+
+cheat520_desc = "ロイ第二道具サイレス沉默"
+cheat520_handler = "2"
+cheat520_code = "2AB96,4B"
+
+cheat521_desc = "ロイ第二道具スリ－プ睡眠"
+cheat521_handler = "2"
+cheat521_code = "2AB96,4C"
+
+cheat522_desc = "ロイ第二道具ト－チ照明"
+cheat522_handler = "2"
+cheat522_code = "2AB96,4D"
+
+cheat523_desc = "ロイ第二道具ハマ－ソ"
+cheat523_handler = "2"
+cheat523_code = "2AB96,4E"
+
+cheat524_desc = "ロイ第二道具ウォッチ眺望"
+cheat524_handler = "2"
+cheat524_code = "2AB96,4F"
+
+cheat525_desc = "ロイ第二道具バ－サク混乱"
+cheat525_handler = "2"
+cheat525_code = "2AB96,50"
+
+cheat526_desc = "ロイ第二道具アンロック开锁"
+cheat526_handler = "2"
+cheat526_code = "2AB96,51"
+
+cheat527_desc = "ロイ第二道具Ｍアップ魔力"
+cheat527_handler = "2"
+cheat527_code = "2AB96,52"
+
+cheat528_desc = "ロイ第二道具火龙石"
+cheat528_handler = "2"
+cheat528_code = "2AB96,53"
+
+cheat529_desc = "ロイ第二道具神龙石"
+cheat529_handler = "2"
+cheat529_code = "2AB96,54"
+
+cheat530_desc = "ロイ第二道具魔龙石"
+cheat530_handler = "2"
+cheat530_code = "2AB96,55"
+
+cheat531_desc = "ロイ第二道具秘传の书"
+cheat531_handler = "2"
+cheat531_code = "2AB96,56"
+
+cheat532_desc = "ロイ第二道具女神のぞう"
+cheat532_handler = "2"
+cheat532_code = "2AB96,57"
+
+cheat533_desc = "ロイ第二道具天使の衣"
+cheat533_handler = "2"
+cheat533_code = "2AB96,58"
+
+cheat534_desc = "ロイ第二道具龙のたて"
+cheat534_handler = "2"
+cheat534_code = "2AB96,59"
+
+cheat535_desc = "ロイ第二道具エナジ－リソグ魔力戒指"
+cheat535_handler = "2"
+cheat535_code = "2AB96,5A"
+
+cheat536_desc = "ロイ第二道具はやての羽"
+cheat536_handler = "2"
+cheat536_code = "2AB96,5B"
+
+cheat537_desc = "ロイ第二道具魔よけ"
+cheat537_handler = "2"
+cheat537_code = "2AB96,5C"
+
+cheat538_desc = "ロイ第二道具ブ－ツ"
+cheat538_handler = "2"
+cheat538_code = "2AB96,5D"
+
+cheat539_desc = "ロイ第二道具ボディリング体格戒指"
+cheat539_handler = "2"
+cheat539_code = "2AB96,5E"
+
+cheat540_desc = "ロイ第二道具英雄の证"
+cheat540_handler = "2"
+cheat540_code = "2AB96,5F"
+
+cheat541_desc = "ロイ第二道具骑士の章"
+cheat541_handler = "2"
+cheat541_code = "2AB96,60"
+
+cheat542_desc = "ロイ第二道具オリオソの箭"
+cheat542_handler = "2"
+cheat542_code = "2AB96,61"
+
+cheat543_desc = "ロイ第二道具天使のムチ天使の鞭"
+cheat543_handler = "2"
+cheat543_code = "2AB96,62"
+
+cheat544_desc = "ロイ第二道具導きの指轮"
+cheat544_handler = "2"
+cheat544_code = "2AB96,63"
+
+cheat545_desc = "ロイ第二道具たからのかぎ门钥匙"
+cheat545_handler = "2"
+cheat545_code = "2AB96,64"
+
+cheat546_desc = "ロイ第二道具とびらのかぎ宝箱钥匙"
+cheat546_handler = "2"
+cheat546_code = "2AB96,65"
+
+cheat547_desc = "ロイ第二道具はねばしのかぎ吊挢钥匙"
+cheat547_handler = "2"
+cheat547_code = "2AB96,66"
+
+cheat548_desc = "ロイ第二道具とうぞくのかぎ盗贼钥匙"
+cheat548_handler = "2"
+cheat548_code = "2AB96,67"
+
+cheat549_desc = "ロイ第二道具きずぐすり伤药"
+cheat549_handler = "2"
+cheat549_code = "2AB96,68"
+
+cheat550_desc = "ロイ第二道具とっこうやく"
+cheat550_handler = "2"
+cheat550_code = "2AB96,69"
+
+cheat551_desc = "ロイ第二道具せいすい圣水"
+cheat551_handler = "2"
+cheat551_code = "2AB96,6A"
+
+cheat552_desc = "ロイ第二道具たいまつ火把"
+cheat552_handler = "2"
+cheat552_code = "2AB96,6B"
+
+cheat553_desc = "ロイ第二道具どくけし解毒药"
+cheat553_handler = "2"
+cheat553_code = "2AB96,6C"
+
+cheat554_desc = "ロイ第二道具メンバ－カ－ド会员卡"
+cheat554_handler = "2"
+cheat554_code = "2AB96,6D"
+
+cheat555_desc = "ロイ第二道具シルバ－カ－ド半价卡"
+cheat555_handler = "2"
+cheat555_code = "2AB96,6E"
+
+cheat556_desc = "ロイ第二道具ゴ－ルド"
+cheat556_handler = "2"
+cheat556_code = "2AB96,6F"
+
+cheat557_desc = "ロイ第二道具暗のブレス"
+cheat557_handler = "2"
+cheat557_code = "2AB96,70"
+
+cheat558_desc = "ロイ第二道具エツケザツクス"
+cheat558_handler = "2"
+cheat558_code = "2AB96,71"
+
+cheat559_desc = "ロイ第二道具はがねの大剑钢大剑"
+cheat559_handler = "2"
+cheat559_code = "2AB96,72"
+
+cheat560_desc = "ロイ第二道具ぎんの大剑银大剑"
+cheat560_handler = "2"
+cheat560_code = "2AB96,73"
+
+cheat561_desc = "ロイ第二道具アルの剑"
+cheat561_handler = "2"
+cheat561_code = "2AB96,74"
+
+cheat562_desc = "ロイ第二道具カントのやり"
+cheat562_handler = "2"
+cheat562_code = "2AB96,75"
+
+cheat563_desc = "ロイ第二道具ティ－ナの杖"
+cheat563_handler = "2"
+cheat563_code = "2AB96,76"
+
+cheat564_desc = "ロイ第二道具圣女の杖"
+cheat564_handler = "2"
+cheat564_code = "2AB96,77"
+
+cheat565_desc = "ロイ第二道具ドラゴンキラ－"
+cheat565_handler = "2"
+cheat565_code = "2AB96,78"
+
+cheat566_desc = "ロイ第二道具白の宝玉"
+cheat566_handler = "2"
+cheat566_code = "2AB96,79"
+
+cheat567_desc = "ロイ第二道具青の宝玉"
+cheat567_handler = "2"
+cheat567_code = "2AB96,7A"
+
+cheat568_desc = "ロイ第二道具赤の宝玉"
+cheat568_handler = "2"
+cheat568_code = "2AB96,7B"
+
+cheat569_desc = "ロイ第二道具デルフィの守リ"
+cheat569_handler = "2"
+cheat569_code = "2AB96,7C"
+
+cheat570_desc = "ロイ第二道具ル－ゾソ－ド"
+cheat570_handler = "2"
+cheat570_code = "2AB96,7D"
+
+cheat571_desc = "ロイ第二道具スレソドスピア"
+cheat571_handler = "2"
+cheat571_code = "2AB96,7E"
+
+cheat572_desc = "ロイ第三道具てつの剑铁剑"
+cheat572_handler = "2"
+cheat572_code = "2AB98,01"
+
+cheat573_desc = "ロイ第三道具てつの大剑铁の大剑"
+cheat573_handler = "2"
+cheat573_code = "2AB98,02"
+
+cheat574_desc = "ロイ第三道具はがねの剑钢剑"
+cheat574_handler = "2"
+cheat574_code = "2AB98,03"
+
+cheat575_desc = "ロイ第三道具ぎんの剑银剑"
+cheat575_handler = "2"
+cheat575_code = "2AB98,04"
+
+cheat576_desc = "ロイ第三道具ほそみの剑细剑"
+cheat576_handler = "2"
+cheat576_code = "2AB98,05"
+
+cheat577_desc = "ロイ第三道具どくの剑毒剑"
+cheat577_handler = "2"
+cheat577_code = "2AB98,06"
+
+cheat578_desc = "ロイ第三道具ゆうしゃの剑勇者の剑"
+cheat578_handler = "2"
+cheat578_code = "2AB98,07"
+
+cheat579_desc = "ロイ第三道具ひかりの剑光の剑"
+cheat579_handler = "2"
+cheat579_code = "2AB98,08"
+
+cheat580_desc = "ロイ第三道具デュラソダル炎のの剑"
+cheat580_handler = "2"
+cheat580_code = "2AB98,09"
+
+cheat581_desc = "ロイ第三道具ア－マ－キラ－破甲剑"
+cheat581_handler = "2"
+cheat581_code = "2AB98,0A"
+
+cheat582_desc = "ロイ第三道具レイピア突刺剑"
+cheat582_handler = "2"
+cheat582_code = "2AB98,0B"
+
+cheat583_desc = "ロイ第三道具キルソ－ド必杀剑"
+cheat583_handler = "2"
+cheat583_code = "2AB98,0C"
+
+cheat584_desc = "ロイ第三道具ラソスバスタ－"
+cheat584_handler = "2"
+cheat584_code = "2AB98,0D"
+
+cheat585_desc = "ロイ第三道具侍刀东方の剑"
+cheat585_handler = "2"
+cheat585_code = "2AB98,0E"
+
+cheat586_desc = "ロイ第三道具封印の剑"
+cheat586_handler = "2"
+cheat586_code = "2AB98,0F"
+
+cheat587_desc = "ロイ第三道具てつのやり铁枪"
+cheat587_handler = "2"
+cheat587_code = "2AB98,10"
+
+cheat588_desc = "ロイ第三道具はがねのやり钢枪"
+cheat588_handler = "2"
+cheat588_code = "2AB98,11"
+
+cheat589_desc = "ロイ第三道具ぎんのやり银枪"
+cheat589_handler = "2"
+cheat589_code = "2AB98,12"
+
+cheat590_desc = "ロイ第三道具ほそみのやり细枪"
+cheat590_handler = "2"
+cheat590_code = "2AB98,13"
+
+cheat591_desc = "ロイ第三道具どくのやり毒枪"
+cheat591_handler = "2"
+cheat591_code = "2AB98,14"
+
+cheat592_desc = "ロイ第三道具ゆうしゃのやり勇者の枪"
+cheat592_handler = "2"
+cheat592_code = "2AB98,15"
+
+cheat593_desc = "ロイ第三道具てやり投枪"
+cheat593_handler = "2"
+cheat593_code = "2AB98,16"
+
+cheat594_desc = "ロイ第三道具マルテ冰雪の枪"
+cheat594_handler = "2"
+cheat594_code = "2AB98,17"
+
+cheat595_desc = "ロイ第三道具ナイトキラ－刺马枪"
+cheat595_handler = "2"
+cheat595_code = "2AB98,18"
+
+cheat596_desc = "ロイ第三道具キラ－ランス必杀の枪"
+cheat596_handler = "2"
+cheat596_code = "2AB98,19"
+
+cheat597_desc = "ロイ第三道具アクズバスタ－"
+cheat597_handler = "2"
+cheat597_code = "2AB98,1A"
+
+cheat598_desc = "ロイ第三道具てつのおの铁斧"
+cheat598_handler = "2"
+cheat598_code = "2AB98,1B"
+
+cheat599_desc = "ロイ第三道具はがねのおの钢斧"
+cheat599_handler = "2"
+cheat599_code = "2AB98,1C"
+
+cheat600_desc = "ロイ第三道具ぎんのおの银斧"
+cheat600_handler = "2"
+cheat600_code = "2AB98,1D"
+
+cheat601_desc = "ロイ第三道具どくのおの毒斧"
+cheat601_handler = "2"
+cheat601_code = "2AB98,1E"
+
+cheat602_desc = "ロイ第三道具ゆうしゃのおの勇者の斧"
+cheat602_handler = "2"
+cheat602_code = "2AB98,1F"
+
+cheat603_desc = "ロイ第三道具てつの斧铁斧"
+cheat603_handler = "2"
+cheat603_code = "2AB98,20"
+
+cheat604_desc = "ロイ第三道具アルマ－ズ天雷の斧"
+cheat604_handler = "2"
+cheat604_code = "2AB98,21"
+
+cheat605_desc = "ロイ第三道具ハンマ－大铁锤"
+cheat605_handler = "2"
+cheat605_code = "2AB98,22"
+
+cheat606_desc = "ロイ第三道具キラ－アクス必杀の斧"
+cheat606_handler = "2"
+cheat606_code = "2AB98,23"
+
+cheat607_desc = "ロイ第三道具ソ－ドバスタ－"
+cheat607_handler = "2"
+cheat607_code = "2AB98,24"
+
+cheat608_desc = "ロイ第三道具デビルアクス恶魔の斧"
+cheat608_handler = "2"
+cheat608_code = "2AB98,25"
+
+cheat609_desc = "ロイ第三道具ポ－ルアクス斩马斧"
+cheat609_handler = "2"
+cheat609_code = "2AB98,26"
+
+cheat610_desc = "ロイ第三道具てつの弓铁弓"
+cheat610_handler = "2"
+cheat610_code = "2AB98,27"
+
+cheat611_desc = "ロイ第三道具はがねの弓钢弓"
+cheat611_handler = "2"
+cheat611_code = "2AB98,28"
+
+cheat612_desc = "ロイ第三道具ぎんの弓银弓"
+cheat612_handler = "2"
+cheat612_code = "2AB98,29"
+
+cheat613_desc = "ロイ第三道具どくの弓毒弓"
+cheat613_handler = "2"
+cheat613_code = "2AB98,2A"
+
+cheat614_desc = "ロイ第三道具キラ－ボウ必杀の弓"
+cheat614_handler = "2"
+cheat614_code = "2AB98,2B"
+
+cheat615_desc = "ロイ第三道具ゆうしゃの弓勇者の弓"
+cheat615_handler = "2"
+cheat615_code = "2AB98,2C"
+
+cheat616_desc = "ロイ第三道具短弓"
+cheat616_handler = "2"
+cheat616_code = "2AB98,2D"
+
+cheat617_desc = "ロイ第三道具长弓"
+cheat617_handler = "2"
+cheat617_code = "2AB98,2E"
+
+cheat618_desc = "ロイ第三道具ミュルゲレ"
+cheat618_handler = "2"
+cheat618_code = "2AB98,2F"
+
+cheat619_desc = "ロイ第三道具ア－チ弓台"
+cheat619_handler = "2"
+cheat619_code = "2AB98,30"
+
+cheat620_desc = "ロイ第三道具ロソグアア－チ远程弓台"
+cheat620_handler = "2"
+cheat620_code = "2AB98,31"
+
+cheat621_desc = "ロイ第三道具キラ－ア－チ必杀の弓"
+cheat621_handler = "2"
+cheat621_code = "2AB98,32"
+
+cheat622_desc = "ロイ第三道具ファイア－火球"
+cheat622_handler = "2"
+cheat622_code = "2AB98,33"
+
+cheat623_desc = "ロイ第三道具サンダ－落雷"
+cheat623_handler = "2"
+cheat623_code = "2AB98,34"
+
+cheat624_desc = "ロイ第三道具フィソブル冰冻"
+cheat624_handler = "2"
+cheat624_code = "2AB98,35"
+
+cheat625_desc = "ロイ第三道具エルファイア－火炎壁"
+cheat625_handler = "2"
+cheat625_code = "2AB98,36"
+
+cheat626_desc = "ロイ第三道具エイルカリバ－风雪"
+cheat626_handler = "2"
+cheat626_code = "2AB98,37"
+
+cheat627_desc = "ロイ第三道具ノスフェラ－ト冷炎"
+cheat627_handler = "2"
+cheat627_code = "2AB98,37"
+
+cheat628_desc = "ロイ第三道具ダソダ－ストム－天雷"
+cheat628_handler = "2"
+cheat628_code = "2AB98,39"
+
+cheat629_desc = "ロイ第三道具フォルブレイズ業火の理"
+cheat629_handler = "2"
+cheat629_code = "2AB98,3A"
+
+cheat630_desc = "ロイ第三道具ライトニソグ"
+cheat630_handler = "2"
+cheat630_code = "2AB98,3B"
+
+cheat631_desc = "ロイ第三道具ディヴァイソ"
+cheat631_handler = "2"
+cheat631_code = "2AB98,3C"
+
+cheat632_desc = "ロイ第三道具パ－ジ"
+cheat632_handler = "2"
+cheat632_code = "2AB98,3D"
+
+cheat633_desc = "ロイ第三道具ア－リアル至高の光"
+cheat633_handler = "2"
+cheat633_code = "2AB98,3E"
+
+cheat634_desc = "ロイ第三道具ミィル"
+cheat634_handler = "2"
+cheat634_code = "2AB98,3F"
+
+cheat635_desc = "ロイ第三道具リザイアHP吸收"
+cheat635_handler = "2"
+cheat635_code = "2AB98,40"
+
+cheat636_desc = "ロイ第三道具イクリプス"
+cheat636_handler = "2"
+cheat636_code = "2AB98,41"
+
+cheat637_desc = "ロイ第三道具アポカリプス默示の暗"
+cheat637_handler = "2"
+cheat637_code = "2AB98,42"
+
+cheat638_desc = "ロイ第三道具ライブ回复"
+cheat638_handler = "2"
+cheat638_code = "2AB98,43"
+
+cheat639_desc = "ロイ第三道具リライブ大回复"
+cheat639_handler = "2"
+cheat639_code = "2AB98,44"
+
+cheat640_desc = "ロイ第三道具リカバ－重生"
+cheat640_handler = "2"
+cheat640_code = "2AB98,45"
+
+cheat641_desc = "ロイ第三道具リブロ－祝福"
+cheat641_handler = "2"
+cheat641_code = "2AB98,46"
+
+cheat642_desc = "ロイ第三道具リザ－ブ回复の光"
+cheat642_handler = "2"
+cheat642_code = "2AB98,47"
+
+cheat643_desc = "ロイ第三道具ワ－プ传送"
+cheat643_handler = "2"
+cheat643_code = "2AB98,48"
+
+cheat644_desc = "ロイ第三道具レスキュ－吸引"
+cheat644_handler = "2"
+cheat644_code = "2AB98,49"
+
+cheat645_desc = "ロイ第三道具レスト解咒"
+cheat645_handler = "2"
+cheat645_code = "2AB98,4A"
+
+cheat646_desc = "ロイ第三道具サイレス沉默"
+cheat646_handler = "2"
+cheat646_code = "2AB98,4B"
+
+cheat647_desc = "ロイ第三道具スリ－プ睡眠"
+cheat647_handler = "2"
+cheat647_code = "2AB98,4C"
+
+cheat648_desc = "ロイ第三道具ト－チ照明"
+cheat648_handler = "2"
+cheat648_code = "2AB98,4D"
+
+cheat649_desc = "ロイ第三道具ハマ－ソ"
+cheat649_handler = "2"
+cheat649_code = "2AB98,4E"
+
+cheat650_desc = "ロイ第三道具ウォッチ眺望"
+cheat650_handler = "2"
+cheat650_code = "2AB98,4F"
+
+cheat651_desc = "ロイ第三道具バ－サク混乱"
+cheat651_handler = "2"
+cheat651_code = "2AB98,50"
+
+cheat652_desc = "ロイ第三道具アンロック开锁"
+cheat652_handler = "2"
+cheat652_code = "2AB98,51"
+
+cheat653_desc = "ロイ第三道具Ｍアップ魔力"
+cheat653_handler = "2"
+cheat653_code = "2AB98,52"
+
+cheat654_desc = "ロイ第三道具火龙石"
+cheat654_handler = "2"
+cheat654_code = "2AB98,53"
+
+cheat655_desc = "ロイ第三道具神龙石"
+cheat655_handler = "2"
+cheat655_code = "2AB98,54"
+
+cheat656_desc = "ロイ第三道具魔龙石"
+cheat656_handler = "2"
+cheat656_code = "2AB98,55"
+
+cheat657_desc = "ロイ第三道具秘传の书"
+cheat657_handler = "2"
+cheat657_code = "2AB98,56"
+
+cheat658_desc = "ロイ第三道具女神のぞう"
+cheat658_handler = "2"
+cheat658_code = "2AB98,57"
+
+cheat659_desc = "ロイ第三道具天使の衣"
+cheat659_handler = "2"
+cheat659_code = "2AB98,58"
+
+cheat660_desc = "ロイ第三道具龙のたて"
+cheat660_handler = "2"
+cheat660_code = "2AB98,59"
+
+cheat661_desc = "ロイ第三道具エナジ－リソグ魔力戒指"
+cheat661_handler = "2"
+cheat661_code = "2AB98,5A"
+
+cheat662_desc = "ロイ第三道具はやての羽"
+cheat662_handler = "2"
+cheat662_code = "2AB98,5B"
+
+cheat663_desc = "ロイ第三道具魔よけ"
+cheat663_handler = "2"
+cheat663_code = "2AB98,5C"
+
+cheat664_desc = "ロイ第三道具ブ－ツ"
+cheat664_handler = "2"
+cheat664_code = "2AB98,5D"
+
+cheat665_desc = "ロイ第三道具ボディリング体格戒指"
+cheat665_handler = "2"
+cheat665_code = "2AB98,5E"
+
+cheat666_desc = "ロイ第三道具英雄の证"
+cheat666_handler = "2"
+cheat666_code = "2AB98,5F"
+
+cheat667_desc = "ロイ第三道具骑士の章"
+cheat667_handler = "2"
+cheat667_code = "2AB98,60"
+
+cheat668_desc = "ロイ第三道具オリオソの箭"
+cheat668_handler = "2"
+cheat668_code = "2AB98,61"
+
+cheat669_desc = "ロイ第三道具天使のムチ天使の鞭"
+cheat669_handler = "2"
+cheat669_code = "2AB98,62"
+
+cheat670_desc = "ロイ第三道具導きの指轮"
+cheat670_handler = "2"
+cheat670_code = "2AB98,63"
+
+cheat671_desc = "ロイ第三道具たからのかぎ门钥匙"
+cheat671_handler = "2"
+cheat671_code = "2AB98,64"
+
+cheat672_desc = "ロイ第三道具とびらのかぎ宝箱钥匙"
+cheat672_handler = "2"
+cheat672_code = "2AB98,65"
+
+cheat673_desc = "ロイ第三道具はねばしのかぎ吊挢钥匙"
+cheat673_handler = "2"
+cheat673_code = "2AB98,66"
+
+cheat674_desc = "ロイ第三道具とうぞくのかぎ盗贼钥匙"
+cheat674_handler = "2"
+cheat674_code = "2AB98,67"
+
+cheat675_desc = "ロイ第三道具きずぐすり伤药"
+cheat675_handler = "2"
+cheat675_code = "2AB98,68"
+
+cheat676_desc = "ロイ第三道具とっこうやく"
+cheat676_handler = "2"
+cheat676_code = "2AB98,69"
+
+cheat677_desc = "ロイ第三道具せいすい圣水"
+cheat677_handler = "2"
+cheat677_code = "2AB98,6A"
+
+cheat678_desc = "ロイ第三道具たいまつ火把"
+cheat678_handler = "2"
+cheat678_code = "2AB98,6B"
+
+cheat679_desc = "ロイ第三道具どくけし解毒药"
+cheat679_handler = "2"
+cheat679_code = "2AB98,6C"
+
+cheat680_desc = "ロイ第三道具メンバ－カ－ド会员卡"
+cheat680_handler = "2"
+cheat680_code = "2AB98,6D"
+
+cheat681_desc = "ロイ第三道具シルバ－カ－ド半价卡"
+cheat681_handler = "2"
+cheat681_code = "2AB98,6E"
+
+cheat682_desc = "ロイ第三道具ゴ－ルド"
+cheat682_handler = "2"
+cheat682_code = "2AB98,6F"
+
+cheat683_desc = "ロイ第三道具暗のブレス"
+cheat683_handler = "2"
+cheat683_code = "2AB98,70"
+
+cheat684_desc = "ロイ第三道具エツケザツクス"
+cheat684_handler = "2"
+cheat684_code = "2AB98,71"
+
+cheat685_desc = "ロイ第三道具はがねの大剑钢大剑"
+cheat685_handler = "2"
+cheat685_code = "2AB98,72"
+
+cheat686_desc = "ロイ第三道具ぎんの大剑银大剑"
+cheat686_handler = "2"
+cheat686_code = "2AB98,73"
+
+cheat687_desc = "ロイ第三道具アルの剑"
+cheat687_handler = "2"
+cheat687_code = "2AB98,74"
+
+cheat688_desc = "ロイ第三道具カントのやり"
+cheat688_handler = "2"
+cheat688_code = "2AB98,75"
+
+cheat689_desc = "ロイ第三道具ティ－ナの杖"
+cheat689_handler = "2"
+cheat689_code = "2AB98,76"
+
+cheat690_desc = "ロイ第三道具圣女の杖"
+cheat690_handler = "2"
+cheat690_code = "2AB98,77"
+
+cheat691_desc = "ロイ第三道具ドラゴンキラ－"
+cheat691_handler = "2"
+cheat691_code = "2AB98,78"
+
+cheat692_desc = "ロイ第三道具白の宝玉"
+cheat692_handler = "2"
+cheat692_code = "2AB98,79"
+
+cheat693_desc = "ロイ第三道具青の宝玉"
+cheat693_handler = "2"
+cheat693_code = "2AB98,7A"
+
+cheat694_desc = "ロイ第三道具赤の宝玉"
+cheat694_handler = "2"
+cheat694_code = "2AB98,7B"
+
+cheat695_desc = "ロイ第三道具デルフィの守リ"
+cheat695_handler = "2"
+cheat695_code = "2AB98,7C"
+
+cheat696_desc = "ロイ第三道具ル－ゾソ－ド"
+cheat696_handler = "2"
+cheat696_code = "2AB98,7D"
+
+cheat697_desc = "ロイ第三道具スレソドスピア"
+cheat697_handler = "2"
+cheat697_code = "2AB98,7E"
+
+cheat698_desc = "ロイ第三道具トマホ－ク"
+cheat698_handler = "2"
+cheat698_code = "2AB98,7F"
+
+cheat699_desc = "ロイ第四道具てつの剑铁剑"
+cheat699_handler = "2"
+cheat699_code = "2AB9A,01"
+
+cheat700_desc = "ロイ第四道具てつの大剑铁の大剑"
+cheat700_handler = "2"
+cheat700_code = "2AB9A,02"
+
+cheat701_desc = "ロイ第四道具はがねの剑钢剑"
+cheat701_handler = "2"
+cheat701_code = "2AB9A,03"
+
+cheat702_desc = "ロイ第四道具ぎんの剑银剑"
+cheat702_handler = "2"
+cheat702_code = "2AB9A,04"
+
+cheat703_desc = "ロイ第四道具ほそみの剑细剑"
+cheat703_handler = "2"
+cheat703_code = "2AB9A,05"
+
+cheat704_desc = "ロイ第四道具どくの剑毒剑"
+cheat704_handler = "2"
+cheat704_code = "2AB9A,06"
+
+cheat705_desc = "ロイ第四道具ゆうしゃの剑勇者の剑"
+cheat705_handler = "2"
+cheat705_code = "2AB9A,07"
+
+cheat706_desc = "ロイ第四道具ひかりの剑光の剑"
+cheat706_handler = "2"
+cheat706_code = "2AB9A,08"
+
+cheat707_desc = "ロイ第四道具デュラソダル炎のの剑"
+cheat707_handler = "2"
+cheat707_code = "2AB9A,09"
+
+cheat708_desc = "ロイ第四道具ア－マ－キラ－破甲剑"
+cheat708_handler = "2"
+cheat708_code = "2AB9A,0A"
+
+cheat709_desc = "ロイ第四道具レイピア突刺剑"
+cheat709_handler = "2"
+cheat709_code = "2AB9A,0B"
+
+cheat710_desc = "ロイ第四道具キルソ－ド必杀剑"
+cheat710_handler = "2"
+cheat710_code = "2AB9A,0C"
+
+cheat711_desc = "ロイ第四道具ラソスバスタ－"
+cheat711_handler = "2"
+cheat711_code = "2AB9A,0D"
+
+cheat712_desc = "ロイ第四道具侍刀东方の剑"
+cheat712_handler = "2"
+cheat712_code = "2AB9A,0E"
+
+cheat713_desc = "ロイ第四道具封印の剑"
+cheat713_handler = "2"
+cheat713_code = "2AB9A,0F"
+
+cheat714_desc = "ロイ第四道具てつのやり铁枪"
+cheat714_handler = "2"
+cheat714_code = "2AB9A,10"
+
+cheat715_desc = "ロイ第四道具はがねのやり钢枪"
+cheat715_handler = "2"
+cheat715_code = "2AB9A,11"
+
+cheat716_desc = "ロイ第四道具ぎんのやり银枪"
+cheat716_handler = "2"
+cheat716_code = "2AB9A,12"
+
+cheat717_desc = "ロイ第四道具ほそみのやり细枪"
+cheat717_handler = "2"
+cheat717_code = "2AB9A,13"
+
+cheat718_desc = "ロイ第四道具どくのやり毒枪"
+cheat718_handler = "2"
+cheat718_code = "2AB9A,14"
+
+cheat719_desc = "ロイ第四道具ゆうしゃのやり勇者の枪"
+cheat719_handler = "2"
+cheat719_code = "2AB9A,15"
+
+cheat720_desc = "ロイ第四道具てやり投枪"
+cheat720_handler = "2"
+cheat720_code = "2AB9A,16"
+
+cheat721_desc = "ロイ第四道具マルテ冰雪の枪"
+cheat721_handler = "2"
+cheat721_code = "2AB9A,17"
+
+cheat722_desc = "ロイ第四道具ナイトキラ－刺马枪"
+cheat722_handler = "2"
+cheat722_code = "2AB9A,18"
+
+cheat723_desc = "ロイ第四道具キラ－ランス必杀の枪"
+cheat723_handler = "2"
+cheat723_code = "2AB9A,19"
+
+cheat724_desc = "ロイ第四道具アクズバスタ－"
+cheat724_handler = "2"
+cheat724_code = "2AB9A,1A"
+
+cheat725_desc = "ロイ第四道具てつのおの铁斧"
+cheat725_handler = "2"
+cheat725_code = "2AB9A,1B"
+
+cheat726_desc = "ロイ第四道具はがねのおの钢斧"
+cheat726_handler = "2"
+cheat726_code = "2AB9A,1C"
+
+cheat727_desc = "ロイ第四道具ぎんのおの银斧"
+cheat727_handler = "2"
+cheat727_code = "2AB9A,1D"
+
+cheat728_desc = "ロイ第四道具どくのおの毒斧"
+cheat728_handler = "2"
+cheat728_code = "2AB9A,1E"
+
+cheat729_desc = "ロイ第四道具ゆうしゃのおの勇者の斧"
+cheat729_handler = "2"
+cheat729_code = "2AB9A,1F"
+
+cheat730_desc = "ロイ第四道具てつの斧铁斧"
+cheat730_handler = "2"
+cheat730_code = "2AB9A,20"
+
+cheat731_desc = "ロイ第四道具アルマ－ズ天雷の斧"
+cheat731_handler = "2"
+cheat731_code = "2AB9A,21"
+
+cheat732_desc = "ロイ第四道具ハンマ－大铁锤"
+cheat732_handler = "2"
+cheat732_code = "2AB9A,22"
+
+cheat733_desc = "ロイ第四道具キラ－アクス必杀の斧"
+cheat733_handler = "2"
+cheat733_code = "2AB9A,23"
+
+cheat734_desc = "ロイ第四道具ソ－ドバスタ－"
+cheat734_handler = "2"
+cheat734_code = "2AB9A,24"
+
+cheat735_desc = "ロイ第四道具デビルアクス恶魔の斧"
+cheat735_handler = "2"
+cheat735_code = "2AB9A,25"
+
+cheat736_desc = "ロイ第四道具ポ－ルアクス斩马斧"
+cheat736_handler = "2"
+cheat736_code = "2AB9A,26"
+
+cheat737_desc = "ロイ第四道具てつの弓铁弓"
+cheat737_handler = "2"
+cheat737_code = "2AB9A,27"
+
+cheat738_desc = "ロイ第四道具はがねの弓钢弓"
+cheat738_handler = "2"
+cheat738_code = "2AB9A,28"
+
+cheat739_desc = "ロイ第四道具ぎんの弓银弓"
+cheat739_handler = "2"
+cheat739_code = "2AB9A,29"
+
+cheat740_desc = "ロイ第四道具どくの弓毒弓"
+cheat740_handler = "2"
+cheat740_code = "2AB9A,2A"
+
+cheat741_desc = "ロイ第四道具キラ－ボウ必杀の弓"
+cheat741_handler = "2"
+cheat741_code = "2AB9A,2B"
+
+cheat742_desc = "ロイ第四道具ゆうしゃの弓勇者の弓"
+cheat742_handler = "2"
+cheat742_code = "2AB9A,2C"
+
+cheat743_desc = "ロイ第四道具短弓"
+cheat743_handler = "2"
+cheat743_code = "2AB9A,2D"
+
+cheat744_desc = "ロイ第四道具长弓"
+cheat744_handler = "2"
+cheat744_code = "2AB9A,2E"
+
+cheat745_desc = "ロイ第四道具ミュルゲレ"
+cheat745_handler = "2"
+cheat745_code = "2AB9A,2F"
+
+cheat746_desc = "ロイ第四道具ア－チ弓台"
+cheat746_handler = "2"
+cheat746_code = "2AB9A,30"
+
+cheat747_desc = "ロイ第四道具ロソグアア－チ远程弓台"
+cheat747_handler = "2"
+cheat747_code = "2AB9A,31"
+
+cheat748_desc = "ロイ第四道具キラ－ア－チ必杀の弓"
+cheat748_handler = "2"
+cheat748_code = "2AB9A,32"
+
+cheat749_desc = "ロイ第四道具ファイア－火球"
+cheat749_handler = "2"
+cheat749_code = "2AB9A,33"
+
+cheat750_desc = "ロイ第四道具サンダ－落雷"
+cheat750_handler = "2"
+cheat750_code = "2AB9A,34"
+
+cheat751_desc = "ロイ第四道具フィソブル冰冻"
+cheat751_handler = "2"
+cheat751_code = "2AB9A,35"
+
+cheat752_desc = "ロイ第四道具エルファイア－火炎壁"
+cheat752_handler = "2"
+cheat752_code = "2AB9A,36"
+
+cheat753_desc = "ロイ第四道具エイルカリバ－风雪"
+cheat753_handler = "2"
+cheat753_code = "2AB9A,37"
+
+cheat754_desc = "ロイ第四道具ノスフェラ－ト冷炎"
+cheat754_handler = "2"
+cheat754_code = "2AB9A,37"
+
+cheat755_desc = "ロイ第四道具ダソダ－ストム－天雷"
+cheat755_handler = "2"
+cheat755_code = "2AB9A,39"
+
+cheat756_desc = "ロイ第四道具フォルブレイズ業火の理"
+cheat756_handler = "2"
+cheat756_code = "2AB9A,3A"
+
+cheat757_desc = "ロイ第四道具ライトニソグ"
+cheat757_handler = "2"
+cheat757_code = "2AB9A,3B"
+
+cheat758_desc = "ロイ第四道具ディヴァイソ"
+cheat758_handler = "2"
+cheat758_code = "2AB9A,3C"
+
+cheat759_desc = "ロイ第四道具パ－ジ"
+cheat759_handler = "2"
+cheat759_code = "2AB9A,3D"
+
+cheat760_desc = "ロイ第四道具ア－リアル至高の光"
+cheat760_handler = "2"
+cheat760_code = "2AB9A,3E"
+
+cheat761_desc = "ロイ第四道具ミィル"
+cheat761_handler = "2"
+cheat761_code = "2AB9A,3F"
+
+cheat762_desc = "ロイ第四道具リザイアHP吸收"
+cheat762_handler = "2"
+cheat762_code = "2AB9A,40"
+
+cheat763_desc = "ロイ第四道具イクリプス"
+cheat763_handler = "2"
+cheat763_code = "2AB9A,41"
+
+cheat764_desc = "ロイ第四道具アポカリプス默示の暗"
+cheat764_handler = "2"
+cheat764_code = "2AB9A,42"
+
+cheat765_desc = "ロイ第四道具ライブ回复"
+cheat765_handler = "2"
+cheat765_code = "2AB9A,43"
+
+cheat766_desc = "ロイ第四道具リライブ大回复"
+cheat766_handler = "2"
+cheat766_code = "2AB9A,44"
+
+cheat767_desc = "ロイ第四道具リカバ－重生"
+cheat767_handler = "2"
+cheat767_code = "2AB9A,45"
+
+cheat768_desc = "ロイ第四道具リブロ－祝福"
+cheat768_handler = "2"
+cheat768_code = "2AB9A,46"
+
+cheat769_desc = "ロイ第四道具リザ－ブ回复の光"
+cheat769_handler = "2"
+cheat769_code = "2AB9A,47"
+
+cheat770_desc = "ロイ第四道具ワ－プ传送"
+cheat770_handler = "2"
+cheat770_code = "2AB9A,48"
+
+cheat771_desc = "ロイ第四道具レスキュ－吸引"
+cheat771_handler = "2"
+cheat771_code = "2AB9A,49"
+
+cheat772_desc = "ロイ第四道具レスト解咒"
+cheat772_handler = "2"
+cheat772_code = "2AB9A,4A"
+
+cheat773_desc = "ロイ第四道具サイレス沉默"
+cheat773_handler = "2"
+cheat773_code = "2AB9A,4B"
+
+cheat774_desc = "ロイ第四道具スリ－プ睡眠"
+cheat774_handler = "2"
+cheat774_code = "2AB9A,4C"
+
+cheat775_desc = "ロイ第四道具ト－チ照明"
+cheat775_handler = "2"
+cheat775_code = "2AB9A,4D"
+
+cheat776_desc = "ロイ第四道具ハマ－ソ"
+cheat776_handler = "2"
+cheat776_code = "2AB9A,4E"
+
+cheat777_desc = "ロイ第四道具ウォッチ眺望"
+cheat777_handler = "2"
+cheat777_code = "2AB9A,4F"
+
+cheat778_desc = "ロイ第四道具バ－サク混乱"
+cheat778_handler = "2"
+cheat778_code = "2AB9A,50"
+
+cheat779_desc = "ロイ第四道具アンロック开锁"
+cheat779_handler = "2"
+cheat779_code = "2AB9A,51"
+
+cheat780_desc = "ロイ第四道具Ｍアップ魔力"
+cheat780_handler = "2"
+cheat780_code = "2AB9A,52"
+
+cheat781_desc = "ロイ第四道具火龙石"
+cheat781_handler = "2"
+cheat781_code = "2AB9A,53"
+
+cheat782_desc = "ロイ第四道具神龙石"
+cheat782_handler = "2"
+cheat782_code = "2AB9A,54"
+
+cheat783_desc = "ロイ第四道具魔龙石"
+cheat783_handler = "2"
+cheat783_code = "2AB9A,55"
+
+cheat784_desc = "ロイ第四道具秘传の书"
+cheat784_handler = "2"
+cheat784_code = "2AB9A,56"
+
+cheat785_desc = "ロイ第四道具女神のぞう"
+cheat785_handler = "2"
+cheat785_code = "2AB9A,57"
+
+cheat786_desc = "ロイ第四道具天使の衣"
+cheat786_handler = "2"
+cheat786_code = "2AB9A,58"
+
+cheat787_desc = "ロイ第四道具龙のたて"
+cheat787_handler = "2"
+cheat787_code = "2AB9A,59"
+
+cheat788_desc = "ロイ第四道具エナジ－リソグ魔力戒指"
+cheat788_handler = "2"
+cheat788_code = "2AB9A,5A"
+
+cheat789_desc = "ロイ第四道具はやての羽"
+cheat789_handler = "2"
+cheat789_code = "2AB9A,5B"
+
+cheat790_desc = "ロイ第四道具魔よけ"
+cheat790_handler = "2"
+cheat790_code = "2AB9A,5C"
+
+cheat791_desc = "ロイ第四道具ブ－ツ"
+cheat791_handler = "2"
+cheat791_code = "2AB9A,5D"
+
+cheat792_desc = "ロイ第四道具ボディリング体格戒指"
+cheat792_handler = "2"
+cheat792_code = "2AB9A,5E"
+
+cheat793_desc = "ロイ第四道具英雄の证"
+cheat793_handler = "2"
+cheat793_code = "2AB9A,5F"
+
+cheat794_desc = "ロイ第四道具骑士の章"
+cheat794_handler = "2"
+cheat794_code = "2AB9A,60"
+
+cheat795_desc = "ロイ第四道具オリオソの箭"
+cheat795_handler = "2"
+cheat795_code = "2AB9A,61"
+
+cheat796_desc = "ロイ第四道具天使のムチ天使の鞭"
+cheat796_handler = "2"
+cheat796_code = "2AB9A,62"
+
+cheat797_desc = "ロイ第四道具導きの指轮"
+cheat797_handler = "2"
+cheat797_code = "2AB9A,63"
+
+cheat798_desc = "ロイ第四道具たからのかぎ门钥匙"
+cheat798_handler = "2"
+cheat798_code = "2AB9A,64"
+
+cheat799_desc = "ロイ第四道具とびらのかぎ宝箱钥匙"
+cheat799_handler = "2"
+cheat799_code = "2AB9A,65"
+
+cheat800_desc = "ロイ第四道具はねばしのかぎ吊挢钥匙"
+cheat800_handler = "2"
+cheat800_code = "2AB9A,66"
+
+cheat801_desc = "ロイ第四道具とうぞくのかぎ盗贼钥匙"
+cheat801_handler = "2"
+cheat801_code = "2AB9A,67"
+
+cheat802_desc = "ロイ第四道具きずぐすり伤药"
+cheat802_handler = "2"
+cheat802_code = "2AB9A,68"
+
+cheat803_desc = "ロイ第四道具とっこうやく"
+cheat803_handler = "2"
+cheat803_code = "2AB9A,69"
+
+cheat804_desc = "ロイ第四道具せいすい圣水"
+cheat804_handler = "2"
+cheat804_code = "2AB9A,6A"
+
+cheat805_desc = "ロイ第四道具たいまつ火把"
+cheat805_handler = "2"
+cheat805_code = "2AB9A,6B"
+
+cheat806_desc = "ロイ第四道具どくけし解毒药"
+cheat806_handler = "2"
+cheat806_code = "2AB9A,6C"
+
+cheat807_desc = "ロイ第四道具メンバ－カ－ド会员卡"
+cheat807_handler = "2"
+cheat807_code = "2AB9A,6D"
+
+cheat808_desc = "ロイ第四道具シルバ－カ－ド半价卡"
+cheat808_handler = "2"
+cheat808_code = "2AB9A,6E"
+
+cheat809_desc = "ロイ第四道具ゴ－ルド"
+cheat809_handler = "2"
+cheat809_code = "2AB9A,6F"
+
+cheat810_desc = "ロイ第四道具暗のブレス"
+cheat810_handler = "2"
+cheat810_code = "2AB9A,70"
+
+cheat811_desc = "ロイ第四道具エツケザツクス"
+cheat811_handler = "2"
+cheat811_code = "2AB9A,71"
+
+cheat812_desc = "ロイ第四道具はがねの大剑钢大剑"
+cheat812_handler = "2"
+cheat812_code = "2AB9A,72"
+
+cheat813_desc = "ロイ第四道具ぎんの大剑银大剑"
+cheat813_handler = "2"
+cheat813_code = "2AB9A,73"
+
+cheat814_desc = "ロイ第四道具アルの剑"
+cheat814_handler = "2"
+cheat814_code = "2AB9A,74"
+
+cheat815_desc = "ロイ第四道具カントのやり"
+cheat815_handler = "2"
+cheat815_code = "2AB9A,75"
+
+cheat816_desc = "ロイ第四道具ティ－ナの杖"
+cheat816_handler = "2"
+cheat816_code = "2AB9A,76"
+
+cheat817_desc = "ロイ第四道具圣女の杖"
+cheat817_handler = "2"
+cheat817_code = "2AB9A,77"
+
+cheat818_desc = "ロイ第四道具ドラゴンキラ－"
+cheat818_handler = "2"
+cheat818_code = "2AB9A,78"
+
+cheat819_desc = "ロイ第四道具白の宝玉"
+cheat819_handler = "2"
+cheat819_code = "2AB9A,79"
+
+cheat820_desc = "ロイ第四道具青の宝玉"
+cheat820_handler = "2"
+cheat820_code = "2AB9A,7A"
+
+cheat821_desc = "ロイ第四道具赤の宝玉"
+cheat821_handler = "2"
+cheat821_code = "2AB9A,7B"
+
+cheat822_desc = "ロイ第四道具デルフィの守リ"
+cheat822_handler = "2"
+cheat822_code = "2AB9A,7C"
+
+cheat823_desc = "ロイ第四道具ル－ゾソ－ド"
+cheat823_handler = "2"
+cheat823_code = "2AB9A,7D"
+
+cheat824_desc = "ロイ第四道具スレソドスピア"
+cheat824_handler = "2"
+cheat824_code = "2AB9A,7E"
+
+cheat825_desc = "ロイ第四道具トマホ－ク"
+cheat825_handler = "2"
+cheat825_code = "2AB9A,7F"
+
+cheat826_desc = "ロイ第五道具てつの剑铁剑"
+cheat826_handler = "2"
+cheat826_code = "2AB9C,01"
+
+cheat827_desc = "ロイ第五道具てつの大剑铁の大剑"
+cheat827_handler = "2"
+cheat827_code = "2AB9C,02"
+
+cheat828_desc = "ロイ第五道具はがねの剑钢剑"
+cheat828_handler = "2"
+cheat828_code = "2AB9C,03"
+
+cheat829_desc = "ロイ第五道具ぎんの剑银剑"
+cheat829_handler = "2"
+cheat829_code = "2AB9C,04"
+
+cheat830_desc = "ロイ第五道具ほそみの剑细剑"
+cheat830_handler = "2"
+cheat830_code = "2AB9C,05"
+
+cheat831_desc = "ロイ第五道具どくの剑毒剑"
+cheat831_handler = "2"
+cheat831_code = "2AB9C,06"
+
+cheat832_desc = "ロイ第五道具ゆうしゃの剑勇者の剑"
+cheat832_handler = "2"
+cheat832_code = "2AB9C,07"
+
+cheat833_desc = "ロイ第五道具ひかりの剑光の剑"
+cheat833_handler = "2"
+cheat833_code = "2AB9C,08"
+
+cheat834_desc = "ロイ第五道具デュラソダル炎のの剑"
+cheat834_handler = "2"
+cheat834_code = "2AB9C,09"
+
+cheat835_desc = "ロイ第五道具ア－マ－キラ－破甲剑"
+cheat835_handler = "2"
+cheat835_code = "2AB9C,0A"
+
+cheat836_desc = "ロイ第五道具レイピア突刺剑"
+cheat836_handler = "2"
+cheat836_code = "2AB9C,0B"
+
+cheat837_desc = "ロイ第五道具キルソ－ド必杀剑"
+cheat837_handler = "2"
+cheat837_code = "2AB9C,0C"
+
+cheat838_desc = "ロイ第五道具ラソスバスタ－"
+cheat838_handler = "2"
+cheat838_code = "2AB9C,0D"
+
+cheat839_desc = "ロイ第五道具侍刀东方の剑"
+cheat839_handler = "2"
+cheat839_code = "2AB9C,0E"
+
+cheat840_desc = "ロイ第五道具封印の剑"
+cheat840_handler = "2"
+cheat840_code = "2AB9C,0F"
+
+cheat841_desc = "ロイ第五道具てつのやり铁枪"
+cheat841_handler = "2"
+cheat841_code = "2AB9C,10"
+
+cheat842_desc = "ロイ第五道具はがねのやり钢枪"
+cheat842_handler = "2"
+cheat842_code = "2AB9C,11"
+
+cheat843_desc = "ロイ第五道具ぎんのやり银枪"
+cheat843_handler = "2"
+cheat843_code = "2AB9C,12"
+
+cheat844_desc = "ロイ第五道具ほそみのやり细枪"
+cheat844_handler = "2"
+cheat844_code = "2AB9C,13"
+
+cheat845_desc = "ロイ第五道具どくのやり毒枪"
+cheat845_handler = "2"
+cheat845_code = "2AB9C,14"
+
+cheat846_desc = "ロイ第五道具ゆうしゃのやり勇者の枪"
+cheat846_handler = "2"
+cheat846_code = "2AB9C,15"
+
+cheat847_desc = "ロイ第五道具てやり投枪"
+cheat847_handler = "2"
+cheat847_code = "2AB9C,16"
+
+cheat848_desc = "ロイ第五道具マルテ冰雪の枪"
+cheat848_handler = "2"
+cheat848_code = "2AB9C,17"
+
+cheat849_desc = "ロイ第五道具ナイトキラ－刺马枪"
+cheat849_handler = "2"
+cheat849_code = "2AB9C,18"
+
+cheat850_desc = "ロイ第五道具キラ－ランス必杀の枪"
+cheat850_handler = "2"
+cheat850_code = "2AB9C,19"
+
+cheat851_desc = "ロイ第五道具アクズバスタ－"
+cheat851_handler = "2"
+cheat851_code = "2AB9C,1A"
+
+cheat852_desc = "ロイ第五道具てつのおの铁斧"
+cheat852_handler = "2"
+cheat852_code = "2AB9C,1B"
+
+cheat853_desc = "ロイ第五道具はがねのおの钢斧"
+cheat853_handler = "2"
+cheat853_code = "2AB9C,1C"
+
+cheat854_desc = "ロイ第五道具ぎんのおの银斧"
+cheat854_handler = "2"
+cheat854_code = "2AB9C,1D"
+
+cheat855_desc = "ロイ第五道具どくのおの毒斧"
+cheat855_handler = "2"
+cheat855_code = "2AB9C,1E"
+
+cheat856_desc = "ロイ第五道具ゆうしゃのおの勇者の斧"
+cheat856_handler = "2"
+cheat856_code = "2AB9C,1F"
+
+cheat857_desc = "ロイ第五道具てつの斧铁斧"
+cheat857_handler = "2"
+cheat857_code = "2AB9C,20"
+
+cheat858_desc = "ロイ第五道具アルマ－ズ天雷の斧"
+cheat858_handler = "2"
+cheat858_code = "2AB9C,21"
+
+cheat859_desc = "ロイ第五道具ハンマ－大铁锤"
+cheat859_handler = "2"
+cheat859_code = "2AB9C,22"
+
+cheat860_desc = "ロイ第五道具キラ－アクス必杀の斧"
+cheat860_handler = "2"
+cheat860_code = "2AB9C,23"
+
+cheat861_desc = "ロイ第五道具ソ－ドバスタ－"
+cheat861_handler = "2"
+cheat861_code = "2AB9C,24"
+
+cheat862_desc = "ロイ第五道具デビルアクス恶魔の斧"
+cheat862_handler = "2"
+cheat862_code = "2AB9C,25"
+
+cheat863_desc = "ロイ第五道具ポ－ルアクス斩马斧"
+cheat863_handler = "2"
+cheat863_code = "2AB9C,26"
+
+cheat864_desc = "ロイ第五道具てつの弓铁弓"
+cheat864_handler = "2"
+cheat864_code = "2AB9C,27"
+
+cheat865_desc = "ロイ第五道具はがねの弓钢弓"
+cheat865_handler = "2"
+cheat865_code = "2AB9C,28"
+
+cheat866_desc = "ロイ第五道具ぎんの弓银弓"
+cheat866_handler = "2"
+cheat866_code = "2AB9C,29"
+
+cheat867_desc = "ロイ第五道具どくの弓毒弓"
+cheat867_handler = "2"
+cheat867_code = "2AB9C,2A"
+
+cheat868_desc = "ロイ第五道具キラ－ボウ必杀の弓"
+cheat868_handler = "2"
+cheat868_code = "2AB9C,2B"
+
+cheat869_desc = "ロイ第五道具ゆうしゃの弓勇者の弓"
+cheat869_handler = "2"
+cheat869_code = "2AB9C,2C"
+
+cheat870_desc = "ロイ第五道具短弓"
+cheat870_handler = "2"
+cheat870_code = "2AB9C,2D"
+
+cheat871_desc = "ロイ第五道具长弓"
+cheat871_handler = "2"
+cheat871_code = "2AB9C,2E"
+
+cheat872_desc = "ロイ第五道具ミュルゲレ"
+cheat872_handler = "2"
+cheat872_code = "2AB9C,2F"
+
+cheat873_desc = "ロイ第五道具ア－チ弓台"
+cheat873_handler = "2"
+cheat873_code = "2AB9C,30"
+
+cheat874_desc = "ロイ第五道具ロソグアア－チ远程弓台"
+cheat874_handler = "2"
+cheat874_code = "2AB9C,31"
+
+cheat875_desc = "ロイ第五道具キラ－ア－チ必杀の弓"
+cheat875_handler = "2"
+cheat875_code = "2AB9C,32"
+
+cheat876_desc = "ロイ第五道具ファイア－火球"
+cheat876_handler = "2"
+cheat876_code = "2AB9C,33"
+
+cheat877_desc = "ロイ第五道具サンダ－落雷"
+cheat877_handler = "2"
+cheat877_code = "2AB9C,34"
+
+cheat878_desc = "ロイ第五道具フィソブル冰冻"
+cheat878_handler = "2"
+cheat878_code = "2AB9C,35"
+
+cheat879_desc = "ロイ第五道具エルファイア－火炎壁"
+cheat879_handler = "2"
+cheat879_code = "2AB9C,36"
+
+cheat880_desc = "ロイ第五道具エイルカリバ－风雪"
+cheat880_handler = "2"
+cheat880_code = "2AB9C,37"
+
+cheat881_desc = "ロイ第五道具ノスフェラ－ト冷炎"
+cheat881_handler = "2"
+cheat881_code = "2AB9C,37"
+
+cheat882_desc = "ロイ第五道具ダソダ－ストム－天雷"
+cheat882_handler = "2"
+cheat882_code = "2AB9C,39"
+
+cheat883_desc = "ロイ第五道具フォルブレイズ業火の理"
+cheat883_handler = "2"
+cheat883_code = "2AB9C,3A"
+
+cheat884_desc = "ロイ第五道具ライトニソグ"
+cheat884_handler = "2"
+cheat884_code = "2AB9C,3B"
+
+cheat885_desc = "ロイ第五道具ディヴァイソ"
+cheat885_handler = "2"
+cheat885_code = "2AB9C,3C"
+
+cheat886_desc = "ロイ第五道具パ－ジ"
+cheat886_handler = "2"
+cheat886_code = "2AB9C,3D"
+
+cheat887_desc = "ロイ第五道具ア－リアル至高の光"
+cheat887_handler = "2"
+cheat887_code = "2AB9C,3E"
+
+cheat888_desc = "ロイ第五道具ミィル"
+cheat888_handler = "2"
+cheat888_code = "2AB9C,3F"
+
+cheat889_desc = "ロイ第五道具リザイアHP吸收"
+cheat889_handler = "2"
+cheat889_code = "2AB9C,40"
+
+cheat890_desc = "ロイ第五道具イクリプス"
+cheat890_handler = "2"
+cheat890_code = "2AB9C,41"
+
+cheat891_desc = "ロイ第五道具アポカリプス默示の暗"
+cheat891_handler = "2"
+cheat891_code = "2AB9C,42"
+
+cheat892_desc = "ロイ第五道具ライブ回复"
+cheat892_handler = "2"
+cheat892_code = "2AB9C,43"
+
+cheat893_desc = "ロイ第五道具リライブ大回复"
+cheat893_handler = "2"
+cheat893_code = "2AB9C,44"
+
+cheat894_desc = "ロイ第五道具リカバ－重生"
+cheat894_handler = "2"
+cheat894_code = "2AB9C,45"
+
+cheat895_desc = "ロイ第五道具リブロ－祝福"
+cheat895_handler = "2"
+cheat895_code = "2AB9C,46"
+
+cheat896_desc = "ロイ第五道具リザ－ブ回复の光"
+cheat896_handler = "2"
+cheat896_code = "2AB9C,47"
+
+cheat897_desc = "ロイ第五道具ワ－プ传送"
+cheat897_handler = "2"
+cheat897_code = "2AB9C,48"
+
+cheat898_desc = "ロイ第五道具レスキュ－吸引"
+cheat898_handler = "2"
+cheat898_code = "2AB9C,49"
+
+cheat899_desc = "ロイ第五道具レスト解咒"
+cheat899_handler = "2"
+cheat899_code = "2AB9C,4A"
+
+cheat900_desc = "ロイ第五道具サイレス沉默"
+cheat900_handler = "2"
+cheat900_code = "2AB9C,4B"
+
+cheat901_desc = "ロイ第五道具スリ－プ睡眠"
+cheat901_handler = "2"
+cheat901_code = "2AB9C,4C"
+
+cheat902_desc = "ロイ第五道具ト－チ照明"
+cheat902_handler = "2"
+cheat902_code = "2AB9C,4D"
+
+cheat903_desc = "ロイ第五道具ハマ－ソ"
+cheat903_handler = "2"
+cheat903_code = "2AB9C,4E"
+
+cheat904_desc = "ロイ第五道具ウォッチ眺望"
+cheat904_handler = "2"
+cheat904_code = "2AB9C,4F"
+
+cheat905_desc = "ロイ第五道具バ－サク混乱"
+cheat905_handler = "2"
+cheat905_code = "2AB9C,50"
+
+cheat906_desc = "ロイ第五道具アンロック开锁"
+cheat906_handler = "2"
+cheat906_code = "2AB9C,51"
+
+cheat907_desc = "ロイ第五道具Ｍアップ魔力"
+cheat907_handler = "2"
+cheat907_code = "2AB9C,52"
+
+cheat908_desc = "ロイ第五道具火龙石"
+cheat908_handler = "2"
+cheat908_code = "2AB9C,53"
+
+cheat909_desc = "ロイ第五道具神龙石"
+cheat909_handler = "2"
+cheat909_code = "2AB9C,54"
+
+cheat910_desc = "ロイ第五道具魔龙石"
+cheat910_handler = "2"
+cheat910_code = "2AB9C,55"
+
+cheat911_desc = "ロイ第五道具秘传の书"
+cheat911_handler = "2"
+cheat911_code = "2AB9C,56"
+
+cheat912_desc = "ロイ第五道具女神のぞう"
+cheat912_handler = "2"
+cheat912_code = "2AB9C,57"
+
+cheat913_desc = "ロイ第五道具天使の衣"
+cheat913_handler = "2"
+cheat913_code = "2AB9C,58"
+
+cheat914_desc = "ロイ第五道具龙のたて"
+cheat914_handler = "2"
+cheat914_code = "2AB9C,59"
+
+cheat915_desc = "ロイ第五道具エナジ－リソグ魔力戒指"
+cheat915_handler = "2"
+cheat915_code = "2AB9C,5A"
+
+cheat916_desc = "ロイ第五道具はやての羽"
+cheat916_handler = "2"
+cheat916_code = "2AB9C,5B"
+
+cheat917_desc = "ロイ第五道具魔よけ"
+cheat917_handler = "2"
+cheat917_code = "2AB9C,5C"
+
+cheat918_desc = "ロイ第五道具ブ－ツ"
+cheat918_handler = "2"
+cheat918_code = "2AB9C,5D"
+
+cheat919_desc = "ロイ第五道具ボディリング体格戒指"
+cheat919_handler = "2"
+cheat919_code = "2AB9C,5E"
+
+cheat920_desc = "ロイ第五道具英雄の证"
+cheat920_handler = "2"
+cheat920_code = "2AB9C,5F"
+
+cheat921_desc = "ロイ第五道具骑士の章"
+cheat921_handler = "2"
+cheat921_code = "2AB9C,60"
+
+cheat922_desc = "ロイ第五道具オリオソの箭"
+cheat922_handler = "2"
+cheat922_code = "2AB9C,61"
+
+cheat923_desc = "ロイ第五道具天使のムチ天使の鞭"
+cheat923_handler = "2"
+cheat923_code = "2AB9C,62"
+
+cheat924_desc = "ロイ第五道具導きの指轮"
+cheat924_handler = "2"
+cheat924_code = "2AB9C,63"
+
+cheat925_desc = "ロイ第五道具たからのかぎ门钥匙"
+cheat925_handler = "2"
+cheat925_code = "2AB9C,64"
+
+cheat926_desc = "ロイ第五道具とびらのかぎ宝箱钥匙"
+cheat926_handler = "2"
+cheat926_code = "2AB9C,65"
+
+cheat927_desc = "ロイ第五道具はねばしのかぎ吊挢钥匙"
+cheat927_handler = "2"
+cheat927_code = "2AB9C,66"
+
+cheat928_desc = "ロイ第五道具とうぞくのかぎ盗贼钥匙"
+cheat928_handler = "2"
+cheat928_code = "2AB9C,67"
+
+cheat929_desc = "ロイ第五道具きずぐすり伤药"
+cheat929_handler = "2"
+cheat929_code = "2AB9C,68"
+
+cheat930_desc = "ロイ第五道具とっこうやく"
+cheat930_handler = "2"
+cheat930_code = "2AB9C,69"
+
+cheat931_desc = "ロイ第五道具せいすい圣水"
+cheat931_handler = "2"
+cheat931_code = "2AB9C,6A"
+
+cheat932_desc = "ロイ第五道具たいまつ火把"
+cheat932_handler = "2"
+cheat932_code = "2AB9C,6B"
+
+cheat933_desc = "ロイ第五道具どくけし解毒药"
+cheat933_handler = "2"
+cheat933_code = "2AB9C,6C"
+
+cheat934_desc = "ロイ第五道具メンバ－カ－ド会员卡"
+cheat934_handler = "2"
+cheat934_code = "2AB9C,6D"
+
+cheat935_desc = "ロイ第五道具シルバ－カ－ド半价卡"
+cheat935_handler = "2"
+cheat935_code = "2AB9C,6E"
+
+cheat936_desc = "ロイ第五道具ゴ－ルド"
+cheat936_handler = "2"
+cheat936_code = "2AB9C,6F"
+
+cheat937_desc = "ロイ第五道具暗のブレス"
+cheat937_handler = "2"
+cheat937_code = "2AB9C,70"
+
+cheat938_desc = "ロイ第五道具エツケザツクス"
+cheat938_handler = "2"
+cheat938_code = "2AB9C,71"
+
+cheat939_desc = "ロイ第五道具はがねの大剑钢大剑"
+cheat939_handler = "2"
+cheat939_code = "2AB9C,72"
+
+cheat940_desc = "ロイ第五道具ぎんの大剑银大剑"
+cheat940_handler = "2"
+cheat940_code = "2AB9C,73"
+
+cheat941_desc = "ロイ第五道具アルの剑"
+cheat941_handler = "2"
+cheat941_code = "2AB9C,74"
+
+cheat942_desc = "ロイ第五道具カントのやり"
+cheat942_handler = "2"
+cheat942_code = "2AB9C,75"
+
+cheat943_desc = "ロイ第五道具ティ－ナの杖"
+cheat943_handler = "2"
+cheat943_code = "2AB9C,76"
+
+cheat944_desc = "ロイ第五道具圣女の杖"
+cheat944_handler = "2"
+cheat944_code = "2AB9C,77"
+
+cheat945_desc = "ロイ第五道具ドラゴンキラ－"
+cheat945_handler = "2"
+cheat945_code = "2AB9C,78"
+
+cheat946_desc = "ロイ第五道具白の宝玉"
+cheat946_handler = "2"
+cheat946_code = "2AB9C,79"
+
+cheat947_desc = "ロイ第五道具青の宝玉"
+cheat947_handler = "2"
+cheat947_code = "2AB9C,7A"
+
+cheat948_desc = "ロイ第五道具赤の宝玉"
+cheat948_handler = "2"
+cheat948_code = "2AB9C,7B"
+
+cheat949_desc = "ロイ第五道具デルフィの守リ"
+cheat949_handler = "2"
+cheat949_code = "2AB9C,7C"
+
+cheat950_desc = "ロイ第五道具ル－ゾソ－ド"
+cheat950_handler = "2"
+cheat950_code = "2AB9C,7D"
+
+cheat951_desc = "ロイ第五道具スレソドスピア"
+cheat951_handler = "2"
+cheat951_code = "2AB9C,7E"
+
+cheat952_desc = "ロイ第五道具トマホ－ク"
+cheat952_handler = "2"
+cheat952_code = "2AB9C,7F"
+
+cheats = 953

@@ -1,0 +1,101 @@
+cheat0_desc = "快速升级"
+cheat0_handler = "0"
+cheat0_code = "800FD912#1200"
+
+cheat1_desc = "金钱无限"
+cheat1_handler = "0"
+cheat1_code = "80097BF0#423F;80097BF2#000F"
+
+cheat2_desc = "绝对无敌"
+cheat2_handler = "0"
+cheat2_code = "80109D02#1400;80109EB8#0000"
+
+cheat3_desc = "攻击力最高"
+cheat3_handler = "0"
+cheat3_code = "800F4BF6#1200"
+
+cheat4_desc = "防御力最高"
+cheat4_handler = "0"
+cheat4_code = "800F504E#1200"
+
+cheat5_desc = "HP 最高"
+cheat5_handler = "0"
+cheat5_code = "80097BA0#270F;80097BA4#270F"
+
+cheat6_desc = "MP 最高"
+cheat6_handler = "0"
+cheat6_code = "80097BB0#270F;80097BB4#270F"
+
+cheat7_desc = "STR 最高"
+cheat7_handler = "0"
+cheat7_code = "80097BB8#03E7"
+
+cheat8_desc = "CON 最高"
+cheat8_handler = "0"
+cheat8_code = "80097BBC#03E7"
+
+cheat9_desc = "INT 最高"
+cheat9_handler = "0"
+cheat9_code = "80097BC0#03E7"
+
+cheat10_desc = "LCK 最高"
+cheat10_handler = "0"
+cheat10_code = "80097BC4#03E7"
+
+cheat11_desc = "MP 快速恢复"
+cheat11_handler = "0"
+cheat11_code = "8010131A#1200"
+
+cheat12_desc = "HEART MAX心"
+cheat12_handler = "0"
+cheat12_code = "80097BA8#270F;80097BAC#270F"
+
+cheat13_desc = "全部必杀技"
+cheat13_handler = "0"
+cheat13_code = "80097982#8180;80097984#8382;80097986#8584;80097988#8786"
+
+cheat14_desc = "全部魔导器"
+cheat14_handler = "0"
+cheat14_code = "B00F0002#00000000,80097964#0303"
+
+cheat15_desc = "使魔等级最高"
+cheat15_handler = "0"
+cheat15_code = "B0250002#00000000,80097C44#0063"
+
+cheat16_desc = "时间暂停的秒数不变"
+cheat16_handler = "0"
+cheat16_code = "80074BD4#0005;80129E7C#0000"
+
+cheat17_desc = "全部武器.防具.饰物及道具"
+cheat17_handler = "0"
+cheat17_code = "B0800002#00000000,8009798C#0909"
+
+cheat18_desc = "蝙蝠LV99，EXP99"
+cheat18_handler = "0"
+cheat18_code = "80097C44#0063;80097C48#0063"
+
+cheat19_desc = "死灵LV99，EXP99"
+cheat19_handler = "0"
+cheat19_code = "80097C50#0063;80097C54#0063"
+
+cheat20_desc = "妖精LV99，EXP99"
+cheat20_handler = "0"
+cheat20_code = "80097C5C#0063;80097C60#0063"
+
+cheat21_desc = "小恶魔LV99，EXP99"
+cheat21_handler = "0"
+cheat21_code = "80097C68#0063;80097C6C#0063"
+
+cheat22_desc = "剑魔LV99，EXP99"
+cheat22_handler = "0"
+cheat22_code = "80097C74#0063;80097C78#0063"
+
+cheat23_desc = "半妖精LV99，EXP99"
+cheat23_handler = "0"
+cheat23_code = "80097C80#0063;80097C84#0063"
+
+cheat24_desc = "鼻恶魔LV99，EXP99"
+cheat24_handler = "0"
+cheat24_code = "80097C8C#0063;80097C90#0063"
+
+cheats = 25

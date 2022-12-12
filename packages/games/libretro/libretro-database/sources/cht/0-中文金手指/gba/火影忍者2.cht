@@ -1,0 +1,13 @@
+cheat0_desc = "HP"
+cheat0_handler = "2"
+cheat0_code = "40356,C8"
+
+cheat1_desc = "葉子"
+cheat1_handler = "2"
+cheat1_code = "44538,E7,3"
+
+cheat2_desc = "殺敵"
+cheat2_handler = "2"
+cheat2_code = "44536,E7,3"
+
+cheats = 3

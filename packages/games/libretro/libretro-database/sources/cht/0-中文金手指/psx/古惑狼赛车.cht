@@ -1,0 +1,13 @@
+cheat0_desc = "ADVENTURE模式全部關卡on"
+cheat0_handler = "0"
+cheat0_code = "B00A0002#00000000,8008FBA2#FFFF"
+
+cheat1_desc = "所有跑道．人物，選項全滿"
+cheat1_handler = "0"
+cheat1_code = "8008E6EC#FFFF;8008E6EE#FFFF;8008E6F0#FFFF"
+
+cheat2_desc = "冠軍賽績分２５５"
+cheat2_handler = "0"
+cheat2_code = "30098980#00FF"
+
+cheats = 3

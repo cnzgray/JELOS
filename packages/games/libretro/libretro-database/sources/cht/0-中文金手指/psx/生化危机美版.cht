@@ -1,0 +1,97 @@
+cheat0_desc = "L2 + Triangle Button For Shotgun"
+cheat0_handler = "0"
+cheat0_code = "d00cf844#0011;800c8784#ff03"
+
+cheat1_desc = "L2 + X Button For Colt Python"
+cheat1_handler = "0"
+cheat1_code = "d00cf844#0041;800c8784#ff05"
+
+cheat2_desc = "Triangle Button Restores Health"
+cheat2_handler = "0"
+cheat2_code = "d00cf844#0010;800c51ac#00c8"
+
+cheat3_desc = "Bazooka In 1st Pos."
+cheat3_handler = "0"
+cheat3_code = "800c8784#ff07"
+
+cheat4_desc = "Bazooka In 1st Pos."
+cheat4_handler = "0"
+cheat4_code = "800c8784#ff05"
+
+cheat5_desc = "Flame Thrower In 1st Pos."
+cheat5_handler = "0"
+cheat5_code = "800c8784#ff06"
+
+cheat6_desc = "Rocket Launcher In 1st Pos."
+cheat6_handler = "0"
+cheat6_code = "800c8784#ff0a"
+
+cheat7_desc = "Shotgun In 1st Pos."
+cheat7_handler = "0"
+cheat7_code = "800c8784#ff03"
+
+cheat8_desc = "L1 + X Button For Save Anywhere"
+cheat8_handler = "0"
+cheat8_code = "d00cf844#0044;800c8456#0002;800343f2#2400;8003446e#2400"
+
+cheat9_desc = "Start W/ Bazooka In Chest"
+cheat9_handler = "0"
+cheat9_code = "d00c867c#0010;800c877a#ff07"
+
+cheat10_desc = "Start W/ Colt In Chest"
+cheat10_handler = "0"
+cheat10_code = "d00c867c#0010;800c877e#ff05"
+
+cheat11_desc = "Start W/ Flame Bazooka In Chest"
+cheat11_handler = "0"
+cheat11_code = "d00c867c#0010;800c8776#ff09"
+
+cheat12_desc = "Start W/ Flame Thrwr In Chest"
+cheat12_handler = "0"
+cheat12_code = "d00c867c#0010;800c877c#ff06"
+
+cheat13_desc = "Start W/ Rocket Launcher In Chest"
+cheat13_handler = "0"
+cheat13_code = "d00c867c#0010;800c8774#ff0a"
+
+cheat14_desc = "Start W/ Shotgun In Chest"
+cheat14_handler = "0"
+cheat14_code = "d00c867c#0010;800c8782#ff03"
+
+cheat15_desc = "Infinite Health"
+cheat15_handler = "0"
+cheat15_code = "800c51ac#00c8"
+
+cheat16_desc = "L1 + Circle Button For Acid Bazooka"
+cheat16_handler = "0"
+cheat16_code = "d00cf844#0024;800c8784#ff08"
+
+cheat17_desc = "L1 + Square Button For Rocket Launcher"
+cheat17_handler = "0"
+cheat17_code = "d00cf844#0084;800c8784#ff0a"
+
+cheat18_desc = "L1 + Triangle Button For Bazooka"
+cheat18_handler = "0"
+cheat18_code = "d00cf844#0014;800c8784#ff07"
+
+cheat19_desc = "L1 + X Button For Flame Bazooka"
+cheat19_handler = "0"
+cheat19_code = "d00cf844#0044;800c8784#ff09"
+
+cheat20_desc = "L2 + Circle Button For Barretta"
+cheat20_handler = "0"
+cheat20_code = "d00cf844#0021;800c8784#ff04"
+
+cheat21_desc = "L2 + Square Button For Flame Thrower"
+cheat21_handler = "0"
+cheat21_code = "d00cf844#0081;800c8784#ff06"
+
+cheat22_desc = "Start W/ Acid Bazooka In Chest"
+cheat22_handler = "0"
+cheat22_code = "d00c867c#0010;800c8778#ff08"
+
+cheat23_desc = "Start W/ Baretta In Chest"
+cheat23_handler = "0"
+cheat23_code = "d00c867c#0010;800c8772#ff02"
+
+cheats = 24

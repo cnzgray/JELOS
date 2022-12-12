@@ -1,0 +1,13 @@
+cheat0_desc = "子弹数"
+cheat0_handler = "2"
+cheat0_code = "400A0,E7,3"
+
+cheat1_desc = "血"
+cheat1_handler = "2"
+cheat1_code = "45EFD,4"
+
+cheat2_desc = "雷"
+cheat2_handler = "2"
+cheat2_code = "400A8,63"
+
+cheats = 3

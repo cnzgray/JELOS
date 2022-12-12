@@ -1,0 +1,37 @@
+cheat0_desc = "角色MARIO"
+cheat0_handler = "2"
+cheat0_code = "41C70,0"
+
+cheat1_desc = "角色PEACH"
+cheat1_handler = "2"
+cheat1_code = "41C70,1"
+
+cheat2_desc = "角色KINOPIO"
+cheat2_handler = "2"
+cheat2_code = "41C70,2"
+
+cheat3_desc = "角色LUIGI"
+cheat3_handler = "2"
+cheat3_code = "41C70,3"
+
+cheat4_desc = "生命数"
+cheat4_handler = "2"
+cheat4_code = "41161,63"
+
+cheat5_desc = "变大"
+cheat5_handler = "2"
+cheat5_code = "41C76,1F"
+
+cheat6_desc = "全部“A”"
+cheat6_handler = "2"
+cheat6_code = "41C35,1F"
+
+cheat7_desc = "可空中飘浮(按住跳键)"
+cheat7_handler = "2"
+cheat7_code = "41C7E,5F"
+
+cheat8_desc = "透明"
+cheat8_handler = "2"
+cheat8_code = "41C7D,5F"
+
+cheats = 9

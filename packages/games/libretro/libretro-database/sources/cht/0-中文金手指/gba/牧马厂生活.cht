@@ -1,0 +1,5 @@
+cheat0_desc = "金錢"
+cheat0_handler = "2"
+cheat0_code = "41424,FF,E0,F5,5"
+
+cheats = 1

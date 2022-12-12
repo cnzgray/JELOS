@@ -1,0 +1,33 @@
+cheat0_desc = "1~10的等级11"
+cheat0_handler = "2"
+cheat0_code = "2BE50,B;2BE98,B;2BEE0,B;2BF28,B;2BF70,B;2BFB8,B;2C000,B;2C048,B;2C090,B;2C0D8,B"
+
+cheat1_desc = "1~10的等级20"
+cheat1_handler = "2"
+cheat1_code = "2BE50,14;2BE98,14;2BEE0,14;2BF28,14;2BF70,14;2BFB8,14;2C000,14;2C048,14;2C090,14;2C0D8,14"
+
+cheat2_desc = "1~10的等级1"
+cheat2_handler = "2"
+cheat2_code = "2BE50,1;2BE98,1;2BEE0,1;2BF28,1;2BF70,1;2BFB8,1;2C000,1;2C048,1;2C090,1;2C0D8,1"
+
+cheat3_desc = "1~10的经验99"
+cheat3_handler = "2"
+cheat3_code = "2BE51,63;2BE99,63;2BEE1,63;2BF29,63;2BF71,63;2BFB9,63;2C001,63;2C049,63;2C091,63;2C0D9,63"
+
+cheat4_desc = "1~10的体力59"
+cheat4_handler = "2"
+cheat4_code = "2BE5A,3C,3B;2BEA2,3C,3B;2BEEA,3C,3B;2BF32,3C,3B;2BF7A,3C,3B;2BFC2,3C,3B;2C00A,3C,3B;2C052,3C,3B;2C09A,3C,3B;2C0E2,3C,3B"
+
+cheat5_desc = "1~10第一道具无限255"
+cheat5_handler = "2"
+cheat5_code = "2BE67,FF;2BEAF,FF;2BEF7,FF;2BF3F,FF;2BF87,FF;2BFCF,FF;2C017,FF;2C05F,FF;2C0A7,FF;2C0EF,FF"
+
+cheat6_desc = "金钱"
+cheat6_handler = "2"
+cheat6_code = "2BCF4,36,42,F"
+
+cheat7_desc = "男主角方1~10的经验99"
+cheat7_handler = "2"
+cheat7_code = "2C241,63;2C289,63;2C2D1,63;2C319,63;2C361,63;2C3A9,63;2C3F1,63;2C439,63;2C481,63;2C4C9,63"
+
+cheats = 8

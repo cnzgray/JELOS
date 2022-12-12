@@ -1,0 +1,5 @@
+cheat0_desc = "全技能"
+cheat0_handler = "2"
+cheat0_code = "45473,FF"
+
+cheats = 1

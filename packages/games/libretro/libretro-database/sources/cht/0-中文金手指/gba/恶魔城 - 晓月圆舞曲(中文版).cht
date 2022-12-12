@@ -1,0 +1,137 @@
+cheat0_desc = "金钱"
+cheat0_handler = "2"
+cheat0_code = "13284,3F,42,F"
+
+cheat1_desc = "全部能力"
+cheat1_handler = "2"
+cheat1_code = "13386,11,11,11;1338A,3F"
+
+cheat2_desc = "全部道具回复药"
+cheat2_handler = "2"
+cheat2_code = "13288,8"
+
+cheat3_desc = "全部道具大回复药"
+cheat3_handler = "2"
+cheat3_code = "13289,8"
+
+cheat4_desc = "全部道具全回复药"
+cheat4_handler = "2"
+cheat4_code = "1328A,8"
+
+cheat5_desc = "全部道具肉"
+cheat5_handler = "2"
+cheat5_code = "1328B,8"
+
+cheat6_desc = "全部道具美味的肉"
+cheat6_handler = "2"
+cheat6_code = "1328C,8"
+
+cheat7_desc = "全部道具魔力药"
+cheat7_handler = "2"
+cheat7_code = "1328D,8"
+
+cheat8_desc = "全部道具大魔力药"
+cheat8_handler = "2"
+cheat8_code = "1328E,8"
+
+cheat9_desc = "全部道具魔力结晶"
+cheat9_handler = "2"
+cheat9_code = "1328F,8"
+
+cheat10_desc = "全部道具解毒药"
+cheat10_handler = "2"
+cheat10_code = "13290,8"
+
+cheat11_desc = "全部道具解诅咒药"
+cheat11_handler = "2"
+cheat11_code = "13291,8"
+
+cheat12_desc = "全部道具锅巴"
+cheat12_handler = "2"
+cheat12_code = "13292,8"
+
+cheat13_desc = "全部道具咖哩饭"
+cheat13_handler = "2"
+cheat13_code = "13293,8"
+
+cheat14_desc = "全部道具拉面"
+cheat14_handler = "2"
+cheat14_code = "13294,8"
+
+cheat15_desc = "全部道具冰淇淋苏打"
+cheat15_handler = "2"
+cheat15_code = "13295,8"
+
+cheat16_desc = "全部道具冰淇淋"
+cheat16_handler = "2"
+cheat16_code = "13296,8"
+
+cheat17_desc = "全部道具牛奶"
+cheat17_handler = "2"
+cheat17_code = "13297,8"
+
+cheat18_desc = "全部道具咖啡"
+cheat18_handler = "2"
+cheat18_code = "13298,8"
+
+cheat19_desc = "全部道具红茶"
+cheat19_handler = "2"
+cheat19_code = "13299,8"
+
+cheat20_desc = "全部道具布丁"
+cheat20_handler = "2"
+cheat20_code = "1329A,8"
+
+cheat21_desc = "全部道具草莓"
+cheat21_handler = "2"
+cheat21_code = "1329B,8"
+
+cheat22_desc = "全部道具蜜瓜"
+cheat22_handler = "2"
+cheat22_code = "1329C,8"
+
+cheat23_desc = "全部道具葡萄"
+cheat23_handler = "2"
+cheat23_code = "1329D,8"
+
+cheat24_desc = "全部道具柿子"
+cheat24_handler = "2"
+cheat24_code = "1329E,8"
+
+cheat25_desc = "全部道具腐肉"
+cheat25_handler = "2"
+cheat25_code = "1329F,8"
+
+cheat26_desc = "全部道具三年牛奶"
+cheat26_handler = "2"
+cheat26_code = "132A0,8"
+
+cheat27_desc = "全部道具骷髅之匙"
+cheat27_handler = "2"
+cheat27_code = "132A1,1"
+
+cheat28_desc = "全部道具古文书1"
+cheat28_handler = "2"
+cheat28_code = "132A2,1"
+
+cheat29_desc = "全部道具古文书2"
+cheat29_handler = "2"
+cheat29_code = "132A3,1"
+
+cheat30_desc = "全部道具古文书3"
+cheat30_handler = "2"
+cheat30_code = "132A4,1"
+
+cheat31_desc = "全部道具地图1"
+cheat31_handler = "2"
+cheat31_code = "132A5,1"
+
+cheat32_desc = "全部道具地图2"
+cheat32_handler = "2"
+cheat32_code = "132A6,1"
+
+cheat33_desc = "全部道具地图3"
+cheat33_handler = "2"
+cheat33_code = "132A7,1"
+
+cheats = 34

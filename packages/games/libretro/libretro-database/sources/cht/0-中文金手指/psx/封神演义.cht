@@ -1,0 +1,21 @@
+cheat0_desc = "HP"
+cheat0_handler = "0"
+cheat0_code = "80134DA4#03E7;80134D58#03E7"
+
+cheat1_desc = "TP"
+cheat1_handler = "0"
+cheat1_code = "80134DA6#03E7;80134D5A#03E7"
+
+cheat2_desc = "体力　知力"
+cheat2_handler = "0"
+cheat2_code = "80134D52#6464"
+
+cheat3_desc = "速度　技量"
+cheat3_handler = "0"
+cheat3_code = "80134D54#6464"
+
+cheat4_desc = "移动"
+cheat4_handler = "0"
+cheat4_code = "80134D60#000F"
+
+cheats = 5

@@ -1,0 +1,85 @@
+cheat0_desc = "FILE超高不减"
+cheat0_handler = "0"
+cheat0_code = "800B5796#06A0;800B5798#06A0"
+
+cheat1_desc = "氧气不减"
+cheat1_handler = "0"
+cheat1_code = "800AC324#0400"
+
+cheat2_desc = "无敌(要和FILE不减同时使用,否则会当机)"
+cheat2_handler = "0"
+cheat2_code = "800AC342#0080"
+
+cheat3_desc = "SOCOM(建议使用)"
+cheat3_handler = "0"
+cheat3_code = "800B57A2#03E7;800B57B6#03E7"
+
+cheat4_desc = "FAMAS(建议使用)"
+cheat4_handler = "0"
+cheat4_code = "800B57A4#03E7;800B57B8#03E7"
+
+cheat5_desc = "GRENADE"
+cheat5_handler = "0"
+cheat5_code = "800B57A6#03E7;800B57BA#03E7"
+
+cheat6_desc = "NIKITA"
+cheat6_handler = "0"
+cheat6_code = "800B57A8#03E7;800B57BC#03E7"
+
+cheat7_desc = "STINGER(建议使用)"
+cheat7_handler = "0"
+cheat7_code = "800B57AA#03E7;800B57BE#03E7"
+
+cheat8_desc = "CLAYMORE"
+cheat8_handler = "0"
+cheat8_code = "800B57AC#03E7;800B57C0#03E7"
+
+cheat9_desc = "C4"
+cheat9_handler = "0"
+cheat9_code = "800B57AE#03E7;800B57C2#03E7"
+
+cheat10_desc = "STUN.G"
+cheat10_handler = "0"
+cheat10_code = "800B57B0#03E7;800B57C4#03E7"
+
+cheat11_desc = "CHAFF.G"
+cheat11_handler = "0"
+cheat11_code = "800B57B2#03E7;800B57C6#03E7"
+
+cheat12_desc = "PSGI(建议使用)"
+cheat12_handler = "0"
+cheat12_code = "800B57B4#03E7;800B57C8#03E7"
+
+cheat13_desc = "CIGARET(一开始就有的)"
+cheat13_handler = "0"
+cheat13_code = "800B57CA#0001"
+
+cheat14_desc = "SCOPE(一开始就有的)"
+cheat14_handler = "0"
+cheat14_code = "800B57CC#0001"
+
+cheat15_desc = "C.BOX A"
+cheat15_handler = "0"
+cheat15_code = "800B57CE#0001"
+
+cheat16_desc = "C.BOX B"
+cheat16_handler = "0"
+cheat16_code = "800B57D0#0001"
+
+cheat17_desc = "C.BOX"
+cheat17_handler = "0"
+cheat17_code = "800B57D2#0001"
+
+cheat18_desc = "(可以隐身的道具)"
+cheat18_handler = "0"
+cheat18_code = "800B57DE#0001"
+
+cheat19_desc = "BANDANA(装上这道具,可让你子弹无限)"
+cheat19_handler = "0"
+cheat19_code = "800B57E0#000"
+
+cheat20_desc = "others"
+cheat20_handler = "0"
+cheat20_code = "800B57D4#0001;800B57D6#0001;800B57D8#0001;800B57DA#0001;800B57DC#0001;800B57E2#0001;800B57E4#00FF;800B57E6#00FF;800B57E8#00FF;800B57EA#0001;800B57F0#0001;800B57F2#0001;800B57F4#0001;800B57F6#0001;800B57F8#0001"
+
+cheats = 21

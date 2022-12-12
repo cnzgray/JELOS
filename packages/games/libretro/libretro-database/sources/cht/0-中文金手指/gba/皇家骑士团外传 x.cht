@@ -1,0 +1,1365 @@
+cheat0_desc = "第1人就是排在第1位的人（可自排）"
+cheat0_handler = "2"
+cheat0_code = "0,0"
+
+cheat1_desc = "LV50"
+cheat1_handler = "2"
+cheat1_code = "762,32"
+
+cheat2_desc = "LV0"
+cheat2_handler = "2"
+cheat2_code = "762,0"
+
+cheat3_desc = "EXP99"
+cheat3_handler = "2"
+cheat3_code = "763,63"
+
+cheat4_desc = "EXP0"
+cheat4_handler = "2"
+cheat4_code = "763,0"
+
+cheat5_desc = "属性风"
+cheat5_handler = "2"
+cheat5_code = "764,1"
+
+cheat6_desc = "属性炎"
+cheat6_handler = "2"
+cheat6_code = "764,2"
+
+cheat7_desc = "属性地"
+cheat7_handler = "2"
+cheat7_code = "764,3"
+
+cheat8_desc = "属性水"
+cheat8_handler = "2"
+cheat8_code = "764,4"
+
+cheat9_desc = "属性圣"
+cheat9_handler = "2"
+cheat9_code = "764,5"
+
+cheat10_desc = "属性暗"
+cheat10_handler = "2"
+cheat10_code = "764,6"
+
+cheat11_desc = "性格L"
+cheat11_handler = "2"
+cheat11_code = "765,1"
+
+cheat12_desc = "性格N"
+cheat12_handler = "2"
+cheat12_code = "765,2"
+
+cheat13_desc = "性格C"
+cheat13_handler = "2"
+cheat13_code = "765,3"
+
+cheat14_desc = "SEX无"
+cheat14_handler = "2"
+cheat14_code = "76E,0"
+
+cheat15_desc = "SEX男"
+cheat15_handler = "2"
+cheat15_code = "76E,1"
+
+cheat16_desc = "SEX女"
+cheat16_handler = "2"
+cheat16_code = "76E,2"
+
+cheat17_desc = "HP999"
+cheat17_handler = "2"
+cheat17_code = "752,E7,3"
+
+cheat18_desc = "MP999"
+cheat18_handler = "2"
+cheat18_code = "756,E7,3"
+
+cheat19_desc = "STR9999"
+cheat19_handler = "2"
+cheat19_code = "758,FF,FF"
+
+cheat20_desc = "INT9999"
+cheat20_handler = "2"
+cheat20_code = "75A,FF,FF"
+
+cheat21_desc = "AGI9999"
+cheat21_handler = "2"
+cheat21_code = "75C,00,c0"
+
+cheat22_desc = "头像主角"
+cheat22_handler = "2"
+cheat22_code = "75E,2"
+
+cheat23_desc = "头像女主角"
+cheat23_handler = "2"
+cheat23_code = "75E,3"
+
+cheat24_desc = "头像迪芙"
+cheat24_handler = "2"
+cheat24_code = "75E,11"
+
+cheat25_desc = "头像海盗"
+cheat25_handler = "2"
+cheat25_code = "75E,23"
+
+cheat26_desc = "头像蓝铠骑士"
+cheat26_handler = "2"
+cheat26_code = "75E,13"
+
+cheat27_desc = "头像剑圣（男）"
+cheat27_handler = "2"
+cheat27_code = "75E,3A"
+
+cheat28_desc = "头像剑圣（女）"
+cheat28_handler = "2"
+cheat28_code = "75E,14"
+
+cheat29_desc = "头像近卫骑士"
+cheat29_handler = "2"
+cheat29_code = "75E,30"
+
+cheat30_desc = "头像龙骑士"
+cheat30_handler = "2"
+cheat30_code = "75E,2A"
+
+cheat31_desc = "头像双子魔术师（男）"
+cheat31_handler = "2"
+cheat31_code = "75E,15"
+
+cheat32_desc = "头像双子魔术师（女）"
+cheat32_handler = "2"
+cheat32_code = "75E,16"
+
+cheat33_desc = "头像死灵魔道士"
+cheat33_handler = "2"
+cheat33_code = "75E,2C"
+
+cheat34_desc = "头像女天使骑士"
+cheat34_handler = "2"
+cheat34_code = "75E,2D"
+
+cheat35_desc = "头像下级恶魔"
+cheat35_handler = "2"
+cheat35_code = "75E,2E"
+
+cheat36_desc = "头像女魔术师"
+cheat36_handler = "2"
+cheat36_code = "75E,2B"
+
+cheat37_desc = "头像领主"
+cheat37_handler = "2"
+cheat37_code = "75E,12"
+
+cheat38_desc = "头像巨魔"
+cheat38_handler = "2"
+cheat38_code = "75E,17"
+
+cheat39_desc = "头像堕天使"
+cheat39_handler = "2"
+cheat39_code = "75E,18"
+
+cheat40_desc = "职业堕天使"
+cheat40_handler = "2"
+cheat40_code = "75F,53"
+
+cheat41_desc = "职业士兵（男）"
+cheat41_handler = "2"
+cheat41_code = "75F,1"
+
+cheat42_desc = "职业士兵（女）"
+cheat42_handler = "2"
+cheat42_code = "75F,2"
+
+cheat43_desc = "职业忍者（男）"
+cheat43_handler = "2"
+cheat43_code = "75F,3"
+
+cheat44_desc = "职业忍者（女）"
+cheat44_handler = "2"
+cheat44_code = "75F,4"
+
+cheat45_desc = "职业弓兵（男）"
+cheat45_handler = "2"
+cheat45_code = "75F,5"
+
+cheat46_desc = "职业弓兵（女）"
+cheat46_handler = "2"
+cheat46_code = "75F,6"
+
+cheat47_desc = "职业魔法师（男）"
+cheat47_handler = "2"
+cheat47_code = "75F,7"
+
+cheat48_desc = "职业魔法师（女）"
+cheat48_handler = "2"
+cheat48_code = "75F,8"
+
+cheat49_desc = "职业僧侣（男）"
+cheat49_handler = "2"
+cheat49_code = "75F,9"
+
+cheat50_desc = "职业僧侣（女）"
+cheat50_handler = "2"
+cheat50_code = "75F,A"
+
+cheat51_desc = "职业祭司（男）"
+cheat51_handler = "2"
+cheat51_code = "75F,13"
+
+cheat52_desc = "职业祭司（女）"
+cheat52_handler = "2"
+cheat52_code = "75F,14"
+
+cheat53_desc = "职业骑士（男）"
+cheat53_handler = "2"
+cheat53_code = "75F,B"
+
+cheat54_desc = "职业骑士（女）"
+cheat54_handler = "2"
+cheat54_code = "75F,C"
+
+cheat55_desc = "职业剑圣（男）"
+cheat55_handler = "2"
+cheat55_code = "75F,D"
+
+cheat56_desc = "职业剑圣（女）"
+cheat56_handler = "2"
+cheat56_code = "75F,4F"
+
+cheat57_desc = "职业召唤师（男）"
+cheat57_handler = "2"
+cheat57_code = "75F,45"
+
+cheat58_desc = "职业召唤师（女）"
+cheat58_handler = "2"
+cheat58_code = "75F,46"
+
+cheat59_desc = "职业死灵士兵（男）"
+cheat59_handler = "2"
+cheat59_code = "75F,32"
+
+cheat60_desc = "职业死灵士兵（女）"
+cheat60_handler = "2"
+cheat60_code = "75F,33"
+
+cheat61_desc = "职业死灵魔法师（男）"
+cheat61_handler = "2"
+cheat61_code = "75F,34"
+
+cheat62_desc = "职业死灵魔法师（女）"
+cheat62_handler = "2"
+cheat62_code = "75F,35"
+
+cheat63_desc = "职业死灵骑士（男）"
+cheat63_handler = "2"
+cheat63_code = "75F,36"
+
+cheat64_desc = "职业死灵骑士（女）"
+cheat64_handler = "2"
+cheat64_code = "75F,37"
+
+cheat65_desc = "职业天使骑士（男）"
+cheat65_handler = "2"
+cheat65_code = "75F,1B"
+
+cheat66_desc = "职业天使骑士（女）"
+cheat66_handler = "2"
+cheat66_code = "75F,1C"
+
+cheat67_desc = "职业暗天使骑士（男）"
+cheat67_handler = "2"
+cheat67_code = "75F,22"
+
+cheat68_desc = "职业暗天使骑士（女）"
+cheat68_handler = "2"
+cheat68_code = "75F,23"
+
+cheat69_desc = "职业小恶魔"
+cheat69_handler = "2"
+cheat69_code = "75F,1F"
+
+cheat70_desc = "职业下级恶魔"
+cheat70_handler = "2"
+cheat70_code = "75F,4A"
+
+cheat71_desc = "职业上级恶魔"
+cheat71_handler = "2"
+cheat71_code = "75F,20"
+
+cheat72_desc = "职业暗忍者"
+cheat72_handler = "2"
+cheat72_code = "75F,39"
+
+cheat73_desc = "职业暗巨人"
+cheat73_handler = "2"
+cheat73_code = "75F,3A"
+
+cheat74_desc = "职业暗龙骑士"
+cheat74_handler = "2"
+cheat74_code = "75F,3F"
+
+cheat75_desc = "职业风龙"
+cheat75_handler = "2"
+cheat75_code = "75F,24"
+
+cheat76_desc = "职业炎龙"
+cheat76_handler = "2"
+cheat76_code = "75F,25"
+
+cheat77_desc = "职业地龙"
+cheat77_handler = "2"
+cheat77_code = "75F,26"
+
+cheat78_desc = "职业水龙"
+cheat78_handler = "2"
+cheat78_code = "75F,27"
+
+cheat79_desc = "职业圣龙"
+cheat79_handler = "2"
+cheat79_code = "75F,28"
+
+cheat80_desc = "职业海龙"
+cheat80_handler = "2"
+cheat80_code = "75F,29"
+
+cheat81_desc = "职业魔龙"
+cheat81_handler = "2"
+cheat81_code = "75F,2A"
+
+cheat82_desc = "职业丧尸龙"
+cheat82_handler = "2"
+cheat82_code = "75F,2B"
+
+cheat83_desc = "职业龙骑士"
+cheat83_handler = "2"
+cheat83_code = "75F,E"
+
+cheat84_desc = "职业近卫骑士"
+cheat84_handler = "2"
+cheat84_code = "75F,21"
+
+cheat85_desc = "职业蓝铠骑士"
+cheat85_handler = "2"
+cheat85_code = "75F,4E"
+
+cheat86_desc = "职业女武神"
+cheat86_handler = "2"
+cheat86_code = "75F,F"
+
+cheat87_desc = "职业高位魔法师"
+cheat87_handler = "2"
+cheat87_code = "75F,10"
+
+cheat88_desc = "职业学者"
+cheat88_handler = "2"
+cheat88_code = "75F,11"
+
+cheat89_desc = "职业巫女"
+cheat89_handler = "2"
+cheat89_code = "75F,12"
+
+cheat90_desc = "职业操龙使"
+cheat90_handler = "2"
+cheat90_code = "75F,15"
+
+cheat91_desc = "职业操兽使"
+cheat91_handler = "2"
+cheat91_code = "75F,16"
+
+cheat92_desc = "职业翼人"
+cheat92_handler = "2"
+cheat92_code = "75F,17"
+
+cheat93_desc = "职业人鱼"
+cheat93_handler = "2"
+cheat93_code = "75F,18"
+
+cheat94_desc = "职业精灵"
+cheat94_handler = "2"
+cheat94_code = "75F,19"
+
+cheat95_desc = "职业死灵魔道士"
+cheat95_handler = "2"
+cheat95_code = "75F,1A"
+
+cheat96_desc = "职业幽灵"
+cheat96_handler = "2"
+cheat96_code = "75F,1D"
+
+cheat97_desc = "职业美杜莎"
+cheat97_handler = "2"
+cheat97_code = "75F,1E"
+
+cheat98_desc = "职业狮鹫"
+cheat98_handler = "2"
+cheat98_code = "75F,2C"
+
+cheat99_desc = "职业石化鸟"
+cheat99_handler = "2"
+cheat99_code = "75F,2D"
+
+cheat100_desc = "职业乌鱼"
+cheat100_handler = "2"
+cheat100_code = "75F,2E"
+
+cheat101_desc = "职业双头犬"
+cheat101_handler = "2"
+cheat101_code = "75F,2F"
+
+cheat102_desc = "职业巨人"
+cheat102_handler = "2"
+cheat102_code = "75F,30"
+
+cheat103_desc = "职业海贼"
+cheat103_handler = "2"
+cheat103_code = "75F,31"
+
+cheat104_desc = "职业孤高的美女魔术师"
+cheat104_handler = "2"
+cheat104_code = "75F,42"
+
+cheat105_desc = "职业神官骑士"
+cheat105_handler = "2"
+cheat105_code = "75F,43"
+
+cheat106_desc = "职业????"
+cheat106_handler = "2"
+cheat106_code = "75F,4B"
+
+cheat107_desc = "职业大魔女迪芙"
+cheat107_handler = "2"
+cheat107_code = "75F,4C"
+
+cheat108_desc = "职业领主"
+cheat108_handler = "2"
+cheat108_code = "75F,4D"
+
+cheat109_desc = "职业巨魔"
+cheat109_handler = "2"
+cheat109_code = "75F,52"
+
+cheat110_desc = "第1武器装备无"
+cheat110_handler = "2"
+cheat110_code = "770,0"
+
+cheat111_desc = "第1武器装备剑/理/30"
+cheat111_handler = "2"
+cheat111_code = "770,1"
+
+cheat112_desc = "第1武器装备剑/理/40"
+cheat112_handler = "2"
+cheat112_code = "770,2"
+
+cheat113_desc = "第1武器装备剑/理/48"
+cheat113_handler = "2"
+cheat113_code = "770,3"
+
+cheat114_desc = "第1武器装备剑/风/54"
+cheat114_handler = "2"
+cheat114_code = "770,4"
+
+cheat115_desc = "第1武器装备剑/炎/56"
+cheat115_handler = "2"
+cheat115_code = "770,5"
+
+cheat116_desc = "第1武器装备剑/水/52"
+cheat116_handler = "2"
+cheat116_code = "770,6"
+
+cheat117_desc = "第1武器装备剑/理/58"
+cheat117_handler = "2"
+cheat117_code = "770,7"
+
+cheat118_desc = "第1武器装备剑/理/60"
+cheat118_handler = "2"
+cheat118_code = "770,8"
+
+cheat119_desc = "第1武器装备剑/理/64"
+cheat119_handler = "2"
+cheat119_code = "770,9"
+
+cheat120_desc = "第1武器装备剑/风/62"
+cheat120_handler = "2"
+cheat120_code = "770,A"
+
+cheat121_desc = "第1武器装备剑/炎/60"
+cheat121_handler = "2"
+cheat121_code = "770,B"
+
+cheat122_desc = "第1武器装备剑/地/58"
+cheat122_handler = "2"
+cheat122_code = "770,C"
+
+cheat123_desc = "第1武器装备剑/圣/71"
+cheat123_handler = "2"
+cheat123_code = "770,D"
+
+cheat124_desc = "第1武器装备剑/暗/75"
+cheat124_handler = "2"
+cheat124_code = "770,E"
+
+cheat125_desc = "第1武器装备剑/圣/68"
+cheat125_handler = "2"
+cheat125_code = "770,F"
+
+cheat126_desc = "第1武器装备剑/圣/90"
+cheat126_handler = "2"
+cheat126_code = "770,10"
+
+cheat127_desc = "第1武器装备刀/风/52"
+cheat127_handler = "2"
+cheat127_code = "770,17"
+
+cheat128_desc = "第1武器装备刀/炎/52"
+cheat128_handler = "2"
+cheat128_code = "770,18"
+
+cheat129_desc = "第1武器装备刀/地/52"
+cheat129_handler = "2"
+cheat129_code = "770,19"
+
+cheat130_desc = "第1武器装备刀/水/52"
+cheat130_handler = "2"
+cheat130_code = "770,1A"
+
+cheat131_desc = "第1武器装备突剑/理/35"
+cheat131_handler = "2"
+cheat131_code = "770,1B"
+
+cheat132_desc = "第1武器装备突剑/理/40"
+cheat132_handler = "2"
+cheat132_code = "770,1C"
+
+cheat133_desc = "第1武器装备突剑/理/48"
+cheat133_handler = "2"
+cheat133_code = "770,1D"
+
+cheat134_desc = "第1武器装备突剑/炎/52"
+cheat134_handler = "2"
+cheat134_code = "770,1E"
+
+cheat135_desc = "第1武器装备突剑/水/60"
+cheat135_handler = "2"
+cheat135_code = "770,1F"
+
+cheat136_desc = "第1武器装备突剑/圣/60"
+cheat136_handler = "2"
+cheat136_code = "770,20"
+
+cheat137_desc = "第1武器装备突剑/暗/68"
+cheat137_handler = "2"
+cheat137_code = "770,21"
+
+cheat138_desc = "第1武器装备枪/理/42"
+cheat138_handler = "2"
+cheat138_code = "770,3B"
+
+cheat139_desc = "第1武器装备枪/理/55"
+cheat139_handler = "2"
+cheat139_code = "770,3C"
+
+cheat140_desc = "第1武器装备枪/风/70"
+cheat140_handler = "2"
+cheat140_code = "770,3D"
+
+cheat141_desc = "第1武器装备枪/炎/64"
+cheat141_handler = "2"
+cheat141_code = "770,3E"
+
+cheat142_desc = "第1武器装备枪/地/68"
+cheat142_handler = "2"
+cheat142_code = "770,3F"
+
+cheat143_desc = "第1武器装备枪/水/66"
+cheat143_handler = "2"
+cheat143_code = "770,40"
+
+cheat144_desc = "第1武器装备枪/圣/74"
+cheat144_handler = "2"
+cheat144_code = "770,41"
+
+cheat145_desc = "第1武器装备枪/暗/62"
+cheat145_handler = "2"
+cheat145_code = "770,42"
+
+cheat146_desc = "第1武器装备鞭/理/45"
+cheat146_handler = "2"
+cheat146_code = "770,43"
+
+cheat147_desc = "第1武器装备鞭/理/52"
+cheat147_handler = "2"
+cheat147_code = "770,44"
+
+cheat148_desc = "第1武器装备鞭/暗/62"
+cheat148_handler = "2"
+cheat148_code = "770,45"
+
+cheat149_desc = "第1武器装备鞭/圣/66"
+cheat149_handler = "2"
+cheat149_code = "770,46"
+
+cheat150_desc = "第1武器装备斧/理/40"
+cheat150_handler = "2"
+cheat150_code = "770,22"
+
+cheat151_desc = "第1武器装备斧/炎/64"
+cheat151_handler = "2"
+cheat151_code = "770,23"
+
+cheat152_desc = "第1武器装备斧/地/68"
+cheat152_handler = "2"
+cheat152_code = "770,24"
+
+cheat153_desc = "第1武器装备斧/水/66"
+cheat153_handler = "2"
+cheat153_code = "770,25"
+
+cheat154_desc = "第1武器装备斧/风/70"
+cheat154_handler = "2"
+cheat154_code = "770,26"
+
+cheat155_desc = "第1武器装备斧/暗/72"
+cheat155_handler = "2"
+cheat155_code = "770,27"
+
+cheat156_desc = "第1武器装备棰/理/40"
+cheat156_handler = "2"
+cheat156_code = "770,28"
+
+cheat157_desc = "第1武器装备棰/炎/60"
+cheat157_handler = "2"
+cheat157_code = "770,29"
+
+cheat158_desc = "第1武器装备棰/风/62"
+cheat158_handler = "2"
+cheat158_code = "770,2A"
+
+cheat159_desc = "第1武器装备棰/地/62"
+cheat159_handler = "2"
+cheat159_code = "770,2B"
+
+cheat160_desc = "第1武器装备棰/水/62"
+cheat160_handler = "2"
+cheat160_code = "770,2C"
+
+cheat161_desc = "第1武器装备棰/圣/76"
+cheat161_handler = "2"
+cheat161_code = "770,2D"
+
+cheat162_desc = "第1武器装备弓/理/20"
+cheat162_handler = "2"
+cheat162_code = "770,47"
+
+cheat163_desc = "第1武器装备弓/理/25"
+cheat163_handler = "2"
+cheat163_code = "770,48"
+
+cheat164_desc = "第1武器装备弓/风/50"
+cheat164_handler = "2"
+cheat164_code = "770,49"
+
+cheat165_desc = "第1武器装备弓/炎/52"
+cheat165_handler = "2"
+cheat165_code = "770,4A"
+
+cheat166_desc = "第1武器装备弓/地/48"
+cheat166_handler = "2"
+cheat166_code = "770,4B"
+
+cheat167_desc = "第1武器装备弓/水/54"
+cheat167_handler = "2"
+cheat167_code = "770,4C"
+
+cheat168_desc = "第1武器装备弓/圣/60"
+cheat168_handler = "2"
+cheat168_code = "770,4D"
+
+cheat169_desc = "第1武器装备弓/理/54"
+cheat169_handler = "2"
+cheat169_code = "770,4E"
+
+cheat170_desc = "第1武器装备弩/理/30"
+cheat170_handler = "2"
+cheat170_code = "770,4F"
+
+cheat171_desc = "第1武器装备弩/理/44"
+cheat171_handler = "2"
+cheat171_code = "770,50"
+
+cheat172_desc = "第1武器装备弩/暗/44"
+cheat172_handler = "2"
+cheat172_code = "770,51"
+
+cheat173_desc = "第1武器装备扇/理/44"
+cheat173_handler = "2"
+cheat173_code = "770,2E"
+
+cheat174_desc = "第1武器装备扇/圣/52"
+cheat174_handler = "2"
+cheat174_code = "770,2F"
+
+cheat175_desc = "第1武器装备扇/风/54"
+cheat175_handler = "2"
+cheat175_code = "770,30"
+
+cheat176_desc = "第1武器装备扇/暗/52"
+cheat176_handler = "2"
+cheat176_code = "770,31"
+
+cheat177_desc = "第1武器装备杖/理/20"
+cheat177_handler = "2"
+cheat177_code = "770,32"
+
+cheat178_desc = "第1武器装备杖/风/24"
+cheat178_handler = "2"
+cheat178_code = "770,33"
+
+cheat179_desc = "第1武器装备杖/炎/26"
+cheat179_handler = "2"
+cheat179_code = "770,34"
+
+cheat180_desc = "第1武器装备杖/地/26"
+cheat180_handler = "2"
+cheat180_code = "770,35"
+
+cheat181_desc = "第1武器装备杖/水/20"
+cheat181_handler = "2"
+cheat181_code = "770,36"
+
+cheat182_desc = "第1武器装备杖/圣/28"
+cheat182_handler = "2"
+cheat182_code = "770,37"
+
+cheat183_desc = "第1武器装备杖/暗/32"
+cheat183_handler = "2"
+cheat183_code = "770,38"
+
+cheat184_desc = "第1武器装备杖/理/0"
+cheat184_handler = "2"
+cheat184_code = "770,39"
+
+cheat185_desc = "第1武器装备杖/理/16"
+cheat185_handler = "2"
+cheat185_code = "770,3A"
+
+cheat186_desc = "第1武器装备盾/理/15"
+cheat186_handler = "2"
+cheat186_code = "770,52"
+
+cheat187_desc = "第1武器装备盾/理/20"
+cheat187_handler = "2"
+cheat187_code = "770,53"
+
+cheat188_desc = "第1武器装备盾/风/20"
+cheat188_handler = "2"
+cheat188_code = "770,54"
+
+cheat189_desc = "第1武器装备盾/炎/20"
+cheat189_handler = "2"
+cheat189_code = "770,55"
+
+cheat190_desc = "第1武器装备盾/地/20"
+cheat190_handler = "2"
+cheat190_code = "770,56"
+
+cheat191_desc = "第1武器装备盾/水/20"
+cheat191_handler = "2"
+cheat191_code = "770,57"
+
+cheat192_desc = "第1武器装备盾/圣/20"
+cheat192_handler = "2"
+cheat192_code = "770,58"
+
+cheat193_desc = "第1武器装备盾/暗/20"
+cheat193_handler = "2"
+cheat193_code = "770,59"
+
+cheat194_desc = "第1武器装备盾/理/10"
+cheat194_handler = "2"
+cheat194_code = "770,5A"
+
+cheat195_desc = "第2武器装备无"
+cheat195_handler = "2"
+cheat195_code = "771,0"
+
+cheat196_desc = "第2武器装备剑/理/30"
+cheat196_handler = "2"
+cheat196_code = "771,1"
+
+cheat197_desc = "第2武器装备剑/理/40"
+cheat197_handler = "2"
+cheat197_code = "771,2"
+
+cheat198_desc = "第2武器装备剑/理/48"
+cheat198_handler = "2"
+cheat198_code = "771,3"
+
+cheat199_desc = "第2武器装备剑/风/54"
+cheat199_handler = "2"
+cheat199_code = "771,4"
+
+cheat200_desc = "第2武器装备剑/炎/56"
+cheat200_handler = "2"
+cheat200_code = "771,5"
+
+cheat201_desc = "第2武器装备剑/水/52"
+cheat201_handler = "2"
+cheat201_code = "771,6"
+
+cheat202_desc = "第2武器装备剑/理/58"
+cheat202_handler = "2"
+cheat202_code = "771,7"
+
+cheat203_desc = "第2武器装备剑/理/60"
+cheat203_handler = "2"
+cheat203_code = "771,8"
+
+cheat204_desc = "第2武器装备剑/理/64"
+cheat204_handler = "2"
+cheat204_code = "771,9"
+
+cheat205_desc = "第2武器装备剑/风/62"
+cheat205_handler = "2"
+cheat205_code = "771,A"
+
+cheat206_desc = "第2武器装备剑/炎/60"
+cheat206_handler = "2"
+cheat206_code = "771,B"
+
+cheat207_desc = "第2武器装备剑/地/58"
+cheat207_handler = "2"
+cheat207_code = "771,C"
+
+cheat208_desc = "第2武器装备剑/圣/71"
+cheat208_handler = "2"
+cheat208_code = "771,D"
+
+cheat209_desc = "第2武器装备剑/暗/75"
+cheat209_handler = "2"
+cheat209_code = "771,E"
+
+cheat210_desc = "第2武器装备剑/圣/68"
+cheat210_handler = "2"
+cheat210_code = "771,F"
+
+cheat211_desc = "第2武器装备剑/圣/90"
+cheat211_handler = "2"
+cheat211_code = "771,10"
+
+cheat212_desc = "第2武器装备刀/风/52"
+cheat212_handler = "2"
+cheat212_code = "771,17"
+
+cheat213_desc = "第2武器装备刀/炎/52"
+cheat213_handler = "2"
+cheat213_code = "771,18"
+
+cheat214_desc = "第2武器装备刀/地/52"
+cheat214_handler = "2"
+cheat214_code = "771,19"
+
+cheat215_desc = "第2武器装备刀/水/52"
+cheat215_handler = "2"
+cheat215_code = "771,1A"
+
+cheat216_desc = "第2武器装备突剑/理/35"
+cheat216_handler = "2"
+cheat216_code = "771,1B"
+
+cheat217_desc = "第2武器装备突剑/理/40"
+cheat217_handler = "2"
+cheat217_code = "771,1C"
+
+cheat218_desc = "第2武器装备突剑/理/48"
+cheat218_handler = "2"
+cheat218_code = "771,1D"
+
+cheat219_desc = "第2武器装备突剑/炎/52"
+cheat219_handler = "2"
+cheat219_code = "771,1E"
+
+cheat220_desc = "第2武器装备突剑/水/60"
+cheat220_handler = "2"
+cheat220_code = "771,1F"
+
+cheat221_desc = "第2武器装备突剑/圣/60"
+cheat221_handler = "2"
+cheat221_code = "771,20"
+
+cheat222_desc = "第2武器装备突剑/暗/68"
+cheat222_handler = "2"
+cheat222_code = "771,21"
+
+cheat223_desc = "第2武器装备枪/理/42"
+cheat223_handler = "2"
+cheat223_code = "771,3B"
+
+cheat224_desc = "第2武器装备枪/理/55"
+cheat224_handler = "2"
+cheat224_code = "771,3C"
+
+cheat225_desc = "第2武器装备枪/风/70"
+cheat225_handler = "2"
+cheat225_code = "771,3D"
+
+cheat226_desc = "第2武器装备枪/炎/64"
+cheat226_handler = "2"
+cheat226_code = "771,3E"
+
+cheat227_desc = "第2武器装备枪/地/68"
+cheat227_handler = "2"
+cheat227_code = "771,3F"
+
+cheat228_desc = "第2武器装备枪/水/66"
+cheat228_handler = "2"
+cheat228_code = "771,40"
+
+cheat229_desc = "第2武器装备枪/圣/74"
+cheat229_handler = "2"
+cheat229_code = "771,41"
+
+cheat230_desc = "第2武器装备枪/暗/62"
+cheat230_handler = "2"
+cheat230_code = "771,42"
+
+cheat231_desc = "第2武器装备鞭/理/45"
+cheat231_handler = "2"
+cheat231_code = "771,43"
+
+cheat232_desc = "第2武器装备鞭/理/52"
+cheat232_handler = "2"
+cheat232_code = "771,44"
+
+cheat233_desc = "第2武器装备鞭/暗/62"
+cheat233_handler = "2"
+cheat233_code = "771,45"
+
+cheat234_desc = "第2武器装备鞭/圣/66"
+cheat234_handler = "2"
+cheat234_code = "771,46"
+
+cheat235_desc = "第2武器装备斧/理/40"
+cheat235_handler = "2"
+cheat235_code = "771,22"
+
+cheat236_desc = "第2武器装备斧/炎/64"
+cheat236_handler = "2"
+cheat236_code = "771,23"
+
+cheat237_desc = "第2武器装备斧/地/68"
+cheat237_handler = "2"
+cheat237_code = "771,24"
+
+cheat238_desc = "第2武器装备斧/水/66"
+cheat238_handler = "2"
+cheat238_code = "771,25"
+
+cheat239_desc = "第2武器装备斧/风/70"
+cheat239_handler = "2"
+cheat239_code = "771,27"
+
+cheat240_desc = "第2武器装备斧/暗/72"
+cheat240_handler = "2"
+cheat240_code = "771,26"
+
+cheat241_desc = "第2武器装备棰/理/40"
+cheat241_handler = "2"
+cheat241_code = "771,28"
+
+cheat242_desc = "第2武器装备棰/炎/60"
+cheat242_handler = "2"
+cheat242_code = "771,29"
+
+cheat243_desc = "第2武器装备棰/风/62"
+cheat243_handler = "2"
+cheat243_code = "771,2A"
+
+cheat244_desc = "第2武器装备棰/地/62"
+cheat244_handler = "2"
+cheat244_code = "771,2B"
+
+cheat245_desc = "第2武器装备棰/水/62"
+cheat245_handler = "2"
+cheat245_code = "771,2C"
+
+cheat246_desc = "第2武器装备棰/圣/76"
+cheat246_handler = "2"
+cheat246_code = "771,2D"
+
+cheat247_desc = "第2武器装备弓/理/20"
+cheat247_handler = "2"
+cheat247_code = "771,47"
+
+cheat248_desc = "第2武器装备弓/理/25"
+cheat248_handler = "2"
+cheat248_code = "771,48"
+
+cheat249_desc = "第2武器装备弓/风/50"
+cheat249_handler = "2"
+cheat249_code = "771,49"
+
+cheat250_desc = "第2武器装备弓/炎/52"
+cheat250_handler = "2"
+cheat250_code = "771,4A"
+
+cheat251_desc = "第2武器装备弓/地/48"
+cheat251_handler = "2"
+cheat251_code = "771,4B"
+
+cheat252_desc = "第2武器装备弓/水/54"
+cheat252_handler = "2"
+cheat252_code = "771,4C"
+
+cheat253_desc = "第2武器装备弓/圣/60"
+cheat253_handler = "2"
+cheat253_code = "771,4D"
+
+cheat254_desc = "第2武器装备弓/理/54"
+cheat254_handler = "2"
+cheat254_code = "771,4E"
+
+cheat255_desc = "第2武器装备弩/理/30"
+cheat255_handler = "2"
+cheat255_code = "771,4F"
+
+cheat256_desc = "第2武器装备弩/理/44"
+cheat256_handler = "2"
+cheat256_code = "771,50"
+
+cheat257_desc = "第2武器装备弩/暗/44"
+cheat257_handler = "2"
+cheat257_code = "771,51"
+
+cheat258_desc = "第2武器装备扇/理/44"
+cheat258_handler = "2"
+cheat258_code = "771,2E"
+
+cheat259_desc = "第2武器装备扇/圣/52"
+cheat259_handler = "2"
+cheat259_code = "771,2F"
+
+cheat260_desc = "第2武器装备扇/风/54"
+cheat260_handler = "2"
+cheat260_code = "771,30"
+
+cheat261_desc = "第2武器装备扇/暗/52"
+cheat261_handler = "2"
+cheat261_code = "771,31"
+
+cheat262_desc = "第2武器装备杖/理/20"
+cheat262_handler = "2"
+cheat262_code = "771,32"
+
+cheat263_desc = "第2武器装备杖/风/24"
+cheat263_handler = "2"
+cheat263_code = "771,33"
+
+cheat264_desc = "第2武器装备杖/炎/26"
+cheat264_handler = "2"
+cheat264_code = "771,34"
+
+cheat265_desc = "第2武器装备杖/地/26"
+cheat265_handler = "2"
+cheat265_code = "771,35"
+
+cheat266_desc = "第2武器装备杖/水/20"
+cheat266_handler = "2"
+cheat266_code = "771,36"
+
+cheat267_desc = "第2武器装备杖/圣/28"
+cheat267_handler = "2"
+cheat267_code = "771,37"
+
+cheat268_desc = "第2武器装备杖/暗/32"
+cheat268_handler = "2"
+cheat268_code = "771,38"
+
+cheat269_desc = "第2武器装备杖/理/0"
+cheat269_handler = "2"
+cheat269_code = "771,39"
+
+cheat270_desc = "第2武器装备杖/理/16"
+cheat270_handler = "2"
+cheat270_code = "771,3A"
+
+cheat271_desc = "第2武器装备盾/理/15"
+cheat271_handler = "2"
+cheat271_code = "771,52"
+
+cheat272_desc = "第2武器装备盾/理/20"
+cheat272_handler = "2"
+cheat272_code = "771,53"
+
+cheat273_desc = "第2武器装备盾/风/20"
+cheat273_handler = "2"
+cheat273_code = "771,54"
+
+cheat274_desc = "第2武器装备盾/炎/20"
+cheat274_handler = "2"
+cheat274_code = "771,55"
+
+cheat275_desc = "第2武器装备盾/地/20"
+cheat275_handler = "2"
+cheat275_code = "771,56"
+
+cheat276_desc = "第2武器装备盾/水/20"
+cheat276_handler = "2"
+cheat276_code = "771,57"
+
+cheat277_desc = "第2武器装备盾/圣/20"
+cheat277_handler = "2"
+cheat277_code = "771,58"
+
+cheat278_desc = "第2武器装备盾/暗/20"
+cheat278_handler = "2"
+cheat278_code = "771,59"
+
+cheat279_desc = "第2武器装备盾/理/10"
+cheat279_handler = "2"
+cheat279_code = "771,5A"
+
+cheat280_desc = "第1魔法/特技装备无"
+cheat280_handler = "2"
+cheat280_code = "774,0"
+
+cheat281_desc = "第1魔法/特技装备不可装备"
+cheat281_handler = "2"
+cheat281_code = "774,FF"
+
+cheat282_desc = "第1魔法/特技装备特技1"
+cheat282_handler = "2"
+cheat282_code = "774,57"
+
+cheat283_desc = "第1魔法/特技装备特技2"
+cheat283_handler = "2"
+cheat283_code = "774,59"
+
+cheat284_desc = "第1魔法/特技装备特技3"
+cheat284_handler = "2"
+cheat284_code = "774,5B"
+
+cheat285_desc = "第1魔法/特技装备龙息（风）"
+cheat285_handler = "2"
+cheat285_code = "774,32"
+
+cheat286_desc = "第1魔法/特技装备龙息（炎）"
+cheat286_handler = "2"
+cheat286_code = "774,33"
+
+cheat287_desc = "第1魔法/特技装备龙息（地）"
+cheat287_handler = "2"
+cheat287_code = "774,34"
+
+cheat288_desc = "第1魔法/特技装备龙息（水）"
+cheat288_handler = "2"
+cheat288_code = "774,35"
+
+cheat289_desc = "第1魔法/特技装备龙息（暗）"
+cheat289_handler = "2"
+cheat289_code = "774,38"
+
+cheat290_desc = "第1魔法/特技装备圣剑的特技"
+cheat290_handler = "2"
+cheat290_code = "774,3E"
+
+cheat291_desc = "第1魔法/特技装备领主的特技（专用）"
+cheat291_handler = "2"
+cheat291_code = "774,3C"
+
+cheat292_desc = "第1魔法/特技装备堕天使的特技1（专用）"
+cheat292_handler = "2"
+cheat292_code = "774,3D"
+
+cheat293_desc = "第1魔法/特技装备堕天使的特技2（专用）"
+cheat293_handler = "2"
+cheat293_code = "774,52"
+
+cheat294_desc = "第1魔法/特技装备堕天使的特技3（专用）"
+cheat294_handler = "2"
+cheat294_code = "774,5A"
+
+cheat295_desc = "第2魔法/特技装备无"
+cheat295_handler = "2"
+cheat295_code = "775,0"
+
+cheat296_desc = "第2魔法/特技装备不可装备"
+cheat296_handler = "2"
+cheat296_code = "775,FF"
+
+cheat297_desc = "第2魔法/特技装备特技1"
+cheat297_handler = "2"
+cheat297_code = "775,57"
+
+cheat298_desc = "第2魔法/特技装备特技2"
+cheat298_handler = "2"
+cheat298_code = "775,59"
+
+cheat299_desc = "第2魔法/特技装备特技3"
+cheat299_handler = "2"
+cheat299_code = "775,5B"
+
+cheat300_desc = "第2魔法/特技装备龙息（风）"
+cheat300_handler = "2"
+cheat300_code = "775,32"
+
+cheat301_desc = "第2魔法/特技装备龙息（炎）"
+cheat301_handler = "2"
+cheat301_code = "775,33"
+
+cheat302_desc = "第2魔法/特技装备龙息（地）"
+cheat302_handler = "2"
+cheat302_code = "775,34"
+
+cheat303_desc = "第2魔法/特技装备龙息（水）"
+cheat303_handler = "2"
+cheat303_code = "775,35"
+
+cheat304_desc = "第2魔法/特技装备龙息（暗）"
+cheat304_handler = "2"
+cheat304_code = "775,38"
+
+cheat305_desc = "第2魔法/特技装备圣剑的特技"
+cheat305_handler = "2"
+cheat305_code = "775,3E"
+
+cheat306_desc = "第2魔法/特技装备领主的特技（专用）"
+cheat306_handler = "2"
+cheat306_code = "775,3C"
+
+cheat307_desc = "第2魔法/特技装备堕天使的特技1（专用）"
+cheat307_handler = "2"
+cheat307_code = "775,3D"
+
+cheat308_desc = "第2魔法/特技装备堕天使的特技2（专用）"
+cheat308_handler = "2"
+cheat308_code = "775,52"
+
+cheat309_desc = "第2魔法/特技装备堕天使的特技3（专用）"
+cheat309_handler = "2"
+cheat309_code = "775,5A"
+
+cheat310_desc = "第3魔法/特技装备无"
+cheat310_handler = "2"
+cheat310_code = "776,0"
+
+cheat311_desc = "第3魔法/特技装备不可装备"
+cheat311_handler = "2"
+cheat311_code = "776,FF"
+
+cheat312_desc = "第3魔法/特技装备特技1"
+cheat312_handler = "2"
+cheat312_code = "776,57"
+
+cheat313_desc = "第3魔法/特技装备特技2"
+cheat313_handler = "2"
+cheat313_code = "776,59"
+
+cheat314_desc = "第3魔法/特技装备特技3"
+cheat314_handler = "2"
+cheat314_code = "776,5B"
+
+cheat315_desc = "第3魔法/特技装备龙息（风）"
+cheat315_handler = "2"
+cheat315_code = "776,32"
+
+cheat316_desc = "第3魔法/特技装备龙息（炎）"
+cheat316_handler = "2"
+cheat316_code = "776,33"
+
+cheat317_desc = "第3魔法/特技装备龙息（地）"
+cheat317_handler = "2"
+cheat317_code = "776,34"
+
+cheat318_desc = "第3魔法/特技装备龙息（水）"
+cheat318_handler = "2"
+cheat318_code = "776,35"
+
+cheat319_desc = "第3魔法/特技装备龙息（暗）"
+cheat319_handler = "2"
+cheat319_code = "776,38"
+
+cheat320_desc = "第3魔法/特技装备圣剑的特技"
+cheat320_handler = "2"
+cheat320_code = "776,3E"
+
+cheat321_desc = "第3魔法/特技装备领主的特技（专用）"
+cheat321_handler = "2"
+cheat321_code = "776,3C"
+
+cheat322_desc = "第3魔法/特技装备堕天使的特技1（专用）"
+cheat322_handler = "2"
+cheat322_code = "776,3D"
+
+cheat323_desc = "第3魔法/特技装备堕天使的特技2（专用）"
+cheat323_handler = "2"
+cheat323_code = "776,52"
+
+cheat324_desc = "第3魔法/特技装备堕天使的特技3（专用）"
+cheat324_handler = "2"
+cheat324_code = "776,5A"
+
+cheat325_desc = "第4魔法/特技装备无"
+cheat325_handler = "2"
+cheat325_code = "777,0"
+
+cheat326_desc = "第4魔法/特技装备不可装备"
+cheat326_handler = "2"
+cheat326_code = "777,FF"
+
+cheat327_desc = "第4魔法/特技装备特技1"
+cheat327_handler = "2"
+cheat327_code = "777,57"
+
+cheat328_desc = "第4魔法/特技装备特技2"
+cheat328_handler = "2"
+cheat328_code = "777,59"
+
+cheat329_desc = "第4魔法/特技装备特技3"
+cheat329_handler = "2"
+cheat329_code = "777,5B"
+
+cheat330_desc = "第4魔法/特技装备龙息（风）"
+cheat330_handler = "2"
+cheat330_code = "777,32"
+
+cheat331_desc = "第4魔法/特技装备龙息（炎）"
+cheat331_handler = "2"
+cheat331_code = "777,33"
+
+cheat332_desc = "第4魔法/特技装备龙息（地）"
+cheat332_handler = "2"
+cheat332_code = "777,34"
+
+cheat333_desc = "第4魔法/特技装备龙息（水）"
+cheat333_handler = "2"
+cheat333_code = "777,35"
+
+cheat334_desc = "第4魔法/特技装备龙息（暗）"
+cheat334_handler = "2"
+cheat334_code = "777,38"
+
+cheat335_desc = "第4魔法/特技装备圣剑的特技"
+cheat335_handler = "2"
+cheat335_code = "777,3E"
+
+cheat336_desc = "第4魔法/特技装备领主的特技（专用）"
+cheat336_handler = "2"
+cheat336_code = "774,3C"
+
+cheat337_desc = "第4魔法/特技装备堕天使的特技1（专用）"
+cheat337_handler = "2"
+cheat337_code = "774,3D"
+
+cheat338_desc = "第4魔法/特技装备堕天使的特技2（专用）"
+cheat338_handler = "2"
+cheat338_code = "774,52"
+
+cheat339_desc = "第4魔法/特技装备堕天使的特技3（专用）"
+cheat339_handler = "2"
+cheat339_code = "774,5A"
+
+cheat340_desc = "MONEYMAX"
+cheat340_handler = "2"
+cheat340_code = "1864,5,F5,E0,FF"
+
+cheats = 341

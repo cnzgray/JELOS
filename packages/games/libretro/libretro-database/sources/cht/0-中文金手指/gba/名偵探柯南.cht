@@ -1,0 +1,5 @@
+cheat0_desc = "HP"
+cheat0_handler = "2"
+cheat0_code = "42C30,5"
+
+cheats = 1

@@ -1,0 +1,53 @@
+cheat0_desc = "战斗中时间无限"
+cheat0_handler = "2"
+cheat0_code = "4620C,63"
+
+cheat1_desc = "1P HP全满"
+cheat1_handler = "2"
+cheat1_code = "46AC3,96"
+
+cheat2_desc = "1P HP一击必杀"
+cheat2_handler = "2"
+cheat2_code = "46AC3,1"
+
+cheat3_desc = "2P HP全满"
+cheat3_handler = "2"
+cheat3_code = "46C44,96"
+
+cheat4_desc = "2P HP一击必杀"
+cheat4_handler = "2"
+cheat4_code = "46C44,1"
+
+cheat5_desc = "战斗中1P攻击点数999"
+cheat5_handler = "2"
+cheat5_code = "46ADC,E7,3"
+
+cheat6_desc = "战斗中1P攻击点数0"
+cheat6_handler = "2"
+cheat6_code = "46ADC,0,0"
+
+cheat7_desc = "战斗中2P攻击点数999"
+cheat7_handler = "2"
+cheat7_code = "46C5C,E7,3"
+
+cheat8_desc = "战斗中2P攻击点数0"
+cheat8_handler = "2"
+cheat8_code = "46C5C,0,0"
+
+cheat9_desc = "点数无限"
+cheat9_handler = "2"
+cheat9_code = "13C4,7F,96,98"
+
+cheat10_desc = "gameinfoNAME"
+cheat10_handler = "2"
+cheat10_code = "爆裂　毛真拳-耻毛大战!"
+
+cheat11_desc = "gameinfoSYSTEM"
+cheat11_handler = "2"
+cheat11_code = "GBA"
+
+cheat12_desc = "gameinfoTEXT"
+cheat12_handler = "2"
+cheat12_code = "1643_-_Boboboubo_Boubobo_Bakutou_Hajike_Taisen_JPN_GBA-Caravan BY KRIZAL"
+
+cheats = 13

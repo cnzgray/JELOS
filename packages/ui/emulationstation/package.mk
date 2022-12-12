@@ -76,6 +76,8 @@ pre_configure_target() {
   if [ -f ~/developer_settings.conf ]; then
     . ~/developer_settings.conf
   fi
+
+  cp -r ${PKG_DIR}/lang/* ${PKG_BUILD}/locale/lang/share/
 }
 
 makeinstall_target() {

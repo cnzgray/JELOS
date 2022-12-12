@@ -1,0 +1,181 @@
+cheat0_desc = "hp"
+cheat0_handler = "2"
+cheat0_code = "4273E,FF,FF;4274B,FF;4274D,FF"
+
+cheat1_desc = "氣"
+cheat1_handler = "2"
+cheat1_code = "4274B,64"
+
+cheat2_desc = "point"
+cheat2_handler = "2"
+cheat2_code = "44DB4,FF,FF,0"
+
+cheat3_desc = "我方第一人悟空"
+cheat3_handler = "2"
+cheat3_code = "450B0,0"
+
+cheat4_desc = "我方第一人悟飯"
+cheat4_handler = "2"
+cheat4_code = "450B0,3"
+
+cheat5_desc = "我方第一人ヒシコロ"
+cheat5_handler = "2"
+cheat5_code = "450B0,6"
+
+cheat6_desc = "我方第一人クリリソ"
+cheat6_handler = "2"
+cheat6_code = "450B0,9"
+
+cheat7_desc = "我方第一人べジ－タ"
+cheat7_handler = "2"
+cheat7_code = "450B0,C"
+
+cheat8_desc = "我方第一人トラソクス"
+cheat8_handler = "2"
+cheat8_code = "450B0,F"
+
+cheat9_desc = "我方第一人ギニユ－"
+cheat9_handler = "2"
+cheat9_code = "450B0,12"
+
+cheat10_desc = "我方第一人フリ－ザ"
+cheat10_handler = "2"
+cheat10_code = "450B0,15"
+
+cheat11_desc = "我方第一人Drゲロ"
+cheat11_handler = "2"
+cheat11_code = "450B0,18"
+
+cheat12_desc = "我方第一人18號"
+cheat12_handler = "2"
+cheat12_code = "450B0,1B"
+
+cheat13_desc = "我方第一人セル"
+cheat13_handler = "2"
+cheat13_code = "450B0,1E"
+
+cheat14_desc = "我方第一人ブウ"
+cheat14_handler = "2"
+cheat14_code = "450B0,21"
+
+cheat15_desc = "我方第一人魔人ブウ"
+cheat15_handler = "2"
+cheat15_code = "450B0,23"
+
+cheat16_desc = "我方第一人ゴテソクス"
+cheat16_handler = "2"
+cheat16_code = "450B0,25"
+
+cheat17_desc = "我方第二人悟空"
+cheat17_handler = "2"
+cheat17_code = "450B1,0"
+
+cheat18_desc = "我方第二人悟飯"
+cheat18_handler = "2"
+cheat18_code = "450B1,3"
+
+cheat19_desc = "我方第二人ヒシコロ"
+cheat19_handler = "2"
+cheat19_code = "450B1,6"
+
+cheat20_desc = "我方第二人クリリソ"
+cheat20_handler = "2"
+cheat20_code = "450B1,9"
+
+cheat21_desc = "我方第二人べジ－タ"
+cheat21_handler = "2"
+cheat21_code = "450B1,C"
+
+cheat22_desc = "我方第二人トラソクス"
+cheat22_handler = "2"
+cheat22_code = "450B1,F"
+
+cheat23_desc = "我方第二人ギニユ－"
+cheat23_handler = "2"
+cheat23_code = "450B1,12"
+
+cheat24_desc = "我方第二人フリ－ザ"
+cheat24_handler = "2"
+cheat24_code = "450B1,15"
+
+cheat25_desc = "我方第二人Drゲロ"
+cheat25_handler = "2"
+cheat25_code = "450B1,18"
+
+cheat26_desc = "我方第二人18號"
+cheat26_handler = "2"
+cheat26_code = "450B1,1B"
+
+cheat27_desc = "我方第二人セル"
+cheat27_handler = "2"
+cheat27_code = "450B1,1E"
+
+cheat28_desc = "我方第二人ブウ"
+cheat28_handler = "2"
+cheat28_code = "450B1,21"
+
+cheat29_desc = "我方第二人魔人ブウ"
+cheat29_handler = "2"
+cheat29_code = "450B1,23"
+
+cheat30_desc = "我方第二人ゴテソクス"
+cheat30_handler = "2"
+cheat30_code = "450B1,25"
+
+cheat31_desc = "我方第三人悟空"
+cheat31_handler = "2"
+cheat31_code = "450B2,0"
+
+cheat32_desc = "我方第三人悟飯"
+cheat32_handler = "2"
+cheat32_code = "450B2,3"
+
+cheat33_desc = "我方第三人ヒシコロ"
+cheat33_handler = "2"
+cheat33_code = "450B2,6"
+
+cheat34_desc = "我方第三人クリリソ"
+cheat34_handler = "2"
+cheat34_code = "450B2,9"
+
+cheat35_desc = "我方第三人べジ－タ"
+cheat35_handler = "2"
+cheat35_code = "450B2,C"
+
+cheat36_desc = "我方第三人トラソクス"
+cheat36_handler = "2"
+cheat36_code = "450B2,F"
+
+cheat37_desc = "我方第三人ギニユ－"
+cheat37_handler = "2"
+cheat37_code = "450B2,12"
+
+cheat38_desc = "我方第三人フリ－ザ"
+cheat38_handler = "2"
+cheat38_code = "450B2,15"
+
+cheat39_desc = "我方第三人Drゲロ"
+cheat39_handler = "2"
+cheat39_code = "450B2,18"
+
+cheat40_desc = "我方第三人18號"
+cheat40_handler = "2"
+cheat40_code = "450B2,1B"
+
+cheat41_desc = "我方第三人セル"
+cheat41_handler = "2"
+cheat41_code = "450B2,1E"
+
+cheat42_desc = "我方第三人ブウ"
+cheat42_handler = "2"
+cheat42_code = "450B2,21"
+
+cheat43_desc = "我方第三人魔人ブウ"
+cheat43_handler = "2"
+cheat43_code = "450B2,23"
+
+cheat44_desc = "我方第三人ゴテソクス"
+cheat44_handler = "2"
+cheat44_code = "450B2,25"
+
+cheats = 45

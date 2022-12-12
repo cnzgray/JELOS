@@ -1,0 +1,337 @@
+cheat0_desc = "1 Infinite Health"
+cheat0_handler = "0"
+cheat0_code = "800C78E2#00FF"
+
+cheat1_desc = "2 Have Grenade Launcher (L1 + Triangle)"
+cheat1_handler = "0"
+cheat1_code = "D00C5EDC#0014;800CC5D0#FF09"
+
+cheat2_desc = "3 Have Grenade (FIRE) (L1 + X)"
+cheat2_handler = "0"
+cheat2_code = "D00C5EDC#0044;800CC5D0#FF0A"
+
+cheat3_desc = "4 Have Grenade Launcher (ACID)(L1 + Square)"
+cheat3_handler = "0"
+cheat3_code = "D00C5EDC#0084;800CC5D0#FF0B"
+
+cheat4_desc = "5 Have Blow Gun (L2 + Triangle)"
+cheat4_handler = "0"
+cheat4_code = "D00C5EDC#0011;800CC5D0#FF0C"
+
+cheat5_desc = "6 Have Colt S.A.A. (L2 + X)"
+cheat5_handler = "0"
+cheat5_code = "D00C5EDC#0041;800CC5D0#FF0D"
+
+cheat6_desc = "7 Have Spark Shot (L2 + Square)"
+cheat6_handler = "0"
+cheat6_code = "D00C5EDC#0081;800CC5D0#FF0E"
+
+cheat7_desc = "8 Have Sub Machine Gun (R2 + Triangle)"
+cheat7_handler = "0"
+cheat7_code = "D00C5EDC#0012;800CC5D0#FF0F"
+
+cheat8_desc = "9 Have Rocket Launcher (R2 + X)"
+cheat8_handler = "0"
+cheat8_code = "D00C5EDC#0042;800CC5D0#FF11"
+
+cheat9_desc = "10 Have Gatling Gun (R2 + Square)"
+cheat9_handler = "0"
+cheat9_code = "D00C5EDC#0082;800CC5D0#FF12"
+
+cheat10_desc = "11 Ink Ribbons in Crate"
+cheat10_handler = "0"
+cheat10_code = "800CC6F8#FF1E"
+
+cheat11_desc = "12 Small Key in Crate"
+cheat11_handler = "0"
+cheat11_code = "800CC6F4#031F"
+
+cheat12_desc = "13 Red Jewel in Crate"
+cheat12_handler = "0"
+cheat12_code = "800CC6F0#0133"
+
+cheat13_desc = "14 Cord in Crate"
+cheat13_handler = "0"
+cheat13_code = "800CC6EC#0156"
+
+cheat14_desc = "15 Fuse Case in Crate"
+cheat14_handler = "0"
+cheat14_code = "800CC6E8#041D"
+
+cheat15_desc = "16 Serpent Stone in Crate"
+cheat15_handler = "0"
+cheat15_code = "800CC6E4#0136"
+
+cheat16_desc = "17 Jaguar Stone in Crate"
+cheat16_handler = "0"
+cheat16_code = "800CC6EO#0137"
+
+cheat17_desc = "18 Eagle Stone in Crate"
+cheat17_handler = "0"
+cheat17_code = "800CC6Dc#013A"
+
+cheat18_desc = "19 Bomb Detonator in Crate"
+cheat18_handler = "0"
+cheat18_code = "800CC6D8#0142"
+
+cheat19_desc = "20 Unicorn Medal in Crate"
+cheat19_handler = "0"
+cheat19_code = "800CC6D4#0147"
+
+cheat20_desc = "21 Eagle Medal in Crate"
+cheat20_handler = "0"
+cheat20_code = "800CC6DO#0148"
+
+cheat21_desc = "22 Wolf Medal in Crate"
+cheat21_handler = "0"
+cheat21_code = "800CC6CC#0149"
+
+cheat22_desc = "23 G Virus in Crate"
+cheat22_handler = "0"
+cheat22_code = "800CC6C8#0152"
+
+cheat23_desc = "24 Special Key in Crate"
+cheat23_handler = "0"
+cheat23_code = "800CC6C4#0153"
+
+cheat24_desc = "25 Cabin Key in Crate"
+cheat24_handler = "0"
+cheat24_code = "800CC6CO#0158"
+
+cheat25_desc = "26 Precinct Key in Crate"
+cheat25_handler = "0"
+cheat25_code = "800CC6BC#0159"
+
+cheat26_desc = "27 Lock Pick in Crate"
+cheat26_handler = "0"
+cheat26_code = "800CC6B8#0130"
+
+cheat27_desc = "28 Lab Card Key in Crate"
+cheat27_handler = "0"
+cheat27_code = "800CC6B4#0161"
+
+cheat28_desc = "29 Master Key in Crate"
+cheat28_handler = "0"
+cheat28_code = "800CC6B0#0162"
+
+cheat29_desc = "30 Platform Key in Crate"
+cheat29_handler = "0"
+cheat29_code = "800CC6AC#0163"
+
+cheat30_desc = "31 Grenade Launcher in Crate"
+cheat30_handler = "0"
+cheat30_code = "800CC5FC#FF09"
+
+cheat31_desc = "32 Grenade Launcher (FIRE) in Crate"
+cheat31_handler = "0"
+cheat31_code = "800CC600#FF0A"
+
+cheat32_desc = "33 Grenade Launcher (ACID) in Crate"
+cheat32_handler = "0"
+cheat32_code = "800CC604#FF0B"
+
+cheat33_desc = "34 BowGun in Crate"
+cheat33_handler = "0"
+cheat33_code = "800CC608#FF0C"
+
+cheat34_desc = "35 Colt S.A.A. in Crate"
+cheat34_handler = "0"
+cheat34_code = "800CC60C#FF0D"
+
+cheat35_desc = "36 Spark Shot in Crate"
+cheat35_handler = "0"
+cheat35_code = "800CC610#FF0E"
+
+cheat36_desc = "37 SubMachine Gun in Crate"
+cheat36_handler = "0"
+cheat36_code = "800CC614#FF0F"
+
+cheat37_desc = "38 Rocket Launcher in Crate"
+cheat37_handler = "0"
+cheat37_code = "800CC618#FF11"
+
+cheat38_desc = "39 Infinite Health"
+cheat38_handler = "0"
+cheat38_code = "800C794A#00FF"
+
+cheat39_desc = "40 Have Shot Gun (L1 + Square)"
+cheat39_handler = "0"
+cheat39_code = "D00C5F3C#0084;800CC638#FF07"
+
+cheat40_desc = "41 Have Custom Shotgun (L2 + Triangle)"
+cheat40_handler = "0"
+cheat40_code = "D00C5F3C#0011;800CC638#FF08"
+
+cheat41_desc = "42 Have Magnum(L1 + Triangle)"
+cheat41_handler = "0"
+cheat41_code = "D00C5F3C#0014;800CC638#FF05"
+
+cheat42_desc = "43 Have Custom Magnum (L1 + X)"
+cheat42_handler = "0"
+cheat42_code = "D00C5F3C#0044;800CC638#FF02"
+
+cheat43_desc = "44 Have Gatling Gun (R2 + Square)"
+cheat43_handler = "0"
+cheat43_code = "D00C5F3C#0082;800CC638#FF12"
+
+cheat44_desc = "45 Have Flame Thrower (R2 + Triangle)"
+cheat44_handler = "0"
+cheat44_code = "D00C5F3C#0012;800CC638#FF10"
+
+cheat45_desc = "46 Have Rocket Launcher (R2 + X)"
+cheat45_handler = "0"
+cheat45_code = "D00C5F3C#0042;800CC638#FF11"
+
+cheat46_desc = "47 Bishop Plug in Crate"
+cheat46_handler = "0"
+cheat46_code = "800CC748#013B"
+
+cheat47_desc = "48 Cabin key in Crate"
+cheat47_handler = "0"
+cheat47_code = "800CC720#0158"
+
+cheat48_desc = "49 Colt S.A.A. in Crate"
+cheat48_handler = "0"
+cheat48_code = "800CC678#FF0D"
+
+cheat49_desc = "50 Cord in Crate"
+cheat49_handler = "0"
+cheat49_code = "800CC750#0156"
+
+cheat50_desc = "51 Custom Hand Gun in Crate"
+cheat50_handler = "0"
+cheat50_code = "800CC664#FF04"
+
+cheat51_desc = "52 Custom Magnum in Crate"
+cheat51_handler = "0"
+cheat51_code = "800CC66C#FF06"
+
+cheat52_desc = "53 Custom Shot Gun in Crate"
+cheat52_handler = "0"
+cheat52_code = "800CC674#FF08"
+
+cheat53_desc = "54 Eagle Medal in Crate"
+cheat53_handler = "0"
+cheat53_code = "800CC730#0148"
+
+cheat54_desc = "55 Flamethrower in Crate"
+cheat54_handler = "0"
+cheat54_code = "800CC680#FF10"
+
+cheat55_desc = "56 Fuse Case in Crate"
+cheat55_handler = "0"
+cheat55_code = "800CC74C#041D"
+
+cheat56_desc = "57 G Virus in Crate"
+cheat56_handler = "0"
+cheat56_code = "800CC728#0152"
+
+cheat57_desc = "58 Gatling Gun in Crate"
+cheat57_handler = "0"
+cheat57_code = "800CC688#FF12"
+
+cheat58_desc = "59 Ink Ribbons in Crate"
+cheat58_handler = "0"
+cheat58_code = "800CC760#FF1E"
+
+cheat59_desc = "60 King Plug in Crate"
+cheat59_handler = "0"
+cheat59_code = "800CC73C#013E"
+
+cheat60_desc = "61 Knight Plug in Crate"
+cheat60_handler = "0"
+cheat60_code = "800CC740#013D"
+
+cheat61_desc = "62 Lab Card Key in Crate"
+cheat61_handler = "0"
+cheat61_code = "800CC714#0161"
+
+cheat62_desc = "63 Lock Pick in Crate"
+cheat62_handler = "0"
+cheat62_code = "800CC718#0130"
+
+cheat63_desc = "64 Magnum in Crate"
+cheat63_handler = "0"
+cheat63_code = "800CC668#FF05"
+
+cheat64_desc = "65 Master Key in Crate"
+cheat64_handler = "0"
+cheat64_code = "800CC710#0162"
+
+cheat65_desc = "66 Platform Key in Crate"
+cheat65_handler = "0"
+cheat65_code = "800CC758#0163"
+
+cheat66_desc = "67 Precinct Key in Crate"
+cheat66_handler = "0"
+cheat66_code = "800CC71C#0159"
+
+cheat67_desc = "68 Red Jewel in Crate"
+cheat67_handler = "0"
+cheat67_code = "800CC758#0133"
+
+cheat68_desc = "69 Rocket Launcher in Crate"
+cheat68_handler = "0"
+cheat68_code = "800CC684#FF11"
+
+cheat69_desc = "70 Rook Plug in Crate"
+cheat69_handler = "0"
+cheat69_code = "800CC744#013C"
+
+cheat70_desc = "71 Shotgun in Crate"
+cheat70_handler = "0"
+cheat70_code = "800CC670#FF07"
+
+cheat71_desc = "72 Small Key in Crate"
+cheat71_handler = "0"
+cheat71_code = "800CC75C#031F"
+
+cheat72_desc = "73 Special Key in Crate"
+cheat72_handler = "0"
+cheat72_code = "800CC724#0153"
+
+cheat73_desc = "74 Submachine Gun in Crate"
+cheat73_handler = "0"
+cheat73_code = "800CC67C#FF0F"
+
+cheat74_desc = "75 Unicorn Medal in Crate"
+cheat74_handler = "0"
+cheat74_code = "800CC734#0147"
+
+cheat75_desc = "76 Wolf Medal in Crate"
+cheat75_handler = "0"
+cheat75_code = "800CC72C#0149"
+
+cheat76_desc = "77 Leon and Side Pack"
+cheat76_handler = "0"
+cheat76_code = "800CC428#0002"
+
+cheat77_desc = "78 Bandaged Leon"
+cheat77_handler = "0"
+cheat77_code = "800CC428#0004"
+
+cheat78_desc = "79 Bandaged Leon and Side Pack"
+cheat78_handler = "0"
+cheat78_code = "800CC428#0006"
+
+cheat79_desc = "80 RPD Cap Leon (Secret Costume 1)"
+cheat79_handler = "0"
+cheat79_code = "800CC428#0008"
+
+cheat80_desc = "81 Leather Clad Leon(Secret Costume 2)"
+cheat80_handler = "0"
+cheat80_code = "800CC428#000A"
+
+cheat81_desc = "82 Hunk"
+cheat81_handler = "0"
+cheat81_code = "800CC428#000C"
+
+cheat82_desc = "83 Tofu"
+cheat82_handler = "0"
+cheat82_code = "800CC428#000D"
+
+cheat83_desc = "84 ADA"
+cheat83_handler = "0"
+cheat83_code = "800CC428#000E"
+
+cheats = 84

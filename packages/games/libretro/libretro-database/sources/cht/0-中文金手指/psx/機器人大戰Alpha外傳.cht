@@ -1,0 +1,137 @@
+cheat0_desc = "每機可裝4個強化"
+cheat0_handler = "0"
+cheat0_code = "D00F40C4#0029;800F40C4#0004;D00F40C6#9262;800F40C6#2402;D00ADA2E#14E0;800ADA2E#1400"
+
+cheat1_desc = "快速升級"
+cheat1_handler = "0"
+cheat1_code = "D00B58EC#0002;800B58EC#0001"
+
+cheat2_desc = "搭乘制限解除"
+cheat2_handler = "0"
+cheat2_code = "D00B2342#1040;800B2342#1400;D00B1DAE#1040;800B1DAE#1400"
+
+cheat3_desc = "BS65535"
+cheat3_handler = "0"
+cheat3_code = "80073178#FFFF"
+
+cheat4_desc = "換裝零件ターンAガンダム近距離戰鬥武裝"
+cheat4_handler = "0"
+cheat4_code = "30170521#0001"
+
+cheat5_desc = "換裝零件υガンダムヘビーアーム"
+cheat5_handler = "0"
+cheat5_code = "30170522#0001"
+
+cheat6_desc = "換裝零件ZZガンダムフルアーマー"
+cheat6_handler = "0"
+cheat6_code = "30170523#0001"
+
+cheat7_desc = "新增駕駛新增第8人ロザミィ"
+cheat7_handler = "0"
+cheat7_code = "301704AA#0008;8016ED08#001E;3016ED0D#000F"
+
+cheat8_desc = "新增駕駛新增第9人シュウ"
+cheat8_handler = "0"
+cheat8_code = "301704AA#0009;8016ED1C#012B;3016ED21#000F"
+
+cheat9_desc = "新增駕駛新增第10人イルム"
+cheat9_handler = "0"
+cheat9_code = "301704AA#000A;8016ED30#0143;3016ED35#000F"
+
+cheat10_desc = "機體購買第1機變更ヴァル．ヴァロ"
+cheat10_handler = "0"
+cheat10_code = "80074AB4#000D"
+
+cheat11_desc = "機體購買第1機變更ノイエ．ジール"
+cheat11_handler = "0"
+cheat11_code = "80074AB4#000F"
+
+cheat12_desc = "機體購買第1機變更キュベレイ"
+cheat12_handler = "0"
+cheat12_code = "80074AB4#0024"
+
+cheat13_desc = "機體購買第1機變更ドーベン．ウルフ"
+cheat13_handler = "0"
+cheat13_code = "80074AB4#005D"
+
+cheat14_desc = "機體購買第1機變更υガンダムHWS裝著型"
+cheat14_handler = "0"
+cheat14_code = "80074AB4#0063"
+
+cheat15_desc = "機體購買第1機變更Hi-υガンダム"
+cheat15_handler = "0"
+cheat15_code = "80074AB4#0064"
+
+cheat16_desc = "機體購買第1機變更サザビー"
+cheat16_handler = "0"
+cheat16_code = "80074AB4#0069"
+
+cheat17_desc = "機體購買第1機變更ウインクガンダムゼロカスタム(α版)"
+cheat17_handler = "0"
+cheat17_code = "80074AB4#00AD"
+
+cheat18_desc = "機體購買第1機變更グランゾン"
+cheat18_handler = "0"
+cheat18_code = "80074AB4#01B9"
+
+cheat19_desc = "機體購買第1機變更ネオ．グランゾン "
+cheat19_handler = "0"
+cheat19_code = "80074AB4#01BB"
+
+cheat20_desc = "金錢無限"
+cheat20_handler = "0"
+cheat20_code = "80073168#967F;8007316A#0098"
+
+cheat21_desc = "熱血4倍、魂6倍"
+cheat21_handler = "0"
+cheat21_code = "D00C32D0#8840;800C32D0#8880;D00C32B4#1043;800C32B4#1080"
+
+cheat22_desc = "EN不減"
+cheat22_handler = "0"
+cheat22_code = "D00B8600#1823;800B8600#0023;D00B8688#1821;800B8688#0021;D00B8CBA#0065;800B8CBA#0060;D0129530#FFFF;80129530#0000"
+
+cheat23_desc = "彈數不減"
+cheat23_handler = "0"
+cheat23_code = "D00B9166#2442;800B9164#0000"
+
+cheat24_desc = "SP不減"
+cheat24_handler = "0"
+cheat24_code = "D00B65F4#2025;800B65F4#0084;D00B65F6#0083;800B65F6#8E24;D00B66A6#AC83;800B66A6#AC86"
+
+cheat25_desc = "可控制敵方機體(我方回合時)"
+cheat25_handler = "0"
+cheat25_code = "D010A5D2#1462;8010A5D2#1400;D00BF842#1440;800BF842#1000"
+
+cheat26_desc = "行動次數無限"
+cheat26_handler = "0"
+cheat26_code = "D00BF842#1440;800BF842#1000"
+
+cheat27_desc = "6項能力值經驗MAX"
+cheat27_handler = "0"
+cheat27_code = "B0930014#00000000,8016EC84#03E8;B0930014#00000000,8016EC86#03E8;B0930014#00000000,8016EC88#03E8;B0930014#00000000,8016EC8A#03E8;B0930014#00000000,8016EC8C#03E8;B0930014#00000000,8016EC8E#03E8"
+
+cheat28_desc = "戰鬥1回擊墜數999"
+cheat28_handler = "0"
+cheat28_code = "D00C5604#2021;800C5606#2404;D00C5604#2021;800C5604#03E7"
+
+cheat29_desc = "全強化道具99個"
+cheat29_handler = "0"
+cheat29_code = "801704AC#FFFF;801704AE#FFFF;801704B0#7FFF;B02F0002#00000000,801704BC#6363"
+
+cheat30_desc = "擊墜一機，我方氣力+50"
+cheat30_handler = "0"
+cheat30_code = "D00C3AA0#0001;800C3AA0#0032"
+
+cheat31_desc = "衛星加農炮無月亮回合限制"
+cheat31_handler = "0"
+cheat31_code = "D00C03D8#12C2;800C03D8#1021;D00C03DA#0010;800C03DA#0000"
+
+cheat32_desc = "人物事典100%"
+cheat32_handler = "0"
+cheat32_code = "D00EC766#1040;800EC766#1400;3005EE08#000F"
+
+cheat33_desc = "機體圖鑑100%"
+cheat33_handler = "0"
+cheat33_code = "B0170002#00000000,8009CD88#FFFF"
+
+cheats = 34

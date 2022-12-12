@@ -1,0 +1,33 @@
+cheat0_desc = "子弹"
+cheat0_handler = "0"
+cheat0_code = "300B9BD8#FF"
+
+cheat1_desc = "物品1数量"
+cheat1_handler = "0"
+cheat1_code = "300BC605#FF"
+
+cheat2_desc = "物品2数量"
+cheat2_handler = "0"
+cheat2_code = "300BC609#FF"
+
+cheat3_desc = "HP"
+cheat3_handler = "0"
+cheat3_code = "300B9C8E#6"
+
+cheat4_desc = "地图"
+cheat4_handler = "0"
+cheat4_code = "300BC768#ee;300BC76a#ee"
+
+cheat5_desc = "游戏时间为 0:0:0"
+cheat5_handler = "0"
+cheat5_code = "300BC854#0000;300BC856#0000"
+
+cheat6_desc = "来福枪"
+cheat6_handler = "0"
+cheat6_code = "300BC614#FF,a1"
+
+cheat7_desc = "完整的地图"
+cheat7_handler = "0"
+cheat7_code = "300BC7D8#FF,FF;300BC7DA#FF,FF;300BC7DC#FF,FF;300BC7DE#FF,FF;300BC7E0#FF,FF"
+
+cheats = 8

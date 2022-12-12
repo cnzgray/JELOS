@@ -1,0 +1,121 @@
+cheat0_desc = "积分"
+cheat0_handler = "2"
+cheat0_code = "66F8,3F,42,F"
+
+cheat1_desc = "快速过关"
+cheat1_handler = "2"
+cheat1_code = "EF58,63"
+
+cheat2_desc = "下1位方块上方种类绿犬"
+cheat2_handler = "2"
+cheat2_code = "7854,0"
+
+cheat3_desc = "下1位方块上方种类紫犬"
+cheat3_handler = "2"
+cheat3_code = "7854,1"
+
+cheat4_desc = "下1位方块上方种类黑犬"
+cheat4_handler = "2"
+cheat4_code = "7854,2"
+
+cheat5_desc = "下1位方块上方种类粉犬"
+cheat5_handler = "2"
+cheat5_code = "7854,3"
+
+cheat6_desc = "下1位方块上方种类黄犬"
+cheat6_handler = "2"
+cheat6_code = "7854,4"
+
+cheat7_desc = "下1位方块上方种类方块犬"
+cheat7_handler = "2"
+cheat7_code = "7854,5"
+
+cheat8_desc = "下1位方块上方种类圆圈犬"
+cheat8_handler = "2"
+cheat8_code = "7854,6"
+
+cheat9_desc = "下1位方块上方种类绿罐"
+cheat9_handler = "2"
+cheat9_code = "7854,7"
+
+cheat10_desc = "下1位方块上方种类紫罐"
+cheat10_handler = "2"
+cheat10_code = "7854,8"
+
+cheat11_desc = "下1位方块上方种类黑罐"
+cheat11_handler = "2"
+cheat11_code = "7854,9"
+
+cheat12_desc = "下1位方块上方种类粉罐"
+cheat12_handler = "2"
+cheat12_code = "7854,A"
+
+cheat13_desc = "下1位方块上方种类黄罐"
+cheat13_handler = "2"
+cheat13_code = "7854,B"
+
+cheat14_desc = "下1位方块上方种类方块罐"
+cheat14_handler = "2"
+cheat14_code = "7854,C"
+
+cheat15_desc = "下1位方块上方种类圆圈罐"
+cheat15_handler = "2"
+cheat15_code = "7854,D"
+
+cheat16_desc = "下1位方块下方种类绿犬"
+cheat16_handler = "2"
+cheat16_code = "783C,0"
+
+cheat17_desc = "下1位方块下方种类紫犬"
+cheat17_handler = "2"
+cheat17_code = "783C,1"
+
+cheat18_desc = "下1位方块下方种类黑犬"
+cheat18_handler = "2"
+cheat18_code = "783C,2"
+
+cheat19_desc = "下1位方块下方种类粉犬"
+cheat19_handler = "2"
+cheat19_code = "783C,3"
+
+cheat20_desc = "下1位方块下方种类黄犬"
+cheat20_handler = "2"
+cheat20_code = "783C,4"
+
+cheat21_desc = "下1位方块下方种类方块犬"
+cheat21_handler = "2"
+cheat21_code = "783C,5"
+
+cheat22_desc = "下1位方块下方种类圆圈犬"
+cheat22_handler = "2"
+cheat22_code = "783C,6"
+
+cheat23_desc = "下1位方块下方种类绿罐"
+cheat23_handler = "2"
+cheat23_code = "783C,7"
+
+cheat24_desc = "下1位方块下方种类紫罐"
+cheat24_handler = "2"
+cheat24_code = "783C,8"
+
+cheat25_desc = "下1位方块下方种类黑罐"
+cheat25_handler = "2"
+cheat25_code = "783C,9"
+
+cheat26_desc = "下1位方块下方种类粉罐"
+cheat26_handler = "2"
+cheat26_code = "783C,A"
+
+cheat27_desc = "下1位方块下方种类黄罐"
+cheat27_handler = "2"
+cheat27_code = "783C,B"
+
+cheat28_desc = "下1位方块下方种类方块罐"
+cheat28_handler = "2"
+cheat28_code = "783C,C"
+
+cheat29_desc = "下1位方块下方种类圆圈罐"
+cheat29_handler = "2"
+cheat29_code = "783C,D"
+
+cheats = 30

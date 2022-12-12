@@ -1,0 +1,2081 @@
+cheat0_desc = "故事模式京的级数"
+cheat0_handler = "0"
+cheat0_code = "300C7F7C#A"
+
+cheat1_desc = "1P优先权满优先进攻"
+cheat1_handler = "0"
+cheat1_code = "3013411A#00000060;3013414E#00000060;301330DE#00000060;301330E4#66;901331C4#000A000E;901331CA#002F0002;301331CC#0000002F;301331D0#0000001C;301320D6#60;301330DE#60;301340E6#60;301560CE#60;3015A0EE#60"
+
+cheat2_desc = "1P优先权满3"
+cheat2_handler = "0"
+cheat2_code = "301E692C#00000060;301E6B0C#00000060"
+
+cheat3_desc = "必杀名"
+cheat3_handler = "0"
+cheat3_code = "301E6B1E#60"
+
+cheat4_desc = "必杀1"
+cheat4_handler = "0"
+cheat4_code = "301E6B1F#00"
+
+cheat5_desc = "第一指令锁定第一超必杀技"
+cheat5_handler = "0"
+cheat5_code = "301340C0#01;301340C1#00;301340C2#00;301340C3#00;301340C4#00;301340C5#00;301340C6#00;301340C7#00;301340C8#0A;301340C9#00;301340CA#00;301340CB#00;301340CC#03;301340CD#00;301340CE#00;301340CF#00;301340D0#03;301340D1#00;301340D2#00;301340D3#00;301340D4#00;301340D5#00;301340D6#00;301340D7#00;301340D8#00;301340D9#00;301340DA#00;301340DB#00;301340DC#00;301340DD#00;301340DE#01;301340DF#00;301340E0#01;301340E1#00;301340E2#00;301340E3#00;301340E4#00;301340E5#00;301340E6#60;301340E7#00;301340E8#00;301340E9#00;301340EA#00;301340EB#00;301340EC#69;301340ED#00;301340EE#00;301340EF#00;301340F0#01;301340F1#00;301340F2#01;301340F3#00;301340F4#01;301340F5#00;301340F6#00;301340F7#00;301340F8#00;301340F9#00;301340FA#00;301340FB#00;301340FC#0A;301340FD#00;301340FE#00;301340FF#00"
+
+cheat6_desc = "第一指令锁定第二超必杀技"
+cheat6_handler = "0"
+cheat6_code = "301340C0#01;301340C1#00;301340C2#01;301340C3#00;301340C4#01;301340C5#00;301340C6#01;301340C7#00;301340C8#0A;301340C9#00;301340CA#00;301340CB#00;301340CC#03;301340CD#00;301340CE#01;301340CF#00;301340D0#03;301340D1#00;301340D2#01;301340D3#00;301340D4#00;301340D5#00;301340D6#00;301340D7#00;301340D8#00;301340D9#00;301340DA#00;301340DB#00;301340DC#00;301340DD#00;301340DE#00;301340DF#00;301340E0#00;301340E1#00;301340E2#00;301340E3#00;301340E4#00;301340E5#00;301340E6#60;301340E7#00;301340E8#00;301340E9#00;301340EA#00;301340EB#00;301340EC#C8;301340ED#00;301340EE#00;301340EF#00;301340F0#01;301340F1#00;301340F2#01;301340F3#00;301340F4#01;301340F5#00;301340F6#00;301340F7#00;301340F8#00;301340F9#00;301340FA#00;301340FB#00;301340FC#0A;301340FD#00;301340FE#00;301340FF#00"
+
+cheat7_desc = "第二指令锁定第一超必杀技"
+cheat7_handler = "0"
+cheat7_code = "30134100#03;30134102#00;30134104#03;30134106#00;3013411A#60;3013411B#00;3013411C#00;3013411D#00;3013411E#00;3013411F#00;30134120#69;30134121#00;30134122#00;30134123#00;30134124#01;30134125#00;30134126#01;30134127#00;30134128#01"
+
+cheat8_desc = "第二指令锁定第二超必杀技"
+cheat8_handler = "0"
+cheat8_code = "30134100#03;30134102#01;30134104#03;30134106#01;3013411A#60;3013411B#00;3013411C#00;3013411D#00;3013411E#00;3013411F#00;30134120#C8;30134121#00;30134122#00;30134123#00;30134124#01;30134125#00;30134126#01;30134127#00;30134128#01"
+
+cheat9_desc = "第三指令锁定第一超必杀技"
+cheat9_handler = "0"
+cheat9_code = "30134130#0A;30134131#00;30134132#00;30134133#00;30134134#03;30134135#00;30134136#00;30134137#00;30134138#03;30134139#00;3013413A#00;3013413B#00;3013413C#00;3013413D#00;3013413E#00;3013413F#00;30134140#00;30134141#00;30134142#40;30134143#00;30134144#00;30134145#00;30134146#00;30134147#00;30134148#00;30134149#00;3013414A#00;3013414B#00;3013414C#00;3013414D#00;3013414E#60;3013414F#00;30134150#00;30134151#00;30134152#00;30134153#00;30134154#69;30134155#00;30134156#00;30134157#00;30134158#01;30134159#00;3013415A#01;3013415B#00;3013415C#01;3013415D#00;3013415E#00;3013415F#00"
+
+cheat10_desc = "第三指令锁定第二超必杀技"
+cheat10_handler = "0"
+cheat10_code = "30134130#0A;30134131#00;30134132#00;30134133#00;30134134#03;30134135#00;30134136#01;30134137#00;30134138#03;30134139#00;3013413A#01;3013413B#00;3013413C#00;3013413D#00;3013413E#00;3013413F#00;30134140#00;30134141#00;30134142#00;30134143#00;30134144#00;30134145#00;30134146#00;30134147#00;30134148#00;30134149#00;3013414A#00;3013414B#00;3013414C#00;3013414D#00;3013414E#60;3013414F#00;30134150#00;30134151#00;30134152#00;30134153#00;30134154#C8;30134155#00;30134156#00;30134157#00;30134158#01;30134159#00;3013415A#01;3013415B#00;3013415C#01;3013415D#00;3013415E#00;3013415F#00"
+
+cheat11_desc = "1P超必杀技满BATTLE模式1P三重绝招"
+cheat11_handler = "0"
+cheat11_code = "30132092#FF;3013309A#FF;301340A2#FF;3015608A#FF;3015A0AA#FF"
+
+cheat12_desc = "2P超必杀技满BATTLE模式2P三重绝招"
+cheat12_handler = "0"
+cheat12_code = "30132192#FF;3013319A#FF;301341A2#FF;3015618A#FF;3015A1AA#FF"
+
+cheat13_desc = "BATTLE模式背景音乐瘋狂八神庵"
+cheat13_handler = "0"
+cheat13_code = "300A839A#34"
+
+cheat14_desc = "BATTLE模式背景音乐大蛇OROCHI"
+cheat14_handler = "0"
+cheat14_code = "300A839A#33"
+
+cheat15_desc = "BATTLE模式背景音乐大地七枷社"
+cheat15_handler = "0"
+cheat15_code = "300A839A#32"
+
+cheat16_desc = "BATTLE模式背景音乐电神SHERMIE"
+cheat16_handler = "0"
+cheat16_code = "300A839A#31"
+
+cheat17_desc = "BATTLE模式背景音乐火神CHRIS"
+cheat17_handler = "0"
+cheat17_code = "300A839A#30"
+
+cheat18_desc = "BATTLE模式背景音乐沉思MR.BIG"
+cheat18_handler = "0"
+cheat18_code = "300A839A#2F"
+
+cheat19_desc = "BATTLE模式背景音乐GEESE HOWARD"
+cheat19_handler = "0"
+cheat19_code = "300A839A#26"
+
+cheat20_desc = "BATTLE模式背景音乐IORI YAGAMI"
+cheat20_handler = "0"
+cheat20_code = "300A839A#25"
+
+cheat21_desc = "BATTLE模式背景音乐SHINGO YABUKI"
+cheat21_handler = "0"
+cheat21_code = "300A839A#24"
+
+cheat22_desc = "BATTLE模式背景音乐恐怖SOUJI KUSANAGI"
+cheat22_handler = "0"
+cheat22_code = "300A839A#22"
+
+cheat23_desc = "BATTLE模式背景音乐恐怖SAISHU KUSANAGI"
+cheat23_handler = "0"
+cheat23_code = "300A839A#20"
+
+cheat24_desc = "BATTLE模式背景音乐JUNKO SENDO"
+cheat24_handler = "0"
+cheat24_code = "300A839A#1E"
+
+cheat25_desc = "BATTLE模式背景音乐SYOTA SENDO"
+cheat25_handler = "0"
+cheat25_code = "300A839A#1D"
+
+cheat26_desc = "BATTLE模式背景音乐KYOJI SENDO"
+cheat26_handler = "0"
+cheat26_code = "300A839A#1C"
+
+cheat27_desc = "BATTLE模式背景音乐YASHIRO NANAKASE"
+cheat27_handler = "0"
+cheat27_code = "300A839A#1B"
+
+cheat28_desc = "BATTLE模式背景音乐CHRIS"
+cheat28_handler = "0"
+cheat28_code = "300A839A#1A"
+
+cheat29_desc = "BATTLE模式背景音乐SHERMIE"
+cheat29_handler = "0"
+cheat29_code = "300A839A#19"
+
+cheat30_desc = "BATTLE模式背景音乐RYUJI YAMAZAKI"
+cheat30_handler = "0"
+cheat30_code = "300A839A#18"
+
+cheat31_desc = "BATTLE模式背景音乐BLUE MARY"
+cheat31_handler = "0"
+cheat31_code = "300A839A#17"
+
+cheat32_desc = "BATTLE模式背景音乐BILLY CANE"
+cheat32_handler = "0"
+cheat32_code = "300A839A#16"
+
+cheat33_desc = "BATTLE模式背景音乐CHOI BOUNGE"
+cheat33_handler = "0"
+cheat33_code = "300A839A#15"
+
+cheat34_desc = "BATTLE模式背景音乐funnyCHANG KOEHAN"
+cheat34_handler = "0"
+cheat34_code = "300A839A#14"
+
+cheat35_desc = "BATTLE模式背景音乐KIM KAPHWAN"
+cheat35_handler = "0"
+cheat35_code = "300A839A#13"
+
+cheat36_desc = "BATTLE模式背景音乐CHIN GENTSAI"
+cheat36_handler = "0"
+cheat36_code = "300A839A#12"
+
+cheat37_desc = "BATTLE模式背景音乐SIE KENSOU"
+cheat37_handler = "0"
+cheat37_code = "300A839A#11"
+
+cheat38_desc = "BATTLE模式背景音乐ATHENA ASAMIYA"
+cheat38_handler = "0"
+cheat38_code = "300A839A#10"
+
+cheat39_desc = "BATTLE模式背景音乐LEONA"
+cheat39_handler = "0"
+cheat39_code = "300A839A#0F"
+
+cheat40_desc = "BATTLE模式背景音乐CLARK"
+cheat40_handler = "0"
+cheat40_code = "300A839A#0E"
+
+cheat41_desc = "BATTLE模式背景音乐RALF"
+cheat41_handler = "0"
+cheat41_code = "300A839A#0D"
+
+cheat42_desc = "BATTLE模式背景音乐CHIZURU KAGURA"
+cheat42_handler = "0"
+cheat42_code = "300A839A#0B"
+
+cheat43_desc = "BATTLE模式背景音乐MAI SHIRANUI"
+cheat43_handler = "0"
+cheat43_code = "300A839A#0A"
+
+cheat44_desc = "BATTLE模式背景音乐KING"
+cheat44_handler = "0"
+cheat44_code = "300A839A#09"
+
+cheat45_desc = "BATTLE模式背景音乐好听*YURI SAKAZAKI"
+cheat45_handler = "0"
+cheat45_code = "300A839A#08"
+
+cheat46_desc = "BATTLE模式背景音乐ROBERT GARCIA"
+cheat46_handler = "0"
+cheat46_code = "300A839A#07"
+
+cheat47_desc = "BATTLE模式背景音乐RYO SAKAZAKI"
+cheat47_handler = "0"
+cheat47_code = "300A839A#06"
+
+cheat48_desc = "BATTLE模式背景音乐amazingJOE HIGASHI"
+cheat48_handler = "0"
+cheat48_code = "300A839A#05"
+
+cheat49_desc = "BATTLE模式背景音乐ANDY BOGARD"
+cheat49_handler = "0"
+cheat49_code = "300A839A#04"
+
+cheat50_desc = "BATTLE模式背景音乐TERRY BOGARD"
+cheat50_handler = "0"
+cheat50_code = "300A839A#03"
+
+cheat51_desc = "BATTLE模式背景音乐GORO DAIMON"
+cheat51_handler = "0"
+cheat51_code = "300A839A#02"
+
+cheat52_desc = "BATTLE模式背景音乐BENIMARU NIKAIDO"
+cheat52_handler = "0"
+cheat52_code = "300A839A#01"
+
+cheat53_desc = "BATTLE模式背景音乐KYO KUSANAGI"
+cheat53_handler = "0"
+cheat53_code = "300A839A#00"
+
+cheat54_desc = "全体角色出现于选人画面选人画面全体角色使用可能"
+cheat54_handler = "0"
+cheat54_code = "900AAD9C#FFFFFFFF;900AADA0#FFFF"
+
+cheat55_desc = "1P第一角色瘋狂选人瘋狂八神庵"
+cheat55_handler = "0"
+cheat55_code = "300B5112#34"
+
+cheat56_desc = "1P第一角色瘋狂选人大蛇OROCHI"
+cheat56_handler = "0"
+cheat56_code = "300B5112#33"
+
+cheat57_desc = "1P第一角色瘋狂选人大地七枷社"
+cheat57_handler = "0"
+cheat57_code = "300B5112#32"
+
+cheat58_desc = "1P第一角色瘋狂选人电神SHERMIE"
+cheat58_handler = "0"
+cheat58_code = "300B5112#31"
+
+cheat59_desc = "1P第一角色瘋狂选人火神CHRIS"
+cheat59_handler = "0"
+cheat59_code = "300B5112#30"
+
+cheat60_desc = "1P第一角色瘋狂选人MR.BIG"
+cheat60_handler = "0"
+cheat60_code = "300B5112#2F"
+
+cheat61_desc = "1P第一角色瘋狂选人GEESE HOWARD"
+cheat61_handler = "0"
+cheat61_code = "300B5112#26"
+
+cheat62_desc = "1P第一角色瘋狂选人IORI YAGAMI"
+cheat62_handler = "0"
+cheat62_code = "300B5112#25"
+
+cheat63_desc = "1P第一角色瘋狂选人SHINGO YABUKI"
+cheat63_handler = "0"
+cheat63_code = "300B5112#24"
+
+cheat64_desc = "1P第一角色瘋狂选人SOUJI KUSANAGI"
+cheat64_handler = "0"
+cheat64_code = "300B5112#22"
+
+cheat65_desc = "1P第一角色瘋狂选人SAISHU KUSANAGI"
+cheat65_handler = "0"
+cheat65_code = "300B5112#20"
+
+cheat66_desc = "1P第一角色瘋狂选人JUNKO SENDO"
+cheat66_handler = "0"
+cheat66_code = "300B5112#1E"
+
+cheat67_desc = "1P第一角色瘋狂选人SYOTA SENDO"
+cheat67_handler = "0"
+cheat67_code = "300B5112#1D"
+
+cheat68_desc = "1P第一角色瘋狂选人KYOJI SENDO"
+cheat68_handler = "0"
+cheat68_code = "300B5112#1C"
+
+cheat69_desc = "1P第一角色瘋狂选人YASHIRO NANAKASE"
+cheat69_handler = "0"
+cheat69_code = "300B5112#1B"
+
+cheat70_desc = "1P第一角色瘋狂选人CHRIS"
+cheat70_handler = "0"
+cheat70_code = "300B5112#1A"
+
+cheat71_desc = "1P第一角色瘋狂选人SHERMIE"
+cheat71_handler = "0"
+cheat71_code = "300B5112#19"
+
+cheat72_desc = "1P第一角色瘋狂选人RYUJI YAMAZAKI"
+cheat72_handler = "0"
+cheat72_code = "300B5112#18"
+
+cheat73_desc = "1P第一角色瘋狂选人BLUE MARY"
+cheat73_handler = "0"
+cheat73_code = "300B5112#17"
+
+cheat74_desc = "1P第一角色瘋狂选人BILLY CANE"
+cheat74_handler = "0"
+cheat74_code = "300B5112#16"
+
+cheat75_desc = "1P第一角色瘋狂选人CHOI BOUNGE"
+cheat75_handler = "0"
+cheat75_code = "300B5112#15"
+
+cheat76_desc = "1P第一角色瘋狂选人CHANG KOEHAN"
+cheat76_handler = "0"
+cheat76_code = "300B5112#14"
+
+cheat77_desc = "1P第一角色瘋狂选人KIM KAPHWAN"
+cheat77_handler = "0"
+cheat77_code = "300B5112#13"
+
+cheat78_desc = "1P第一角色瘋狂选人CHIN GENTSAI"
+cheat78_handler = "0"
+cheat78_code = "300B5112#12"
+
+cheat79_desc = "1P第一角色瘋狂选人SIE KENSOU"
+cheat79_handler = "0"
+cheat79_code = "300B5112#11"
+
+cheat80_desc = "1P第一角色瘋狂选人ATHENA ASAMIYA"
+cheat80_handler = "0"
+cheat80_code = "300B5112#10"
+
+cheat81_desc = "1P第一角色瘋狂选人LEONA"
+cheat81_handler = "0"
+cheat81_code = "300B5112#0F"
+
+cheat82_desc = "1P第一角色瘋狂选人CLARK"
+cheat82_handler = "0"
+cheat82_code = "300B5112#0E"
+
+cheat83_desc = "1P第一角色瘋狂选人RALF"
+cheat83_handler = "0"
+cheat83_code = "300B5112#0D"
+
+cheat84_desc = "1P第一角色瘋狂选人CHIZURU KAGURA"
+cheat84_handler = "0"
+cheat84_code = "300B5112#0B"
+
+cheat85_desc = "1P第一角色瘋狂选人MAI SHIRANUI"
+cheat85_handler = "0"
+cheat85_code = "300B5112#0A"
+
+cheat86_desc = "1P第一角色瘋狂选人KING"
+cheat86_handler = "0"
+cheat86_code = "300B5112#09"
+
+cheat87_desc = "1P第一角色瘋狂选人YURI SAKAZAKI"
+cheat87_handler = "0"
+cheat87_code = "300B5112#08"
+
+cheat88_desc = "1P第一角色瘋狂选人ROBERT GARCIA"
+cheat88_handler = "0"
+cheat88_code = "300B5112#07"
+
+cheat89_desc = "1P第一角色瘋狂选人RYO SAKAZAKI"
+cheat89_handler = "0"
+cheat89_code = "300B5112#06"
+
+cheat90_desc = "1P第一角色瘋狂选人JOE HIGASHI"
+cheat90_handler = "0"
+cheat90_code = "300B5112#05"
+
+cheat91_desc = "1P第一角色瘋狂选人ANDY BOGARD"
+cheat91_handler = "0"
+cheat91_code = "300B5112#04"
+
+cheat92_desc = "1P第一角色瘋狂选人TERRY BOGARD"
+cheat92_handler = "0"
+cheat92_code = "300B5112#03"
+
+cheat93_desc = "1P第一角色瘋狂选人GORO DAIMON"
+cheat93_handler = "0"
+cheat93_code = "300B5112#02"
+
+cheat94_desc = "1P第一角色瘋狂选人BENIMARU NIKAIDO"
+cheat94_handler = "0"
+cheat94_code = "300B5112#01"
+
+cheat95_desc = "1P第一角色瘋狂选人KYO KUSANAGI"
+cheat95_handler = "0"
+cheat95_code = "300B5112#00"
+
+cheat96_desc = "1P第二角色瘋狂选人瘋狂八神庵"
+cheat96_handler = "0"
+cheat96_code = "300B5114#34"
+
+cheat97_desc = "1P第二角色瘋狂选人大蛇OROCHI"
+cheat97_handler = "0"
+cheat97_code = "300B5114#33"
+
+cheat98_desc = "1P第二角色瘋狂选人大地七枷社"
+cheat98_handler = "0"
+cheat98_code = "300B5114#32"
+
+cheat99_desc = "1P第二角色瘋狂选人电神SHERMIE"
+cheat99_handler = "0"
+cheat99_code = "300B5114#31"
+
+cheat100_desc = "1P第二角色瘋狂选人火神CHRIS"
+cheat100_handler = "0"
+cheat100_code = "300B5114#30"
+
+cheat101_desc = "1P第二角色瘋狂选人MR.BIG"
+cheat101_handler = "0"
+cheat101_code = "300B5114#2F"
+
+cheat102_desc = "1P第二角色瘋狂选人GEESE HOWARD"
+cheat102_handler = "0"
+cheat102_code = "300B5114#26"
+
+cheat103_desc = "1P第二角色瘋狂选人IORI YAGAMI"
+cheat103_handler = "0"
+cheat103_code = "300B5114#25"
+
+cheat104_desc = "1P第二角色瘋狂选人SHINGO YABUKI"
+cheat104_handler = "0"
+cheat104_code = "300B5114#24"
+
+cheat105_desc = "1P第二角色瘋狂选人SOUJI KUSANAGI"
+cheat105_handler = "0"
+cheat105_code = "300B5114#22"
+
+cheat106_desc = "1P第二角色瘋狂选人SAISHU KUSANAGI"
+cheat106_handler = "0"
+cheat106_code = "300B5114#20"
+
+cheat107_desc = "1P第二角色瘋狂选人JUNKO SENDO"
+cheat107_handler = "0"
+cheat107_code = "300B5114#1E"
+
+cheat108_desc = "1P第二角色瘋狂选人SYOTA SENDO"
+cheat108_handler = "0"
+cheat108_code = "300B5114#1D"
+
+cheat109_desc = "1P第二角色瘋狂选人KYOJI SENDO"
+cheat109_handler = "0"
+cheat109_code = "300B5114#1C"
+
+cheat110_desc = "1P第二角色瘋狂选人YASHIRO NANAKASE"
+cheat110_handler = "0"
+cheat110_code = "300B5114#1B"
+
+cheat111_desc = "1P第二角色瘋狂选人CHRIS"
+cheat111_handler = "0"
+cheat111_code = "300B5114#1A"
+
+cheat112_desc = "1P第二角色瘋狂选人SHERMIE"
+cheat112_handler = "0"
+cheat112_code = "300B5114#19"
+
+cheat113_desc = "1P第二角色瘋狂选人RYUJI YAMAZAKI"
+cheat113_handler = "0"
+cheat113_code = "300B5114#18"
+
+cheat114_desc = "1P第二角色瘋狂选人BLUE MARY"
+cheat114_handler = "0"
+cheat114_code = "300B5114#17"
+
+cheat115_desc = "1P第二角色瘋狂选人BILLY CANE"
+cheat115_handler = "0"
+cheat115_code = "300B5114#16"
+
+cheat116_desc = "1P第二角色瘋狂选人CHOI BOUNGE"
+cheat116_handler = "0"
+cheat116_code = "300B5114#15"
+
+cheat117_desc = "1P第二角色瘋狂选人CHANG KOEHAN"
+cheat117_handler = "0"
+cheat117_code = "300B5114#14"
+
+cheat118_desc = "1P第二角色瘋狂选人KIM KAPHWAN"
+cheat118_handler = "0"
+cheat118_code = "300B5114#13"
+
+cheat119_desc = "1P第二角色瘋狂选人CHIN GENTSAI"
+cheat119_handler = "0"
+cheat119_code = "300B5114#12"
+
+cheat120_desc = "1P第二角色瘋狂选人SIE KENSOU"
+cheat120_handler = "0"
+cheat120_code = "300B5114#11"
+
+cheat121_desc = "1P第二角色瘋狂选人ATHENA ASAMIYA"
+cheat121_handler = "0"
+cheat121_code = "300B5114#10"
+
+cheat122_desc = "1P第二角色瘋狂选人LEONA"
+cheat122_handler = "0"
+cheat122_code = "300B5114#0F"
+
+cheat123_desc = "1P第二角色瘋狂选人CLARK"
+cheat123_handler = "0"
+cheat123_code = "300B5114#0E"
+
+cheat124_desc = "1P第二角色瘋狂选人RALF"
+cheat124_handler = "0"
+cheat124_code = "300B5114#0D"
+
+cheat125_desc = "1P第二角色瘋狂选人CHIZURU KAGURA"
+cheat125_handler = "0"
+cheat125_code = "300B5114#0B"
+
+cheat126_desc = "1P第二角色瘋狂选人MAI SHIRANUI"
+cheat126_handler = "0"
+cheat126_code = "300B5114#0A"
+
+cheat127_desc = "1P第二角色瘋狂选人KING"
+cheat127_handler = "0"
+cheat127_code = "300B5114#09"
+
+cheat128_desc = "1P第二角色瘋狂选人YURI SAKAZAKI"
+cheat128_handler = "0"
+cheat128_code = "300B5114#08"
+
+cheat129_desc = "1P第二角色瘋狂选人ROBERT GARCIA"
+cheat129_handler = "0"
+cheat129_code = "300B5114#07"
+
+cheat130_desc = "1P第二角色瘋狂选人RYO SAKAZAKI"
+cheat130_handler = "0"
+cheat130_code = "300B5114#06"
+
+cheat131_desc = "1P第二角色瘋狂选人JOE HIGASHI"
+cheat131_handler = "0"
+cheat131_code = "300B5114#05"
+
+cheat132_desc = "1P第二角色瘋狂选人ANDY BOGARD"
+cheat132_handler = "0"
+cheat132_code = "300B5114#04"
+
+cheat133_desc = "1P第二角色瘋狂选人TERRY BOGARD"
+cheat133_handler = "0"
+cheat133_code = "300B5114#03"
+
+cheat134_desc = "1P第二角色瘋狂选人GORO DAIMON"
+cheat134_handler = "0"
+cheat134_code = "300B5114#02"
+
+cheat135_desc = "1P第二角色瘋狂选人BENIMARU NIKAIDO"
+cheat135_handler = "0"
+cheat135_code = "300B5114#01"
+
+cheat136_desc = "1P第二角色瘋狂选人KYO KUSANAGI"
+cheat136_handler = "0"
+cheat136_code = "300B5114#00"
+
+cheat137_desc = "1P第三角色瘋狂选人瘋狂八神庵"
+cheat137_handler = "0"
+cheat137_code = "300B5116#34"
+
+cheat138_desc = "1P第三角色瘋狂选人大蛇OROCHI"
+cheat138_handler = "0"
+cheat138_code = "300B5116#33"
+
+cheat139_desc = "1P第三角色瘋狂选人大地七枷社"
+cheat139_handler = "0"
+cheat139_code = "300B5116#32"
+
+cheat140_desc = "1P第三角色瘋狂选人电神SHERMIE"
+cheat140_handler = "0"
+cheat140_code = "300B5116#31"
+
+cheat141_desc = "1P第三角色瘋狂选人火神CHRIS"
+cheat141_handler = "0"
+cheat141_code = "300B5116#30"
+
+cheat142_desc = "1P第三角色瘋狂选人MR.BIG"
+cheat142_handler = "0"
+cheat142_code = "300B5116#2F"
+
+cheat143_desc = "1P第三角色瘋狂选人GEESE HOWARD"
+cheat143_handler = "0"
+cheat143_code = "300B5116#26"
+
+cheat144_desc = "1P第三角色瘋狂选人IORI YAGAMI"
+cheat144_handler = "0"
+cheat144_code = "300B5116#25"
+
+cheat145_desc = "1P第三角色瘋狂选人SHINGO YABUKI"
+cheat145_handler = "0"
+cheat145_code = "300B5116#24"
+
+cheat146_desc = "1P第三角色瘋狂选人SOUJI KUSANAGI"
+cheat146_handler = "0"
+cheat146_code = "300B5116#22"
+
+cheat147_desc = "1P第三角色瘋狂选人SAISHU KUSANAGI"
+cheat147_handler = "0"
+cheat147_code = "300B5116#20"
+
+cheat148_desc = "1P第三角色瘋狂选人JUNKO SENDO"
+cheat148_handler = "0"
+cheat148_code = "300B5116#1E"
+
+cheat149_desc = "1P第三角色瘋狂选人SYOTA SENDO"
+cheat149_handler = "0"
+cheat149_code = "300B5116#1D"
+
+cheat150_desc = "1P第三角色瘋狂选人KYOJI SENDO"
+cheat150_handler = "0"
+cheat150_code = "300B5116#1C"
+
+cheat151_desc = "1P第三角色瘋狂选人YASHIRO NANAKASE"
+cheat151_handler = "0"
+cheat151_code = "300B5116#1B"
+
+cheat152_desc = "1P第三角色瘋狂选人CHRIS"
+cheat152_handler = "0"
+cheat152_code = "300B5116#1A"
+
+cheat153_desc = "1P第三角色瘋狂选人SHERMIE"
+cheat153_handler = "0"
+cheat153_code = "300B5116#19"
+
+cheat154_desc = "1P第三角色瘋狂选人RYUJI YAMAZAKI"
+cheat154_handler = "0"
+cheat154_code = "300B5116#18"
+
+cheat155_desc = "1P第三角色瘋狂选人BLUE MARY"
+cheat155_handler = "0"
+cheat155_code = "300B5116#17"
+
+cheat156_desc = "1P第三角色瘋狂选人BILLY CANE"
+cheat156_handler = "0"
+cheat156_code = "300B5116#16"
+
+cheat157_desc = "1P第三角色瘋狂选人CHOI BOUNGE"
+cheat157_handler = "0"
+cheat157_code = "300B5116#15"
+
+cheat158_desc = "1P第三角色瘋狂选人CHANG KOEHAN"
+cheat158_handler = "0"
+cheat158_code = "300B5116#14"
+
+cheat159_desc = "1P第三角色瘋狂选人KIM KAPHWAN"
+cheat159_handler = "0"
+cheat159_code = "300B5116#13"
+
+cheat160_desc = "1P第三角色瘋狂选人CHIN GENTSAI"
+cheat160_handler = "0"
+cheat160_code = "300B5116#12"
+
+cheat161_desc = "1P第三角色瘋狂选人SIE KENSOU"
+cheat161_handler = "0"
+cheat161_code = "300B5116#11"
+
+cheat162_desc = "1P第三角色瘋狂选人ATHENA ASAMIYA"
+cheat162_handler = "0"
+cheat162_code = "300B5116#10"
+
+cheat163_desc = "1P第三角色瘋狂选人LEONA"
+cheat163_handler = "0"
+cheat163_code = "300B5116#0F"
+
+cheat164_desc = "1P第三角色瘋狂选人CLARK"
+cheat164_handler = "0"
+cheat164_code = "300B5116#0E"
+
+cheat165_desc = "1P第三角色瘋狂选人RALF"
+cheat165_handler = "0"
+cheat165_code = "300B5116#0D"
+
+cheat166_desc = "1P第三角色瘋狂选人CHIZURU KAGURA"
+cheat166_handler = "0"
+cheat166_code = "300B5116#0B"
+
+cheat167_desc = "1P第三角色瘋狂选人MAI SHIRANUI"
+cheat167_handler = "0"
+cheat167_code = "300B5116#0A"
+
+cheat168_desc = "1P第三角色瘋狂选人KING"
+cheat168_handler = "0"
+cheat168_code = "300B5116#09"
+
+cheat169_desc = "1P第三角色瘋狂选人YURI SAKAZAKI"
+cheat169_handler = "0"
+cheat169_code = "300B5116#08"
+
+cheat170_desc = "1P第三角色瘋狂选人ROBERT GARCIA"
+cheat170_handler = "0"
+cheat170_code = "300B5116#07"
+
+cheat171_desc = "1P第三角色瘋狂选人RYO SAKAZAKI"
+cheat171_handler = "0"
+cheat171_code = "300B5116#06"
+
+cheat172_desc = "1P第三角色瘋狂选人JOE HIGASHI"
+cheat172_handler = "0"
+cheat172_code = "300B5116#05"
+
+cheat173_desc = "1P第三角色瘋狂选人ANDY BOGARD"
+cheat173_handler = "0"
+cheat173_code = "300B5116#04"
+
+cheat174_desc = "1P第三角色瘋狂选人TERRY BOGARD"
+cheat174_handler = "0"
+cheat174_code = "300B5116#03"
+
+cheat175_desc = "1P第三角色瘋狂选人GORO DAIMON"
+cheat175_handler = "0"
+cheat175_code = "300B5116#02"
+
+cheat176_desc = "1P第三角色瘋狂选人BENIMARU NIKAIDO"
+cheat176_handler = "0"
+cheat176_code = "300B5116#01"
+
+cheat177_desc = "1P第三角色瘋狂选人KYO KUSANAGI"
+cheat177_handler = "0"
+cheat177_code = "300B5116#00"
+
+cheat178_desc = "2P第一角色瘋狂选人瘋狂八神庵"
+cheat178_handler = "0"
+cheat178_code = "300B5122#34"
+
+cheat179_desc = "2P第一角色瘋狂选人大蛇OROCHI"
+cheat179_handler = "0"
+cheat179_code = "300B5122#33"
+
+cheat180_desc = "2P第一角色瘋狂选人大地七枷社"
+cheat180_handler = "0"
+cheat180_code = "300B5122#32"
+
+cheat181_desc = "2P第一角色瘋狂选人电神SHERMIE"
+cheat181_handler = "0"
+cheat181_code = "300B5122#31"
+
+cheat182_desc = "2P第一角色瘋狂选人火神CHRIS"
+cheat182_handler = "0"
+cheat182_code = "300B5122#30"
+
+cheat183_desc = "2P第一角色瘋狂选人MR.BIG"
+cheat183_handler = "0"
+cheat183_code = "300B5122#2F"
+
+cheat184_desc = "2P第一角色瘋狂选人GEESE HOWARD"
+cheat184_handler = "0"
+cheat184_code = "300B5122#26"
+
+cheat185_desc = "2P第一角色瘋狂选人IORI YAGAMI"
+cheat185_handler = "0"
+cheat185_code = "300B5122#25"
+
+cheat186_desc = "2P第一角色瘋狂选人SHINGO YABUKI"
+cheat186_handler = "0"
+cheat186_code = "300B5122#24"
+
+cheat187_desc = "2P第一角色瘋狂选人SOUJI KUSANAGI"
+cheat187_handler = "0"
+cheat187_code = "300B5122#22"
+
+cheat188_desc = "2P第一角色瘋狂选人SAISHU KUSANAGI"
+cheat188_handler = "0"
+cheat188_code = "300B5122#20"
+
+cheat189_desc = "2P第一角色瘋狂选人JUNKO SENDO"
+cheat189_handler = "0"
+cheat189_code = "300B5122#1E"
+
+cheat190_desc = "2P第一角色瘋狂选人SYOTA SENDO"
+cheat190_handler = "0"
+cheat190_code = "300B5122#1D"
+
+cheat191_desc = "2P第一角色瘋狂选人KYOJI SENDO"
+cheat191_handler = "0"
+cheat191_code = "300B5122#1C"
+
+cheat192_desc = "2P第一角色瘋狂选人YASHIRO NANAKASE"
+cheat192_handler = "0"
+cheat192_code = "300B5122#1B"
+
+cheat193_desc = "2P第一角色瘋狂选人CHRIS"
+cheat193_handler = "0"
+cheat193_code = "300B5122#1A"
+
+cheat194_desc = "2P第一角色瘋狂选人SHERMIE"
+cheat194_handler = "0"
+cheat194_code = "300B5122#19"
+
+cheat195_desc = "2P第一角色瘋狂选人RYUJI YAMAZAKI"
+cheat195_handler = "0"
+cheat195_code = "300B5122#18"
+
+cheat196_desc = "2P第一角色瘋狂选人BLUE MARY"
+cheat196_handler = "0"
+cheat196_code = "300B5122#17"
+
+cheat197_desc = "2P第一角色瘋狂选人BILLY CANE"
+cheat197_handler = "0"
+cheat197_code = "300B5122#16"
+
+cheat198_desc = "2P第一角色瘋狂选人CHOI BOUNGE"
+cheat198_handler = "0"
+cheat198_code = "300B5122#15"
+
+cheat199_desc = "2P第一角色瘋狂选人CHANG KOEHAN"
+cheat199_handler = "0"
+cheat199_code = "300B5122#14"
+
+cheat200_desc = "2P第一角色瘋狂选人KIM KAPHWAN"
+cheat200_handler = "0"
+cheat200_code = "300B5122#13"
+
+cheat201_desc = "2P第一角色瘋狂选人CHIN GENTSAI"
+cheat201_handler = "0"
+cheat201_code = "300B5122#12"
+
+cheat202_desc = "2P第一角色瘋狂选人SIE KENSOU"
+cheat202_handler = "0"
+cheat202_code = "300B5122#11"
+
+cheat203_desc = "2P第一角色瘋狂选人ATHENA ASAMIYA"
+cheat203_handler = "0"
+cheat203_code = "300B5122#10"
+
+cheat204_desc = "2P第一角色瘋狂选人LEONA"
+cheat204_handler = "0"
+cheat204_code = "300B5122#0F"
+
+cheat205_desc = "2P第一角色瘋狂选人CLARK"
+cheat205_handler = "0"
+cheat205_code = "300B5122#0E"
+
+cheat206_desc = "2P第一角色瘋狂选人RALF"
+cheat206_handler = "0"
+cheat206_code = "300B5122#0D"
+
+cheat207_desc = "2P第一角色瘋狂选人CHIZURU KAGURA"
+cheat207_handler = "0"
+cheat207_code = "300B5122#0B"
+
+cheat208_desc = "2P第一角色瘋狂选人MAI SHIRANUI"
+cheat208_handler = "0"
+cheat208_code = "300B5122#0A"
+
+cheat209_desc = "2P第一角色瘋狂选人KING"
+cheat209_handler = "0"
+cheat209_code = "300B5122#09"
+
+cheat210_desc = "2P第一角色瘋狂选人YURI SAKAZAKI"
+cheat210_handler = "0"
+cheat210_code = "300B5122#08"
+
+cheat211_desc = "2P第一角色瘋狂选人ROBERT GARCIA"
+cheat211_handler = "0"
+cheat211_code = "300B5122#07"
+
+cheat212_desc = "2P第一角色瘋狂选人RYO SAKAZAKI"
+cheat212_handler = "0"
+cheat212_code = "300B5122#06"
+
+cheat213_desc = "2P第一角色瘋狂选人JOE HIGASHI"
+cheat213_handler = "0"
+cheat213_code = "300B5122#05"
+
+cheat214_desc = "2P第一角色瘋狂选人ANDY BOGARD"
+cheat214_handler = "0"
+cheat214_code = "300B5122#04"
+
+cheat215_desc = "2P第一角色瘋狂选人TERRY BOGARD"
+cheat215_handler = "0"
+cheat215_code = "300B5122#03"
+
+cheat216_desc = "2P第一角色瘋狂选人GORO DAIMON"
+cheat216_handler = "0"
+cheat216_code = "300B5122#02"
+
+cheat217_desc = "2P第一角色瘋狂选人BENIMARU NIKAIDO"
+cheat217_handler = "0"
+cheat217_code = "300B5122#01"
+
+cheat218_desc = "2P第一角色瘋狂选人KYO KUSANAGI"
+cheat218_handler = "0"
+cheat218_code = "300B5122#00"
+
+cheat219_desc = "2P第二角色瘋狂选人瘋狂八神庵"
+cheat219_handler = "0"
+cheat219_code = "300B5124#34"
+
+cheat220_desc = "2P第二角色瘋狂选人大蛇OROCHI"
+cheat220_handler = "0"
+cheat220_code = "300B5124#33"
+
+cheat221_desc = "2P第二角色瘋狂选人大地七枷社"
+cheat221_handler = "0"
+cheat221_code = "300B5124#32"
+
+cheat222_desc = "2P第二角色瘋狂选人电神SHERMIE"
+cheat222_handler = "0"
+cheat222_code = "300B5124#31"
+
+cheat223_desc = "2P第二角色瘋狂选人火神CHRIS"
+cheat223_handler = "0"
+cheat223_code = "300B5124#30"
+
+cheat224_desc = "2P第二角色瘋狂选人MR.BIG"
+cheat224_handler = "0"
+cheat224_code = "300B5124#2F"
+
+cheat225_desc = "2P第二角色瘋狂选人GEESE HOWARD"
+cheat225_handler = "0"
+cheat225_code = "300B5124#26"
+
+cheat226_desc = "2P第二角色瘋狂选人IORI YAGAMI"
+cheat226_handler = "0"
+cheat226_code = "300B5124#25"
+
+cheat227_desc = "2P第二角色瘋狂选人SHINGO YABUKI"
+cheat227_handler = "0"
+cheat227_code = "300B5124#24"
+
+cheat228_desc = "2P第二角色瘋狂选人SOUJI KUSANAGI"
+cheat228_handler = "0"
+cheat228_code = "300B5124#22"
+
+cheat229_desc = "2P第二角色瘋狂选人SAISHU KUSANAGI"
+cheat229_handler = "0"
+cheat229_code = "300B5124#20"
+
+cheat230_desc = "2P第二角色瘋狂选人JUNKO SENDO"
+cheat230_handler = "0"
+cheat230_code = "300B5124#1E"
+
+cheat231_desc = "2P第二角色瘋狂选人SYOTA SENDO"
+cheat231_handler = "0"
+cheat231_code = "300B5124#1D"
+
+cheat232_desc = "2P第二角色瘋狂选人KYOJI SENDO"
+cheat232_handler = "0"
+cheat232_code = "300B5124#1C"
+
+cheat233_desc = "2P第二角色瘋狂选人YASHIRO NANAKASE"
+cheat233_handler = "0"
+cheat233_code = "300B5124#1B"
+
+cheat234_desc = "2P第二角色瘋狂选人CHRIS"
+cheat234_handler = "0"
+cheat234_code = "300B5124#1A"
+
+cheat235_desc = "2P第二角色瘋狂选人SHERMIE"
+cheat235_handler = "0"
+cheat235_code = "300B5124#19"
+
+cheat236_desc = "2P第二角色瘋狂选人RYUJI YAMAZAKI"
+cheat236_handler = "0"
+cheat236_code = "300B5124#18"
+
+cheat237_desc = "2P第二角色瘋狂选人BLUE MARY"
+cheat237_handler = "0"
+cheat237_code = "300B5124#17"
+
+cheat238_desc = "2P第二角色瘋狂选人BILLY CANE"
+cheat238_handler = "0"
+cheat238_code = "300B5124#16"
+
+cheat239_desc = "2P第二角色瘋狂选人CHOI BOUNGE"
+cheat239_handler = "0"
+cheat239_code = "300B5124#15"
+
+cheat240_desc = "2P第二角色瘋狂选人CHANG KOEHAN"
+cheat240_handler = "0"
+cheat240_code = "300B5124#14"
+
+cheat241_desc = "2P第二角色瘋狂选人KIM KAPHWAN"
+cheat241_handler = "0"
+cheat241_code = "300B5124#13"
+
+cheat242_desc = "2P第二角色瘋狂选人CHIN GENTSAI"
+cheat242_handler = "0"
+cheat242_code = "300B5124#12"
+
+cheat243_desc = "2P第二角色瘋狂选人SIE KENSOU"
+cheat243_handler = "0"
+cheat243_code = "300B5124#11"
+
+cheat244_desc = "2P第二角色瘋狂选人ATHENA ASAMIYA"
+cheat244_handler = "0"
+cheat244_code = "300B5124#10"
+
+cheat245_desc = "2P第二角色瘋狂选人LEONA"
+cheat245_handler = "0"
+cheat245_code = "300B5124#0F"
+
+cheat246_desc = "2P第二角色瘋狂选人CLARK"
+cheat246_handler = "0"
+cheat246_code = "300B5124#0E"
+
+cheat247_desc = "2P第二角色瘋狂选人RALF"
+cheat247_handler = "0"
+cheat247_code = "300B5124#0D"
+
+cheat248_desc = "2P第二角色瘋狂选人CHIZURU KAGURA"
+cheat248_handler = "0"
+cheat248_code = "300B5124#0B"
+
+cheat249_desc = "2P第二角色瘋狂选人MAI SHIRANUI"
+cheat249_handler = "0"
+cheat249_code = "300B5124#0A"
+
+cheat250_desc = "2P第二角色瘋狂选人KING"
+cheat250_handler = "0"
+cheat250_code = "300B5124#09"
+
+cheat251_desc = "2P第二角色瘋狂选人YURI SAKAZAKI"
+cheat251_handler = "0"
+cheat251_code = "300B5124#08"
+
+cheat252_desc = "2P第二角色瘋狂选人ROBERT GARCIA"
+cheat252_handler = "0"
+cheat252_code = "300B5124#07"
+
+cheat253_desc = "2P第二角色瘋狂选人RYO SAKAZAKI"
+cheat253_handler = "0"
+cheat253_code = "300B5124#06"
+
+cheat254_desc = "2P第二角色瘋狂选人JOE HIGASHI"
+cheat254_handler = "0"
+cheat254_code = "300B5124#05"
+
+cheat255_desc = "2P第二角色瘋狂选人ANDY BOGARD"
+cheat255_handler = "0"
+cheat255_code = "300B5124#04"
+
+cheat256_desc = "2P第二角色瘋狂选人TERRY BOGARD"
+cheat256_handler = "0"
+cheat256_code = "300B5124#03"
+
+cheat257_desc = "2P第二角色瘋狂选人GORO DAIMON"
+cheat257_handler = "0"
+cheat257_code = "300B5124#02"
+
+cheat258_desc = "2P第二角色瘋狂选人BENIMARU NIKAIDO"
+cheat258_handler = "0"
+cheat258_code = "300B5124#01"
+
+cheat259_desc = "2P第二角色瘋狂选人KYO KUSANAGI"
+cheat259_handler = "0"
+cheat259_code = "300B5124#00"
+
+cheat260_desc = "2P第三角色瘋狂选人瘋狂八神庵"
+cheat260_handler = "0"
+cheat260_code = "300B5126#34"
+
+cheat261_desc = "2P第三角色瘋狂选人大蛇OROCHI"
+cheat261_handler = "0"
+cheat261_code = "300B5126#33"
+
+cheat262_desc = "2P第三角色瘋狂选人大地七枷社"
+cheat262_handler = "0"
+cheat262_code = "300B5126#32"
+
+cheat263_desc = "2P第三角色瘋狂选人电神SHERMIE"
+cheat263_handler = "0"
+cheat263_code = "300B5126#31"
+
+cheat264_desc = "2P第三角色瘋狂选人火神CHRIS"
+cheat264_handler = "0"
+cheat264_code = "300B5126#30"
+
+cheat265_desc = "2P第三角色瘋狂选人MR.BIG"
+cheat265_handler = "0"
+cheat265_code = "300B5126#2F"
+
+cheat266_desc = "2P第三角色瘋狂选人GEESE HOWARD"
+cheat266_handler = "0"
+cheat266_code = "300B5126#26"
+
+cheat267_desc = "2P第三角色瘋狂选人IORI YAGAMI"
+cheat267_handler = "0"
+cheat267_code = "300B5126#25"
+
+cheat268_desc = "2P第三角色瘋狂选人SHINGO YABUKI"
+cheat268_handler = "0"
+cheat268_code = "300B5126#24"
+
+cheat269_desc = "2P第三角色瘋狂选人SOUJI KUSANAGI"
+cheat269_handler = "0"
+cheat269_code = "300B5126#22"
+
+cheat270_desc = "2P第三角色瘋狂选人SAISHU KUSANAGI"
+cheat270_handler = "0"
+cheat270_code = "300B5126#20"
+
+cheat271_desc = "2P第三角色瘋狂选人JUNKO SENDO"
+cheat271_handler = "0"
+cheat271_code = "300B5126#1E"
+
+cheat272_desc = "2P第三角色瘋狂选人SYOTA SENDO"
+cheat272_handler = "0"
+cheat272_code = "300B5126#1D"
+
+cheat273_desc = "2P第三角色瘋狂选人KYOJI SENDO"
+cheat273_handler = "0"
+cheat273_code = "300B5126#1C"
+
+cheat274_desc = "2P第三角色瘋狂选人YASHIRO NANAKASE"
+cheat274_handler = "0"
+cheat274_code = "300B5126#1B"
+
+cheat275_desc = "2P第三角色瘋狂选人CHRIS"
+cheat275_handler = "0"
+cheat275_code = "300B5126#1A"
+
+cheat276_desc = "2P第三角色瘋狂选人SHERMIE"
+cheat276_handler = "0"
+cheat276_code = "300B5126#19"
+
+cheat277_desc = "2P第三角色瘋狂选人RYUJI YAMAZAKI"
+cheat277_handler = "0"
+cheat277_code = "300B5126#18"
+
+cheat278_desc = "2P第三角色瘋狂选人BLUE MARY"
+cheat278_handler = "0"
+cheat278_code = "300B5126#17"
+
+cheat279_desc = "2P第三角色瘋狂选人BILLY CANE"
+cheat279_handler = "0"
+cheat279_code = "300B5126#16"
+
+cheat280_desc = "2P第三角色瘋狂选人CHOI BOUNGE"
+cheat280_handler = "0"
+cheat280_code = "300B5126#15"
+
+cheat281_desc = "2P第三角色瘋狂选人CHANG KOEHAN"
+cheat281_handler = "0"
+cheat281_code = "300B5126#14"
+
+cheat282_desc = "2P第三角色瘋狂选人KIM KAPHWAN"
+cheat282_handler = "0"
+cheat282_code = "300B5126#13"
+
+cheat283_desc = "2P第三角色瘋狂选人CHIN GENTSAI"
+cheat283_handler = "0"
+cheat283_code = "300B5126#12"
+
+cheat284_desc = "2P第三角色瘋狂选人SIE KENSOU"
+cheat284_handler = "0"
+cheat284_code = "300B5126#11"
+
+cheat285_desc = "2P第三角色瘋狂选人ATHENA ASAMIYA"
+cheat285_handler = "0"
+cheat285_code = "300B5126#10"
+
+cheat286_desc = "2P第三角色瘋狂选人LEONA"
+cheat286_handler = "0"
+cheat286_code = "300B5126#0F"
+
+cheat287_desc = "2P第三角色瘋狂选人CLARK"
+cheat287_handler = "0"
+cheat287_code = "300B5126#0E"
+
+cheat288_desc = "2P第三角色瘋狂选人RALF"
+cheat288_handler = "0"
+cheat288_code = "300B5126#0D"
+
+cheat289_desc = "2P第三角色瘋狂选人CHIZURU KAGURA"
+cheat289_handler = "0"
+cheat289_code = "300B5126#0B"
+
+cheat290_desc = "2P第三角色瘋狂选人MAI SHIRANUI"
+cheat290_handler = "0"
+cheat290_code = "300B5126#0A"
+
+cheat291_desc = "2P第三角色瘋狂选人KING"
+cheat291_handler = "0"
+cheat291_code = "300B5126#09"
+
+cheat292_desc = "2P第三角色瘋狂选人YURI SAKAZAKI"
+cheat292_handler = "0"
+cheat292_code = "300B5126#08"
+
+cheat293_desc = "2P第三角色瘋狂选人ROBERT GARCIA"
+cheat293_handler = "0"
+cheat293_code = "300B5126#07"
+
+cheat294_desc = "2P第三角色瘋狂选人RYO SAKAZAKI"
+cheat294_handler = "0"
+cheat294_code = "300B5126#06"
+
+cheat295_desc = "2P第三角色瘋狂选人JOE HIGASHI"
+cheat295_handler = "0"
+cheat295_code = "300B5126#05"
+
+cheat296_desc = "2P第三角色瘋狂选人ANDY BOGARD"
+cheat296_handler = "0"
+cheat296_code = "300B5126#04"
+
+cheat297_desc = "2P第三角色瘋狂选人TERRY BOGARD"
+cheat297_handler = "0"
+cheat297_code = "300B5126#03"
+
+cheat298_desc = "2P第三角色瘋狂选人GORO DAIMON"
+cheat298_handler = "0"
+cheat298_code = "300B5126#02"
+
+cheat299_desc = "2P第三角色瘋狂选人BENIMARU NIKAIDO"
+cheat299_handler = "0"
+cheat299_code = "300B5126#01"
+
+cheat300_desc = "2P第三角色瘋狂选人KYO KUSANAGI"
+cheat300_handler = "0"
+cheat300_code = "300B5126#00"
+
+cheat301_desc = "1P上场战斗人数2人组队"
+cheat301_handler = "0"
+cheat301_code = "300B5110#02"
+
+cheat302_desc = "1P上场战斗人数3人组队"
+cheat302_handler = "0"
+cheat302_code = "300B5110#03"
+
+cheat303_desc = "1P上场战斗人数一戦天下"
+cheat303_handler = "0"
+cheat303_code = "300B5110#01"
+
+cheat304_desc = "2P上场战斗人数2人组队"
+cheat304_handler = "0"
+cheat304_code = "300B5120#02"
+
+cheat305_desc = "2P上场战斗人数3人组队"
+cheat305_handler = "0"
+cheat305_code = "300B5120#03"
+
+cheat306_desc = "2P上场战斗人数一戦天下"
+cheat306_handler = "0"
+cheat306_code = "300B5120#01"
+
+cheat307_desc = "KOF大会选关打OROCHI"
+cheat307_handler = "0"
+cheat307_code = "300AAFF2#09;300C7F58#05"
+
+cheat308_desc = "KOF大会选关七枷社队"
+cheat308_handler = "0"
+cheat308_code = "300AAFF2#07"
+
+cheat309_desc = "KOF大会选关瘋狂八神庵"
+cheat309_handler = "0"
+cheat309_code = "300AAFF2#04"
+
+cheat310_desc = "KOF大会选关大蛇被击倒后的结局"
+cheat310_handler = "0"
+cheat310_code = "300CB020#D2;300CB021#0F"
+
+cheat311_desc = "? DAYS TO GO for KOF大会0 DAYS TO GO"
+cheat311_handler = "0"
+cheat311_code = "300C7F74#00"
+
+cheat312_desc = "? DAYS TO GO for KOF大会1 DAYS TO GO"
+cheat312_handler = "0"
+cheat312_code = "300C7F74#01"
+
+cheat313_desc = "? DAYS TO GO for KOF大会10 DAYS TO GO"
+cheat313_handler = "0"
+cheat313_code = "300C7F74#0A"
+
+cheat314_desc = "? DAYS TO GO for KOF大会20 DAYS TO GO"
+cheat314_handler = "0"
+cheat314_code = "300C7F74#14"
+
+cheat315_desc = "? DAYS TO GO for KOF大会31 DAYS TO GO"
+cheat315_handler = "0"
+cheat315_code = "300C7F74#1F"
+
+cheat316_desc = "?小时锁定24时"
+cheat316_handler = "0"
+cheat316_code = "300C7F78#18"
+
+cheat317_desc = "?小时锁定12时"
+cheat317_handler = "0"
+cheat317_code = "300C7F78#0C"
+
+cheat318_desc = "?分钟锁定59分"
+cheat318_handler = "0"
+cheat318_code = "300C7F79#3B"
+
+cheat319_desc = "?分钟锁定30分"
+cheat319_handler = "0"
+cheat319_code = "300C7F79#1E"
+
+cheat320_desc = "1P/2P控制方式1P+2P由人手控制"
+cheat320_handler = "0"
+cheat320_code = "301E5F1A#02;301E5F1B#00"
+
+cheat321_desc = "1P/2P控制方式1P由电脑控制"
+cheat321_handler = "0"
+cheat321_code = "301E5F1A#00;301E5F1B#00"
+
+cheat322_desc = "1P/2P控制方式1P由人手控制"
+cheat322_handler = "0"
+cheat322_code = "301E5F1A#01;301E5F1B#00"
+
+cheat323_desc = "1P隐藏人物头像需先选IoriShingoGeese"
+cheat323_handler = "0"
+cheat323_code = "300AADB6#03"
+
+cheat324_desc = "2P隐藏人物头像需先选IoriShingoGeese"
+cheat324_handler = "0"
+cheat324_code = "300AADCC#03"
+
+cheat325_desc = "P1对战体力满"
+cheat325_handler = "0"
+cheat325_code = "30132094#80;3013309C#80;301340A4#80;3015608C#80;3015A0AC#80"
+
+cheat326_desc = "P1对战体力延伸"
+cheat326_handler = "0"
+cheat326_code = "30132094#88;3013309C#88;301340A4#88;3015608C#88;3015A0AC#88"
+
+cheat327_desc = "P1对战体力MAX"
+cheat327_handler = "0"
+cheat327_code = "30132094#FF;3013309C#FF;301340A4#FF;3015608C#FF;3015A0AC#FF"
+
+cheat328_desc = "P1POWER满"
+cheat328_handler = "0"
+cheat328_code = "30132090#80;30133098#80;301340A0#80;30156088#80;3015A0A8#80"
+
+cheat329_desc = "电脑(2P)体力零"
+cheat329_handler = "0"
+cheat329_code = "30132194#00;3013319C#00;301341A4#00;3015618C#00;3015A1AC#00"
+
+cheat330_desc = "电脑(2P)体力满"
+cheat330_handler = "0"
+cheat330_code = "30132194#80;3013319C#80;301341A4#80;3015618C#80;3015A1AC#80"
+
+cheat331_desc = "电脑(2P)体力延伸"
+cheat331_handler = "0"
+cheat331_code = "30132194#88;3013319C#88;301341A4#88;3015618C#88;3015A1AC#88"
+
+cheat332_desc = "电脑(2P)POWER零"
+cheat332_handler = "0"
+cheat332_code = "30132190#00;30133198#00;301341A0#00;30156188#00;3015A1A8#00"
+
+cheat333_desc = "电脑(2P)POWER满"
+cheat333_handler = "0"
+cheat333_code = "30132190#80;30133198#80;301341A0#80;30156188#80;3015A1A8#80"
+
+cheat334_desc = "P1第一人物选人画面锁定角色GEESE HOWARD"
+cheat334_handler = "0"
+cheat334_code = "300AADC0#1E"
+
+cheat335_desc = "P1第一人物选人画面锁定角色SHINGO"
+cheat335_handler = "0"
+cheat335_code = "300AADC0#1D"
+
+cheat336_desc = "P1第一人物选人画面锁定角色IORI YAGAMI"
+cheat336_handler = "0"
+cheat336_code = "300AADC0#1C"
+
+cheat337_desc = "P1第一人物选人画面锁定角色MR.BIG"
+cheat337_handler = "0"
+cheat337_code = "300AADC0#1B"
+
+cheat338_desc = "P1第一人物选人画面锁定角色CHRIS"
+cheat338_handler = "0"
+cheat338_code = "300AADC0#1A"
+
+cheat339_desc = "P1第一人物选人画面锁定角色SHERMIE"
+cheat339_handler = "0"
+cheat339_code = "300AADC0#19"
+
+cheat340_desc = "P1第一人物选人画面锁定角色YASHIRO"
+cheat340_handler = "0"
+cheat340_code = "300AADC0#18"
+
+cheat341_desc = "P1第一人物选人画面锁定角色RYUJI YAMAZAKI"
+cheat341_handler = "0"
+cheat341_code = "300AADC0#17"
+
+cheat342_desc = "P1第一人物选人画面锁定角色BLUE MARY"
+cheat342_handler = "0"
+cheat342_code = "300AADC0#16"
+
+cheat343_desc = "P1第一人物选人画面锁定角色BILLY KANE"
+cheat343_handler = "0"
+cheat343_code = "300AADC0#15"
+
+cheat344_desc = "P1第一人物选人画面锁定角色CHOI BOUNGE"
+cheat344_handler = "0"
+cheat344_code = "300AADC0#14"
+
+cheat345_desc = "P1第一人物选人画面锁定角色CHANG KOEHAN"
+cheat345_handler = "0"
+cheat345_code = "300AADC0#13"
+
+cheat346_desc = "P1第一人物选人画面锁定角色KIM KAPHWAN"
+cheat346_handler = "0"
+cheat346_code = "300AADC0#12"
+
+cheat347_desc = "P1第一人物选人画面锁定角色CHIZURU KAGURA"
+cheat347_handler = "0"
+cheat347_code = "300AADC0#11"
+
+cheat348_desc = "P1第一人物选人画面锁定角色MAI SHIRANUI"
+cheat348_handler = "0"
+cheat348_code = "300AADC0#10"
+
+cheat349_desc = "P1第一人物选人画面锁定角色KING"
+cheat349_handler = "0"
+cheat349_code = "300AADC0#0F"
+
+cheat350_desc = "P1第一人物选人画面锁定角色CLARK"
+cheat350_handler = "0"
+cheat350_code = "300AADC0#0E"
+
+cheat351_desc = "P1第一人物选人画面锁定角色RALF"
+cheat351_handler = "0"
+cheat351_code = "300AADC0#0D"
+
+cheat352_desc = "P1第一人物选人画面锁定角色LEONA"
+cheat352_handler = "0"
+cheat352_code = "300AADC0#0C"
+
+cheat353_desc = "P1第一人物选人画面锁定角色CHIN GENTSAI"
+cheat353_handler = "0"
+cheat353_code = "300AADC0#0B"
+
+cheat354_desc = "P1第一人物选人画面锁定角色SIE KENSOU"
+cheat354_handler = "0"
+cheat354_code = "300AADC0#0A"
+
+cheat355_desc = "P1第一人物选人画面锁定角色ATHENA ASAMIYA"
+cheat355_handler = "0"
+cheat355_code = "300AADC0#09"
+
+cheat356_desc = "P1第一人物选人画面锁定角色YURI SAKAZAKI"
+cheat356_handler = "0"
+cheat356_code = "300AADC0#08"
+
+cheat357_desc = "P1第一人物选人画面锁定角色ROBERT GARCIA"
+cheat357_handler = "0"
+cheat357_code = "300AADC0#07"
+
+cheat358_desc = "P1第一人物选人画面锁定角色RYO SAKAZAKI"
+cheat358_handler = "0"
+cheat358_code = "300AADC0#06"
+
+cheat359_desc = "P1第一人物选人画面锁定角色JOE HIGASHI"
+cheat359_handler = "0"
+cheat359_code = "300AADC0#05"
+
+cheat360_desc = "P1第一人物选人画面锁定角色ANDY BOGARD"
+cheat360_handler = "0"
+cheat360_code = "300AADC0#04"
+
+cheat361_desc = "P1第一人物选人画面锁定角色TERRY BOGARD"
+cheat361_handler = "0"
+cheat361_code = "300AADC0#03"
+
+cheat362_desc = "P1第一人物选人画面锁定角色GORO DAIMON"
+cheat362_handler = "0"
+cheat362_code = "300AADC0#02"
+
+cheat363_desc = "P1第一人物选人画面锁定角色BENIMARU NIKAIDO"
+cheat363_handler = "0"
+cheat363_code = "300AADC0#01"
+
+cheat364_desc = "P1第一人物选人画面锁定角色KYO KUSANAGI"
+cheat364_handler = "0"
+cheat364_code = "300AADC0#00"
+
+cheat365_desc = "P1第二人物选人画面锁定角色GEESE HOWARD"
+cheat365_handler = "0"
+cheat365_code = "300AADC4#1E"
+
+cheat366_desc = "P1第二人物选人画面锁定角色SHINGO"
+cheat366_handler = "0"
+cheat366_code = "300AADC4#1D"
+
+cheat367_desc = "P1第二人物选人画面锁定角色IORI YAGAMI"
+cheat367_handler = "0"
+cheat367_code = "300AADC4#1C"
+
+cheat368_desc = "P1第二人物选人画面锁定角色MR.BIG"
+cheat368_handler = "0"
+cheat368_code = "300AADC4#1B"
+
+cheat369_desc = "P1第二人物选人画面锁定角色CHRIS"
+cheat369_handler = "0"
+cheat369_code = "300AADC4#1A"
+
+cheat370_desc = "P1第二人物选人画面锁定角色SHERMIE"
+cheat370_handler = "0"
+cheat370_code = "300AADC4#19"
+
+cheat371_desc = "P1第二人物选人画面锁定角色YASHIRO"
+cheat371_handler = "0"
+cheat371_code = "300AADC4#18"
+
+cheat372_desc = "P1第二人物选人画面锁定角色RYUJI YAMAZAKI"
+cheat372_handler = "0"
+cheat372_code = "300AADC4#17"
+
+cheat373_desc = "P1第二人物选人画面锁定角色BLUE MARY"
+cheat373_handler = "0"
+cheat373_code = "300AADC4#16"
+
+cheat374_desc = "P1第二人物选人画面锁定角色BILLY KANE"
+cheat374_handler = "0"
+cheat374_code = "300AADC4#15"
+
+cheat375_desc = "P1第二人物选人画面锁定角色CHOI BOUNGE"
+cheat375_handler = "0"
+cheat375_code = "300AADC4#14"
+
+cheat376_desc = "P1第二人物选人画面锁定角色CHANG KOEHAN"
+cheat376_handler = "0"
+cheat376_code = "300AADC4#13"
+
+cheat377_desc = "P1第二人物选人画面锁定角色KIM KAPHWAN"
+cheat377_handler = "0"
+cheat377_code = "300AADC4#12"
+
+cheat378_desc = "P1第二人物选人画面锁定角色CHIZURU KAGURA"
+cheat378_handler = "0"
+cheat378_code = "300AADC4#11"
+
+cheat379_desc = "P1第二人物选人画面锁定角色MAI SHIRANUI"
+cheat379_handler = "0"
+cheat379_code = "300AADC4#10"
+
+cheat380_desc = "P1第二人物选人画面锁定角色KING"
+cheat380_handler = "0"
+cheat380_code = "300AADC4#0F"
+
+cheat381_desc = "P1第二人物选人画面锁定角色CLARK"
+cheat381_handler = "0"
+cheat381_code = "300AADC4#0E"
+
+cheat382_desc = "P1第二人物选人画面锁定角色RALF"
+cheat382_handler = "0"
+cheat382_code = "300AADC4#0D"
+
+cheat383_desc = "P1第二人物选人画面锁定角色LEONA"
+cheat383_handler = "0"
+cheat383_code = "300AADC4#0C"
+
+cheat384_desc = "P1第二人物选人画面锁定角色CHIN GENTSAI"
+cheat384_handler = "0"
+cheat384_code = "300AADC4#0B"
+
+cheat385_desc = "P1第二人物选人画面锁定角色SIE KENSOU"
+cheat385_handler = "0"
+cheat385_code = "300AADC4#0A"
+
+cheat386_desc = "P1第二人物选人画面锁定角色ATHENA ASAMIYA"
+cheat386_handler = "0"
+cheat386_code = "300AADC4#09"
+
+cheat387_desc = "P1第二人物选人画面锁定角色YURI SAKAZAKI"
+cheat387_handler = "0"
+cheat387_code = "300AADC4#08"
+
+cheat388_desc = "P1第二人物选人画面锁定角色ROBERT GARCIA"
+cheat388_handler = "0"
+cheat388_code = "300AADC4#07"
+
+cheat389_desc = "P1第二人物选人画面锁定角色RYO SAKAZAKI"
+cheat389_handler = "0"
+cheat389_code = "300AADC4#06"
+
+cheat390_desc = "P1第二人物选人画面锁定角色JOE HIGASHI"
+cheat390_handler = "0"
+cheat390_code = "300AADC4#05"
+
+cheat391_desc = "P1第二人物选人画面锁定角色ANDY BOGARD"
+cheat391_handler = "0"
+cheat391_code = "300AADC4#04"
+
+cheat392_desc = "P1第二人物选人画面锁定角色TERRY BOGARD"
+cheat392_handler = "0"
+cheat392_code = "300AADC4#03"
+
+cheat393_desc = "P1第二人物选人画面锁定角色GORO DAIMON"
+cheat393_handler = "0"
+cheat393_code = "300AADC4#02"
+
+cheat394_desc = "P1第二人物选人画面锁定角色BENIMARU NIKAIDO"
+cheat394_handler = "0"
+cheat394_code = "300AADC4#01"
+
+cheat395_desc = "P1第二人物选人画面锁定角色KYO KUSANAGI"
+cheat395_handler = "0"
+cheat395_code = "300AADC4#00"
+
+cheat396_desc = "P1第三人物选人画面锁定角色GEESE HOWARD"
+cheat396_handler = "0"
+cheat396_code = "300AADC8#1E"
+
+cheat397_desc = "P1第三人物选人画面锁定角色SHINGO"
+cheat397_handler = "0"
+cheat397_code = "300AADC8#1D"
+
+cheat398_desc = "P1第三人物选人画面锁定角色IORI YAGAMI"
+cheat398_handler = "0"
+cheat398_code = "300AADC8#1C"
+
+cheat399_desc = "P1第三人物选人画面锁定角色MR.BIG"
+cheat399_handler = "0"
+cheat399_code = "300AADC8#1B"
+
+cheat400_desc = "P1第三人物选人画面锁定角色CHRIS"
+cheat400_handler = "0"
+cheat400_code = "300AADC8#1A"
+
+cheat401_desc = "P1第三人物选人画面锁定角色SHERMIE"
+cheat401_handler = "0"
+cheat401_code = "300AADC8#19"
+
+cheat402_desc = "P1第三人物选人画面锁定角色YASHIRO"
+cheat402_handler = "0"
+cheat402_code = "300AADC8#18"
+
+cheat403_desc = "P1第三人物选人画面锁定角色RYUJI YAMAZAKI"
+cheat403_handler = "0"
+cheat403_code = "300AADC8#17"
+
+cheat404_desc = "P1第三人物选人画面锁定角色BLUE MARY"
+cheat404_handler = "0"
+cheat404_code = "300AADC8#16"
+
+cheat405_desc = "P1第三人物选人画面锁定角色BILLY KANE"
+cheat405_handler = "0"
+cheat405_code = "300AADC8#15"
+
+cheat406_desc = "P1第三人物选人画面锁定角色CHOI BOUNGE"
+cheat406_handler = "0"
+cheat406_code = "300AADC8#14"
+
+cheat407_desc = "P1第三人物选人画面锁定角色CHANG KOEHAN"
+cheat407_handler = "0"
+cheat407_code = "300AADC8#13"
+
+cheat408_desc = "P1第三人物选人画面锁定角色KIM KAPHWAN"
+cheat408_handler = "0"
+cheat408_code = "300AADC8#12"
+
+cheat409_desc = "P1第三人物选人画面锁定角色CHIZURU KAGURA"
+cheat409_handler = "0"
+cheat409_code = "300AADC8#11"
+
+cheat410_desc = "P1第三人物选人画面锁定角色MAI SHIRANUI"
+cheat410_handler = "0"
+cheat410_code = "300AADC8#10"
+
+cheat411_desc = "P1第三人物选人画面锁定角色KING"
+cheat411_handler = "0"
+cheat411_code = "300AADC8#0F"
+
+cheat412_desc = "P1第三人物选人画面锁定角色CLARK"
+cheat412_handler = "0"
+cheat412_code = "300AADC8#0E"
+
+cheat413_desc = "P1第三人物选人画面锁定角色RALF"
+cheat413_handler = "0"
+cheat413_code = "300AADC8#0D"
+
+cheat414_desc = "P1第三人物选人画面锁定角色LEONA"
+cheat414_handler = "0"
+cheat414_code = "300AADC8#0C"
+
+cheat415_desc = "P1第三人物选人画面锁定角色CHIN GENTSAI"
+cheat415_handler = "0"
+cheat415_code = "300AADC8#0B"
+
+cheat416_desc = "P1第三人物选人画面锁定角色SIE KENSOU"
+cheat416_handler = "0"
+cheat416_code = "300AADC8#0A"
+
+cheat417_desc = "P1第三人物选人画面锁定角色ATHENA ASAMIYA"
+cheat417_handler = "0"
+cheat417_code = "300AADC8#09"
+
+cheat418_desc = "P1第三人物选人画面锁定角色YURI SAKAZAKI"
+cheat418_handler = "0"
+cheat418_code = "300AADC8#08"
+
+cheat419_desc = "P1第三人物选人画面锁定角色ROBERT GARCIA"
+cheat419_handler = "0"
+cheat419_code = "300AADC8#07"
+
+cheat420_desc = "P1第三人物选人画面锁定角色RYO SAKAZAKI"
+cheat420_handler = "0"
+cheat420_code = "300AADC8#06"
+
+cheat421_desc = "P1第三人物选人画面锁定角色JOE HIGASHI"
+cheat421_handler = "0"
+cheat421_code = "300AADC8#05"
+
+cheat422_desc = "P1第三人物选人画面锁定角色ANDY BOGARD"
+cheat422_handler = "0"
+cheat422_code = "300AADC8#04"
+
+cheat423_desc = "P1第三人物选人画面锁定角色TERRY BOGARD"
+cheat423_handler = "0"
+cheat423_code = "300AADC8#03"
+
+cheat424_desc = "P1第三人物选人画面锁定角色GORO DAIMON"
+cheat424_handler = "0"
+cheat424_code = "300AADC8#02"
+
+cheat425_desc = "P1第三人物选人画面锁定角色BENIMARU NIKAIDO"
+cheat425_handler = "0"
+cheat425_code = "300AADC8#01"
+
+cheat426_desc = "P1第三人物选人画面锁定角色KYO KUSANAGI"
+cheat426_handler = "0"
+cheat426_code = "300AADC8#00"
+
+cheat427_desc = "P2第一人物选人画面锁定角色GEESE HOWARD"
+cheat427_handler = "0"
+cheat427_code = "300AADD6#1E"
+
+cheat428_desc = "P2第一人物选人画面锁定角色SHINGO"
+cheat428_handler = "0"
+cheat428_code = "300AADD6#1D"
+
+cheat429_desc = "P2第一人物选人画面锁定角色IORI YAGAMI"
+cheat429_handler = "0"
+cheat429_code = "300AADD6#1C"
+
+cheat430_desc = "P2第一人物选人画面锁定角色MR.BIG"
+cheat430_handler = "0"
+cheat430_code = "300AADD6#1B"
+
+cheat431_desc = "P2第一人物选人画面锁定角色CHRIS"
+cheat431_handler = "0"
+cheat431_code = "300AADD6#1A"
+
+cheat432_desc = "P2第一人物选人画面锁定角色SHERMIE"
+cheat432_handler = "0"
+cheat432_code = "300AADD6#19"
+
+cheat433_desc = "P2第一人物选人画面锁定角色YASHIRO"
+cheat433_handler = "0"
+cheat433_code = "300AADD6#18"
+
+cheat434_desc = "P2第一人物选人画面锁定角色RYUJI YAMAZAKI"
+cheat434_handler = "0"
+cheat434_code = "300AADD6#17"
+
+cheat435_desc = "P2第一人物选人画面锁定角色BLUE MARY"
+cheat435_handler = "0"
+cheat435_code = "300AADD6#16"
+
+cheat436_desc = "P2第一人物选人画面锁定角色BILLY KANE"
+cheat436_handler = "0"
+cheat436_code = "300AADD6#15"
+
+cheat437_desc = "P2第一人物选人画面锁定角色CHOI BOUNGE"
+cheat437_handler = "0"
+cheat437_code = "300AADD6#14"
+
+cheat438_desc = "P2第一人物选人画面锁定角色CHANG KOEHAN"
+cheat438_handler = "0"
+cheat438_code = "300AADD6#13"
+
+cheat439_desc = "P2第一人物选人画面锁定角色KIM KAPHWAN"
+cheat439_handler = "0"
+cheat439_code = "300AADD6#12"
+
+cheat440_desc = "P2第一人物选人画面锁定角色CHIZURU KAGURA"
+cheat440_handler = "0"
+cheat440_code = "300AADD6#11"
+
+cheat441_desc = "P2第一人物选人画面锁定角色MAI SHIRANUI"
+cheat441_handler = "0"
+cheat441_code = "300AADD6#10"
+
+cheat442_desc = "P2第一人物选人画面锁定角色KING"
+cheat442_handler = "0"
+cheat442_code = "300AADD6#0F"
+
+cheat443_desc = "P2第一人物选人画面锁定角色CLARK"
+cheat443_handler = "0"
+cheat443_code = "300AADD6#0E"
+
+cheat444_desc = "P2第一人物选人画面锁定角色RALF"
+cheat444_handler = "0"
+cheat444_code = "300AADD6#0D"
+
+cheat445_desc = "P2第一人物选人画面锁定角色LEONA"
+cheat445_handler = "0"
+cheat445_code = "300AADD6#0C"
+
+cheat446_desc = "P2第一人物选人画面锁定角色CHIN GENTSAI"
+cheat446_handler = "0"
+cheat446_code = "300AADD6#0B"
+
+cheat447_desc = "P2第一人物选人画面锁定角色SIE KENSOU"
+cheat447_handler = "0"
+cheat447_code = "300AADD6#0A"
+
+cheat448_desc = "P2第一人物选人画面锁定角色ATHENA ASAMIYA"
+cheat448_handler = "0"
+cheat448_code = "300AADD6#09"
+
+cheat449_desc = "P2第一人物选人画面锁定角色YURI SAKAZAKI"
+cheat449_handler = "0"
+cheat449_code = "300AADD6#08"
+
+cheat450_desc = "P2第一人物选人画面锁定角色ROBERT GARCIA"
+cheat450_handler = "0"
+cheat450_code = "300AADD6#07"
+
+cheat451_desc = "P2第一人物选人画面锁定角色RYO SAKAZAKI"
+cheat451_handler = "0"
+cheat451_code = "300AADD6#06"
+
+cheat452_desc = "P2第一人物选人画面锁定角色JOE HIGASHI"
+cheat452_handler = "0"
+cheat452_code = "300AADD6#05"
+
+cheat453_desc = "P2第一人物选人画面锁定角色ANDY BOGARD"
+cheat453_handler = "0"
+cheat453_code = "300AADD6#04"
+
+cheat454_desc = "P2第一人物选人画面锁定角色TERRY BOGARD"
+cheat454_handler = "0"
+cheat454_code = "300AADD6#03"
+
+cheat455_desc = "P2第一人物选人画面锁定角色GORO DAIMON"
+cheat455_handler = "0"
+cheat455_code = "300AADD6#02"
+
+cheat456_desc = "P2第一人物选人画面锁定角色BENIMARU NIKAIDO"
+cheat456_handler = "0"
+cheat456_code = "300AADD6#01"
+
+cheat457_desc = "P2第一人物选人画面锁定角色KYO KUSANAGI"
+cheat457_handler = "0"
+cheat457_code = "300AADD6#00"
+
+cheat458_desc = "P2第二人物选人画面锁定角色GEESE HOWARD"
+cheat458_handler = "0"
+cheat458_code = "300AADDA#1E"
+
+cheat459_desc = "P2第二人物选人画面锁定角色SHINGO"
+cheat459_handler = "0"
+cheat459_code = "300AADDA#1D"
+
+cheat460_desc = "P2第二人物选人画面锁定角色IORI YAGAMI"
+cheat460_handler = "0"
+cheat460_code = "300AADDA#1C"
+
+cheat461_desc = "P2第二人物选人画面锁定角色MR.BIG"
+cheat461_handler = "0"
+cheat461_code = "300AADDA#1B"
+
+cheat462_desc = "P2第二人物选人画面锁定角色CHRIS"
+cheat462_handler = "0"
+cheat462_code = "300AADDA#1A"
+
+cheat463_desc = "P2第二人物选人画面锁定角色SHERMIE"
+cheat463_handler = "0"
+cheat463_code = "300AADDA#19"
+
+cheat464_desc = "P2第二人物选人画面锁定角色YASHIRO"
+cheat464_handler = "0"
+cheat464_code = "300AADDA#18"
+
+cheat465_desc = "P2第二人物选人画面锁定角色RYUJI YAMAZAKI"
+cheat465_handler = "0"
+cheat465_code = "300AADDA#17"
+
+cheat466_desc = "P2第二人物选人画面锁定角色BLUE MARY"
+cheat466_handler = "0"
+cheat466_code = "300AADDA#16"
+
+cheat467_desc = "P2第二人物选人画面锁定角色BILLY KANE"
+cheat467_handler = "0"
+cheat467_code = "300AADDA#15"
+
+cheat468_desc = "P2第二人物选人画面锁定角色CHOI BOUNGE"
+cheat468_handler = "0"
+cheat468_code = "300AADDA#14"
+
+cheat469_desc = "P2第二人物选人画面锁定角色CHANG KOEHAN"
+cheat469_handler = "0"
+cheat469_code = "300AADDA#13"
+
+cheat470_desc = "P2第二人物选人画面锁定角色KIM KAPHWAN"
+cheat470_handler = "0"
+cheat470_code = "300AADDA#12"
+
+cheat471_desc = "P2第二人物选人画面锁定角色CHIZURU KAGURA"
+cheat471_handler = "0"
+cheat471_code = "300AADDA#11"
+
+cheat472_desc = "P2第二人物选人画面锁定角色MAI SHIRANUI"
+cheat472_handler = "0"
+cheat472_code = "300AADDA#10"
+
+cheat473_desc = "P2第二人物选人画面锁定角色KING"
+cheat473_handler = "0"
+cheat473_code = "300AADDA#0F"
+
+cheat474_desc = "P2第二人物选人画面锁定角色CLARK"
+cheat474_handler = "0"
+cheat474_code = "300AADDA#0E"
+
+cheat475_desc = "P2第二人物选人画面锁定角色RALF"
+cheat475_handler = "0"
+cheat475_code = "300AADDA#0D"
+
+cheat476_desc = "P2第二人物选人画面锁定角色LEONA"
+cheat476_handler = "0"
+cheat476_code = "300AADDA#0C"
+
+cheat477_desc = "P2第二人物选人画面锁定角色CHIN GENTSAI"
+cheat477_handler = "0"
+cheat477_code = "300AADDA#0B"
+
+cheat478_desc = "P2第二人物选人画面锁定角色SIE KENSOU"
+cheat478_handler = "0"
+cheat478_code = "300AADDA#0A"
+
+cheat479_desc = "P2第二人物选人画面锁定角色ATHENA ASAMIYA"
+cheat479_handler = "0"
+cheat479_code = "300AADDA#09"
+
+cheat480_desc = "P2第二人物选人画面锁定角色YURI SAKAZAKI"
+cheat480_handler = "0"
+cheat480_code = "300AADDA#08"
+
+cheat481_desc = "P2第二人物选人画面锁定角色ROBERT GARCIA"
+cheat481_handler = "0"
+cheat481_code = "300AADDA#07"
+
+cheat482_desc = "P2第二人物选人画面锁定角色RYO SAKAZAKI"
+cheat482_handler = "0"
+cheat482_code = "300AADDA#06"
+
+cheat483_desc = "P2第二人物选人画面锁定角色JOE HIGASHI"
+cheat483_handler = "0"
+cheat483_code = "300AADDA#05"
+
+cheat484_desc = "P2第二人物选人画面锁定角色ANDY BOGARD"
+cheat484_handler = "0"
+cheat484_code = "300AADDA#04"
+
+cheat485_desc = "P2第二人物选人画面锁定角色TERRY BOGARD"
+cheat485_handler = "0"
+cheat485_code = "300AADDA#03"
+
+cheat486_desc = "P2第二人物选人画面锁定角色GORO DAIMON"
+cheat486_handler = "0"
+cheat486_code = "300AADDA#02"
+
+cheat487_desc = "P2第二人物选人画面锁定角色BENIMARU NIKAIDO"
+cheat487_handler = "0"
+cheat487_code = "300AADDA#01"
+
+cheat488_desc = "P2第二人物选人画面锁定角色KYO KUSANAGI"
+cheat488_handler = "0"
+cheat488_code = "300AADDA#00"
+
+cheat489_desc = "P2第三人物选人画面锁定角色GEESE HOWARD"
+cheat489_handler = "0"
+cheat489_code = "300AADDE#1E"
+
+cheat490_desc = "P2第三人物选人画面锁定角色SHINGO"
+cheat490_handler = "0"
+cheat490_code = "300AADDE#1D"
+
+cheat491_desc = "P2第三人物选人画面锁定角色IORI YAGAMI"
+cheat491_handler = "0"
+cheat491_code = "300AADDE#1C"
+
+cheat492_desc = "P2第三人物选人画面锁定角色MR.BIG"
+cheat492_handler = "0"
+cheat492_code = "300AADDE#1B"
+
+cheat493_desc = "P2第三人物选人画面锁定角色CHRIS"
+cheat493_handler = "0"
+cheat493_code = "300AADDE#1A"
+
+cheat494_desc = "P2第三人物选人画面锁定角色SHERMIE"
+cheat494_handler = "0"
+cheat494_code = "300AADDE#19"
+
+cheat495_desc = "P2第三人物选人画面锁定角色YASHIRO"
+cheat495_handler = "0"
+cheat495_code = "300AADDE#18"
+
+cheat496_desc = "P2第三人物选人画面锁定角色RYUJI YAMAZAKI"
+cheat496_handler = "0"
+cheat496_code = "300AADDE#17"
+
+cheat497_desc = "P2第三人物选人画面锁定角色BLUE MARY"
+cheat497_handler = "0"
+cheat497_code = "300AADDE#16"
+
+cheat498_desc = "P2第三人物选人画面锁定角色BILLY KANE"
+cheat498_handler = "0"
+cheat498_code = "300AADDE#15"
+
+cheat499_desc = "P2第三人物选人画面锁定角色CHOI BOUNGE"
+cheat499_handler = "0"
+cheat499_code = "300AADDE#14"
+
+cheat500_desc = "P2第三人物选人画面锁定角色CHANG KOEHAN"
+cheat500_handler = "0"
+cheat500_code = "300AADDE#13"
+
+cheat501_desc = "P2第三人物选人画面锁定角色KIM KAPHWAN"
+cheat501_handler = "0"
+cheat501_code = "300AADDE#12"
+
+cheat502_desc = "P2第三人物选人画面锁定角色CHIZURU KAGURA"
+cheat502_handler = "0"
+cheat502_code = "300AADDE#11"
+
+cheat503_desc = "P2第三人物选人画面锁定角色MAI SHIRANUI"
+cheat503_handler = "0"
+cheat503_code = "300AADDE#10"
+
+cheat504_desc = "P2第三人物选人画面锁定角色KING"
+cheat504_handler = "0"
+cheat504_code = "300AADDE#0F"
+
+cheat505_desc = "P2第三人物选人画面锁定角色CLARK"
+cheat505_handler = "0"
+cheat505_code = "300AADDE#0E"
+
+cheat506_desc = "P2第三人物选人画面锁定角色RALF"
+cheat506_handler = "0"
+cheat506_code = "300AADDE#0D"
+
+cheat507_desc = "P2第三人物选人画面锁定角色LEONA"
+cheat507_handler = "0"
+cheat507_code = "300AADDE#0C"
+
+cheat508_desc = "P2第三人物选人画面锁定角色CHIN GENTSAI"
+cheat508_handler = "0"
+cheat508_code = "300AADDE#0B"
+
+cheat509_desc = "P2第三人物选人画面锁定角色SIE KENSOU"
+cheat509_handler = "0"
+cheat509_code = "300AADDE#0A"
+
+cheat510_desc = "P2第三人物选人画面锁定角色ATHENA ASAMIYA"
+cheat510_handler = "0"
+cheat510_code = "300AADDE#09"
+
+cheat511_desc = "P2第三人物选人画面锁定角色YURI SAKAZAKI"
+cheat511_handler = "0"
+cheat511_code = "300AADDE#08"
+
+cheat512_desc = "P2第三人物选人画面锁定角色ROBERT GARCIA"
+cheat512_handler = "0"
+cheat512_code = "300AADDE#07"
+
+cheat513_desc = "P2第三人物选人画面锁定角色RYO SAKAZAKI"
+cheat513_handler = "0"
+cheat513_code = "300AADDE#06"
+
+cheat514_desc = "P2第三人物选人画面锁定角色JOE HIGASHI"
+cheat514_handler = "0"
+cheat514_code = "300AADDE#05"
+
+cheat515_desc = "P2第三人物选人画面锁定角色ANDY BOGARD"
+cheat515_handler = "0"
+cheat515_code = "300AADDE#04"
+
+cheat516_desc = "P2第三人物选人画面锁定角色TERRY BOGARD"
+cheat516_handler = "0"
+cheat516_code = "300AADDE#03"
+
+cheat517_desc = "P2第三人物选人画面锁定角色GORO DAIMON"
+cheat517_handler = "0"
+cheat517_code = "300AADDE#02"
+
+cheat518_desc = "P2第三人物选人画面锁定角色BENIMARU NIKAIDO"
+cheat518_handler = "0"
+cheat518_code = "300AADDE#01"
+
+cheat519_desc = "P2第三人物选人画面锁定角色KYO KUSANAGI"
+cheat519_handler = "0"
+cheat519_code = "300AADDE#00"
+
+cheats = 520

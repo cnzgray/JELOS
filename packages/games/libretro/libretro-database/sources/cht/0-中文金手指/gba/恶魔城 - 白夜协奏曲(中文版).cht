@@ -1,0 +1,133 @@
+cheat0_desc = "金钱"
+cheat0_handler = "2"
+cheat0_code = "18790,FF,E0,F5,5"
+
+cheat1_desc = "全部魔法书"
+cheat1_handler = "2"
+cheat1_code = "18832,1F"
+
+cheat2_desc = "全部魔导器"
+cheat2_handler = "2"
+cheat2_code = "18833,FF,F,FF,F"
+
+cheat3_desc = "全部家具"
+cheat3_handler = "2"
+cheat3_code = "18837,FF,FF,FF,7F"
+
+cheat4_desc = "全部道具HP小回复"
+cheat4_handler = "2"
+cheat4_code = "18794,50"
+
+cheat5_desc = "全部道具H大回复"
+cheat5_handler = "2"
+cheat5_code = "18795,50"
+
+cheat6_desc = "全部道具HP全回复"
+cheat6_handler = "2"
+cheat6_code = "18796,50"
+
+cheat7_desc = "全部道具MP小回复"
+cheat7_handler = "2"
+cheat7_code = "18797,50"
+
+cheat8_desc = "全部道具MP大回复"
+cheat8_handler = "2"
+cheat8_code = "18798,50"
+
+cheat9_desc = "全部道具肉"
+cheat9_handler = "2"
+cheat9_code = "18799,50"
+
+cheat10_desc = "全部道具大块肉"
+cheat10_handler = "2"
+cheat10_code = "1879A,50"
+
+cheat11_desc = "全部道具解毒药"
+cheat11_handler = "2"
+cheat11_code = "1879B,50"
+
+cheat12_desc = "全部道具解诅咒药"
+cheat12_handler = "2"
+cheat12_code = "1879C,50"
+
+cheat13_desc = "全部道具无敌药剂"
+cheat13_handler = "2"
+cheat13_code = "1879D,50"
+
+cheat14_desc = "全部道具诱惑之匙"
+cheat14_handler = "2"
+cheat14_code = "1879E,1"
+
+cheat15_desc = "全部道具骷髅之匙"
+cheat15_handler = "2"
+cheat15_code = "1879F,1"
+
+cheat16_desc = "全部道具水闸的钥匙"
+cheat16_handler = "2"
+cheat16_code = "187A0,1"
+
+cheat17_desc = "全部道具恶魔城地图1"
+cheat17_handler = "2"
+cheat17_code = "187A1,1"
+
+cheat18_desc = "全部道具恶魔城地图2"
+cheat18_handler = "2"
+cheat18_code = "187A2,1"
+
+cheat19_desc = "全部道具恶魔城地图3"
+cheat19_handler = "2"
+cheat19_code = "187A3,1"
+
+cheat20_desc = "全部道具提示卡片1"
+cheat20_handler = "2"
+cheat20_code = "187A4,1"
+
+cheat21_desc = "全部道具提示卡片2"
+cheat21_handler = "2"
+cheat21_code = "187A5,1"
+
+cheat22_desc = "全部道具提示卡片3"
+cheat22_handler = "2"
+cheat22_code = "187A6,1"
+
+cheat23_desc = "全部道具提示卡片4"
+cheat23_handler = "2"
+cheat23_code = "187A7,1"
+
+cheat24_desc = "全部道具提示卡片5"
+cheat24_handler = "2"
+cheat24_code = "187A8,1"
+
+cheat25_desc = "全部道具提示卡片6"
+cheat25_handler = "2"
+cheat25_code = "187A9,1"
+
+cheat26_desc = "全部道具白昼的星座"
+cheat26_handler = "2"
+cheat26_code = "187AA,1"
+
+cheat27_desc = "全部道具蛋白石"
+cheat27_handler = "2"
+cheat27_code = "187AB,50"
+
+cheat28_desc = "全部道具绿松石"
+cheat28_handler = "2"
+cheat28_code = "187AC,50"
+
+cheat29_desc = "全部道具蓝宝石"
+cheat29_handler = "2"
+cheat29_code = "187AD,50"
+
+cheat30_desc = "全部道具红宝石"
+cheat30_handler = "2"
+cheat30_code = "187AE,50"
+
+cheat31_desc = "全部道具钻石"
+cheat31_handler = "2"
+cheat31_code = "187AF,50"
+
+cheat32_desc = "全部鞭"
+cheat32_handler = "2"
+cheat32_code = "187B0,FF,1"
+
+cheats = 33

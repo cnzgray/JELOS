@@ -1,0 +1,17 @@
+cheat0_desc = "生命"
+cheat0_handler = "2"
+cheat0_code = "44B9,6"
+
+cheat1_desc = "人數"
+cheat1_handler = "2"
+cheat1_code = "44B4,63"
+
+cheat2_desc = "瓶子"
+cheat2_handler = "2"
+cheat2_code = "44BC,32"
+
+cheat3_desc = "收集數"
+cheat3_handler = "2"
+cheat3_code = "44C0,32"
+
+cheats = 4

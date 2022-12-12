@@ -1,0 +1,101 @@
+cheat0_desc = "启动破解"
+cheat0_handler = "0"
+cheat0_code = "8009b342#0000;8009b340#0000;8009B384#0000;8003aa00#0000;8009A0CC#0000"
+
+cheat1_desc = "无限金钱"
+cheat1_handler = "0"
+cheat1_code = "80076BA4#0FFF;80076BA6#5F5E"
+
+cheat2_desc = "道具不减"
+cheat2_handler = "0"
+cheat2_code = "B0C60002#0000001,80076BDC#6401"
+
+cheat3_desc = "全召唤兽"
+cheat3_handler = "0"
+cheat3_code = "B0100044#00000000,800760F8#0100"
+
+cheat4_desc = "全部卡片"
+cheat4_handler = "0"
+cheat4_code = "B0270002#00000000,80077378#E4E4;800773E6#FFFF;800773E8#FFFF;800773EA#0001;B0210001#00000000,300773C5#00F0"
+
+cheat5_desc = "跳出战斗画面"
+cheat5_handler = "0"
+cheat5_code = "80021368#0000;8002136a#0000"
+
+cheat6_desc = "随时随地记录ON(某些地方此會暴走,請注意)"
+cheat6_handler = "0"
+cheat6_code = "8006F372#0100"
+
+cheat7_desc = "全特殊技"
+cheat7_handler = "0"
+cheat7_code = "B0040002#00000000,80076BAC#FFFF"
+
+cheat8_desc = "特殊技 (L1+R1)第一人"
+cheat8_handler = "0"
+cheat8_code = "80081B0E#0005;80077460#0400"
+
+cheat9_desc = "特殊技 (L1+R1)第二人"
+cheat9_handler = "0"
+cheat9_code = "80081B0E#000A;80077630#0400"
+
+cheat10_desc = "特殊技 (L1+R1)第三人"
+cheat10_handler = "0"
+cheat10_code = "80081B0E#000C;80077800#0400"
+
+cheat11_desc = "召唤兽的战斗后LV100"
+cheat11_handler = "0"
+cheat11_code = "80022752#34A2"
+
+cheat12_desc = "召唤兽快速呼出"
+cheat12_handler = "0"
+cheat12_code = "B00301D0#00000000,80077454#0000"
+
+cheat13_desc = "战斗途中快速集气"
+cheat13_handler = "0"
+cheat13_code = "B00301D0#00000000,800775C4#2EE0"
+
+cheat14_desc = "史克尔全吸收魔法"
+cheat14_handler = "0"
+cheat14_code = "B0310002#00000001,80076538#6301"
+
+cheat15_desc = "姬思蒂全吸收魔法"
+cheat15_handler = "0"
+cheat15_code = "B0310002#00000001,80076700#6311"
+
+cheat16_desc = "第三位角色全吸收魔法"
+cheat16_handler = "0"
+cheat16_code = "B0310002#00000001,800768C8#6321"
+
+cheat17_desc = "第四位角色全吸收魔法"
+cheat17_handler = "0"
+cheat17_code = "B0310002#00000001,80076A90#6331"
+
+cheat18_desc = "战时可用LIMIIT技"
+cheat18_handler = "0"
+cheat18_code = "30078741#0004;30078911#0004;30078AE1#0004"
+
+cheat19_desc = "戰鬥中HP9999不減(K)"
+cheat19_handler = "0"
+cheat19_code = "B00301D0#00000000,800775B2#270F"
+
+cheat20_desc = "全員快速升級LV100(K)"
+cheat20_handler = "0"
+cheat20_code = "B0060098#00000000,9007652C#000182B8"
+
+cheat21_desc = "ff8的新魔法"
+cheat21_handler = "0"
+cheat21_code = "B0050002#00000001,8007656E#6434;8007656C#6414"
+
+cheat22_desc = "应援可达999下"
+cheat22_handler = "0"
+cheat22_code = "D0081C7A#7FFE,90104E00#03E703E7"
+
+cheat23_desc = "格鬥家殊技时间延長"
+cheat23_handler = "0"
+cheat23_code = "D00E0896#0010,800E0894#8100"
+
+cheat24_desc = "槍手特殊技时间延長"
+cheat24_handler = "0"
+cheat24_code = "D00E362A#0010,800E3628#8100"
+
+cheats = 25

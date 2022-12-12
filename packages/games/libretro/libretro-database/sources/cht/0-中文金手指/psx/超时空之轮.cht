@@ -1,0 +1,133 @@
+cheat0_desc = "金钱"
+cheat0_handler = "0"
+cheat0_code = "800786F0#423F;800786F2#000F"
+
+cheat1_desc = "道具"
+cheat1_handler = "0"
+cheat1_code = "B07D0002#00000001,800784A8#0001;B03E0002#00000000,80078628#0F0F"
+
+cheat2_desc = "战斗中无限攻击"
+cheat2_handler = "0"
+cheat2_code = "800E083E#0046"
+
+cheat3_desc = "時间不增"
+cheat3_handler = "0"
+cheat3_code = "8007210C#1000"
+
+cheat4_desc = "全魔法"
+cheat4_handler = "0"
+cheat4_code = "B0C00002#00000001,800784A8#0001;B0C00002#00000000,80078628#0063"
+
+cheat5_desc = "随時可以记录"
+cheat5_handler = "0"
+cheat5_code = "D00E8510#0001,300E8510#0000"
+
+cheat6_desc = "☆レベル"
+cheat6_handler = "0"
+cheat6_code = "800789BC#0063;800789BE#0063"
+
+cheat7_desc = "セルジュ（主角）HP　MAX値"
+cheat7_handler = "0"
+cheat7_code = "80075926#03E7"
+
+cheat8_desc = "セルジュ（主角）耐久力／腕力"
+cheat8_handler = "0"
+cheat8_code = "80075928#6363"
+
+cheat9_desc = "セルジュ（主角）身軽さ／正確さ"
+cheat9_handler = "0"
+cheat9_code = "8007592A#6363"
+
+cheat10_desc = "セルジュ（主角）抗魔／魔力"
+cheat10_handler = "0"
+cheat10_code = "8007592C#6363"
+
+cheat11_desc = "キッド：（女主角）HP　MAX値"
+cheat11_handler = "0"
+cheat11_code = "800759F2#03E7"
+
+cheat12_desc = "キッド：（女主角）耐久力／腕力"
+cheat12_handler = "0"
+cheat12_code = "800759F4#6363"
+
+cheat13_desc = "キッド：（女主角）身軽さ／正確さ"
+cheat13_handler = "0"
+cheat13_code = "800759F6#6363"
+
+cheat14_desc = "キッド：（女主角）抗魔／魔力"
+cheat14_handler = "0"
+cheat14_code = "800759F8#6363"
+
+cheat15_desc = "战斗中“STA”不减"
+cheat15_handler = "0"
+cheat15_code = "D00D7E62#004B,800D7E62#0040"
+
+cheat16_desc = "战斗中“必杀技LV”不减"
+cheat16_handler = "0"
+cheat16_code = "D00D4494#0003,800D4494#0001"
+
+cheat17_desc = "战斗中用不完的エレメント(消費エレメント会减少)"
+cheat17_handler = "0"
+cheat17_code = "D00CCD0A#A462,800CCD0A#2000"
+
+cheat18_desc = "不受FIELD限制使用特定的召喚"
+cheat18_handler = "0"
+cheat18_code = "D00CAD1C#0010,800CAD1C#0001"
+
+cheat19_desc = "敌人一击死(Ｌ1开始 Ｌ2解除 敌人攻击时也有效)"
+cheat19_handler = "0"
+cheat19_code = "D00855E0#0001,800D8784#0001;D00855E0#0002,800D8784#0019"
+
+cheat20_desc = "按下L1.男(女)主角要素空格增加至等級8"
+cheat20_handler = "0"
+cheat20_code = "D00855E0#0004,B0300002#00000000,30075951#0000;D00855E0#0004,B0320002#00000000,30075A1D#0000"
+
+cheat21_desc = "在戰鬥時按下R2.戰鬥結束"
+cheat21_handler = "0"
+cheat21_code = "D00855E0#0002,B0030410#00000000,800E1388#0000"
+
+cheat22_desc = "戰鬥中STA不減"
+cheat22_handler = "0"
+cheat22_code = "D00D7E62#004B,800D7E62#0040"
+
+cheat23_desc = "(同伴3)HP最大"
+cheat23_handler = "0"
+cheat23_code = "80075ABE#03E7"
+
+cheat24_desc = "(同伴3)腕力、耐久力、正確、身輕、魔力、抗魔"
+cheat24_handler = "0"
+cheat24_code = "B0060001#00000000,30075AC0#0063"
+
+cheat25_desc = "全材料"
+cheat25_handler = "0"
+cheat25_code = "B0160002#00000001,80078028#0001;B0160001#00000000,30078328#0063"
+
+cheat26_desc = "全武器"
+cheat26_handler = "0"
+cheat26_code = "B05B0002#00000001,80078054#0020;B05B0001#00000000,3007833E#0063"
+
+cheat27_desc = "全防具"
+cheat27_handler = "0"
+cheat27_code = "B01C0002#00000001,8007810A#0096;B01C0001#00000000,30078399#0063"
+
+cheat28_desc = "全飾品"
+cheat28_handler = "0"
+cheat28_code = "B0450002#00000001,80078142#00BA;B0450001#00000000,300783B5#0063"
+
+cheat29_desc = "所有道具99個"
+cheat29_handler = "0"
+cheat29_code = "B0FE0002#00000001,80078328#0001;B0FE0001#00000000,30078328#0063"
+
+cheat30_desc = "所有人物快速提升能力"
+cheat30_handler = "0"
+cheat30_code = "B02C00CC#00000000,800759CC#03E7;B02C00CC#00000000,300759CE#0063;B02C00CC#00000000,300759D0#0063;B02C00CC#00000000,300759D2#0063;BO2C00CC#00000000,300759D4#0063;B02C00CC#00000000,300759D6#0063;B02C00CC#00000000,300759D8#0063;B02C00CC#00000000,300759DA#0063;"
+
+cheat31_desc = "可使用所有人物"
+cheat31_handler = "0"
+cheat31_code = "800786E8#FFFF;800786EA#FFFF;800786EC#0FFF"
+
+cheat32_desc = "集氣等級速升"
+cheat32_handler = "0"
+cheat32_code = "D00D44C2#0002,800D44C0#0007;D00D44C2#0002,800D44C2#2402"
+
+cheats = 33

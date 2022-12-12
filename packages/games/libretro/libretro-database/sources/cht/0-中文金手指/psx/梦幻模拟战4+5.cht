@@ -1,0 +1,273 @@
+cheat0_desc = "IV專用"
+cheat0_handler = "0"
+cheat0_code = "800DC380#423F;800DC382#000F"
+
+cheat1_desc = "錢"
+cheat1_handler = "0"
+cheat1_code = "800DC380#423F;800DC382#000F"
+
+cheat2_desc = "第一人 EXP"
+cheat2_handler = "0"
+cheat2_code = "3011856F#0063"
+
+cheat3_desc = "第一人 知"
+cheat3_handler = "0"
+cheat3_code = "30118570#0063"
+
+cheat4_desc = "第一人 A+"
+cheat4_handler = "0"
+cheat4_code = "30118571#0063"
+
+cheat5_desc = "第一人 D+"
+cheat5_handler = "0"
+cheat5_code = "30118572#0063"
+
+cheat6_desc = "第一人 M+"
+cheat6_handler = "0"
+cheat6_code = "30118573#0063"
+
+cheat7_desc = "第一人 判"
+cheat7_handler = "0"
+cheat7_code = "30118574#0063"
+
+cheat8_desc = "第一人 MP"
+cheat8_handler = "0"
+cheat8_code = "30118575#0063"
+
+cheat9_desc = "第一人 MP MAX"
+cheat9_handler = "0"
+cheat9_code = "30118576#0063"
+
+cheat10_desc = "第一人 指"
+cheat10_handler = "0"
+cheat10_code = "3011857A#0063"
+
+cheat11_desc = "第一人 AT"
+cheat11_handler = "0"
+cheat11_code = "3011862D#0063"
+
+cheat12_desc = "第一人 DF"
+cheat12_handler = "0"
+cheat12_code = "30118630#0063"
+
+cheat13_desc = "第二人EXP"
+cheat13_handler = "0"
+cheat13_code = "30118653#0063"
+
+cheat14_desc = "第二人知"
+cheat14_handler = "0"
+cheat14_code = "30118654#0063"
+
+cheat15_desc = "第二人A+"
+cheat15_handler = "0"
+cheat15_code = "30118655#0063"
+
+cheat16_desc = "第二人D+"
+cheat16_handler = "0"
+cheat16_code = "30118656#0063"
+
+cheat17_desc = "第二人M+"
+cheat17_handler = "0"
+cheat17_code = "30118657#0063"
+
+cheat18_desc = "第二人判"
+cheat18_handler = "0"
+cheat18_code = "30118658#0063"
+
+cheat19_desc = "第二人MP"
+cheat19_handler = "0"
+cheat19_code = "30118659#0063"
+
+cheat20_desc = "第二人MP MAX"
+cheat20_handler = "0"
+cheat20_code = "3011865A#0063"
+
+cheat21_desc = "第二人指"
+cheat21_handler = "0"
+cheat21_code = "3011865E#0063"
+
+cheat22_desc = "第二人AT"
+cheat22_handler = "0"
+cheat22_code = "30118711#0063"
+
+cheat23_desc = "第二人DF"
+cheat23_handler = "0"
+cheat23_code = "30118714#0063"
+
+cheat24_desc = "第三人EXP"
+cheat24_handler = "0"
+cheat24_code = "30118737#0063"
+
+cheat25_desc = "第三人知"
+cheat25_handler = "0"
+cheat25_code = "30118738#0063"
+
+cheat26_desc = "第三人A+"
+cheat26_handler = "0"
+cheat26_code = "30118739#0063"
+
+cheat27_desc = "第三人D+"
+cheat27_handler = "0"
+cheat27_code = "3011873A#0063"
+
+cheat28_desc = "第三人M+"
+cheat28_handler = "0"
+cheat28_code = "3011873B#0063"
+
+cheat29_desc = "第三人判"
+cheat29_handler = "0"
+cheat29_code = "3011873C#0063"
+
+cheat30_desc = "第三人MP"
+cheat30_handler = "0"
+cheat30_code = "3011873D#0063"
+
+cheat31_desc = "第三人MP MAX"
+cheat31_handler = "0"
+cheat31_code = "3011873E#0063"
+
+cheat32_desc = "第三人指"
+cheat32_handler = "0"
+cheat32_code = "30118742#0063"
+
+cheat33_desc = "第三人AT"
+cheat33_handler = "0"
+cheat33_code = "301187F5#0063"
+
+cheat34_desc = "第三人DF"
+cheat34_handler = "0"
+cheat34_code = "301187F8#0063"
+
+cheat35_desc = "第四人EXP"
+cheat35_handler = "0"
+cheat35_code = "3011881B#0063"
+
+cheat36_desc = "第四人知"
+cheat36_handler = "0"
+cheat36_code = "3011881C#0063"
+
+cheat37_desc = "第四人A+"
+cheat37_handler = "0"
+cheat37_code = "3011881D#0063"
+
+cheat38_desc = "第四人D+"
+cheat38_handler = "0"
+cheat38_code = "3011881E#0063"
+
+cheat39_desc = "第四人M+"
+cheat39_handler = "0"
+cheat39_code = "3011881F#0063"
+
+cheat40_desc = "第四人判"
+cheat40_handler = "0"
+cheat40_code = "30118820#0063"
+
+cheat41_desc = "第四人MP"
+cheat41_handler = "0"
+cheat41_code = "30118821#0063"
+
+cheat42_desc = "第四人MP MAX"
+cheat42_handler = "0"
+cheat42_code = "30118822#0063"
+
+cheat43_desc = "第四人指"
+cheat43_handler = "0"
+cheat43_code = "30118826#0063"
+
+cheat44_desc = "第四人AT"
+cheat44_handler = "0"
+cheat44_code = "301188D9#0063"
+
+cheat45_desc = "第四人DF"
+cheat45_handler = "0"
+cheat45_code = "301188DC#0063"
+
+cheat46_desc = "第五人EXP"
+cheat46_handler = "0"
+cheat46_code = "301188FF#0063"
+
+cheat47_desc = "第五人知"
+cheat47_handler = "0"
+cheat47_code = "30118900#0063"
+
+cheat48_desc = "第五人A+"
+cheat48_handler = "0"
+cheat48_code = "30118901#0063"
+
+cheat49_desc = "第五人D+"
+cheat49_handler = "0"
+cheat49_code = "30118902#0063"
+
+cheat50_desc = "第五人M+"
+cheat50_handler = "0"
+cheat50_code = "30118903#0063"
+
+cheat51_desc = "第五人判"
+cheat51_handler = "0"
+cheat51_code = "30118904#0063"
+
+cheat52_desc = "第五人MP"
+cheat52_handler = "0"
+cheat52_code = "30118905#0063"
+
+cheat53_desc = "第五人MP MAX"
+cheat53_handler = "0"
+cheat53_code = "30118906#0063"
+
+cheat54_desc = "第五人指"
+cheat54_handler = "0"
+cheat54_code = "3011890A#0063"
+
+cheat55_desc = "第五人AT"
+cheat55_handler = "0"
+cheat55_code = "301189BD#0063"
+
+cheat56_desc = "第五人DF"
+cheat56_handler = "0"
+cheat56_code = "301189C0#0063"
+
+cheat57_desc = "第六人EXP"
+cheat57_handler = "0"
+cheat57_code = "301189E3#0063"
+
+cheat58_desc = "第六人知"
+cheat58_handler = "0"
+cheat58_code = "301189E4#0063"
+
+cheat59_desc = "第六人A+"
+cheat59_handler = "0"
+cheat59_code = "301189E5#0063"
+
+cheat60_desc = "第六人D+"
+cheat60_handler = "0"
+cheat60_code = "301189E6#0063"
+
+cheat61_desc = "第六人M+"
+cheat61_handler = "0"
+cheat61_code = "301189E7#0063"
+
+cheat62_desc = "第六人判"
+cheat62_handler = "0"
+cheat62_code = "301189E8#0063"
+
+cheat63_desc = "第六人MP"
+cheat63_handler = "0"
+cheat63_code = "301189E9#0063"
+
+cheat64_desc = "第六人MP MAX"
+cheat64_handler = "0"
+cheat64_code = "301189EA#0063"
+
+cheat65_desc = "第六人指"
+cheat65_handler = "0"
+cheat65_code = "301189EE#0063"
+
+cheat66_desc = "第六人AT"
+cheat66_handler = "0"
+cheat66_code = "30118A01#0063"
+
+cheat67_desc = "第六人DF"
+cheat67_handler = "0"
+cheat67_code = "30118A04#0063"
+
+cheats = 68

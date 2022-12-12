@@ -1,0 +1,9 @@
+cheat0_desc = "錢8億"
+cheat0_handler = "2"
+cheat0_code = "2e08,80,38,1"
+
+cheat1_desc = "觀眾數1500"
+cheat1_handler = "2"
+cheat1_code = "4436c,0f,27"
+
+cheats = 2

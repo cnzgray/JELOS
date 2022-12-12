@@ -1,0 +1,9 @@
+cheat0_desc = "生命数"
+cheat0_handler = "2"
+cheat0_code = "C0,5"
+
+cheat1_desc = "武器"
+cheat1_handler = "2"
+cheat1_code = "A8,32;AA,32"
+
+cheats = 2

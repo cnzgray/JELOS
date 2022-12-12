@@ -1,0 +1,65 @@
+cheat0_desc = "數值"
+cheat0_handler = "2"
+cheat0_code = "43A03,64;43A07,64;43A0B,64;43A0F,64;43A13,64;43A17,64;43A1B,64;43A1F,64"
+
+cheat1_desc = "錢"
+cheat1_handler = "2"
+cheat1_code = "43954,9F,86,1"
+
+cheat2_desc = "Body"
+cheat2_handler = "2"
+cheat2_code = "439F7,A"
+
+cheat3_desc = "Creativity"
+cheat3_handler = "2"
+cheat3_code = "439F3,A"
+
+cheat4_desc = "Charisma"
+cheat4_handler = "2"
+cheat4_code = "439FF,A"
+
+cheat5_desc = "logic"
+cheat5_handler = "2"
+cheat5_code = "439FB,A"
+
+cheat6_desc = "mechanical"
+cheat6_handler = "2"
+cheat6_code = "439EF,A"
+
+cheat7_desc = "cooking"
+cheat7_handler = "2"
+cheat7_code = "439EB,A"
+
+cheat8_desc = "友好度100"
+cheat8_handler = "2"
+cheat8_code = "43989,64;4398D,64;43991,64;43995,64;43999,64;4399D,64;439A1,64;439A5,64;439A9,64;439AD,64;439B1,64;439B5,64;439B9,64;439BD,64;439C1,64;439C5,64;439C9,64;439CD,64;439D1,64;439D5,64;439D9,64;439DD,64;439E1,64;439E5,64"
+
+cheat9_desc = "友好度50"
+cheat9_handler = "2"
+cheat9_code = "43989,32;4398D,32;43991,32;43995,32;43999,32;4399D,32;439A1,32;439A5,32;439A9,32;439AD,32;439B1,32;439B5,32;439B9,32;439BD,32;439C1,32;439C5,32;439C9,32;439CD,32;439D1,32;439D5,32;439D9,32;439DD,32;439E1,32;439E5,32"
+
+cheat10_desc = "友好度45"
+cheat10_handler = "2"
+cheat10_code = "43989,2D;4398D,2D;43991,2D;43995,2D;43999,2D;4399D,2D;439A1,2D;439A5,2D;439A9,2D;439AD,2D;439B1,2D;439B5,2D;439B9,2D;439BD,2D;439C1,2D;439C5,2D;439C9,2D;439CD,2D;439D1,2D;439D5,2D;439D9,2D;439DD,2D;439E1,2D;439E5,2D"
+
+cheat11_desc = "Cans"
+cheat11_handler = "2"
+cheat11_code = "43A30,63"
+
+cheat12_desc = "Jars"
+cheat12_handler = "2"
+cheat12_code = "43A31,63"
+
+cheat13_desc = "Cogs"
+cheat13_handler = "2"
+cheat13_code = "43A32,63"
+
+cheat14_desc = "Rods"
+cheat14_handler = "2"
+cheat14_code = "43A33,63"
+
+cheat15_desc = "Mice"
+cheat15_handler = "2"
+cheat15_code = "43A34,63"
+
+cheats = 16

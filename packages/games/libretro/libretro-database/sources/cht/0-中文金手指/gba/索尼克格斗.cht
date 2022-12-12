@@ -1,0 +1,13 @@
+cheat0_desc = "1P HP"
+cheat0_handler = "2"
+cheat0_code = "041CFF,64"
+
+cheat1_desc = "1P EN"
+cheat1_handler = "2"
+cheat1_code = "41CD3,48"
+
+cheat2_desc = "技能空间"
+cheat2_handler = "2"
+cheat2_code = "44DA8,e7,03;44DAC,e7,03"
+
+cheats = 3

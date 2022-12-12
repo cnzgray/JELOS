@@ -1,0 +1,1049 @@
+cheat0_desc = "無限金钱"
+cheat0_handler = "0"
+cheat0_code = "8006E8F0#E0FF;8006E8F2#05F5"
+
+cheat1_desc = "熟练度"
+cheat1_handler = "0"
+cheat1_code = "3006E904#0032"
+
+cheat2_desc = "武器全满"
+cheat2_handler = "0"
+cheat2_code = "3013A440#000F;3013B1D8#000F;301330E8#000F"
+
+cheat3_desc = "無限 EN"
+cheat3_handler = "0"
+cheat3_code = "D00B7392#0065;800B7392#0060"
+
+cheat4_desc = "無限残弹"
+cheat4_handler = "0"
+cheat4_code = "D007993E#2442;8007993C#0000"
+
+cheat5_desc = "無需必要气力"
+cheat5_handler = "0"
+cheat5_code = "D00BE08A#1440;800BE08A#1400"
+
+cheat6_desc = "全部强化部件1"
+cheat6_handler = "0"
+cheat6_code = "8016C2DC#FFFF;8016C2DE#03FF;FFFFFFFF#0001;50000D02#0000;8016C2E0#0909"
+
+cheat7_desc = "全部强化部件2"
+cheat7_handler = "0"
+cheat7_code = "B0170001#00000000;3019BAA0#0009"
+
+cheat8_desc = "無限移動"
+cheat8_handler = "0"
+cheat8_code = "D00BD716#1440;800BD716#1000"
+
+cheat9_desc = "搭乗制限解除"
+cheat9_handler = "0"
+cheat9_code = "D00B2086#1040;800B2086#1400;D00B1C76#1040;800B1C76#1400"
+
+cheat10_desc = "道具"
+cheat10_handler = "0"
+cheat10_code = "3016C2E6#0009;3016C2ED#0009;3016C2EE#0009"
+
+cheat11_desc = "キャラクター事典全開"
+cheat11_handler = "0"
+cheat11_code = "D00E7BD6#1040;800E7BD6#1400"
+
+cheat12_desc = "ロボット大図鑑全開"
+cheat12_handler = "0"
+cheat12_code = "D00EA672#1040;800EA672#1400"
+
+cheat13_desc = "デモセレクト全開"
+cheat13_handler = "0"
+cheat13_code = "D00E4C2E#1040;800E4C2E#1400"
+
+cheat14_desc = "必要気力無視"
+cheat14_handler = "0"
+cheat14_code = "D00BE08A#1440;800BE08A#1400"
+
+cheat15_desc = "所有機器人之強化零件項目×４個"
+cheat15_handler = "0"
+cheat15_code = "D00EE070#0039;800EE070#0004;D00EE072#93A2;800EE072#2402;D00AE59A#14E0;800AE59A#1400"
+
+cheat16_desc = "打倒一個敵人後氣力最大"
+cheat16_handler = "0"
+cheat16_code = "D00B4DC2#1440;800B4DC2#1040"
+
+cheat17_desc = "使用精神時SP不減"
+cheat17_handler = "0"
+cheat17_code = "D00B4FF8#0045;800B4FF8#0040;D00B4F32#0052;800B4F32#0040"
+
+cheat18_desc = "所有精神(熱血/魂/狙擊/必閃/努力/幸運/集中/必中/合壁/加速/覺醒/激勵)"
+cheat18_handler = "0"
+cheat18_code = "D00B4F3E#30222;800B4F3C#3BFB;D00B4F3E#0222;800B4F3E#2402"
+
+cheat19_desc = "改造上限(最高255段階)"
+cheat19_handler = "0"
+cheat19_code = "DO0ACF26#1062;800ACF24#0001"
+
+cheat20_desc = "全兵器(P)"
+cheat20_handler = "0"
+cheat20_code = "D00BE036#1040;800BE036#1400"
+
+cheat21_desc = "タダで武器改造"
+cheat21_handler = "0"
+cheat21_code = "D00E0B4A#0040;800E0B4A#0000"
+
+cheat22_desc = "全員妖精さん計画"
+cheat22_handler = "0"
+cheat22_code = "D00B2146#1040;800B2146#1400;D00B215A#1040;800B215A#1400;D00B23DE#1040;800B23DE#1400"
+
+cheat23_desc = "全ユニット修理装備"
+cheat23_handler = "0"
+cheat23_code = "D00BE1F6#1040;800BE1F6#1400"
+
+cheat24_desc = "全ユニット補給装備"
+cheat24_handler = "0"
+cheat24_code = "D00BE2C6#1040;800BE2C6#1400"
+
+cheat25_desc = "全ユニット空中浮遊可"
+cheat25_handler = "0"
+cheat25_code = "D00BDA66#1040;800BDA66#1400;D00BDAC2#1040;800BDAC2#1400"
+
+cheat26_desc = "敵ユニット操作可能"
+cheat26_handler = "0"
+cheat26_code = "D00FFBAA#1462;800FFBAA#1400;D00BD716#1440;800BD716#1000"
+
+cheat27_desc = "同士討ち可能"
+cheat27_handler = "0"
+cheat27_code = "D00C27CA#1040;800C27CA#1400"
+
+cheat28_desc = "一撃LV99<HBP>"
+cheat28_handler = "0"
+cheat28_code = "D00B49D4#0002;800B49D4#0001"
+
+cheat29_desc = "一撃経験値10倍<HBP>"
+cheat29_handler = "0"
+cheat29_code = "D00B49B6#0065;800B49B6#0063"
+
+cheat30_desc = "SELECTボタンで無限行動　△ボタンで解除<HBP>"
+cheat30_handler = "0"
+cheat30_code = "D005C208#0100;800B7FF8#0000;D005C208#0010;800B7FF8#FFFF"
+
+cheat31_desc = "無限移動"
+cheat31_handler = "0"
+cheat31_code = "D00BD716#1440;800BD716#1000"
+
+cheat32_desc = "一撃必殺"
+cheat32_handler = "0"
+cheat32_code = "D005C208#0101;800C09BA#1400;D005C208#0102;800C09BA#1440"
+
+cheat33_desc = "１機倒すとクリア"
+cheat33_handler = "0"
+cheat33_code = "D00B9626#A4E2;800B9626#A4E0"
+
+cheat34_desc = "気合150"
+cheat34_handler = "0"
+cheat34_code = "B01000B0#00000000;8015B392#0096"
+
+cheat35_desc = "機體改造資金不減"
+cheat35_handler = "0"
+cheat35_code = "D00DEFC4#1023;800DEFC6#0080"
+
+cheat36_desc = "武器改造資金不減"
+cheat36_handler = "0"
+cheat36_code = "D00E0D7C#1023;800E0D7E#0080"
+
+cheat37_desc = "氣合後氣力最大(敵人部分注意)"
+cheat37_handler = "0"
+cheat37_code = "D00B4DC2#1440;800B4DC0#0001"
+
+cheat38_desc = "總回合數"
+cheat38_handler = "0"
+cheat38_code = "8006E8F4#0001"
+
+cheat39_desc = "搭乘機組限制解除"
+cheat39_handler = "0"
+cheat39_code = "D00B2086#1040;800B2086#1400;D00B1C76#1040;800B1C76#1400"
+
+cheat40_desc = "改造上限(最高255段階)"
+cheat40_handler = "0"
+cheat40_code = "D00ACF26#1062;800ACF24#0001"
+
+cheat41_desc = "机体修改1Ｚガンダム"
+cheat41_handler = "0"
+cheat41_code = "8016Aa24#0022"
+
+cheat42_desc = "机体修改2フルアーマー百式改"
+cheat42_handler = "0"
+cheat42_code = "8016Aac4#002D"
+
+cheat43_desc = "机体修改3キュベレイ"
+cheat43_handler = "0"
+cheat43_code = "8016Ab44#003B"
+
+cheat44_desc = "机体修改4サイコガンダムＭＫ-Ⅱ"
+cheat44_handler = "0"
+cheat44_code = "8016AA44#0042"
+
+cheat45_desc = "机体修改5ザクⅢ改"
+cheat45_handler = "0"
+cheat45_code = "8016AA64#0063"
+
+cheat46_desc = "机体修改6渚カヲル"
+cheat46_handler = "0"
+cheat46_code = "8016AA84#014C"
+
+cheat47_desc = "机体修改7ヒュッケバインMK-Ⅱ"
+cheat47_handler = "0"
+cheat47_code = "8016AAE4#019C"
+
+cheat48_desc = "机体修改8ヒュッケバインMK-Ⅲ"
+cheat48_handler = "0"
+cheat48_code = "8016AAA4#019D"
+
+cheat49_desc = "机体修改9龍王機"
+cheat49_handler = "0"
+cheat49_code = "8016AB04#01E3"
+
+cheat50_desc = "机体修改10虎王機"
+cheat50_handler = "0"
+cheat50_code = "8016AB24#01E4"
+
+cheat51_desc = "選關鋼鉄のコクピット"
+cheat51_handler = "0"
+cheat51_code = "800701DC#0001"
+
+cheat52_desc = "選關マジンガーＺ絶体絶命"
+cheat52_handler = "0"
+cheat52_code = "800701DC#0002"
+
+cheat53_desc = "選關ゲッターチーム出撃せよ！"
+cheat53_handler = "0"
+cheat53_code = "800701DC#0003"
+
+cheat54_desc = "選關ジオン再臨"
+cheat54_handler = "0"
+cheat54_code = "800701DC#0004"
+
+cheat55_desc = "選關シークレット?ナンバーズ"
+cheat55_handler = "0"
+cheat55_code = "800701DC#0005"
+
+cheat56_desc = "選關アーガマ撃墜命令"
+cheat56_handler = "0"
+cheat56_code = "800701DC#0006"
+
+cheat57_desc = "選關バニシング?トルーパー"
+cheat57_handler = "0"
+cheat57_code = "800701DC#0007"
+
+cheat58_desc = "選關黒いガンダム"
+cheat58_handler = "0"
+cheat58_code = "800701DC#0008"
+
+cheat59_desc = "選關ホワイトベース救出"
+cheat59_handler = "0"
+cheat59_code = "800701DC#0009"
+
+cheat60_desc = "選關死神と呼ばれたＧ"
+cheat60_handler = "0"
+cheat60_code = "800701DC#000A"
+
+cheat61_desc = "選關ジオンの亡霊"
+cheat61_handler = "0"
+cheat61_code = "800701DC#000B"
+
+cheat62_desc = "選關対決、極東基地"
+cheat62_handler = "0"
+cheat62_code = "800701DC#000C"
+
+cheat63_desc = "選關レッツ!コンバイン"
+cheat63_handler = "0"
+cheat63_code = "800701DC#000D"
+
+cheat64_desc = "選關出撃！その名はジャイアント?ロボ"
+cheat64_handler = "0"
+cheat64_code = "800701DC#000E"
+
+cheat65_desc = "選關風を呼ぶ者"
+cheat65_handler = "0"
+cheat65_code = "800701DC#000F"
+
+cheat66_desc = "選關未知なる災い"
+cheat66_handler = "0"
+cheat66_code = "800701DC#0010"
+
+cheat67_desc = "選關アムロ再び"
+cheat67_handler = "0"
+cheat67_code = "800701DC#0011"
+
+cheat68_desc = "選關白いモビルスーツ"
+cheat68_handler = "0"
+cheat68_code = "800701DC#0012"
+
+cheat69_desc = "選關戦いは誰のために"
+cheat69_handler = "0"
+cheat69_code = "800701DC#0013"
+
+cheat70_desc = "選關翼を持ったガンダム"
+cheat70_handler = "0"
+cheat70_code = "800701DC#0014"
+
+cheat71_desc = "選關目覚めよ、勇者"
+cheat71_handler = "0"
+cheat71_code = "800701DC#0015"
+
+cheat72_desc = "選關ガンダム強奪"
+cheat72_handler = "0"
+cheat72_code = "800701DC#0016"
+
+cheat73_desc = "選關野望の男"
+cheat73_handler = "0"
+cheat73_code = "800701DC#0017"
+
+cheat74_desc = "選關少女が見た流星"
+cheat74_handler = "0"
+cheat74_code = "800701DC#0018"
+
+cheat75_desc = "選關父との約束"
+cheat75_handler = "0"
+cheat75_code = "800701DC#0019"
+
+cheat76_desc = "選關使徒、襲来"
+cheat76_handler = "0"
+cheat76_code = "800701DC#001A"
+
+cheat77_desc = "選關咆哮、ＥＶＡ初号機"
+cheat77_handler = "0"
+cheat77_code = "800701DC#001B"
+
+cheat78_desc = "選關ＧＲ対ＧＲ２"
+cheat78_handler = "0"
+cheat78_code = "800701DC#001C"
+
+cheat79_desc = "選關ゼータの鼓動"
+cheat79_handler = "0"
+cheat79_code = "800701DC#001D"
+
+cheat80_desc = "選關第二次直上会戦"
+cheat80_handler = "0"
+cheat80_code = "800701DC#001E"
+
+cheat81_desc = "選關紅い稲妻 空飛ぶマジンガー"
+cheat81_handler = "0"
+cheat81_code = "800701DC#001F"
+
+cheat82_desc = "選關激突！ゲッターロボＶＳゲッターロボＧ"
+cheat82_handler = "0"
+cheat82_code = "800701DC#0020"
+
+cheat83_desc = "選關決戦、第２新東京市"
+cheat83_handler = "0"
+cheat83_code = "800701DC#0021"
+
+cheat84_desc = "選關聖戦士たち"
+cheat84_handler = "0"
+cheat84_code = "800701DC#0022"
+
+cheat85_desc = "選關エレの霊力"
+cheat85_handler = "0"
+cheat85_code = "800701DC#0023"
+
+cheat86_desc = "選關ナの国の女王"
+cheat86_handler = "0"
+cheat86_code = "800701DC#0024"
+
+cheat87_desc = "選關オーラロード"
+cheat87_handler = "0"
+cheat87_code = "800701DC#0025"
+
+cheat88_desc = "選關東京上空"
+cheat88_handler = "0"
+cheat88_code = "800701DC#0026"
+
+cheat89_desc = "選關獣を超え、人を超え、いでよ神の戦士"
+cheat89_handler = "0"
+cheat89_code = "800701DC#0027"
+
+cheat90_desc = "選關戦いの海へ"
+cheat90_handler = "0"
+cheat90_code = "800701DC#0028"
+
+cheat91_desc = "選關マジンガーＺ対暗黒大将軍"
+cheat91_handler = "0"
+cheat91_code = "800701DC#0029"
+
+cheat92_desc = "選關ボルテス起死回生"
+cheat92_handler = "0"
+cheat92_code = "800701DC#002A"
+
+cheat93_desc = "選關シャーキン悪魔の戦い"
+cheat93_handler = "0"
+cheat93_code = "800701DC#002B"
+
+cheat94_desc = "選關ホンコン?シティ"
+cheat94_handler = "0"
+cheat94_code = "800701DC#002C"
+
+cheat95_desc = "選關ガンダム、星の海へ"
+cheat95_handler = "0"
+cheat95_code = "800701DC#002D"
+
+cheat96_desc = "選關始動ダブルゼータ"
+cheat96_handler = "0"
+cheat96_code = "800701DC#002E"
+
+cheat97_desc = "選關ソロモンの悪夢"
+cheat97_handler = "0"
+cheat97_code = "800701DC#002F"
+
+cheat98_desc = "選關クロスボーン?バンガード"
+cheat98_handler = "0"
+cheat98_code = "800701DC#0030"
+
+cheat99_desc = "選關紅いエヴァンゲリオン"
+cheat99_handler = "0"
+cheat99_code = "800701DC#0031"
+
+cheat100_desc = "選關海からのマレビト"
+cheat100_handler = "0"
+cheat100_code = "800701DC#0032"
+
+cheat101_desc = "選關マシン展開"
+cheat101_handler = "0"
+cheat101_code = "800701DC#0033"
+
+cheat102_desc = "選關瞬間、心かさねて"
+cheat102_handler = "0"
+cheat102_code = "800701DC#0034"
+
+cheat103_desc = "選關ブービー?トラップ"
+cheat103_handler = "0"
+cheat103_code = "800701DC#0035"
+
+cheat104_desc = "選關カウント?ダウン"
+cheat104_handler = "0"
+cheat104_code = "800701DC#0036"
+
+cheat105_desc = "選關トランス?フォーメーション"
+cheat105_handler = "0"
+cheat105_code = "800701DC#0037"
+
+cheat106_desc = "選關隠された殺意"
+cheat106_handler = "0"
+cheat106_code = "800701DC#0038"
+
+cheat107_desc = "選關サタン?ファイト"
+cheat107_handler = "0"
+cheat107_code = "800701DC#0039"
+
+cheat108_desc = "選關リン?ミンメイ"
+cheat108_handler = "0"
+cheat108_code = "800701DC#003A"
+
+cheat109_desc = "選關ジュピトリアン"
+cheat109_handler = "0"
+cheat109_code = "800701DC#003B"
+
+cheat110_desc = "選關帝国の女王"
+cheat110_handler = "0"
+cheat110_code = "800701DC#003C"
+
+cheat111_desc = "選關終末への前奏曲"
+cheat111_handler = "0"
+cheat111_code = "800701DC#003D"
+
+cheat112_desc = "選關奇跡の価値は"
+cheat112_handler = "0"
+cheat112_code = "800701DC#003E"
+
+cheat113_desc = "選關スペース?フォールド"
+cheat113_handler = "0"
+cheat113_code = "800701DC#003F"
+
+cheat114_desc = "選關アームド?アタック"
+cheat114_handler = "0"
+cheat114_code = "800701DC#0040"
+
+cheat115_desc = "選關天敵との遭遇"
+cheat115_handler = "0"
+cheat115_code = "800701DC#0041"
+
+cheat116_desc = "選關イングラムの真意"
+cheat116_handler = "0"
+cheat116_code = "800701DC#0042"
+
+cheat117_desc = "選關ミス?マクロス"
+cheat117_handler = "0"
+cheat117_code = "800701DC#0043"
+
+cheat118_desc = "選關木星からの逃亡者"
+cheat118_handler = "0"
+cheat118_code = "800701DC#0044"
+
+cheat119_desc = "選關人類を導く者"
+cheat119_handler = "0"
+cheat119_code = "800701DC#0045"
+
+cheat120_desc = "選關ファースト?コンタクト"
+cheat120_handler = "0"
+cheat120_code = "800701DC#0046"
+
+cheat121_desc = "選關ビッグ?エスケープ"
+cheat121_handler = "0"
+cheat121_code = "800701DC#0047"
+
+cheat122_desc = "選關バイバイ?マルス"
+cheat122_handler = "0"
+cheat122_code = "800701DC#0048"
+
+cheat123_desc = "選關アクシズからの使者"
+cheat123_handler = "0"
+cheat123_code = "800701DC#0049"
+
+cheat124_desc = "選關プルとアクシズと"
+cheat124_handler = "0"
+cheat124_code = "800701DC#004A"
+
+cheat125_desc = "選關リィナの血"
+cheat125_handler = "0"
+cheat125_code = "800701DC#004B"
+
+cheat126_desc = "選關漆黒の天使来たりて"
+cheat126_handler = "0"
+cheat126_code = "800701DC#004C"
+
+cheat127_desc = "選關ジュピター?ゴースト"
+cheat127_handler = "0"
+cheat127_code = "800701DC#004D"
+
+cheat128_desc = "選關宇宙に咲く妖花4F ゼロと呼ばれたガンダム"
+cheat128_handler = "0"
+cheat128_code = "800701DC#004E"
+
+cheat129_desc = "選關強襲、阻止限界点"
+cheat129_handler = "0"
+cheat129_code = "800701DC#0040"
+
+cheat130_desc = "選關静止した闇の中で"
+cheat130_handler = "0"
+cheat130_code = "800701DC#0052"
+
+cheat131_desc = "選關赤い髪の女"
+cheat131_handler = "0"
+cheat131_code = "800701DC#0053"
+
+cheat132_desc = "選關神か、悪魔か…"
+cheat132_handler = "0"
+cheat132_code = "800701DC#0054"
+
+cheat133_desc = "選關第三の力"
+cheat133_handler = "0"
+cheat133_code = "800701DC#0055"
+
+cheat134_desc = "選關龍と虎"
+cheat134_handler = "0"
+cheat134_code = "800701DC#0056"
+
+cheat135_desc = "選關男の戰い"
+cheat135_handler = "0"
+cheat135_code = "800701DC#0057"
+
+cheat136_desc = "選關ヴァリアブル?フォーメーション"
+cheat136_handler = "0"
+cheat136_code = "800701DC#0058"
+
+cheat137_desc = "選關ガラスの王国"
+cheat137_handler = "0"
+cheat137_code = "800701DC#0059"
+
+cheat138_desc = "選關ダカールの日"
+cheat138_handler = "0"
+cheat138_code = "800701DC#005A"
+
+cheat139_desc = "選關王国崩壊"
+cheat139_handler = "0"
+cheat139_code = "800701DC#005B"
+
+cheat140_desc = "選關バイブレーション"
+cheat140_handler = "0"
+cheat140_code = "800701DC#005C"
+
+cheat141_desc = "選關思い出を未来へ"
+cheat141_handler = "0"
+cheat141_code = "800701DC#005D"
+
+cheat142_desc = "選關ソロモン攻略戦"
+cheat142_handler = "0"
+cheat142_code = "800701DC#005E"
+
+cheat143_desc = "選關女たちの戦場"
+cheat143_handler = "0"
+cheat143_code = "800701DC#005F"
+
+cheat144_desc = "選關駆け抜ける嵐"
+cheat144_handler = "0"
+cheat144_code = "800701DC#0060"
+
+cheat145_desc = "選關あしゅら男爵、散る"
+cheat145_handler = "0"
+cheat145_code = "800701DC#0061"
+
+cheat146_desc = "選關魔神皇帝"
+cheat146_handler = "0"
+cheat146_code = "800701DC#0062"
+
+cheat147_desc = "選關クロス?ファイト"
+cheat147_handler = "0"
+cheat147_code = "800701DC#0063"
+
+cheat148_desc = "選關異邦人たちの帰還"
+cheat148_handler = "0"
+cheat148_code = "800701DC#0064"
+
+cheat149_desc = "選關地球を賭けた一騎討ち"
+cheat149_handler = "0"
+cheat149_code = "800701DC#0065"
+
+cheat150_desc = "選關ジオンの幻像"
+cheat150_handler = "0"
+cheat150_code = "800701DC#0066"
+
+cheat151_desc = "選關父の胸の中で泣け！"
+cheat151_handler = "0"
+cheat151_code = "800701DC#0067"
+
+cheat152_desc = "選關女王リリーナ"
+cheat152_handler = "0"
+cheat152_code = "800701DC#0068"
+
+cheat153_desc = "選關天使の輪の上で"
+cheat153_handler = "0"
+cheat153_code = "800701DC#0069"
+
+cheat154_desc = "選關神の国への誘惑"
+cheat154_handler = "0"
+cheat154_code = "800701DC#006A"
+
+cheat155_desc = "選關クロス?ターゲット"
+cheat155_handler = "0"
+cheat155_code = "800701DC#006B"
+
+cheat156_desc = "選關戦士、再び…"
+cheat156_handler = "0"
+cheat156_code = "800701DC#006C"
+
+cheat157_desc = "選關勝者と敗者に祝福を"
+cheat157_handler = "0"
+cheat157_code = "800701DC#006D"
+
+cheat158_desc = "選關せめて、人間らしく"
+cheat158_handler = "0"
+cheat158_code = "800701DC#006E"
+
+cheat159_desc = "選關最後のシ者"
+cheat159_handler = "0"
+cheat159_code = "800701DC#006F"
+
+cheat160_desc = "選關運命の矢"
+cheat160_handler = "0"
+cheat160_code = "800701DC#0070"
+
+cheat161_desc = "選關愛?おぼえていますか"
+cheat161_handler = "0"
+cheat161_code = "800701DC#0071"
+
+cheat162_desc = "選關Ａｉｒ"
+cheat162_handler = "0"
+cheat162_code = "800701DC#0072"
+
+cheat163_desc = "選關ギア?オブ?デスティニー"
+cheat163_handler = "0"
+cheat163_code = "800701DC#0073"
+
+cheat164_desc = "選關絶望の宴は今から始まる"
+cheat164_handler = "0"
+cheat164_code = "800701DC#0074"
+
+cheat165_desc = "選關この星の明日のために"
+cheat165_handler = "0"
+cheat165_code = "800701DC#0075"
+
+cheat166_desc = "選關終わりの始まり"
+cheat166_handler = "0"
+cheat166_code = "800701DC#0076"
+
+cheat167_desc = "選關人類に逃げ場なし"
+cheat167_handler = "0"
+cheat167_code = "800701DC#0077"
+
+cheat168_desc = "選關鋼の魂"
+cheat168_handler = "0"
+cheat168_code = "800701DC#0078"
+
+cheat169_desc = "選關欠番"
+cheat169_handler = "0"
+cheat169_code = "800701DC#0079"
+
+cheat170_desc = "選關全能なる?#123;停者"
+cheat170_handler = "0"
+cheat170_code = "800701DC#007A"
+
+cheat171_desc = "選關シト新生"
+cheat171_handler = "0"
+cheat171_code = "800701DC#007B"
+
+cheat172_desc = "選關ＥＯＴの島"
+cheat172_handler = "0"
+cheat172_code = "800701DC#007C"
+
+cheat173_desc = "選關心に念じる見えない刃"
+cheat173_handler = "0"
+cheat173_code = "800701DC#007D"
+
+cheat174_desc = "選關黒い超闘士"
+cheat174_handler = "0"
+cheat174_code = "800701DC#007E"
+
+cheat175_desc = "選關誰がために鐘は踊る"
+cheat175_handler = "0"
+cheat175_code = "800701DC#007F"
+
+cheat176_desc = "選關進路に光明、退路に絶望"
+cheat176_handler = "0"
+cheat176_code = "800701DC#0080"
+
+cheat177_desc = "選關精霊?#123;依"
+cheat177_handler = "0"
+cheat177_code = "800701DC#0081"
+
+cheat178_desc = "修改机体第一机晓击霸MKIII"
+cheat178_handler = "0"
+cheat178_code = "8016A9C4#019D"
+
+cheat179_desc = "修改机体第一机晓击霸MKIII（MA）"
+cheat179_handler = "0"
+cheat179_code = "8016A9C4#019F"
+
+cheat180_desc = "修改机体第一机晓击霸MKIII（MS）"
+cheat180_handler = "0"
+cheat180_code = "8016A9C4#019E"
+
+cheat181_desc = "修改机体第一机古轮卡斯特改"
+cheat181_handler = "0"
+cheat181_code = "8016A9C4#01DB"
+
+cheat182_desc = "修改机体第一机晓击霸EX"
+cheat182_handler = "0"
+cheat182_code = "8016A9C4#01DA"
+
+cheat183_desc = "修改机体第一机黑天使"
+cheat183_handler = "0"
+cheat183_code = "8016A9C4#01C0"
+
+cheat184_desc = "修改机体第一机晓击霸MKII（UP）"
+cheat184_handler = "0"
+cheat184_code = "8016A9C4#019C"
+
+cheat185_desc = "修改机体第一机WIN-ZERO"
+cheat185_handler = "0"
+cheat185_code = "8016A9C4#0095;3016A9CB#0022;3016A9CD#0096"
+
+cheat186_desc = "修改机体第一机恶魔高达"
+cheat186_handler = "0"
+cheat186_code = "8016A9C4#00A4;3016A9CB#0022;3016A9CD#00A5"
+
+cheat187_desc = "修改机体第一机塞巴斯特"
+cheat187_handler = "0"
+cheat187_code = "8016A9C4#01B8;3016A9CB#0022;3016A9CD#01B9"
+
+cheat188_desc = "修改机体第一机YF19"
+cheat188_handler = "0"
+cheat188_code = "8016A9C4#01C8;3016A9CB#0022;3016A9CD#01C6"
+
+cheat189_desc = "修改机体第一机NEW高达HWS"
+cheat189_handler = "0"
+cheat189_code = "8016A9C4#0065"
+
+cheat190_desc = "修改机体第一机Z2"
+cheat190_handler = "0"
+cheat190_code = "8016A9C4#0024;3016A9CB#0022;3016A9CD#0025"
+
+cheat191_desc = "修改机体第一机GP02"
+cheat191_handler = "0"
+cheat191_code = "8016A9C4#0018"
+
+cheat192_desc = "修改机体第一机帝王万能侠"
+cheat192_handler = "0"
+cheat192_code = "8016A9C4#00CE"
+
+cheat193_desc = "修改机体第一机多鲁基斯III"
+cheat193_handler = "0"
+cheat193_code = "8016A9C4#00A8"
+
+cheat194_desc = "修改机体第一机EVA量产机(羽翼化)"
+cheat194_handler = "0"
+cheat194_code = "8016A9C4#014E"
+
+cheat195_desc = "修改机体第一机宇宙怪兽.合体型"
+cheat195_handler = "0"
+cheat195_code = "8016A9C4#015C"
+
+cheat196_desc = "修改机体第一机最终BOSS(紫)"
+cheat196_handler = "0"
+cheat196_code = "8016A9C4#01BC"
+
+cheat197_desc = "修改机体第一机最终BOSS"
+cheat197_handler = "0"
+cheat197_code = "8016A9C4#01BE"
+
+cheat198_desc = "修改机体第二机第三使徒"
+cheat198_handler = "0"
+cheat198_code = "8016A9E4#0142"
+
+cheat199_desc = "修改机体第二机第四使徒"
+cheat199_handler = "0"
+cheat199_code = "8016A9E4#0143"
+
+cheat200_desc = "修改机体第二机第五使徒"
+cheat200_handler = "0"
+cheat200_code = "8016A9E4#0144"
+
+cheat201_desc = "修改机体第二机第六使徒"
+cheat201_handler = "0"
+cheat201_code = "8016A9E4#0145"
+
+cheat202_desc = "修改机体第二机第七使徒"
+cheat202_handler = "0"
+cheat202_code = "8016A9E4#0146"
+
+cheat203_desc = "修改机体第二机第九使徒"
+cheat203_handler = "0"
+cheat203_code = "8016A9E4#0149"
+
+cheat204_desc = "修改机体第二机第十三使徒"
+cheat204_handler = "0"
+cheat204_code = "8016A9E4#014A"
+
+cheat205_desc = "修改机体第二机第十四使徒"
+cheat205_handler = "0"
+cheat205_code = "8016A9E4#014B"
+
+cheat206_desc = "修改机体第二机第十七使徒"
+cheat206_handler = "0"
+cheat206_code = "8016A9E4#014C"
+
+cheat207_desc = "修改机体第二机EVA量产机(羽翼化)"
+cheat207_handler = "0"
+cheat207_code = "8016A9E4#014E"
+
+cheat208_desc = "修改机体第二机黑天使"
+cheat208_handler = "0"
+cheat208_code = "8016A9E4#01C0"
+
+cheat209_desc = "修改机体第二机宇宙怪兽.合体型"
+cheat209_handler = "0"
+cheat209_code = "8016A9E4#015C"
+
+cheat210_desc = "修改机体第二机最终BOSS(紫)"
+cheat210_handler = "0"
+cheat210_code = "8016A9E4#01BC"
+
+cheat211_desc = "修改机体第二机最终BOSS"
+cheat211_handler = "0"
+cheat211_code = "8016A9E4#01BE"
+
+cheat212_desc = "修改机体第三机第三使徒"
+cheat212_handler = "0"
+cheat212_code = "8016AA04#0142"
+
+cheat213_desc = "修改机体第三机第四使徒"
+cheat213_handler = "0"
+cheat213_code = "8016AA04#0143"
+
+cheat214_desc = "修改机体第三机第五使徒"
+cheat214_handler = "0"
+cheat214_code = "8016AA04#0144"
+
+cheat215_desc = "修改机体第三机第六使徒"
+cheat215_handler = "0"
+cheat215_code = "8016AA04#0145"
+
+cheat216_desc = "修改机体第三机第七使徒"
+cheat216_handler = "0"
+cheat216_code = "8016AA04#0146"
+
+cheat217_desc = "修改机体第三机第九使徒"
+cheat217_handler = "0"
+cheat217_code = "8016AA04#0149"
+
+cheat218_desc = "修改机体第三机第十三使徒"
+cheat218_handler = "0"
+cheat218_code = "8016AA04#014A"
+
+cheat219_desc = "修改机体第三机第十四使徒"
+cheat219_handler = "0"
+cheat219_code = "8016AA04#014B"
+
+cheat220_desc = "修改机体第三机第十七使徒"
+cheat220_handler = "0"
+cheat220_code = "8016AA04#014C"
+
+cheat221_desc = "修改机体第三机EVA量产机(羽翼化)"
+cheat221_handler = "0"
+cheat221_code = "8016AA04#014E"
+
+cheat222_desc = "修改机体第三机黑天使"
+cheat222_handler = "0"
+cheat222_code = "8016AA04#01C0"
+
+cheat223_desc = "修改机体第三机宇宙怪兽.合体型"
+cheat223_handler = "0"
+cheat223_code = "8016AA04#015C"
+
+cheat224_desc = "修改机体第三机最终BOSS(紫)"
+cheat224_handler = "0"
+cheat224_code = "8016AA04#01BC"
+
+cheat225_desc = "修改机体第三机最终BOSS"
+cheat225_handler = "0"
+cheat225_code = "8016AA04#01BE"
+
+cheat226_desc = "修改机体第四机创世神"
+cheat226_handler = "0"
+cheat226_code = "8016AA24#01BC"
+
+cheat227_desc = "修改机体第四机黑天使"
+cheat227_handler = "0"
+cheat227_code = "8016AA24#01C0"
+
+cheat228_desc = "修改机体第四机第四使徒"
+cheat228_handler = "0"
+cheat228_code = "8016AA24#0143"
+
+cheat229_desc = "修改机体第四机第五使徒"
+cheat229_handler = "0"
+cheat229_code = "8016AA24#0144"
+
+cheat230_desc = "修改机体第四机第六使徒"
+cheat230_handler = "0"
+cheat230_code = "8016AA24#0145"
+
+cheat231_desc = "修改机体第四机第七使徒"
+cheat231_handler = "0"
+cheat231_code = "8016AA24#0146"
+
+cheat232_desc = "修改机体第四机第九使徒"
+cheat232_handler = "0"
+cheat232_code = "8016AA24#0149"
+
+cheat233_desc = "修改机体第四机第十三使徒"
+cheat233_handler = "0"
+cheat233_code = "8016AA24#014A"
+
+cheat234_desc = "修改机体第四机第十四使徒"
+cheat234_handler = "0"
+cheat234_code = "8016AA24#014B"
+
+cheat235_desc = "修改机体第四机第十七使徒"
+cheat235_handler = "0"
+cheat235_code = "8016AA24#014C"
+
+cheat236_desc = "修改机体第四机EVA量产机(羽翼化)"
+cheat236_handler = "0"
+cheat236_code = "8016AA24#014E"
+
+cheat237_desc = "修改机体第四机宇宙怪兽.合体型"
+cheat237_handler = "0"
+cheat237_code = "8016AA24#015C"
+
+cheat238_desc = "修改机体第四机最终BOSS(紫)"
+cheat238_handler = "0"
+cheat238_code = "8016AA24#01BC"
+
+cheat239_desc = "修改机体第四机最终BOSS"
+cheat239_handler = "0"
+cheat239_code = "8016AA24#01BE"
+
+cheat240_desc = "修改机体第五机第三使徒"
+cheat240_handler = "0"
+cheat240_code = "8016AA44#0142"
+
+cheat241_desc = "修改机体第五机第四使徒"
+cheat241_handler = "0"
+cheat241_code = "8016AA44#0143"
+
+cheat242_desc = "修改机体第五机第五使徒"
+cheat242_handler = "0"
+cheat242_code = "8016AA44#0144"
+
+cheat243_desc = "修改机体第五机第六使徒"
+cheat243_handler = "0"
+cheat243_code = "8016AA44#0145"
+
+cheat244_desc = "修改机体第五机第七使徒"
+cheat244_handler = "0"
+cheat244_code = "8016AA44#0146"
+
+cheat245_desc = "修改机体第五机第九使徒"
+cheat245_handler = "0"
+cheat245_code = "8016AA44#0149"
+
+cheat246_desc = "修改机体第五机第十三使徒"
+cheat246_handler = "0"
+cheat246_code = "8016AA44#014A"
+
+cheat247_desc = "修改机体第五机第十四使徒"
+cheat247_handler = "0"
+cheat247_code = "8016AA44#014B"
+
+cheat248_desc = "修改机体第五机第十七使徒"
+cheat248_handler = "0"
+cheat248_code = "8016AA44#014C"
+
+cheat249_desc = "修改机体第五机EVA量产机(羽翼化)"
+cheat249_handler = "0"
+cheat249_code = "8016AA44#014E"
+
+cheat250_desc = "修改机体第五机黑天使"
+cheat250_handler = "0"
+cheat250_code = "8016AA44#01C0"
+
+cheat251_desc = "修改机体第五机宇宙怪兽.合体型"
+cheat251_handler = "0"
+cheat251_code = "8016AA44#015C"
+
+cheat252_desc = "修改机体第五机最终BOSS(紫)"
+cheat252_handler = "0"
+cheat252_code = "8016AA244#01BC"
+
+cheat253_desc = "修改机体第五机最终BOSS"
+cheat253_handler = "0"
+cheat253_code = "8016AA44#01BE"
+
+cheat254_desc = "修改第一人物凌波丽"
+cheat254_handler = "0"
+cheat254_code = "8016A2CC#00E5"
+
+cheat255_desc = "修改第一人物渚"
+cheat255_handler = "0"
+cheat255_code = "8016A2CC#00E9"
+
+cheat256_desc = "修改第二人物渚"
+cheat256_handler = "0"
+cheat256_code = "8016A2D8#00E9"
+
+cheat257_desc = "修改第二人物凌波丽"
+cheat257_handler = "0"
+cheat257_code = "8016A2D8#00E5"
+
+cheat258_desc = "修改第四人物创世神"
+cheat258_handler = "0"
+cheat258_code = "8016A2F0#0129"
+
+cheat259_desc = "修改第四人物黑天使"
+cheat259_handler = "0"
+cheat259_code = "8016A2F0#0128"
+
+cheat260_desc = "修改第五人物创世神"
+cheat260_handler = "0"
+cheat260_code = "8016A2FC#0129"
+
+cheat261_desc = "修改第五人物黑天使"
+cheat261_handler = "0"
+cheat261_code = "8016A2FC#0128"
+
+cheats = 262

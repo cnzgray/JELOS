@@ -1,0 +1,741 @@
+cheat0_desc = "第1人经验on"
+cheat0_handler = "2"
+cheat0_code = "02BD59,63"
+
+cheat1_desc = "第2人经验on"
+cheat1_handler = "2"
+cheat1_code = "02BDa2,63"
+
+cheat2_desc = "第3人经验on"
+cheat2_handler = "2"
+cheat2_code = "02BDe8,63"
+
+cheat3_desc = "第1人行动状态on"
+cheat3_handler = "2"
+cheat3_code = "02BD5c,00"
+
+cheat4_desc = "第1人最大HPon"
+cheat4_handler = "2"
+cheat4_code = "02BD62,63"
+
+cheat5_desc = "第1人当前HPon"
+cheat5_handler = "2"
+cheat5_code = "02BD63,63"
+
+cheat6_desc = "第1人力on"
+cheat6_handler = "2"
+cheat6_code = "02BD64,7F"
+
+cheat7_desc = "第1人技on"
+cheat7_handler = "2"
+cheat7_code = "02BD65,7F"
+
+cheat8_desc = "第1人守备on"
+cheat8_handler = "2"
+cheat8_code = "02BD66,7F"
+
+cheat9_desc = "第1人速on"
+cheat9_handler = "2"
+cheat9_code = "02BD67,7F"
+
+cheat10_desc = "第1人幸运on"
+cheat10_handler = "2"
+cheat10_code = "02BD68,7F"
+
+cheat11_desc = "第1人魔防on"
+cheat11_handler = "2"
+cheat11_code = "02BD69,7F"
+
+cheat12_desc = "第1人体格on"
+cheat12_handler = "2"
+cheat12_code = "02BD6E,7f"
+
+cheat13_desc = "第1人同行on"
+cheat13_handler = "2"
+cheat13_code = "02BD58,10"
+
+cheat14_desc = "第1人移动on"
+cheat14_handler = "2"
+cheat14_code = "02BD6d,12"
+
+cheat15_desc = "第1人第一装备铁剑"
+cheat15_handler = "2"
+cheat15_code = "02BD6E,01"
+
+cheat16_desc = "第1人第一装备轻剑"
+cheat16_handler = "2"
+cheat16_code = "02BD6E,02"
+
+cheat17_desc = "第1人第一装备钢剑"
+cheat17_handler = "2"
+cheat17_code = "02BD6E,03"
+
+cheat18_desc = "第1人第一装备银剑"
+cheat18_handler = "2"
+cheat18_code = "02BD6E,04"
+
+cheat19_desc = "第1人第一装备铁的大剑"
+cheat19_handler = "2"
+cheat19_code = "02BD6E,05"
+
+cheat20_desc = "第1人第一装备钢的大剑"
+cheat20_handler = "2"
+cheat20_code = "02BD6E,06"
+
+cheat21_desc = "第1人第一装备银的大剑"
+cheat21_handler = "2"
+cheat21_code = "02BD6E,07"
+
+cheat22_desc = "第1人第一装备毒剑"
+cheat22_handler = "2"
+cheat22_code = "02BD6E,08"
+
+cheat23_desc = "第1人第一装备毒大剑"
+cheat23_handler = "2"
+cheat23_code = ""
+
+cheat24_desc = "第1人第一装备星级剑（重甲、骑兵特效）"
+cheat24_handler = "2"
+cheat24_code = "02BD6E,0A"
+
+cheat25_desc = "第1人第一装备勇者剑"
+cheat25_handler = "2"
+cheat25_code = "02BD6E,0B"
+
+cheat26_desc = "第1人第一装备倭刀"
+cheat26_handler = "2"
+cheat26_code = "02BD6E,0C"
+
+cheat27_desc = "第1人第一装备必杀剑"
+cheat27_handler = "2"
+cheat27_code = "02BD6E,0D"
+
+cheat28_desc = "第1人第一装备斩铁剑"
+cheat28_handler = "2"
+cheat28_code = "02BD6E,0E"
+
+cheat29_desc = "第1人第一装备龙剑"
+cheat29_handler = "2"
+cheat29_code = "02BD6E,0F"
+
+cheat30_desc = "第1人第一装备光魔法剑"
+cheat30_handler = "2"
+cheat30_code = "02BD6E,10"
+
+cheat31_desc = "第1人第一装备暗魔法剑"
+cheat31_handler = "2"
+cheat31_code = "02BD6E,11"
+
+cheat32_desc = "第1人第一装备破枪剑"
+cheat32_handler = "2"
+cheat32_code = "02BD6E,12"
+
+cheat33_desc = "第1人第一装备长柄刀"
+cheat33_handler = "2"
+cheat33_code = "02BD6E,13"
+
+cheat34_desc = "第1人第一装备铁枪"
+cheat34_handler = "2"
+cheat34_code = "02BD6E,14"
+
+cheat35_desc = "第1人第一装备轻枪"
+cheat35_handler = "2"
+cheat35_code = "02BD6E,15"
+
+cheat36_desc = "第1人第一装备钢枪"
+cheat36_handler = "2"
+cheat36_code = "02BD6E,16"
+
+cheat37_desc = "第1人第一装备银枪"
+cheat37_handler = "2"
+cheat37_code = "02BD6E,17"
+
+cheat38_desc = "第1人第一装备毒枪"
+cheat38_handler = "2"
+cheat38_code = "02BD6E,18"
+
+cheat39_desc = "第1人第一装备勇者枪"
+cheat39_handler = "2"
+cheat39_code = "02BD6E,19"
+
+cheat40_desc = "第1人第一装备必杀枪"
+cheat40_handler = "2"
+cheat40_code = "02BD6E,1a"
+
+cheat41_desc = "第1人第一装备杀骑士枪"
+cheat41_handler = "2"
+cheat41_code = "02BD6E,1b"
+
+cheat42_desc = "第1人第一装备短枪"
+cheat42_handler = "2"
+cheat42_code = "02BD6E,1c"
+
+cheat43_desc = "第1人第一装备斗剑枪（投掷）"
+cheat43_handler = "2"
+cheat43_code = "02BD6E,1d"
+
+cheat44_desc = "第1人第一装备破斧枪"
+cheat44_handler = "2"
+cheat44_code = "02BD6E,1e"
+
+cheat45_desc = "第1人第一装备铁斧"
+cheat45_handler = "2"
+cheat45_code = "02BD6E,1f"
+
+cheat46_desc = "第1人第一装备钢斧"
+cheat46_handler = "2"
+cheat46_code = "02BD6E,20"
+
+cheat47_desc = "第1人第一装备银斧"
+cheat47_handler = "2"
+cheat47_code = "02BD6E,21"
+
+cheat48_desc = "第1人第一装备毒斧"
+cheat48_handler = "2"
+cheat48_code = "02BD6E,22"
+
+cheat49_desc = "第1人第一装备勇者斧"
+cheat49_handler = "2"
+cheat49_code = "02BD6E,23"
+
+cheat50_desc = "第1人第一装备必杀斧"
+cheat50_handler = "2"
+cheat50_code = "02BD6E,24"
+
+cheat51_desc = "第1人第一装备杀骑士斧"
+cheat51_handler = "2"
+cheat51_code = "02BD6E,25"
+
+cheat52_desc = "第1人第一装备破甲棰"
+cheat52_handler = "2"
+cheat52_code = "02BD6E,26"
+
+cheat53_desc = "第1人第一装备恶魔斧"
+cheat53_handler = "2"
+cheat53_code = "02BD6E,27"
+
+cheat54_desc = "第1人第一装备短斧"
+cheat54_handler = "2"
+cheat54_code = "02BD6E,28"
+
+cheat55_desc = "第1人第一装备投掷斧"
+cheat55_handler = "2"
+cheat55_code = "02BD6E,29"
+
+cheat56_desc = "第1人第一装备破剑斧"
+cheat56_handler = "2"
+cheat56_code = "02BD6E,2a"
+
+cheat57_desc = "第1人第一装备斩剑斧（杀持剑步兵）"
+cheat57_handler = "2"
+cheat57_code = "02BD6E,2b"
+
+cheat58_desc = "第1人第一装备铁弓"
+cheat58_handler = "2"
+cheat58_code = "02BD6E,2c"
+
+cheat59_desc = "第1人第一装备钢弓"
+cheat59_handler = "2"
+cheat59_code = "02BD6E,2d"
+
+cheat60_desc = "第1人第一装备银弓"
+cheat60_handler = "2"
+cheat60_code = "02BD6E,2e"
+
+cheat61_desc = "第1人第一装备毒弓"
+cheat61_handler = "2"
+cheat61_code = "02BD6E,2f"
+
+cheat62_desc = "第1人第一装备必杀弓"
+cheat62_handler = "2"
+cheat62_code = "02BD6E,30"
+
+cheat63_desc = "第1人第一装备勇者弓"
+cheat63_handler = "2"
+cheat63_code = "02BD6E,31"
+
+cheat64_desc = "第1人第一装备短弓"
+cheat64_handler = "2"
+cheat64_code = "02BD6E,32"
+
+cheat65_desc = "第1人第一装备长弓"
+cheat65_handler = "2"
+cheat65_code = "02BD6E,33"
+
+cheat66_desc = "第1人第一装备发射台"
+cheat66_handler = "2"
+cheat66_code = "02BD6E,34"
+
+cheat67_desc = "第1人第一装备强力发射台"
+cheat67_handler = "2"
+cheat67_code = "02BD6E,35"
+
+cheat68_desc = "第1人第一装备必杀发射台"
+cheat68_handler = "2"
+cheat68_code = "02BD6E,36"
+
+cheat69_desc = "第1人第一装备火球术"
+cheat69_handler = "2"
+cheat69_code = "02BD6E,37"
+
+cheat70_desc = "第1人第一装备闪电术"
+cheat70_handler = "2"
+cheat70_code = "02BD6E,38"
+
+cheat71_desc = "第1人第一装备火墙术"
+cheat71_handler = "2"
+cheat71_code = "02BD6E,39"
+
+cheat72_desc = "第1人第一装备雷射术（3-10）"
+cheat72_handler = "2"
+cheat72_code = "02BD6E,3a"
+
+cheat73_desc = "第1人第一装备风刃术"
+cheat73_handler = "2"
+cheat73_code = "02BD6E,3b"
+
+cheat74_desc = "第1人第一装备业火之理（神将器）"
+cheat74_handler = "2"
+cheat74_code = "02BD6E,3c"
+
+cheat75_desc = "第1人第一装备狂风术"
+cheat75_handler = "2"
+cheat75_code = "02BD6E,3d"
+
+cheat76_desc = "第1人第一装备闪光术"
+cheat76_handler = "2"
+cheat76_code = "02BD6E,3e"
+
+cheat77_desc = "第1人第一装备极光术"
+cheat77_handler = "2"
+cheat77_code = "02BD6E,3f"
+
+cheat78_desc = "第1人第一装备圣光术"
+cheat78_handler = "2"
+cheat78_code = "02BD6E,40"
+
+cheat79_desc = "第1人第一装备パージ"
+cheat79_handler = "2"
+cheat79_code = "02BD6E,41"
+
+cheat80_desc = "第1人第一装备アルジローレ"
+cheat80_handler = "2"
+cheat80_code = "02BD6E,42"
+
+cheat81_desc = "第1人第一装备ルーチェ"
+cheat81_handler = "2"
+cheat81_code = "02BD6E,43"
+
+cheat82_desc = "第1人第一装备ミィル"
+cheat82_handler = "2"
+cheat82_code = "02BD6E,44"
+
+cheat83_desc = "第1人第一装备ルナ"
+cheat83_handler = "2"
+cheat83_code = "02BD6E,45"
+
+cheat84_desc = "第1人第一装备リザイア(HP吸收)"
+cheat84_handler = "2"
+cheat84_code = "02BD6E,46"
+
+cheat85_desc = "第1人第一装备イクリブス(HP半分 3-10)"
+cheat85_handler = "2"
+cheat85_code = "02BD6E,47"
+
+cheat86_desc = "第1人第一装备ノスフェラート(A)"
+cheat86_handler = "2"
+cheat86_code = "02BD6E,48"
+
+cheat87_desc = "第1人第一装备ゲスペンスト(S)"
+cheat87_handler = "2"
+cheat87_code = "02BD6E,49"
+
+cheat88_desc = "第1人第一装备ライブ"
+cheat88_handler = "2"
+cheat88_code = "02BD6E,4a"
+
+cheat89_desc = "第1人第一装备HP大恢复杖"
+cheat89_handler = "2"
+cheat89_code = "02BD6E,4b"
+
+cheat90_desc = "第1人第一装备HP全恢复杖"
+cheat90_handler = "2"
+cheat90_code = "02BD6E,4c"
+
+cheat91_desc = "第1人第一装备HP远程恢复杖"
+cheat91_handler = "2"
+cheat91_code = "02BD6E,4d"
+
+cheat92_desc = "第1人第一装备HP范围恢复杖(射程是1-魔力/2)"
+cheat92_handler = "2"
+cheat92_code = "02BD6E,4e"
+
+cheat93_desc = "第1人第一装备状态恢复杖"
+cheat93_handler = "2"
+cheat93_code = "02BD6E,4f"
+
+cheat94_desc = "第1人第一装备魔封杖"
+cheat94_handler = "2"
+cheat94_code = "02BD6E,50"
+
+cheat95_desc = "第1人第一装备催眠杖"
+cheat95_handler = "2"
+cheat95_code = "02BD6E,51"
+
+cheat96_desc = "第1人第一装备混乱杖"
+cheat96_handler = "2"
+cheat96_code = "02BD6E,52"
+
+cheat97_desc = "第1人第一装备传送杖"
+cheat97_handler = "2"
+cheat97_code = "02BD6E,53"
+
+cheat98_desc = "第1人第一装备召回杖"
+cheat98_handler = "2"
+cheat98_code = "02BD6E,54"
+
+cheat99_desc = "第1人第一装备光明杖"
+cheat99_handler = "2"
+cheat99_code = "02BD6E,55"
+
+cheat100_desc = "第1人第一装备修复杖"
+cheat100_handler = "2"
+cheat100_code = "02BD6E,56"
+
+cheat101_desc = "第1人第一装备开锁杖"
+cheat101_handler = "2"
+cheat101_code = "02BD6E,57"
+
+cheat102_desc = "第1人第一装备提升魔防"
+cheat102_handler = "2"
+cheat102_code = "02BD6E,58"
+
+cheat103_desc = "第1人第一装备龙斧"
+cheat103_handler = "2"
+cheat103_code = "02BD6E,59"
+
+cheat104_desc = "第1人第一装备天使的衣(HP+7)"
+cheat104_handler = "2"
+cheat104_code = "02BD6E,5a"
+
+cheat105_desc = "第1人第一装备能量戒指(力+2)"
+cheat105_handler = "2"
+cheat105_code = "02BD6E,5b"
+
+cheat106_desc = "第1人第一装备密传之书(技+2)"
+cheat106_handler = "2"
+cheat106_code = "02BD6E,5c"
+
+cheat107_desc = "第1人第一装备飞马的羽(速+2)"
+cheat107_handler = "2"
+cheat107_code = "02BD6E,5d"
+
+cheat108_desc = "第1人第一装备女神之像(运+2)"
+cheat108_handler = "2"
+cheat108_code = "02BD6E,5e"
+
+cheat109_desc = "第1人第一装备龙盾(防+2)"
+cheat109_handler = "2"
+cheat109_code = "02BD6E,5f"
+
+cheat110_desc = "第1人第一装备魔法项链(魔防+2)"
+cheat110_handler = "2"
+cheat110_code = "02BD6E,60"
+
+cheat111_desc = "第1人第一装备靴子(移动+2)"
+cheat111_handler = "2"
+cheat111_code = "02BD6E,61"
+
+cheat112_desc = "第1人第一装备体格戒指(体格+2)"
+cheat112_handler = "2"
+cheat112_code = "02BD6E,62"
+
+cheat113_desc = "第1人第一装备英雄之证"
+cheat113_handler = "2"
+cheat113_code = "02BD6E,63"
+
+cheat114_desc = "第1人第一装备骑士勋章"
+cheat114_handler = "2"
+cheat114_code = "02BD6E,64"
+
+cheat115_desc = "第1人第一装备结晶的弓"
+cheat115_handler = "2"
+cheat115_code = "02BD6E,65"
+
+cheat116_desc = "第1人第一装备天空之鞭"
+cheat116_handler = "2"
+cheat116_code = "02BD6E,66"
+
+cheat117_desc = "第1人第一装备指导的戒指"
+cheat117_handler = "2"
+cheat117_code = "02BD6E,67"
+
+cheat118_desc = "第1人第一装备宝箱之匙"
+cheat118_handler = "2"
+cheat118_code = "02BD6E,68"
+
+cheat119_desc = "第1人第一装备开门之匙"
+cheat119_handler = "2"
+cheat119_code = "02BD6E,69"
+
+cheat120_desc = "第1人第一装备盗贼之匙"
+cheat120_handler = "2"
+cheat120_code = "02BD6E,6a"
+
+cheat121_desc = "第1人第一装备恢复药"
+cheat121_handler = "2"
+cheat121_code = "02BD6E,6b"
+
+cheat122_desc = "第1人第一装备完全恢复药"
+cheat122_handler = "2"
+cheat122_code = "02BD6E,6c"
+
+cheat123_desc = "第1人第一装备圣水"
+cheat123_handler = "2"
+cheat123_code = "02BD6E,6d"
+
+cheat124_desc = "第1人第一装备解毒药"
+cheat124_handler = "2"
+cheat124_code = "02BD6E,6e"
+
+cheat125_desc = "第1人第一装备火炬"
+cheat125_handler = "2"
+cheat125_code = "02BD6E,6f"
+
+cheat126_desc = "第1人第一装备翼神的守护"
+cheat126_handler = "2"
+cheat126_code = "02BD6E,70"
+
+cheat127_desc = "第1人第一装备会员卡"
+cheat127_handler = "2"
+cheat127_code = "02BD6E,71"
+
+cheat128_desc = "第1人第一装备贵宾卡"
+cheat128_handler = "2"
+cheat128_code = "02BD6E,72"
+
+cheat129_desc = "第1人第一装备白の宝玉"
+cheat129_handler = "2"
+cheat129_code = "02BD6E,73"
+
+cheat130_desc = "第1人第一装备青の宝玉"
+cheat130_handler = "2"
+cheat130_code = "02BD6E,74"
+
+cheat131_desc = "第1人第一装备赤の宝玉"
+cheat131_handler = "2"
+cheat131_code = "02BD6E,75"
+
+cheat132_desc = "第1人第一装备ゴールド"
+cheat132_handler = "2"
+cheat132_code = "02BD6E,76"
+
+cheat133_desc = "第1人第一装备スレンドスピア"
+cheat133_handler = "2"
+cheat133_code = "02BD6E,77"
+
+cheat134_desc = "第1人第一装备たからのかぎ"
+cheat134_handler = "2"
+cheat134_code = "02BD6E,78"
+
+cheat135_desc = "第1人第一装备フレイボム"
+cheat135_handler = "2"
+cheat135_code = "02BD6E,79"
+
+cheat136_desc = "第1人第一装备光の结界"
+cheat136_handler = "2"
+cheat136_code = "02BD6E,7a"
+
+cheat137_desc = "第1人第一装备必杀的守护"
+cheat137_handler = "2"
+cheat137_code = "02BD6E,7b"
+
+cheat138_desc = "第1人第一装备炎精灵的力"
+cheat138_handler = "2"
+cheat138_code = "02BD6E,7C"
+
+cheat139_desc = "第1人第一装备水精灵的守护"
+cheat139_handler = "2"
+cheat139_code = "02BD6E,7D"
+
+cheat140_desc = "第1人第一装备雷精灵的怒"
+cheat140_handler = "2"
+cheat140_code = "02BD6E,7E"
+
+cheat141_desc = "第1人第一装备风精灵的祈祷"
+cheat141_handler = "2"
+cheat141_code = "02BD6E,7F"
+
+cheat142_desc = "第1人第一装备军师的剑"
+cheat142_handler = "2"
+cheat142_code = "02BD6E,80"
+
+cheat143_desc = "第1人第一装备军师的枪"
+cheat143_handler = "2"
+cheat143_code = "02BD6E,81"
+
+cheat144_desc = "第1人第一装备军师的斧"
+cheat144_handler = "2"
+cheat144_code = "02BD6E,82"
+
+cheat145_desc = "第1人第一装备军师的弓"
+cheat145_handler = "2"
+cheat145_code = "02BD6E,83"
+
+cheat146_desc = "第1人第一装备烈火的剑(神将器)"
+cheat146_handler = "2"
+cheat146_code = "02BD6E,84"
+
+cheat147_desc = "第1人第一装备天雷的斧(神将器)"
+cheat147_handler = "2"
+cheat147_code = "02BD6E,85"
+
+cheat148_desc = "第1人第一装备至高的光(神将器)"
+cheat148_handler = "2"
+cheat148_code = "02BD6E,86"
+
+cheat149_desc = "第1人第一装备地的刻印(Level10以上的下位职业使用)"
+cheat149_handler = "2"
+cheat149_code = "02BD6E,87"
+
+cheat150_desc = "第1人第一装备アフアのしずく"
+cheat150_handler = "2"
+cheat150_code = "02BD6E,88"
+
+cheat151_desc = "第1人第一装备天的刻印"
+cheat151_handler = "2"
+cheat151_code = "02BD6E,89"
+
+cheat152_desc = "第1人第一装备军师的书"
+cheat152_handler = "2"
+cheat152_code = "02BD6E,8A"
+
+cheat153_desc = "第1人第一装备暗的契约书(Level10以上的盗贼使用)"
+cheat153_handler = "2"
+cheat153_code = "02BD6E,8B"
+
+cheat154_desc = "第1人第一装备超级杀龙剑"
+cheat154_handler = "2"
+cheat154_code = "02BD6E,8C"
+
+cheat155_desc = "第1人第一装备圆杀斧"
+cheat155_handler = "2"
+cheat155_code = "02BD6E,8D"
+
+cheat156_desc = "第1人第一装备究级暗魔法"
+cheat156_handler = "2"
+cheat156_code = "02BD6E,8E"
+
+cheat157_desc = "第1人第一装备灼热的气息"
+cheat157_handler = "2"
+cheat157_code = "02BD6E,8F"
+
+cheat158_desc = "第1人第一装备王者之剑"
+cheat158_handler = "2"
+cheat158_code = "02BD6E,90"
+
+cheat159_desc = "第1人第一装备王者之枪"
+cheat159_handler = "2"
+cheat159_code = "02BD6E,91"
+
+cheat160_desc = "第1人第一装备王者之斧"
+cheat160_handler = "2"
+cheat160_code = "02BD6E,92"
+
+cheat161_desc = "第1人第一装备王者之弓"
+cheat161_handler = "2"
+cheat161_code = "02BD6E,93"
+
+cheat162_desc = "第1人第一装备破甲枪"
+cheat162_handler = "2"
+cheat162_code = "02BD6E,94"
+
+cheat163_desc = "第1人第一装备投掷枪"
+cheat163_handler = "2"
+cheat163_code = "02BD6E,95"
+
+cheat164_desc = "第1人第一装备霸者之证"
+cheat164_handler = "2"
+cheat164_code = "02BD6E,96"
+
+cheat165_desc = "第1人第一装备风魔法剑"
+cheat165_handler = "2"
+cheat165_code = "02BD6E,99"
+
+cheat166_desc = "第一装备耐久on"
+cheat166_handler = "2"
+cheat166_code = "02BD6F,20"
+
+cheat167_desc = "第1人剑级别son"
+cheat167_handler = "2"
+cheat167_code = "02BD78,ff"
+
+cheat168_desc = "第1人枪级别son"
+cheat168_handler = "2"
+cheat168_code = "02BD79,ff"
+
+cheat169_desc = "第1人斧级别son"
+cheat169_handler = "2"
+cheat169_code = "02BD7A,ff"
+
+cheat170_desc = "第1人弓级别son"
+cheat170_handler = "2"
+cheat170_code = "02BD7B,ff"
+
+cheat171_desc = "第1人杖级别son"
+cheat171_handler = "2"
+cheat171_code = "02BD7C,ff"
+
+cheat172_desc = "第1人理级别son"
+cheat172_handler = "2"
+cheat172_code = "02BD7D,ff"
+
+cheat173_desc = "第1人光级别son"
+cheat173_handler = "2"
+cheat173_code = "02BD7E,ff"
+
+cheat174_desc = "第1人暗级别son"
+cheat174_handler = "2"
+cheat174_code = "02BD7E,ff"
+
+cheat175_desc = "道具1"
+cheat175_handler = "2"
+cheat175_code = "2BD6E,1"
+
+cheat176_desc = "道具2"
+cheat176_handler = "2"
+cheat176_code = "2BD70,1"
+
+cheat177_desc = "道具3"
+cheat177_handler = "2"
+cheat177_code = "2BD72,1"
+
+cheat178_desc = "道具4"
+cheat178_handler = "2"
+cheat178_code = "2BD74,1"
+
+cheat179_desc = "道具5"
+cheat179_handler = "2"
+cheat179_code = "2BD76,1"
+
+cheat180_desc = "道具一数量"
+cheat180_handler = "2"
+cheat180_code = "2BD6F,63"
+
+cheat181_desc = "道具二数量"
+cheat181_handler = "2"
+cheat181_code = "2BD71,63"
+
+cheat182_desc = "道具三数量"
+cheat182_handler = "2"
+cheat182_code = "2BD73,63"
+
+cheat183_desc = "道具四数量"
+cheat183_handler = "2"
+cheat183_code = "2BD75,63"
+
+cheat184_desc = "道具五数量"
+cheat184_handler = "2"
+cheat184_code = "2BD77,63"
+
+cheats = 185

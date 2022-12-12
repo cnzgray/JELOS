@@ -1,0 +1,105 @@
+cheat0_desc = "敵一擊必死"
+cheat0_handler = "0"
+cheat0_code = "8001229A#A633"
+
+cheat1_desc = "主角体力值"
+cheat1_handler = "0"
+cheat1_code = "800C51AC#0090"
+
+cheat2_desc = "彈药數不減"
+cheat2_handler = "0"
+cheat2_code = "80040654#0000"
+
+cheat3_desc = "随身第一道具格的武器OFF(成功后请解锁)"
+cheat3_handler = "0"
+cheat3_code = "0000,0"
+
+cheat4_desc = "随身第一道具格的武器火箭筒(强)"
+cheat4_handler = "0"
+cheat4_code = "800C8784#FF0A"
+
+cheat5_desc = "随身第一道具格的武器密林枪(强)"
+cheat5_handler = "0"
+cheat5_code = "800C8784#FF05"
+
+cheat6_desc = "随身第一道具格的武器火燄器(中)"
+cheat6_handler = "0"
+cheat6_code = "800C8784#FF04"
+
+cheat7_desc = "随身第一道具格的武器火弹枪(中)"
+cheat7_handler = "0"
+cheat7_code = "800C8784#FF07"
+
+cheat8_desc = "随身第一道具格的武器硫酸枪(强)"
+cheat8_handler = "0"
+cheat8_code = "800C8784#FF08"
+
+cheat9_desc = "随身第一道具格的武器烟雾枪(中)"
+cheat9_handler = "0"
+cheat9_code = "800C8784#FF09"
+
+cheat10_desc = "随身第一道具格的武器手枪-A(弱)"
+cheat10_handler = "0"
+cheat10_code = "800C8784#FF02"
+
+cheat11_desc = "随身第一道具格的武器手枪-B(弱)"
+cheat11_handler = "0"
+cheat11_code = "800C8784#FF06"
+
+cheat12_desc = "随身第一道具格的武器小  刀(弱)"
+cheat12_handler = "0"
+cheat12_code = "800C8784#FF01"
+
+cheat13_desc = "随身第一道具格的武器沙  枪(中)"
+cheat13_handler = "0"
+cheat13_code = "800C8784#FF03"
+
+cheat14_desc = "道具箱中的道具及物品与武器OFF(成功后请解锁)"
+cheat14_handler = "0"
+cheat14_code = "0000,0"
+
+cheat15_desc = "道具箱中的道具及物品与武器火箭筒(强)"
+cheat15_handler = "0"
+cheat15_code = "800C8782#FF0A"
+
+cheat16_desc = "道具箱中的道具及物品与武器密林枪(强)"
+cheat16_handler = "0"
+cheat16_code = "800C8782#FF05"
+
+cheat17_desc = "道具箱中的道具及物品与武器火燄器(中)"
+cheat17_handler = "0"
+cheat17_code = "800C8782#FF04"
+
+cheat18_desc = "道具箱中的道具及物品与武器火弹枪(中)"
+cheat18_handler = "0"
+cheat18_code = "800C8782#FF07"
+
+cheat19_desc = "道具箱中的道具及物品与武器硫酸枪(强)"
+cheat19_handler = "0"
+cheat19_code = "800C8782#FF08"
+
+cheat20_desc = "道具箱中的道具及物品与武器烟雾枪(中)"
+cheat20_handler = "0"
+cheat20_code = "800C8782#FF09"
+
+cheat21_desc = "道具箱中的道具及物品与武器手枪-A(弱)"
+cheat21_handler = "0"
+cheat21_code = "800C8782#FF02"
+
+cheat22_desc = "道具箱中的道具及物品与武器手枪-B(弱)"
+cheat22_handler = "0"
+cheat22_code = "800C8782#FF06"
+
+cheat23_desc = "道具箱中的道具及物品与武器小  刀(弱)"
+cheat23_handler = "0"
+cheat23_code = "800C8782#FF01"
+
+cheat24_desc = "道具箱中的道具及物品与武器沙  枪(中)"
+cheat24_handler = "0"
+cheat24_code = "800C8782#FF03"
+
+cheat25_desc = "道具箱中的道具及物品与武器所有道具与物品"
+cheat25_handler = "0"
+cheat25_code = "B0300002#00000001,800C8724#631C"
+
+cheats = 26

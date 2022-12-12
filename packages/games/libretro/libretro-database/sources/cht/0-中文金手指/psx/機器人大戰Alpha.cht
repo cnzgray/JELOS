@@ -1,0 +1,69 @@
+cheat0_desc = "每機可裝4個強化"
+cheat0_handler = "0"
+cheat0_code = "D00EE070#0039;800EE070#0004;D00EE072#93A2;800EE072#2402;D00AE59A#14E0;800AE59A#1400"
+
+cheat1_desc = "快速升級"
+cheat1_handler = "0"
+cheat1_code = "D00B49D4#0002;800B49D4#0001;D00B49D6#1040;800B49D6#1440"
+
+cheat2_desc = "格鬥射擊EXP一回攻擊上升"
+cheat2_handler = "0"
+cheat2_code = "D00C2026#9242;800C2024#0106;D00C204A#9242;800C2048#0106"
+
+cheat3_desc = "搭乘限制解除"
+cheat3_handler = "0"
+cheat3_code = "D00B2086#1040;800B2086#1400;D00B1C76#1040;800B1C76#1400"
+
+cheat4_desc = "換裝零件V2ガンダム"
+cheat4_handler = "0"
+cheat4_code = "3016C320#0003"
+
+cheat5_desc = "換裝零件ヒュッケバインmk-III"
+cheat5_handler = "0"
+cheat5_code = "3016C321#0003"
+
+cheat6_desc = "主角精神"手加減"(29話專用)"
+cheat6_handler = "0"
+cheat6_code = "3015B460#04"
+
+cheat7_desc = "$$9999999"
+cheat7_handler = "0"
+cheat7_code = "9006E8F0#98967F"
+
+cheat8_desc = "擊墜1機擊墜數999"
+cheat8_handler = "0"
+cheat8_code = "D00C1FFC#03E8;900C1FF8#240403E7"
+
+cheat9_desc = "全強化道具99個"
+cheat9_handler = "0"
+cheat9_code = "9016C2DC#03FFFFFF;B01A0001#00000000,3016C2E0#0063"
+
+cheat10_desc = "SP不減"
+cheat10_handler = "0"
+cheat10_code = "D00B4F22#1440;800B4F32#0040;D00B4FFE#0440;800B4FFA#0040;D00B4F8E#1622;800B4FA2#0040;D00B4FFC#0440;800B4FFA#0040;D00B4F7A#0072;800B4F7A#0060"
+
+cheat11_desc = "EN不減"
+cheat11_handler = "0"
+cheat11_code = "D00B7392#0065;800B7392#0060"
+
+cheat12_desc = "彈數不減"
+cheat12_handler = "0"
+cheat12_code = "D00B73D8#FFFF;800B73D8#0000"
+
+cheat13_desc = "氣力150"
+cheat13_handler = "0"
+cheat13_code = "D00B4DC0#0005;800B4DC0#0001"
+
+cheat14_desc = "機體圖鑑100%"
+cheat14_handler = "0"
+cheat14_code = "B01C0002#00000000,8009E790#FFFF"
+
+cheat15_desc = "人物圖鑑100%"
+cheat15_handler = "0"
+cheat15_code = "B0160002#00000000,8009E7D0#FFFF"
+
+cheat16_desc = "動畫圖鑑100%"
+cheat16_handler = "0"
+cheat16_code = "8005C4D0#FFFF"
+
+cheats = 17

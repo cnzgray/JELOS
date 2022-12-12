@@ -1,0 +1,105 @@
+cheat0_desc = "对方耐久度"
+cheat0_handler = "2"
+cheat0_code = "21D7A,0,0"
+
+cheat1_desc = "我方耐久度"
+cheat1_handler = "2"
+cheat1_code = "21D74,10,27;21D78,10,27"
+
+cheat2_desc = "能力"
+cheat2_handler = "2"
+cheat2_code = "1F73C,10,27;1F750,10,27;1F758,63"
+
+cheat3_desc = "战斗时我方卡片（前排第一张）无"
+cheat3_handler = "2"
+cheat3_code = "21A30,0"
+
+cheat4_desc = "战斗时我方卡片（前排第一张）卡片(卡片为1-1023之间的数)"
+cheat4_handler = "2"
+cheat4_code = "21A30,1"
+
+cheat5_desc = "战斗时我方卡片（前排第二张）无"
+cheat5_handler = "2"
+cheat5_code = "21A38,0"
+
+cheat6_desc = "战斗时我方卡片（前排第二张）卡片(卡片为1-1023之间的数)"
+cheat6_handler = "2"
+cheat6_code = "21A38,1"
+
+cheat7_desc = "战斗时我方卡片（前排第三张）无"
+cheat7_handler = "2"
+cheat7_code = "21A40,0"
+
+cheat8_desc = "战斗时我方卡片（前排第三张）卡片(卡片为1-1023之间的数)"
+cheat8_handler = "2"
+cheat8_code = "21A40,1"
+
+cheat9_desc = "战斗时我方卡片（前排第四张）无"
+cheat9_handler = "2"
+cheat9_code = "21A48,0"
+
+cheat10_desc = "战斗时我方卡片（前排第四张）卡片(卡片为1-1023之间的数)"
+cheat10_handler = "2"
+cheat10_code = "21A48,1"
+
+cheat11_desc = "战斗时我方卡片（前排第五张）无"
+cheat11_handler = "2"
+cheat11_code = "21A50,0"
+
+cheat12_desc = "战斗时我方卡片（前排第五张）卡片(卡片为1-1023之间的数)"
+cheat12_handler = "2"
+cheat12_code = "21A50,1"
+
+cheat13_desc = "战斗时我方卡片（后排第一张）无"
+cheat13_handler = "2"
+cheat13_code = "21A58,0"
+
+cheat14_desc = "战斗时我方卡片（后排第一张）卡片(卡片为1-1023之间的数)"
+cheat14_handler = "2"
+cheat14_code = "21A58,1"
+
+cheat15_desc = "战斗时我方卡片（后排第一张）Text"
+cheat15_handler = "2"
+cheat15_code = "卡片为1-1023之间的数"
+
+cheat16_desc = "战斗时我方卡片（后排第二张）无"
+cheat16_handler = "2"
+cheat16_code = "21A60,0"
+
+cheat17_desc = "战斗时我方卡片（后排第二张）卡片(卡片为1-1023之间的数)"
+cheat17_handler = "2"
+cheat17_code = "21A60,1"
+
+cheat18_desc = "战斗时我方卡片（后排第三张）无"
+cheat18_handler = "2"
+cheat18_code = "21A68,0"
+
+cheat19_desc = "战斗时我方卡片（后排第三张）卡片(卡片为1-1023之间的数)"
+cheat19_handler = "2"
+cheat19_code = "21A68,1"
+
+cheat20_desc = "战斗时我方卡片（后排第四张）无"
+cheat20_handler = "2"
+cheat20_code = "21A70,0"
+
+cheat21_desc = "战斗时我方卡片（后排第四张）卡片(卡片为1-1023之间的数)"
+cheat21_handler = "2"
+cheat21_code = "21A70,1"
+
+cheat22_desc = "战斗时我方卡片（后排第五张）无"
+cheat22_handler = "2"
+cheat22_code = "21A78,0"
+
+cheat23_desc = "战斗时我方卡片（后排第五张）卡片(卡片为1-1023之间的数)"
+cheat23_handler = "2"
+cheat23_code = "21A78,1"
+
+cheat24_desc = "战斗时敌方无法使用卡片"
+cheat24_handler = "2"
+cheat24_code = "219E0,0;219E8,0;219F0,0;219F8,0;21A00,0;21A08,0;21A10,0;"
+
+cheat25_desc = "我方战斗时使用五张神卡"
+cheat25_handler = "2"
+cheat25_code = "21A30,EA;21A38,EE;21A40,F0;21A48,B9,02;21A50,BA,02"
+
+cheats = 26

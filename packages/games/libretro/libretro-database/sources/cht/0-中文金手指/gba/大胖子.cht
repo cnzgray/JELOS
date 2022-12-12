@@ -1,0 +1,37 @@
+cheat0_desc = "钱"
+cheat0_handler = "2"
+cheat0_code = "1F54,40,42,F"
+
+cheat1_desc = "マーシュ（主角）HP"
+cheat1_handler = "2"
+cheat1_code = "00098,E7,3;0009a,E7,3"
+
+cheat2_desc = "マーシュMP"
+cheat2_handler = "2"
+cheat2_code = "0009c,E7,3;0009e,E7,3"
+
+cheat3_desc = "主角EXP(打一次升一级)"
+cheat3_handler = "2"
+cheat3_code = "0008a,63"
+
+cheat4_desc = "マーシュJP"
+cheat4_handler = "2"
+cheat4_code = "00156,63"
+
+cheat5_desc = "マーシュ武器こうげき"
+cheat5_handler = "2"
+cheat5_code = "000a0,E7,3"
+
+cheat6_desc = "マーシュ武器ぼうぎょ"
+cheat6_handler = "2"
+cheat6_code = "000A2,E7,3"
+
+cheat7_desc = "マーシュ魔法のつよさ"
+cheat7_handler = "2"
+cheat7_code = "000A4,E7,3"
+
+cheat8_desc = "マーシュ魔法ぼうぎょ"
+cheat8_handler = "2"
+cheat8_code = "000A6,E7,3"
+
+cheats = 9

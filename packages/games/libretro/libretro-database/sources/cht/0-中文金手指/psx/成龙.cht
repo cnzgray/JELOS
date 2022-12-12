@@ -1,0 +1,21 @@
+cheat0_desc = "Infinite Lives"
+cheat0_handler = "0"
+cheat0_code = "80129230#000A"
+
+cheat1_desc = "Infinite Health"
+cheat1_handler = "0"
+cheat1_code = "80128FB4#00C8"
+
+cheat2_desc = "All Red & Gold DragonS"
+cheat2_handler = "0"
+cheat2_code = "B00F0010#00000000;300E70E1#000A"
+
+cheat3_desc = "All Paths"
+cheat3_handler = "0"
+cheat3_code = "B00E0010#00000000;800E70E4#FFFF"
+
+cheat4_desc = "自动补血"
+cheat4_handler = "0"
+cheat4_code = "D0128FB4#0000;80128FB4#00C8"
+
+cheats = 5

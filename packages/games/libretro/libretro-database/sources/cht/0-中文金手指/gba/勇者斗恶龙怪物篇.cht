@@ -1,0 +1,4061 @@
+cheat0_desc = "M0NEY"
+cheat0_handler = "2"
+cheat0_code = "4507C,7F,96,98"
+
+cheat1_desc = "马车载重上限MAX"
+cheat1_handler = "2"
+cheat1_code = "1534C,63;02015364,63;1537C,63"
+
+cheat2_desc = "LV"
+cheat2_handler = "2"
+cheat2_code = "143CF,63"
+
+cheat3_desc = "EXP"
+cheat3_handler = "2"
+cheat3_code = "143DC,7F,96,98"
+
+cheat4_desc = "+99"
+cheat4_handler = "2"
+cheat4_code = "143D1,63"
+
+cheat5_desc = "HP"
+cheat5_handler = "2"
+cheat5_code = "143E2,E7,3"
+
+cheat6_desc = "MP"
+cheat6_handler = "2"
+cheat6_code = "143E6,E7,3"
+
+cheat7_desc = "能力1"
+cheat7_handler = "2"
+cheat7_code = "143E8,E7,3"
+
+cheat8_desc = "能力2"
+cheat8_handler = "2"
+cheat8_code = "143EA,E7,3"
+
+cheat9_desc = "能力3"
+cheat9_handler = "2"
+cheat9_code = "143EC,E7,3"
+
+cheat10_desc = "能力4"
+cheat10_handler = "2"
+cheat10_code = "143EE,E7,3"
+
+cheat11_desc = "怪兽种类(按图鉴编号)1"
+cheat11_handler = "2"
+cheat11_code = "143C2,1,0"
+
+cheat12_desc = "怪兽种类(按图鉴编号)2"
+cheat12_handler = "2"
+cheat12_code = "143C2,2,0"
+
+cheat13_desc = "怪兽种类(按图鉴编号)3"
+cheat13_handler = "2"
+cheat13_code = "143C2,3,0"
+
+cheat14_desc = "怪兽种类(按图鉴编号)4"
+cheat14_handler = "2"
+cheat14_code = "143C2,4,0"
+
+cheat15_desc = "怪兽种类(按图鉴编号)5"
+cheat15_handler = "2"
+cheat15_code = "143C2,5,0"
+
+cheat16_desc = "怪兽种类(按图鉴编号)6"
+cheat16_handler = "2"
+cheat16_code = "143C2,6,0"
+
+cheat17_desc = "怪兽种类(按图鉴编号)7"
+cheat17_handler = "2"
+cheat17_code = "143C2,7,0"
+
+cheat18_desc = "怪兽种类(按图鉴编号)8"
+cheat18_handler = "2"
+cheat18_code = "143C2,8,0"
+
+cheat19_desc = "怪兽种类(按图鉴编号)9"
+cheat19_handler = "2"
+cheat19_code = "143C2,9,0"
+
+cheat20_desc = "怪兽种类(按图鉴编号)10"
+cheat20_handler = "2"
+cheat20_code = "143C2,A,0"
+
+cheat21_desc = "怪兽种类(按图鉴编号)11"
+cheat21_handler = "2"
+cheat21_code = "143C2,B,0"
+
+cheat22_desc = "怪兽种类(按图鉴编号)12"
+cheat22_handler = "2"
+cheat22_code = "143C2,C,0"
+
+cheat23_desc = "怪兽种类(按图鉴编号)13"
+cheat23_handler = "2"
+cheat23_code = "143C2,D,0"
+
+cheat24_desc = "怪兽种类(按图鉴编号)14"
+cheat24_handler = "2"
+cheat24_code = "143C2,E,0"
+
+cheat25_desc = "怪兽种类(按图鉴编号)15"
+cheat25_handler = "2"
+cheat25_code = "143C2,F,0"
+
+cheat26_desc = "怪兽种类(按图鉴编号)16"
+cheat26_handler = "2"
+cheat26_code = "143C2,10,0"
+
+cheat27_desc = "怪兽种类(按图鉴编号)17"
+cheat27_handler = "2"
+cheat27_code = "143C2,11,0"
+
+cheat28_desc = "怪兽种类(按图鉴编号)18"
+cheat28_handler = "2"
+cheat28_code = "143C2,12,0"
+
+cheat29_desc = "怪兽种类(按图鉴编号)19"
+cheat29_handler = "2"
+cheat29_code = "143C2,13,0"
+
+cheat30_desc = "怪兽种类(按图鉴编号)20"
+cheat30_handler = "2"
+cheat30_code = "143C2,14,0"
+
+cheat31_desc = "怪兽种类(按图鉴编号)21"
+cheat31_handler = "2"
+cheat31_code = "143C2,16,0"
+
+cheat32_desc = "怪兽种类(按图鉴编号)22"
+cheat32_handler = "2"
+cheat32_code = "143C2,17,0"
+
+cheat33_desc = "怪兽种类(按图鉴编号)23"
+cheat33_handler = "2"
+cheat33_code = "143C2,18,0"
+
+cheat34_desc = "怪兽种类(按图鉴编号)24"
+cheat34_handler = "2"
+cheat34_code = "143C2,19,0"
+
+cheat35_desc = "怪兽种类(按图鉴编号)25"
+cheat35_handler = "2"
+cheat35_code = "143C2,15,0"
+
+cheat36_desc = "怪兽种类(按图鉴编号)26"
+cheat36_handler = "2"
+cheat36_code = "143C2,30,0"
+
+cheat37_desc = "怪兽种类(按图鉴编号)27"
+cheat37_handler = "2"
+cheat37_code = "143C2,31,0"
+
+cheat38_desc = "怪兽种类(按图鉴编号)28"
+cheat38_handler = "2"
+cheat38_code = "143C2,32,0"
+
+cheat39_desc = "怪兽种类(按图鉴编号)29"
+cheat39_handler = "2"
+cheat39_code = "143C2,33,0"
+
+cheat40_desc = "怪兽种类(按图鉴编号)30"
+cheat40_handler = "2"
+cheat40_code = "143C2,34,0"
+
+cheat41_desc = "怪兽种类(按图鉴编号)31"
+cheat41_handler = "2"
+cheat41_code = "143C2,35,0"
+
+cheat42_desc = "怪兽种类(按图鉴编号)32"
+cheat42_handler = "2"
+cheat42_code = "143C2,36,0"
+
+cheat43_desc = "怪兽种类(按图鉴编号)33"
+cheat43_handler = "2"
+cheat43_code = "143C2,37,0"
+
+cheat44_desc = "怪兽种类(按图鉴编号)34"
+cheat44_handler = "2"
+cheat44_code = "143C2,38,0"
+
+cheat45_desc = "怪兽种类(按图鉴编号)35"
+cheat45_handler = "2"
+cheat45_code = "143C2,39,0"
+
+cheat46_desc = "怪兽种类(按图鉴编号)36"
+cheat46_handler = "2"
+cheat46_code = "143C2,3A,0"
+
+cheat47_desc = "怪兽种类(按图鉴编号)37"
+cheat47_handler = "2"
+cheat47_code = "143C2,3B,0"
+
+cheat48_desc = "怪兽种类(按图鉴编号)38"
+cheat48_handler = "2"
+cheat48_code = "143C2,3C,0"
+
+cheat49_desc = "怪兽种类(按图鉴编号)39"
+cheat49_handler = "2"
+cheat49_code = "143C2,3D,0"
+
+cheat50_desc = "怪兽种类(按图鉴编号)40"
+cheat50_handler = "2"
+cheat50_code = "143C2,3E,0"
+
+cheat51_desc = "怪兽种类(按图鉴编号)41"
+cheat51_handler = "2"
+cheat51_code = "143C2,3F,0"
+
+cheat52_desc = "怪兽种类(按图鉴编号)42"
+cheat52_handler = "2"
+cheat52_code = "143C2,40,0"
+
+cheat53_desc = "怪兽种类(按图鉴编号)43"
+cheat53_handler = "2"
+cheat53_code = "143C2,41,0"
+
+cheat54_desc = "怪兽种类(按图鉴编号)44"
+cheat54_handler = "2"
+cheat54_code = "143C2,42,0"
+
+cheat55_desc = "怪兽种类(按图鉴编号)45"
+cheat55_handler = "2"
+cheat55_code = "143C2,43,0"
+
+cheat56_desc = "怪兽种类(按图鉴编号)46"
+cheat56_handler = "2"
+cheat56_code = "143C2,44,0"
+
+cheat57_desc = "怪兽种类(按图鉴编号)47"
+cheat57_handler = "2"
+cheat57_code = "143C2,45,0"
+
+cheat58_desc = "怪兽种类(按图鉴编号)48"
+cheat58_handler = "2"
+cheat58_code = "143C2,46,0"
+
+cheat59_desc = "怪兽种类(按图鉴编号)49"
+cheat59_handler = "2"
+cheat59_code = "143C2,47,0"
+
+cheat60_desc = "怪兽种类(按图鉴编号)50"
+cheat60_handler = "2"
+cheat60_code = "143C2,48,0"
+
+cheat61_desc = "怪兽种类(按图鉴编号)51"
+cheat61_handler = "2"
+cheat61_code = "143C2,4A,0"
+
+cheat62_desc = "怪兽种类(按图鉴编号)52"
+cheat62_handler = "2"
+cheat62_code = "143C2,4B,0"
+
+cheat63_desc = "怪兽种类(按图鉴编号)53"
+cheat63_handler = "2"
+cheat63_code = "143C2,4C,0"
+
+cheat64_desc = "怪兽种类(按图鉴编号)54"
+cheat64_handler = "2"
+cheat64_code = "143C2,4D,0"
+
+cheat65_desc = "怪兽种类(按图鉴编号)55"
+cheat65_handler = "2"
+cheat65_code = "143C2,49,0"
+
+cheat66_desc = "怪兽种类(按图鉴编号)56"
+cheat66_handler = "2"
+cheat66_code = "143C2,60,0"
+
+cheat67_desc = "怪兽种类(按图鉴编号)57"
+cheat67_handler = "2"
+cheat67_code = "143C2,61,0"
+
+cheat68_desc = "怪兽种类(按图鉴编号)58"
+cheat68_handler = "2"
+cheat68_code = "143C2,62,0"
+
+cheat69_desc = "怪兽种类(按图鉴编号)59"
+cheat69_handler = "2"
+cheat69_code = "143C2,63,0"
+
+cheat70_desc = "怪兽种类(按图鉴编号)60"
+cheat70_handler = "2"
+cheat70_code = "143C2,64,0"
+
+cheat71_desc = "怪兽种类(按图鉴编号)61"
+cheat71_handler = "2"
+cheat71_code = "143C2,65,0"
+
+cheat72_desc = "怪兽种类(按图鉴编号)62"
+cheat72_handler = "2"
+cheat72_code = "143C2,66,0"
+
+cheat73_desc = "怪兽种类(按图鉴编号)63"
+cheat73_handler = "2"
+cheat73_code = "143C2,67,0"
+
+cheat74_desc = "怪兽种类(按图鉴编号)64"
+cheat74_handler = "2"
+cheat74_code = "143C2,68,0"
+
+cheat75_desc = "怪兽种类(按图鉴编号)65"
+cheat75_handler = "2"
+cheat75_code = "143C2,69,0"
+
+cheat76_desc = "怪兽种类(按图鉴编号)66"
+cheat76_handler = "2"
+cheat76_code = "143C2,6A,0"
+
+cheat77_desc = "怪兽种类(按图鉴编号)67"
+cheat77_handler = "2"
+cheat77_code = "143C2,6B,0"
+
+cheat78_desc = "怪兽种类(按图鉴编号)68"
+cheat78_handler = "2"
+cheat78_code = "143C2,6C,0"
+
+cheat79_desc = "怪兽种类(按图鉴编号)69"
+cheat79_handler = "2"
+cheat79_code = "143C2,6D,0"
+
+cheat80_desc = "怪兽种类(按图鉴编号)70"
+cheat80_handler = "2"
+cheat80_code = "143C2,6E,0"
+
+cheat81_desc = "怪兽种类(按图鉴编号)71"
+cheat81_handler = "2"
+cheat81_code = "143C2,6F,0"
+
+cheat82_desc = "怪兽种类(按图鉴编号)72"
+cheat82_handler = "2"
+cheat82_code = "143C2,70,0"
+
+cheat83_desc = "怪兽种类(按图鉴编号)73"
+cheat83_handler = "2"
+cheat83_code = "143C2,71,0"
+
+cheat84_desc = "怪兽种类(按图鉴编号)74"
+cheat84_handler = "2"
+cheat84_code = "143C2,72,0"
+
+cheat85_desc = "怪兽种类(按图鉴编号)75"
+cheat85_handler = "2"
+cheat85_code = "143C2,73,0"
+
+cheat86_desc = "怪兽种类(按图鉴编号)76"
+cheat86_handler = "2"
+cheat86_code = "143C2,74,0"
+
+cheat87_desc = "怪兽种类(按图鉴编号)77"
+cheat87_handler = "2"
+cheat87_code = "143C2,75,0"
+
+cheat88_desc = "怪兽种类(按图鉴编号)78"
+cheat88_handler = "2"
+cheat88_code = "143C2,76,0"
+
+cheat89_desc = "怪兽种类(按图鉴编号)79"
+cheat89_handler = "2"
+cheat89_code = "143C2,77,0"
+
+cheat90_desc = "怪兽种类(按图鉴编号)80"
+cheat90_handler = "2"
+cheat90_code = "143C2,79,0"
+
+cheat91_desc = "怪兽种类(按图鉴编号)81"
+cheat91_handler = "2"
+cheat91_code = "143C2,7A,0"
+
+cheat92_desc = "怪兽种类(按图鉴编号)82"
+cheat92_handler = "2"
+cheat92_code = "143C2,7B,0"
+
+cheat93_desc = "怪兽种类(按图鉴编号)83"
+cheat93_handler = "2"
+cheat93_code = "143C2,7C,0"
+
+cheat94_desc = "怪兽种类(按图鉴编号)84"
+cheat94_handler = "2"
+cheat94_code = "143C2,7D,0"
+
+cheat95_desc = "怪兽种类(按图鉴编号)85"
+cheat95_handler = "2"
+cheat95_code = "143C2,78,0"
+
+cheat96_desc = "怪兽种类(按图鉴编号)86"
+cheat96_handler = "2"
+cheat96_code = "143C2,90,0"
+
+cheat97_desc = "怪兽种类(按图鉴编号)87"
+cheat97_handler = "2"
+cheat97_code = "143C2,91,0"
+
+cheat98_desc = "怪兽种类(按图鉴编号)88"
+cheat98_handler = "2"
+cheat98_code = "143C2,92,0"
+
+cheat99_desc = "怪兽种类(按图鉴编号)89"
+cheat99_handler = "2"
+cheat99_code = "143C2,93,0"
+
+cheat100_desc = "怪兽种类(按图鉴编号)90"
+cheat100_handler = "2"
+cheat100_code = "143C2,94,0"
+
+cheat101_desc = "怪兽种类(按图鉴编号)91"
+cheat101_handler = "2"
+cheat101_code = "143C2,95,0"
+
+cheat102_desc = "怪兽种类(按图鉴编号)92"
+cheat102_handler = "2"
+cheat102_code = "143C2,96,0"
+
+cheat103_desc = "怪兽种类(按图鉴编号)93"
+cheat103_handler = "2"
+cheat103_code = "143C2,97,0"
+
+cheat104_desc = "怪兽种类(按图鉴编号)94"
+cheat104_handler = "2"
+cheat104_code = "143C2,98,0"
+
+cheat105_desc = "怪兽种类(按图鉴编号)95"
+cheat105_handler = "2"
+cheat105_code = "143C2,99,0"
+
+cheat106_desc = "怪兽种类(按图鉴编号)96"
+cheat106_handler = "2"
+cheat106_code = "143C2,9A,0"
+
+cheat107_desc = "怪兽种类(按图鉴编号)97"
+cheat107_handler = "2"
+cheat107_code = "143C2,9B,0"
+
+cheat108_desc = "怪兽种类(按图鉴编号)98"
+cheat108_handler = "2"
+cheat108_code = "143C2,9C,0"
+
+cheat109_desc = "怪兽种类(按图鉴编号)99"
+cheat109_handler = "2"
+cheat109_code = "143C2,9D,0"
+
+cheat110_desc = "怪兽种类(按图鉴编号)100"
+cheat110_handler = "2"
+cheat110_code = "143C2,9E,0"
+
+cheat111_desc = "怪兽种类(按图鉴编号)101"
+cheat111_handler = "2"
+cheat111_code = "143C2,9f,0"
+
+cheat112_desc = "怪兽种类(按图鉴编号)102"
+cheat112_handler = "2"
+cheat112_code = "143C2,A0,0"
+
+cheat113_desc = "怪兽种类(按图鉴编号)013"
+cheat113_handler = "2"
+cheat113_code = "143C2,A1,0"
+
+cheat114_desc = "怪兽种类(按图鉴编号)104"
+cheat114_handler = "2"
+cheat114_code = "143C2,A2,0"
+
+cheat115_desc = "怪兽种类(按图鉴编号)105"
+cheat115_handler = "2"
+cheat115_code = "143C2,A3,0"
+
+cheat116_desc = "怪兽种类(按图鉴编号)106"
+cheat116_handler = "2"
+cheat116_code = "143C2,A4,0"
+
+cheat117_desc = "怪兽种类(按图鉴编号)107"
+cheat117_handler = "2"
+cheat117_code = "143C2,A5,0"
+
+cheat118_desc = "怪兽种类(按图鉴编号)108"
+cheat118_handler = "2"
+cheat118_code = "143C2,A6,0"
+
+cheat119_desc = "怪兽种类(按图鉴编号)109"
+cheat119_handler = "2"
+cheat119_code = "143C2,A7,0"
+
+cheat120_desc = "怪兽种类(按图鉴编号)110"
+cheat120_handler = "2"
+cheat120_code = "143C2,A8,0"
+
+cheat121_desc = "怪兽种类(按图鉴编号)111"
+cheat121_handler = "2"
+cheat121_code = "143C2,A9,0"
+
+cheat122_desc = "怪兽种类(按图鉴编号)112"
+cheat122_handler = "2"
+cheat122_code = "143C2,AB,0"
+
+cheat123_desc = "怪兽种类(按图鉴编号)113"
+cheat123_handler = "2"
+cheat123_code = "143C2,AC,0"
+
+cheat124_desc = "怪兽种类(按图鉴编号)114"
+cheat124_handler = "2"
+cheat124_code = "143C2,AA,0"
+
+cheat125_desc = "怪兽种类(按图鉴编号)115"
+cheat125_handler = "2"
+cheat125_code = "143C2,C0,0"
+
+cheat126_desc = "怪兽种类(按图鉴编号)116"
+cheat126_handler = "2"
+cheat126_code = "143C2,C1,0"
+
+cheat127_desc = "怪兽种类(按图鉴编号)117"
+cheat127_handler = "2"
+cheat127_code = "143C2,C2,0"
+
+cheat128_desc = "怪兽种类(按图鉴编号)118"
+cheat128_handler = "2"
+cheat128_code = "143C2,C3,0"
+
+cheat129_desc = "怪兽种类(按图鉴编号)119"
+cheat129_handler = "2"
+cheat129_code = "143C2,C4,0"
+
+cheat130_desc = "怪兽种类(按图鉴编号)120"
+cheat130_handler = "2"
+cheat130_code = "143C2,C5,0"
+
+cheat131_desc = "怪兽种类(按图鉴编号)121"
+cheat131_handler = "2"
+cheat131_code = "143C2,C6,0"
+
+cheat132_desc = "怪兽种类(按图鉴编号)122"
+cheat132_handler = "2"
+cheat132_code = "143C2,C7,0"
+
+cheat133_desc = "怪兽种类(按图鉴编号)123"
+cheat133_handler = "2"
+cheat133_code = "143C2,C8,0"
+
+cheat134_desc = "怪兽种类(按图鉴编号)124"
+cheat134_handler = "2"
+cheat134_code = "143C2,C9,0"
+
+cheat135_desc = "怪兽种类(按图鉴编号)125"
+cheat135_handler = "2"
+cheat135_code = "143C2,CA,0"
+
+cheat136_desc = "怪兽种类(按图鉴编号)126"
+cheat136_handler = "2"
+cheat136_code = "143C2,CB,0"
+
+cheat137_desc = "怪兽种类(按图鉴编号)127"
+cheat137_handler = "2"
+cheat137_code = "143C2,CC,0"
+
+cheat138_desc = "怪兽种类(按图鉴编号)128"
+cheat138_handler = "2"
+cheat138_code = "143C2,CD,0"
+
+cheat139_desc = "怪兽种类(按图鉴编号)129"
+cheat139_handler = "2"
+cheat139_code = "143C2,CE,0"
+
+cheat140_desc = "怪兽种类(按图鉴编号)130"
+cheat140_handler = "2"
+cheat140_code = "143C2,CF,0"
+
+cheat141_desc = "怪兽种类(按图鉴编号)131"
+cheat141_handler = "2"
+cheat141_code = "143C2,D0,0"
+
+cheat142_desc = "怪兽种类(按图鉴编号)132"
+cheat142_handler = "2"
+cheat142_code = "143C2,D1,0"
+
+cheat143_desc = "怪兽种类(按图鉴编号)133"
+cheat143_handler = "2"
+cheat143_code = "143C2,D2,0"
+
+cheat144_desc = "怪兽种类(按图鉴编号)134"
+cheat144_handler = "2"
+cheat144_code = "143C2,D3,0"
+
+cheat145_desc = "怪兽种类(按图鉴编号)135"
+cheat145_handler = "2"
+cheat145_code = "143C2,D4,0"
+
+cheat146_desc = "怪兽种类(按图鉴编号)136"
+cheat146_handler = "2"
+cheat146_code = "143C2,D5,0"
+
+cheat147_desc = "怪兽种类(按图鉴编号)137"
+cheat147_handler = "2"
+cheat147_code = "143C2,D6,0"
+
+cheat148_desc = "怪兽种类(按图鉴编号)138"
+cheat148_handler = "2"
+cheat148_code = "143C2,D7,0"
+
+cheat149_desc = "怪兽种类(按图鉴编号)139"
+cheat149_handler = "2"
+cheat149_code = "143C2,D8,0"
+
+cheat150_desc = "怪兽种类(按图鉴编号)140"
+cheat150_handler = "2"
+cheat150_code = "143C2,D9,0"
+
+cheat151_desc = "怪兽种类(按图鉴编号)141"
+cheat151_handler = "2"
+cheat151_code = "143C2,"
+
+cheat152_desc = "怪兽种类(按图鉴编号)142"
+cheat152_handler = "2"
+cheat152_code = "143C2,"
+
+cheat153_desc = "怪兽种类(按图鉴编号)143"
+cheat153_handler = "2"
+cheat153_code = "143C2,F0,0"
+
+cheat154_desc = "怪兽种类(按图鉴编号)144"
+cheat154_handler = "2"
+cheat154_code = "143C2,F1,0"
+
+cheat155_desc = "怪兽种类(按图鉴编号)145"
+cheat155_handler = "2"
+cheat155_code = "143C2,F2,0"
+
+cheat156_desc = "怪兽种类(按图鉴编号)146"
+cheat156_handler = "2"
+cheat156_code = "143C2,F3,0"
+
+cheat157_desc = "怪兽种类(按图鉴编号)147"
+cheat157_handler = "2"
+cheat157_code = "143C2,F4,0"
+
+cheat158_desc = "怪兽种类(按图鉴编号)148"
+cheat158_handler = "2"
+cheat158_code = "143C2,F5,0"
+
+cheat159_desc = "怪兽种类(按图鉴编号)149"
+cheat159_handler = "2"
+cheat159_code = "143C2,F6,0"
+
+cheat160_desc = "怪兽种类(按图鉴编号)150"
+cheat160_handler = "2"
+cheat160_code = "143C2,F7,0"
+
+cheat161_desc = "怪兽种类(按图鉴编号)151"
+cheat161_handler = "2"
+cheat161_code = "143C2,F8,0"
+
+cheat162_desc = "怪兽种类(按图鉴编号)152"
+cheat162_handler = "2"
+cheat162_code = "143C2,F9,0"
+
+cheat163_desc = "怪兽种类(按图鉴编号)153"
+cheat163_handler = "2"
+cheat163_code = "143C2,FA,0"
+
+cheat164_desc = "怪兽种类(按图鉴编号)154"
+cheat164_handler = "2"
+cheat164_code = "143C2,FB,0"
+
+cheat165_desc = "怪兽种类(按图鉴编号)155"
+cheat165_handler = "2"
+cheat165_code = "143C2,FC,0"
+
+cheat166_desc = "怪兽种类(按图鉴编号)156"
+cheat166_handler = "2"
+cheat166_code = "143C2,FD,0"
+
+cheat167_desc = "怪兽种类(按图鉴编号)157"
+cheat167_handler = "2"
+cheat167_code = "143C2,FE,0"
+
+cheat168_desc = "怪兽种类(按图鉴编号)158"
+cheat168_handler = "2"
+cheat168_code = "143C2,FF,0"
+
+cheat169_desc = "怪兽种类(按图鉴编号)159"
+cheat169_handler = "2"
+cheat169_code = "143C2,0,1"
+
+cheat170_desc = "怪兽种类(按图鉴编号)160"
+cheat170_handler = "2"
+cheat170_code = "143C2,1,1"
+
+cheat171_desc = "怪兽种类(按图鉴编号)161"
+cheat171_handler = "2"
+cheat171_code = "143C2,2,1"
+
+cheat172_desc = "怪兽种类(按图鉴编号)162"
+cheat172_handler = "2"
+cheat172_code = "143C2,3,1"
+
+cheat173_desc = "怪兽种类(按图鉴编号)163"
+cheat173_handler = "2"
+cheat173_code = "143C2,4,1"
+
+cheat174_desc = "怪兽种类(按图鉴编号)164"
+cheat174_handler = "2"
+cheat174_code = "143C2,5,1"
+
+cheat175_desc = "怪兽种类(按图鉴编号)165"
+cheat175_handler = "2"
+cheat175_code = "143C2,6,1"
+
+cheat176_desc = "怪兽种类(按图鉴编号)166"
+cheat176_handler = "2"
+cheat176_code = "143C2,7,1"
+
+cheat177_desc = "怪兽种类(按图鉴编号)167"
+cheat177_handler = "2"
+cheat177_code = "143C2,8,1"
+
+cheat178_desc = "怪兽种类(按图鉴编号)168"
+cheat178_handler = "2"
+cheat178_code = "143C2,A,1"
+
+cheat179_desc = "怪兽种类(按图鉴编号)169"
+cheat179_handler = "2"
+cheat179_code = "143C2,B,1"
+
+cheat180_desc = "怪兽种类(按图鉴编号)170"
+cheat180_handler = "2"
+cheat180_code = "143C2,C,1"
+
+cheat181_desc = "怪兽种类(按图鉴编号)171"
+cheat181_handler = "2"
+cheat181_code = "143C2,D,1"
+
+cheat182_desc = "怪兽种类(按图鉴编号)172"
+cheat182_handler = "2"
+cheat182_code = "143C2,9,1"
+
+cheat183_desc = "怪兽种类(按图鉴编号)173"
+cheat183_handler = "2"
+cheat183_code = "143C2,20,1"
+
+cheat184_desc = "怪兽种类(按图鉴编号)174"
+cheat184_handler = "2"
+cheat184_code = "143C2,21,1"
+
+cheat185_desc = "怪兽种类(按图鉴编号)175"
+cheat185_handler = "2"
+cheat185_code = "143C2,22,1"
+
+cheat186_desc = "怪兽种类(按图鉴编号)176"
+cheat186_handler = "2"
+cheat186_code = "143C2,26,1"
+
+cheat187_desc = "怪兽种类(按图鉴编号)177"
+cheat187_handler = "2"
+cheat187_code = "143C2,27,1"
+
+cheat188_desc = "怪兽种类(按图鉴编号)178"
+cheat188_handler = "2"
+cheat188_code = "143C2,28,1"
+
+cheat189_desc = "怪兽种类(按图鉴编号)179"
+cheat189_handler = "2"
+cheat189_code = "143C2,2C,1"
+
+cheat190_desc = "怪兽种类(按图鉴编号)180"
+cheat190_handler = "2"
+cheat190_code = "143C2,2D,1"
+
+cheat191_desc = "怪兽种类(按图鉴编号)181"
+cheat191_handler = "2"
+cheat191_code = "143C2,2E,1"
+
+cheat192_desc = "怪兽种类(按图鉴编号)182"
+cheat192_handler = "2"
+cheat192_code = "143C2,2F,1"
+
+cheat193_desc = "怪兽种类(按图鉴编号)183"
+cheat193_handler = "2"
+cheat193_code = "143C2,30,1"
+
+cheat194_desc = "怪兽种类(按图鉴编号)184"
+cheat194_handler = "2"
+cheat194_code = "143C2,31,1"
+
+cheat195_desc = "怪兽种类(按图鉴编号)185"
+cheat195_handler = "2"
+cheat195_code = "143C2,"
+
+cheat196_desc = "怪兽种类(按图鉴编号)186"
+cheat196_handler = "2"
+cheat196_code = "143C2,"
+
+cheat197_desc = "怪兽种类(按图鉴编号)187"
+cheat197_handler = "2"
+cheat197_code = "143C2,32,1"
+
+cheat198_desc = "怪兽种类(按图鉴编号)188"
+cheat198_handler = "2"
+cheat198_code = "143C2,33,1"
+
+cheat199_desc = "怪兽种类(按图鉴编号)189"
+cheat199_handler = "2"
+cheat199_code = "143C2,34,1"
+
+cheat200_desc = "怪兽种类(按图鉴编号)190"
+cheat200_handler = "2"
+cheat200_code = "143C2,35,1"
+
+cheat201_desc = "怪兽种类(按图鉴编号)191"
+cheat201_handler = "2"
+cheat201_code = "143C2,36,1"
+
+cheat202_desc = "怪兽种类(按图鉴编号)192"
+cheat202_handler = "2"
+cheat202_code = "143C2,37,1"
+
+cheat203_desc = "怪兽种类(按图鉴编号)193"
+cheat203_handler = "2"
+cheat203_code = "143C2,"
+
+cheat204_desc = "怪兽种类(按图鉴编号)194"
+cheat204_handler = "2"
+cheat204_code = "143C2,"
+
+cheat205_desc = "怪兽种类(按图鉴编号)195"
+cheat205_handler = "2"
+cheat205_code = "143C2,38,1"
+
+cheat206_desc = "怪兽种类(按图鉴编号)196"
+cheat206_handler = "2"
+cheat206_code = "143C2,39,1"
+
+cheat207_desc = "怪兽种类(按图鉴编号)197"
+cheat207_handler = "2"
+cheat207_code = "143C2,3A,1"
+
+cheat208_desc = "怪兽种类(按图鉴编号)198"
+cheat208_handler = "2"
+cheat208_code = "143C2,"
+
+cheat209_desc = "怪兽种类(按图鉴编号)199"
+cheat209_handler = "2"
+cheat209_code = "143C2,"
+
+cheat210_desc = "怪兽种类(按图鉴编号)200"
+cheat210_handler = "2"
+cheat210_code = "143C2,3B,1"
+
+cheat211_desc = "第一个特技メラ"
+cheat211_handler = "2"
+cheat211_code = "143F4,01"
+
+cheat212_desc = "第一个特技メラミ"
+cheat212_handler = "2"
+cheat212_code = "143F4,02"
+
+cheat213_desc = "第一个特技メラゾーマ"
+cheat213_handler = "2"
+cheat213_code = "143F4,03"
+
+cheat214_desc = "第一个特技ギラ"
+cheat214_handler = "2"
+cheat214_code = "143F4,04"
+
+cheat215_desc = "第一个特技ベギラマ"
+cheat215_handler = "2"
+cheat215_code = "143F4,05"
+
+cheat216_desc = "第一个特技ベギラゴン"
+cheat216_handler = "2"
+cheat216_code = "143F4,06"
+
+cheat217_desc = "第一个特技イオ"
+cheat217_handler = "2"
+cheat217_code = "143F4,07"
+
+cheat218_desc = "第一个特技イオラ"
+cheat218_handler = "2"
+cheat218_code = "143F4,08"
+
+cheat219_desc = "第一个特技イオナズン"
+cheat219_handler = "2"
+cheat219_code = "143F4,09"
+
+cheat220_desc = "第一个特技バギ"
+cheat220_handler = "2"
+cheat220_code = "143F4,0A"
+
+cheat221_desc = "第一个特技バギマ"
+cheat221_handler = "2"
+cheat221_code = "143F4,0B"
+
+cheat222_desc = "第一个特技バギクロス"
+cheat222_handler = "2"
+cheat222_code = "143F4,0C"
+
+cheat223_desc = "第一个特技デイン"
+cheat223_handler = "2"
+cheat223_code = "143F4,0D"
+
+cheat224_desc = "第一个特技ライデイン"
+cheat224_handler = "2"
+cheat224_code = "143F4,0E"
+
+cheat225_desc = "第一个特技ギガデイン"
+cheat225_handler = "2"
+cheat225_code = "143F4,0F"
+
+cheat226_desc = "第一个特技ヒャド"
+cheat226_handler = "2"
+cheat226_code = "143F4,10"
+
+cheat227_desc = "第一个特技ヒャダルコ"
+cheat227_handler = "2"
+cheat227_code = "143F4,11"
+
+cheat228_desc = "第一个特技マヒャド"
+cheat228_handler = "2"
+cheat228_code = "143F4,12"
+
+cheat229_desc = "第一个特技ザキ"
+cheat229_handler = "2"
+cheat229_code = "143F4,13"
+
+cheat230_desc = "第一个特技ザラキ"
+cheat230_handler = "2"
+cheat230_code = "143F4,14"
+
+cheat231_desc = "第一个特技メガンテ"
+cheat231_handler = "2"
+cheat231_code = "143F4,15"
+
+cheat232_desc = "第一个特技ホイミ"
+cheat232_handler = "2"
+cheat232_code = "143F4,16"
+
+cheat233_desc = "第一个特技ベホイミ"
+cheat233_handler = "2"
+cheat233_code = "143F4,17"
+
+cheat234_desc = "第一个特技ベホマ"
+cheat234_handler = "2"
+cheat234_code = "143F4,18"
+
+cheat235_desc = "第一个特技ベホマラー"
+cheat235_handler = "2"
+cheat235_code = "143F4,19"
+
+cheat236_desc = "第一个特技ベホマズン"
+cheat236_handler = "2"
+cheat236_code = "143F4,1A"
+
+cheat237_desc = "第一个特技ザオラル"
+cheat237_handler = "2"
+cheat237_code = "143F4,1E"
+
+cheat238_desc = "第一个特技ザオリク"
+cheat238_handler = "2"
+cheat238_code = "143F4,1F"
+
+cheat239_desc = "第一个特技メガザル"
+cheat239_handler = "2"
+cheat239_code = "143F4,20"
+
+cheat240_desc = "第一个特技キアリー"
+cheat240_handler = "2"
+cheat240_code = "143F4,21"
+
+cheat241_desc = "第一个特技キアラル"
+cheat241_handler = "2"
+cheat241_code = "143F4,22"
+
+cheat242_desc = "第一个特技キアリク"
+cheat242_handler = "2"
+cheat242_code = "143F4,23"
+
+cheat243_desc = "第一个特技シャナク"
+cheat243_handler = "2"
+cheat243_code = "143F4,24"
+
+cheat244_desc = "第一个特技スカラ"
+cheat244_handler = "2"
+cheat244_code = "143F4,25"
+
+cheat245_desc = "第一个特技スクルト"
+cheat245_handler = "2"
+cheat245_code = "143F4,26"
+
+cheat246_desc = "第一个特技ルカニ"
+cheat246_handler = "2"
+cheat246_code = "143F4,27"
+
+cheat247_desc = "第一个特技ルカナン"
+cheat247_handler = "2"
+cheat247_code = "143F4,28"
+
+cheat248_desc = "第一个特技ピオラ"
+cheat248_handler = "2"
+cheat248_code = "143F4,29"
+
+cheat249_desc = "第一个特技ピオリム"
+cheat249_handler = "2"
+cheat249_code = "143F4,2A"
+
+cheat250_desc = "第一个特技ボエミ"
+cheat250_handler = "2"
+cheat250_code = "143F4,2B"
+
+cheat251_desc = "第一个特技ボミオス"
+cheat251_handler = "2"
+cheat251_code = "143F4,2C"
+
+cheat252_desc = "第一个特技バイキルト"
+cheat252_handler = "2"
+cheat252_code = "143F4,2D"
+
+cheat253_desc = "第一个特技マヌーサ"
+cheat253_handler = "2"
+cheat253_code = "143F4,2E"
+
+cheat254_desc = "第一个特技ラリホー"
+cheat254_handler = "2"
+cheat254_code = "143F4,2F"
+
+cheat255_desc = "第一个特技ラリホーマ"
+cheat255_handler = "2"
+cheat255_code = "143F4,30"
+
+cheat256_desc = "第一个特技マホキテ"
+cheat256_handler = "2"
+cheat256_code = "143F4,31"
+
+cheat257_desc = "第一个特技マホトラ"
+cheat257_handler = "2"
+cheat257_code = "143F4,32"
+
+cheat258_desc = "第一个特技マホトーン"
+cheat258_handler = "2"
+cheat258_code = "143F4,33"
+
+cheat259_desc = "第一个特技メダパニ"
+cheat259_handler = "2"
+cheat259_code = "143F4,34"
+
+cheat260_desc = "第一个特技マホターン"
+cheat260_handler = "2"
+cheat260_code = "143F4,36"
+
+cheat261_desc = "第一个特技マホカンタ"
+cheat261_handler = "2"
+cheat261_code = "143F4,37"
+
+cheat262_desc = "第一个特技フバーハ"
+cheat262_handler = "2"
+cheat262_code = "143F4,38"
+
+cheat263_desc = "第一个特技マジックバリア"
+cheat263_handler = "2"
+cheat263_code = "143F4,39"
+
+cheat264_desc = "第一个特技ザラキーマ"
+cheat264_handler = "2"
+cheat264_code = "143F4,3A"
+
+cheat265_desc = "第一个特技ひのいき"
+cheat265_handler = "2"
+cheat265_code = "143F4,40"
+
+cheat266_desc = "第一个特技かえんほうしゃ"
+cheat266_handler = "2"
+cheat266_code = "143F4,41"
+
+cheat267_desc = "第一个特技はげしいほのお"
+cheat267_handler = "2"
+cheat267_code = "143F4,42"
+
+cheat268_desc = "第一个特技つめたいいき"
+cheat268_handler = "2"
+cheat268_code = "143F4,44"
+
+cheat269_desc = "第一个特技こおりのいき"
+cheat269_handler = "2"
+cheat269_code = "143F4,45"
+
+cheat270_desc = "第一个特技こごえるふぶき"
+cheat270_handler = "2"
+cheat270_code = "143F4,46"
+
+cheat271_desc = "第一个特技かまいたち"
+cheat271_handler = "2"
+cheat271_code = "143F4,47"
+
+cheat272_desc = "第一个特技しんくうは"
+cheat272_handler = "2"
+cheat272_code = "143F4,48"
+
+cheat273_desc = "第一个特技いなずま"
+cheat273_handler = "2"
+cheat273_code = "143F4,49"
+
+cheat274_desc = "第一个特技てっぽうみず"
+cheat274_handler = "2"
+cheat274_code = "143F4,4C"
+
+cheat275_desc = "第一个特技つなみ"
+cheat275_handler = "2"
+cheat275_code = "143F4,4D"
+
+cheat276_desc = "第一个特技かえんぎり"
+cheat276_handler = "2"
+cheat276_code = "143F4,50"
+
+cheat277_desc = "第一个特技しんくうぎり"
+cheat277_handler = "2"
+cheat277_code = "143F4,51"
+
+cheat278_desc = "第一个特技いなずまぎり"
+cheat278_handler = "2"
+cheat278_code = "143F4,52"
+
+cheat279_desc = "第一个特技マヒャドぎり"
+cheat279_handler = "2"
+cheat279_code = "143F4,53"
+
+cheat280_desc = "第一个特技どくこうげき"
+cheat280_handler = "2"
+cheat280_code = "143F4,5F"
+
+cheat281_desc = "第一个特技マヒこうげき"
+cheat281_handler = "2"
+cheat281_code = "143F4,60"
+
+cheat282_desc = "第一个特技ねむりこうげき"
+cheat282_handler = "2"
+cheat282_code = "143F4,61"
+
+cheat283_desc = "第一个特技ちからをためる"
+cheat283_handler = "2"
+cheat283_code = "143F4,68"
+
+cheat284_desc = "第一个特技たかくとびあがる"
+cheat284_handler = "2"
+cheat284_code = "143F4,6A"
+
+cheat285_desc = "第一个特技もろはぎり"
+cheat285_handler = "2"
+cheat285_code = "143F4,6D"
+
+cheat286_desc = "第一个特技すてみ"
+cheat286_handler = "2"
+cheat286_code = "143F4,6E"
+
+cheat287_desc = "第一个特技たいあたり"
+cheat287_handler = "2"
+cheat287_code = "143F4,6F"
+
+cheat288_desc = "第一个特技とっこう"
+cheat288_handler = "2"
+cheat288_code = "143F4,70"
+
+cheat289_desc = "第一个特技あまいいき"
+cheat289_handler = "2"
+cheat289_code = "143F4,71"
+
+cheat290_desc = "第一个特技やけつきいき"
+cheat290_handler = "2"
+cheat290_code = "143F4,72"
+
+cheat291_desc = "第一个特技どくのいき"
+cheat291_handler = "2"
+cheat291_code = "143F4,73"
+
+cheat292_desc = "第一个特技もうどくのいき"
+cheat292_handler = "2"
+cheat292_code = "143F4,74"
+
+cheat293_desc = "第一个特技のろいのことば"
+cheat293_handler = "2"
+cheat293_code = "143F4,75"
+
+cheat294_desc = "第一个特技ふしぎなおどり"
+cheat294_handler = "2"
+cheat294_code = "143F4,76"
+
+cheat295_desc = "第一个特技マホトラおどり"
+cheat295_handler = "2"
+cheat295_code = "143F4,77"
+
+cheat296_desc = "第一个特技メダパニダンス"
+cheat296_handler = "2"
+cheat296_code = "143F4,78"
+
+cheat297_desc = "第一个特技さそうおどり"
+cheat297_handler = "2"
+cheat297_code = "143F4,7A"
+
+cheat298_desc = "第一个特技メガザルダンス"
+cheat298_handler = "2"
+cheat298_code = "143F4,7B"
+
+cheat299_desc = "第一个特技ハッスルダンス"
+cheat299_handler = "2"
+cheat299_code = "143F4,7C"
+
+cheat300_desc = "第一个特技みかわしきゃく"
+cheat300_handler = "2"
+cheat300_code = "143F4,7D"
+
+cheat301_desc = "第一个特技すなけむり"
+cheat301_handler = "2"
+cheat301_code = "143F4,7E"
+
+cheat302_desc = "第一个特技ぶきみなひかり"
+cheat302_handler = "2"
+cheat302_code = "143F4,80"
+
+cheat303_desc = "第一个特技ひかりのはどう"
+cheat303_handler = "2"
+cheat303_code = "143F4,81"
+
+cheat304_desc = "第一个特技やみのはどう"
+cheat304_handler = "2"
+cheat304_code = "143F4,82"
+
+cheat305_desc = "第一个特技たたかいのうた"
+cheat305_handler = "2"
+cheat305_code = "143F4,88"
+
+cheat306_desc = "第一个特技いきをすいこむ"
+cheat306_handler = "2"
+cheat306_code = "143F4,89"
+
+cheat307_desc = "第一个特技せいしんとういつ"
+cheat307_handler = "2"
+cheat307_code = "143F4,8A"
+
+cheat308_desc = "第一个特技なめまわし"
+cheat308_handler = "2"
+cheat308_code = "143F4,8B"
+
+cheat309_desc = "第一个特技おどりふうじ"
+cheat309_handler = "2"
+cheat309_code = "143F4,92"
+
+cheat310_desc = "第一个特技だいぼうぎょ"
+cheat310_handler = "2"
+cheat310_code = "143F4,94"
+
+cheat311_desc = "第一个特技うけながし"
+cheat311_handler = "2"
+cheat311_code = "143F4,95"
+
+cheat312_desc = "第一个特技やいばのぼうぎょ"
+cheat312_handler = "2"
+cheat312_code = "143F4,96"
+
+cheat313_desc = "第一个特技みがわり"
+cheat313_handler = "2"
+cheat313_code = "143F4,97"
+
+cheat314_desc = "第一个特技におうだち"
+cheat314_handler = "2"
+cheat314_code = "143F4,98"
+
+cheat315_desc = "第一个特技おいかぜ"
+cheat315_handler = "2"
+cheat315_code = "143F4,99"
+
+cheat316_desc = "第一个特技きょうふう"
+cheat316_handler = "2"
+cheat316_code = "143F4,9A"
+
+cheat317_desc = "第一个特技すねべてをすいこむ"
+cheat317_handler = "2"
+cheat317_code = "143F4,9D"
+
+cheat318_desc = "第一个特技まねまね"
+cheat318_handler = "2"
+cheat318_code = "143F4,9E"
+
+cheat319_desc = "第一个特技くちぶえ"
+cheat319_handler = "2"
+cheat319_code = "143F4,A2"
+
+cheat320_desc = "第一个特技フェロモン"
+cheat320_handler = "2"
+cheat320_code = "143F4,A3"
+
+cheat321_desc = "第一个特技トラマナ"
+cheat321_handler = "2"
+cheat321_code = "143F4,A4"
+
+cheat322_desc = "第一个特技リレミト"
+cheat322_handler = "2"
+cheat322_code = "143F4,A5"
+
+cheat323_desc = "第一个特技みみうち"
+cheat323_handler = "2"
+cheat323_code = "143F4,A6"
+
+cheat324_desc = "第一个特技おつかい"
+cheat324_handler = "2"
+cheat324_code = "143F4,A7"
+
+cheat325_desc = "第一个特技タカのめ"
+cheat325_handler = "2"
+cheat325_code = "143F4,A8"
+
+cheat326_desc = "第一个特技レミラーマ"
+cheat326_handler = "2"
+cheat326_code = "143F4,A9"
+
+cheat327_desc = "第一个特技ぼーっとする"
+cheat327_handler = "2"
+cheat327_code = "143F4,AB"
+
+cheat328_desc = "第一个特技ぼうぎょ"
+cheat328_handler = "2"
+cheat328_code = "143F4,AC"
+
+cheat329_desc = "第一个特技メダパニ"
+cheat329_handler = "2"
+cheat329_code = "143F4,AD"
+
+cheat330_desc = "第一个特技トヘロス"
+cheat330_handler = "2"
+cheat330_code = "143F4,F0"
+
+cheat331_desc = "第一个特技どうぐやよび"
+cheat331_handler = "2"
+cheat331_code = "143F4,F1"
+
+cheat332_desc = "第一个特技きょうかいよび"
+cheat332_handler = "2"
+cheat332_code = "143F4,F2"
+
+cheat333_desc = "第一个特技ルーラ"
+cheat333_handler = "2"
+cheat333_code = "143F4,F3"
+
+cheat334_desc = "第一个特技たびのうた"
+cheat334_handler = "2"
+cheat334_code = "143F4,F4"
+
+cheat335_desc = "第一个特技たびのおどり"
+cheat335_handler = "2"
+cheat335_code = "143F4,F5"
+
+cheat336_desc = "第一个特技さかなつり"
+cheat336_handler = "2"
+cheat336_code = "143F4,F6"
+
+cheat337_desc = "第一个特技かり"
+cheat337_handler = "2"
+cheat337_code = "143F4,F7"
+
+cheat338_desc = "第一个特技てんせいのけはい"
+cheat338_handler = "2"
+cheat338_code = "143F4,F8"
+
+cheat339_desc = "第一个特技インパス"
+cheat339_handler = "2"
+cheat339_code = "143F4,F9"
+
+cheat340_desc = "第一个特技あそびにいく"
+cheat340_handler = "2"
+cheat340_code = "143F4,FA"
+
+cheat341_desc = "第一个特技まもののけはい"
+cheat341_handler = "2"
+cheat341_code = "143F4,FB"
+
+cheat342_desc = "第一个特技フローミ"
+cheat342_handler = "2"
+cheat342_code = "143F4,FC"
+
+cheat343_desc = "第一个特技カジノよび"
+cheat343_handler = "2"
+cheat343_code = "143F4,FD"
+
+cheat344_desc = "第一个特技ルーラ"
+cheat344_handler = "2"
+cheat344_code = "143F4,FE"
+
+cheat345_desc = "第二个特技メラ"
+cheat345_handler = "2"
+cheat345_code = "143F5,01"
+
+cheat346_desc = "第二个特技メラミ"
+cheat346_handler = "2"
+cheat346_code = "143F5,02"
+
+cheat347_desc = "第二个特技メラゾーマ"
+cheat347_handler = "2"
+cheat347_code = "143F5,03"
+
+cheat348_desc = "第二个特技ギラ"
+cheat348_handler = "2"
+cheat348_code = "143F5,04"
+
+cheat349_desc = "第二个特技ベギラマ"
+cheat349_handler = "2"
+cheat349_code = "143F5,05"
+
+cheat350_desc = "第二个特技ベギラゴン"
+cheat350_handler = "2"
+cheat350_code = "143F5,06"
+
+cheat351_desc = "第二个特技イオ"
+cheat351_handler = "2"
+cheat351_code = "143F5,07"
+
+cheat352_desc = "第二个特技イオラ"
+cheat352_handler = "2"
+cheat352_code = "143F5,08"
+
+cheat353_desc = "第二个特技イオナズン"
+cheat353_handler = "2"
+cheat353_code = "143F5,09"
+
+cheat354_desc = "第二个特技バギ"
+cheat354_handler = "2"
+cheat354_code = "143F5,0A"
+
+cheat355_desc = "第二个特技バギマ"
+cheat355_handler = "2"
+cheat355_code = "143F5,0B"
+
+cheat356_desc = "第二个特技バギクロス"
+cheat356_handler = "2"
+cheat356_code = "143F5,0C"
+
+cheat357_desc = "第二个特技デイン"
+cheat357_handler = "2"
+cheat357_code = "143F5,0D"
+
+cheat358_desc = "第二个特技ライデイン"
+cheat358_handler = "2"
+cheat358_code = "143F5,0E"
+
+cheat359_desc = "第二个特技ギガデイン"
+cheat359_handler = "2"
+cheat359_code = "143F5,0F"
+
+cheat360_desc = "第二个特技ヒャド"
+cheat360_handler = "2"
+cheat360_code = "143F5,10"
+
+cheat361_desc = "第二个特技ヒャダルコ"
+cheat361_handler = "2"
+cheat361_code = "143F5,11"
+
+cheat362_desc = "第二个特技マヒャド"
+cheat362_handler = "2"
+cheat362_code = "143F5,12"
+
+cheat363_desc = "第二个特技ザキ"
+cheat363_handler = "2"
+cheat363_code = "143F5,13"
+
+cheat364_desc = "第二个特技ザラキ"
+cheat364_handler = "2"
+cheat364_code = "143F5,14"
+
+cheat365_desc = "第二个特技メガンテ"
+cheat365_handler = "2"
+cheat365_code = "143F5,15"
+
+cheat366_desc = "第二个特技ホイミ"
+cheat366_handler = "2"
+cheat366_code = "143F5,16"
+
+cheat367_desc = "第二个特技ベホイミ"
+cheat367_handler = "2"
+cheat367_code = "143F5,17"
+
+cheat368_desc = "第二个特技ベホマ"
+cheat368_handler = "2"
+cheat368_code = "143F5,18"
+
+cheat369_desc = "第二个特技ベホマラー"
+cheat369_handler = "2"
+cheat369_code = "143F5,19"
+
+cheat370_desc = "第二个特技ベホマズン"
+cheat370_handler = "2"
+cheat370_code = "143F5,1A"
+
+cheat371_desc = "第二个特技ザオラル"
+cheat371_handler = "2"
+cheat371_code = "143F5,1E"
+
+cheat372_desc = "第二个特技ザオリク"
+cheat372_handler = "2"
+cheat372_code = "143F5,1F"
+
+cheat373_desc = "第二个特技メガザル"
+cheat373_handler = "2"
+cheat373_code = "143F5,20"
+
+cheat374_desc = "第二个特技キアリー"
+cheat374_handler = "2"
+cheat374_code = "143F5,21"
+
+cheat375_desc = "第二个特技キアラル"
+cheat375_handler = "2"
+cheat375_code = "143F5,22"
+
+cheat376_desc = "第二个特技キアリク"
+cheat376_handler = "2"
+cheat376_code = "143F5,23"
+
+cheat377_desc = "第二个特技シャナク"
+cheat377_handler = "2"
+cheat377_code = "143F5,24"
+
+cheat378_desc = "第二个特技スカラ"
+cheat378_handler = "2"
+cheat378_code = "143F5,25"
+
+cheat379_desc = "第二个特技スクルト"
+cheat379_handler = "2"
+cheat379_code = "143F5,26"
+
+cheat380_desc = "第二个特技ルカニ"
+cheat380_handler = "2"
+cheat380_code = "143F5,27"
+
+cheat381_desc = "第二个特技ルカナン"
+cheat381_handler = "2"
+cheat381_code = "143F5,28"
+
+cheat382_desc = "第二个特技ピオラ"
+cheat382_handler = "2"
+cheat382_code = "143F5,29"
+
+cheat383_desc = "第二个特技ピオリム"
+cheat383_handler = "2"
+cheat383_code = "143F5,2A"
+
+cheat384_desc = "第二个特技ボエミ"
+cheat384_handler = "2"
+cheat384_code = "143F5,2B"
+
+cheat385_desc = "第二个特技ボミオス"
+cheat385_handler = "2"
+cheat385_code = "143F5,2C"
+
+cheat386_desc = "第二个特技バイキルト"
+cheat386_handler = "2"
+cheat386_code = "143F5,2D"
+
+cheat387_desc = "第二个特技マヌーサ"
+cheat387_handler = "2"
+cheat387_code = "143F5,2E"
+
+cheat388_desc = "第二个特技ラリホー"
+cheat388_handler = "2"
+cheat388_code = "143F5,2F"
+
+cheat389_desc = "第二个特技ラリホーマ"
+cheat389_handler = "2"
+cheat389_code = "143F5,30"
+
+cheat390_desc = "第二个特技マホキテ"
+cheat390_handler = "2"
+cheat390_code = "143F5,31"
+
+cheat391_desc = "第二个特技マホトラ"
+cheat391_handler = "2"
+cheat391_code = "143F5,32"
+
+cheat392_desc = "第二个特技マホトーン"
+cheat392_handler = "2"
+cheat392_code = "143F5,33"
+
+cheat393_desc = "第二个特技メダパニ"
+cheat393_handler = "2"
+cheat393_code = "143F5,34"
+
+cheat394_desc = "第二个特技マホターン"
+cheat394_handler = "2"
+cheat394_code = "143F5,36"
+
+cheat395_desc = "第二个特技マホカンタ"
+cheat395_handler = "2"
+cheat395_code = "143F5,37"
+
+cheat396_desc = "第二个特技フバーハ"
+cheat396_handler = "2"
+cheat396_code = "143F5,38"
+
+cheat397_desc = "第二个特技マジックバリア"
+cheat397_handler = "2"
+cheat397_code = "143F5,39"
+
+cheat398_desc = "第二个特技ザラキーマ"
+cheat398_handler = "2"
+cheat398_code = "143F5,3A"
+
+cheat399_desc = "第二个特技ひのいき"
+cheat399_handler = "2"
+cheat399_code = "143F5,40"
+
+cheat400_desc = "第二个特技かえんほうしゃ"
+cheat400_handler = "2"
+cheat400_code = "143F5,41"
+
+cheat401_desc = "第二个特技はげしいほのお"
+cheat401_handler = "2"
+cheat401_code = "143F5,42"
+
+cheat402_desc = "第二个特技つめたいいき"
+cheat402_handler = "2"
+cheat402_code = "143F5,44"
+
+cheat403_desc = "第二个特技こおりのいき"
+cheat403_handler = "2"
+cheat403_code = "143F5,45"
+
+cheat404_desc = "第二个特技こごえるふぶき"
+cheat404_handler = "2"
+cheat404_code = "143F5,46"
+
+cheat405_desc = "第二个特技かまいたち"
+cheat405_handler = "2"
+cheat405_code = "143F5,47"
+
+cheat406_desc = "第二个特技しんくうは"
+cheat406_handler = "2"
+cheat406_code = "143F5,48"
+
+cheat407_desc = "第二个特技いなずま"
+cheat407_handler = "2"
+cheat407_code = "143F5,49"
+
+cheat408_desc = "第二个特技てっぽうみず"
+cheat408_handler = "2"
+cheat408_code = "143F5,4C"
+
+cheat409_desc = "第二个特技つなみ"
+cheat409_handler = "2"
+cheat409_code = "143F5,4D"
+
+cheat410_desc = "第二个特技かえんぎり"
+cheat410_handler = "2"
+cheat410_code = "143F5,50"
+
+cheat411_desc = "第二个特技しんくうぎり"
+cheat411_handler = "2"
+cheat411_code = "143F5,51"
+
+cheat412_desc = "第二个特技いなずまぎり"
+cheat412_handler = "2"
+cheat412_code = "143F5,52"
+
+cheat413_desc = "第二个特技マヒャドぎり"
+cheat413_handler = "2"
+cheat413_code = "143F5,53"
+
+cheat414_desc = "第二个特技どくこうげき"
+cheat414_handler = "2"
+cheat414_code = "143F5,5F"
+
+cheat415_desc = "第二个特技マヒこうげき"
+cheat415_handler = "2"
+cheat415_code = "143F5,60"
+
+cheat416_desc = "第二个特技ねむりこうげき"
+cheat416_handler = "2"
+cheat416_code = "143F5,61"
+
+cheat417_desc = "第二个特技ちからをためる"
+cheat417_handler = "2"
+cheat417_code = "143F5,68"
+
+cheat418_desc = "第二个特技たかくとびあがる"
+cheat418_handler = "2"
+cheat418_code = "143F5,6A"
+
+cheat419_desc = "第二个特技もろはぎり"
+cheat419_handler = "2"
+cheat419_code = "143F5,6D"
+
+cheat420_desc = "第二个特技すてみ"
+cheat420_handler = "2"
+cheat420_code = "143F5,6E"
+
+cheat421_desc = "第二个特技たいあたり"
+cheat421_handler = "2"
+cheat421_code = "143F5,6F"
+
+cheat422_desc = "第二个特技とっこう"
+cheat422_handler = "2"
+cheat422_code = "143F5,70"
+
+cheat423_desc = "第二个特技あまいいき"
+cheat423_handler = "2"
+cheat423_code = "143F5,71"
+
+cheat424_desc = "第二个特技やけつきいき"
+cheat424_handler = "2"
+cheat424_code = "143F5,72"
+
+cheat425_desc = "第二个特技どくのいき"
+cheat425_handler = "2"
+cheat425_code = "143F5,73"
+
+cheat426_desc = "第二个特技もうどくのいき"
+cheat426_handler = "2"
+cheat426_code = "143F5,74"
+
+cheat427_desc = "第二个特技のろいのことば"
+cheat427_handler = "2"
+cheat427_code = "143F5,75"
+
+cheat428_desc = "第二个特技ふしぎなおどり"
+cheat428_handler = "2"
+cheat428_code = "143F5,76"
+
+cheat429_desc = "第二个特技マホトラおどり"
+cheat429_handler = "2"
+cheat429_code = "143F5,77"
+
+cheat430_desc = "第二个特技メダパニダンス"
+cheat430_handler = "2"
+cheat430_code = "143F5,78"
+
+cheat431_desc = "第二个特技さそうおどり"
+cheat431_handler = "2"
+cheat431_code = "143F5,7A"
+
+cheat432_desc = "第二个特技メガザルダンス"
+cheat432_handler = "2"
+cheat432_code = "143F5,7B"
+
+cheat433_desc = "第二个特技ハッスルダンス"
+cheat433_handler = "2"
+cheat433_code = "143F5,7C"
+
+cheat434_desc = "第二个特技みかわしきゃく"
+cheat434_handler = "2"
+cheat434_code = "143F5,7D"
+
+cheat435_desc = "第二个特技すなけむり"
+cheat435_handler = "2"
+cheat435_code = "143F5,7E"
+
+cheat436_desc = "第二个特技ぶきみなひかり"
+cheat436_handler = "2"
+cheat436_code = "143F5,80"
+
+cheat437_desc = "第二个特技ひかりのはどう"
+cheat437_handler = "2"
+cheat437_code = "143F5,81"
+
+cheat438_desc = "第二个特技やみのはどう"
+cheat438_handler = "2"
+cheat438_code = "143F5,82"
+
+cheat439_desc = "第二个特技たたかいのうた"
+cheat439_handler = "2"
+cheat439_code = "143F5,88"
+
+cheat440_desc = "第二个特技いきをすいこむ"
+cheat440_handler = "2"
+cheat440_code = "143F5,89"
+
+cheat441_desc = "第二个特技せいしんとういつ"
+cheat441_handler = "2"
+cheat441_code = "143F5,8A"
+
+cheat442_desc = "第二个特技なめまわし"
+cheat442_handler = "2"
+cheat442_code = "143F5,8B"
+
+cheat443_desc = "第二个特技おどりふうじ"
+cheat443_handler = "2"
+cheat443_code = "143F5,92"
+
+cheat444_desc = "第二个特技だいぼうぎょ"
+cheat444_handler = "2"
+cheat444_code = "143F5,94"
+
+cheat445_desc = "第二个特技うけながし"
+cheat445_handler = "2"
+cheat445_code = "143F5,95"
+
+cheat446_desc = "第二个特技やいばのぼうぎょ"
+cheat446_handler = "2"
+cheat446_code = "143F5,96"
+
+cheat447_desc = "第二个特技みがわり"
+cheat447_handler = "2"
+cheat447_code = "143F5,97"
+
+cheat448_desc = "第二个特技におうだち"
+cheat448_handler = "2"
+cheat448_code = "143F5,98"
+
+cheat449_desc = "第二个特技おいかぜ"
+cheat449_handler = "2"
+cheat449_code = "143F5,99"
+
+cheat450_desc = "第二个特技きょうふう"
+cheat450_handler = "2"
+cheat450_code = "143F5,9A"
+
+cheat451_desc = "第二个特技すねべてをすいこむ"
+cheat451_handler = "2"
+cheat451_code = "143F5,9D"
+
+cheat452_desc = "第二个特技まねまね"
+cheat452_handler = "2"
+cheat452_code = "143F5,9E"
+
+cheat453_desc = "第二个特技くちぶえ"
+cheat453_handler = "2"
+cheat453_code = "143F5,A2"
+
+cheat454_desc = "第二个特技フェロモン"
+cheat454_handler = "2"
+cheat454_code = "143F5,A3"
+
+cheat455_desc = "第二个特技トラマナ"
+cheat455_handler = "2"
+cheat455_code = "143F5,A4"
+
+cheat456_desc = "第二个特技リレミト"
+cheat456_handler = "2"
+cheat456_code = "143F5,A5"
+
+cheat457_desc = "第二个特技みみうち"
+cheat457_handler = "2"
+cheat457_code = "143F5,A6"
+
+cheat458_desc = "第二个特技おつかい"
+cheat458_handler = "2"
+cheat458_code = "143F5,A7"
+
+cheat459_desc = "第二个特技タカのめ"
+cheat459_handler = "2"
+cheat459_code = "143F5,A8"
+
+cheat460_desc = "第二个特技レミラーマ"
+cheat460_handler = "2"
+cheat460_code = "143F5,A9"
+
+cheat461_desc = "第二个特技ぼーっとする"
+cheat461_handler = "2"
+cheat461_code = "143F5,AB"
+
+cheat462_desc = "第二个特技ぼうぎょ"
+cheat462_handler = "2"
+cheat462_code = "143F5,AC"
+
+cheat463_desc = "第二个特技メダパニ"
+cheat463_handler = "2"
+cheat463_code = "143F5,AD"
+
+cheat464_desc = "第二个特技トヘロス"
+cheat464_handler = "2"
+cheat464_code = "143F5,F0"
+
+cheat465_desc = "第二个特技どうぐやよび"
+cheat465_handler = "2"
+cheat465_code = "143F5,F1"
+
+cheat466_desc = "第二个特技きょうかいよび"
+cheat466_handler = "2"
+cheat466_code = "143F5,F2"
+
+cheat467_desc = "第二个特技ルーラ"
+cheat467_handler = "2"
+cheat467_code = "143F5,F3"
+
+cheat468_desc = "第二个特技たびのうた"
+cheat468_handler = "2"
+cheat468_code = "143F5,F4"
+
+cheat469_desc = "第二个特技たびのおどり"
+cheat469_handler = "2"
+cheat469_code = "143F5,F5"
+
+cheat470_desc = "第二个特技さかなつり"
+cheat470_handler = "2"
+cheat470_code = "143F5,F6"
+
+cheat471_desc = "第二个特技かり"
+cheat471_handler = "2"
+cheat471_code = "143F5,F7"
+
+cheat472_desc = "第二个特技てんせいのけはい"
+cheat472_handler = "2"
+cheat472_code = "143F5,F8"
+
+cheat473_desc = "第二个特技インパス"
+cheat473_handler = "2"
+cheat473_code = "143F5,F9"
+
+cheat474_desc = "第二个特技あそびにいく"
+cheat474_handler = "2"
+cheat474_code = "143F5,FA"
+
+cheat475_desc = "第二个特技まもののけはい"
+cheat475_handler = "2"
+cheat475_code = "143F5,FB"
+
+cheat476_desc = "第二个特技フローミ"
+cheat476_handler = "2"
+cheat476_code = "143F5,FC"
+
+cheat477_desc = "第二个特技カジノよび"
+cheat477_handler = "2"
+cheat477_code = "143F5,FD"
+
+cheat478_desc = "第二个特技ルーラ"
+cheat478_handler = "2"
+cheat478_code = "143F5,FE"
+
+cheat479_desc = "第三个特技メラ"
+cheat479_handler = "2"
+cheat479_code = "143F6,01"
+
+cheat480_desc = "第三个特技メラミ"
+cheat480_handler = "2"
+cheat480_code = "143F6,02"
+
+cheat481_desc = "第三个特技メラゾーマ"
+cheat481_handler = "2"
+cheat481_code = "143F6,03"
+
+cheat482_desc = "第三个特技ギラ"
+cheat482_handler = "2"
+cheat482_code = "143F6,04"
+
+cheat483_desc = "第三个特技ベギラマ"
+cheat483_handler = "2"
+cheat483_code = "143F6,05"
+
+cheat484_desc = "第三个特技ベギラゴン"
+cheat484_handler = "2"
+cheat484_code = "143F6,06"
+
+cheat485_desc = "第三个特技イオ"
+cheat485_handler = "2"
+cheat485_code = "143F6,07"
+
+cheat486_desc = "第三个特技イオラ"
+cheat486_handler = "2"
+cheat486_code = "143F6,08"
+
+cheat487_desc = "第三个特技イオナズン"
+cheat487_handler = "2"
+cheat487_code = "143F6,09"
+
+cheat488_desc = "第三个特技バギ"
+cheat488_handler = "2"
+cheat488_code = "143F6,0A"
+
+cheat489_desc = "第三个特技バギマ"
+cheat489_handler = "2"
+cheat489_code = "143F6,0B"
+
+cheat490_desc = "第三个特技バギクロス"
+cheat490_handler = "2"
+cheat490_code = "143F6,0C"
+
+cheat491_desc = "第三个特技デイン"
+cheat491_handler = "2"
+cheat491_code = "143F6,0D"
+
+cheat492_desc = "第三个特技ライデイン"
+cheat492_handler = "2"
+cheat492_code = "143F6,0E"
+
+cheat493_desc = "第三个特技ギガデイン"
+cheat493_handler = "2"
+cheat493_code = "143F6,0F"
+
+cheat494_desc = "第三个特技ヒャド"
+cheat494_handler = "2"
+cheat494_code = "143F6,10"
+
+cheat495_desc = "第三个特技ヒャダルコ"
+cheat495_handler = "2"
+cheat495_code = "143F6,11"
+
+cheat496_desc = "第三个特技マヒャド"
+cheat496_handler = "2"
+cheat496_code = "143F6,12"
+
+cheat497_desc = "第三个特技ザキ"
+cheat497_handler = "2"
+cheat497_code = "143F6,13"
+
+cheat498_desc = "第三个特技ザラキ"
+cheat498_handler = "2"
+cheat498_code = "143F6,14"
+
+cheat499_desc = "第三个特技メガンテ"
+cheat499_handler = "2"
+cheat499_code = "143F6,15"
+
+cheat500_desc = "第三个特技ホイミ"
+cheat500_handler = "2"
+cheat500_code = "143F6,16"
+
+cheat501_desc = "第三个特技ベホイミ"
+cheat501_handler = "2"
+cheat501_code = "143F6,17"
+
+cheat502_desc = "第三个特技ベホマ"
+cheat502_handler = "2"
+cheat502_code = "143F6,18"
+
+cheat503_desc = "第三个特技ベホマラー"
+cheat503_handler = "2"
+cheat503_code = "143F6,19"
+
+cheat504_desc = "第三个特技ベホマズン"
+cheat504_handler = "2"
+cheat504_code = "143F6,1A"
+
+cheat505_desc = "第三个特技ザオラル"
+cheat505_handler = "2"
+cheat505_code = "143F6,1E"
+
+cheat506_desc = "第三个特技ザオリク"
+cheat506_handler = "2"
+cheat506_code = "143F6,1F"
+
+cheat507_desc = "第三个特技メガザル"
+cheat507_handler = "2"
+cheat507_code = "143F6,20"
+
+cheat508_desc = "第三个特技キアリー"
+cheat508_handler = "2"
+cheat508_code = "143F6,21"
+
+cheat509_desc = "第三个特技キアラル"
+cheat509_handler = "2"
+cheat509_code = "143F6,22"
+
+cheat510_desc = "第三个特技キアリク"
+cheat510_handler = "2"
+cheat510_code = "143F6,23"
+
+cheat511_desc = "第三个特技シャナク"
+cheat511_handler = "2"
+cheat511_code = "143F6,24"
+
+cheat512_desc = "第三个特技スカラ"
+cheat512_handler = "2"
+cheat512_code = "143F6,25"
+
+cheat513_desc = "第三个特技スクルト"
+cheat513_handler = "2"
+cheat513_code = "143F6,26"
+
+cheat514_desc = "第三个特技ルカニ"
+cheat514_handler = "2"
+cheat514_code = "143F6,27"
+
+cheat515_desc = "第三个特技ルカナン"
+cheat515_handler = "2"
+cheat515_code = "143F6,28"
+
+cheat516_desc = "第三个特技ピオラ"
+cheat516_handler = "2"
+cheat516_code = "143F6,29"
+
+cheat517_desc = "第三个特技ピオリム"
+cheat517_handler = "2"
+cheat517_code = "143F6,2A"
+
+cheat518_desc = "第三个特技ボエミ"
+cheat518_handler = "2"
+cheat518_code = "143F6,2B"
+
+cheat519_desc = "第三个特技ボミオス"
+cheat519_handler = "2"
+cheat519_code = "143F6,2C"
+
+cheat520_desc = "第三个特技バイキルト"
+cheat520_handler = "2"
+cheat520_code = "143F6,2D"
+
+cheat521_desc = "第三个特技マヌーサ"
+cheat521_handler = "2"
+cheat521_code = "143F6,2E"
+
+cheat522_desc = "第三个特技ラリホー"
+cheat522_handler = "2"
+cheat522_code = "143F6,2F"
+
+cheat523_desc = "第三个特技ラリホーマ"
+cheat523_handler = "2"
+cheat523_code = "143F6,30"
+
+cheat524_desc = "第三个特技マホキテ"
+cheat524_handler = "2"
+cheat524_code = "143F6,31"
+
+cheat525_desc = "第三个特技マホトラ"
+cheat525_handler = "2"
+cheat525_code = "143F6,32"
+
+cheat526_desc = "第三个特技マホトーン"
+cheat526_handler = "2"
+cheat526_code = "143F6,33"
+
+cheat527_desc = "第三个特技メダパニ"
+cheat527_handler = "2"
+cheat527_code = "143F6,34"
+
+cheat528_desc = "第三个特技マホターン"
+cheat528_handler = "2"
+cheat528_code = "143F6,36"
+
+cheat529_desc = "第三个特技マホカンタ"
+cheat529_handler = "2"
+cheat529_code = "143F6,37"
+
+cheat530_desc = "第三个特技フバーハ"
+cheat530_handler = "2"
+cheat530_code = "143F6,38"
+
+cheat531_desc = "第三个特技マジックバリア"
+cheat531_handler = "2"
+cheat531_code = "143F6,39"
+
+cheat532_desc = "第三个特技ザラキーマ"
+cheat532_handler = "2"
+cheat532_code = "143F6,3A"
+
+cheat533_desc = "第三个特技ひのいき"
+cheat533_handler = "2"
+cheat533_code = "143F6,40"
+
+cheat534_desc = "第三个特技かえんほうしゃ"
+cheat534_handler = "2"
+cheat534_code = "143F6,41"
+
+cheat535_desc = "第三个特技はげしいほのお"
+cheat535_handler = "2"
+cheat535_code = "143F6,42"
+
+cheat536_desc = "第三个特技つめたいいき"
+cheat536_handler = "2"
+cheat536_code = "143F6,44"
+
+cheat537_desc = "第三个特技こおりのいき"
+cheat537_handler = "2"
+cheat537_code = "143F6,45"
+
+cheat538_desc = "第三个特技こごえるふぶき"
+cheat538_handler = "2"
+cheat538_code = "143F6,46"
+
+cheat539_desc = "第三个特技かまいたち"
+cheat539_handler = "2"
+cheat539_code = "143F6,47"
+
+cheat540_desc = "第三个特技しんくうは"
+cheat540_handler = "2"
+cheat540_code = "143F6,48"
+
+cheat541_desc = "第三个特技いなずま"
+cheat541_handler = "2"
+cheat541_code = "143F6,49"
+
+cheat542_desc = "第三个特技てっぽうみず"
+cheat542_handler = "2"
+cheat542_code = "143F6,4C"
+
+cheat543_desc = "第三个特技つなみ"
+cheat543_handler = "2"
+cheat543_code = "143F6,4D"
+
+cheat544_desc = "第三个特技かえんぎり"
+cheat544_handler = "2"
+cheat544_code = "143F6,50"
+
+cheat545_desc = "第三个特技しんくうぎり"
+cheat545_handler = "2"
+cheat545_code = "143F6,51"
+
+cheat546_desc = "第三个特技いなずまぎり"
+cheat546_handler = "2"
+cheat546_code = "143F6,52"
+
+cheat547_desc = "第三个特技マヒャドぎり"
+cheat547_handler = "2"
+cheat547_code = "143F6,53"
+
+cheat548_desc = "第三个特技どくこうげき"
+cheat548_handler = "2"
+cheat548_code = "143F6,5F"
+
+cheat549_desc = "第三个特技マヒこうげき"
+cheat549_handler = "2"
+cheat549_code = "143F6,60"
+
+cheat550_desc = "第三个特技ねむりこうげき"
+cheat550_handler = "2"
+cheat550_code = "143F6,61"
+
+cheat551_desc = "第三个特技ちからをためる"
+cheat551_handler = "2"
+cheat551_code = "143F6,68"
+
+cheat552_desc = "第三个特技たかくとびあがる"
+cheat552_handler = "2"
+cheat552_code = "143F6,6A"
+
+cheat553_desc = "第三个特技もろはぎり"
+cheat553_handler = "2"
+cheat553_code = "143F6,6D"
+
+cheat554_desc = "第三个特技すてみ"
+cheat554_handler = "2"
+cheat554_code = "143F6,6E"
+
+cheat555_desc = "第三个特技たいあたり"
+cheat555_handler = "2"
+cheat555_code = "143F6,6F"
+
+cheat556_desc = "第三个特技とっこう"
+cheat556_handler = "2"
+cheat556_code = "143F6,70"
+
+cheat557_desc = "第三个特技あまいいき"
+cheat557_handler = "2"
+cheat557_code = "143F6,71"
+
+cheat558_desc = "第三个特技やけつきいき"
+cheat558_handler = "2"
+cheat558_code = "143F6,72"
+
+cheat559_desc = "第三个特技どくのいき"
+cheat559_handler = "2"
+cheat559_code = "143F6,73"
+
+cheat560_desc = "第三个特技もうどくのいき"
+cheat560_handler = "2"
+cheat560_code = "143F6,74"
+
+cheat561_desc = "第三个特技のろいのことば"
+cheat561_handler = "2"
+cheat561_code = "143F6,75"
+
+cheat562_desc = "第三个特技ふしぎなおどり"
+cheat562_handler = "2"
+cheat562_code = "143F6,76"
+
+cheat563_desc = "第三个特技マホトラおどり"
+cheat563_handler = "2"
+cheat563_code = "143F6,77"
+
+cheat564_desc = "第三个特技メダパニダンス"
+cheat564_handler = "2"
+cheat564_code = "143F6,78"
+
+cheat565_desc = "第三个特技さそうおどり"
+cheat565_handler = "2"
+cheat565_code = "143F6,7A"
+
+cheat566_desc = "第三个特技メガザルダンス"
+cheat566_handler = "2"
+cheat566_code = "143F6,7B"
+
+cheat567_desc = "第三个特技ハッスルダンス"
+cheat567_handler = "2"
+cheat567_code = "143F6,7C"
+
+cheat568_desc = "第三个特技みかわしきゃく"
+cheat568_handler = "2"
+cheat568_code = "143F6,7D"
+
+cheat569_desc = "第三个特技すなけむり"
+cheat569_handler = "2"
+cheat569_code = "143F6,7E"
+
+cheat570_desc = "第三个特技ぶきみなひかり"
+cheat570_handler = "2"
+cheat570_code = "143F6,80"
+
+cheat571_desc = "第三个特技ひかりのはどう"
+cheat571_handler = "2"
+cheat571_code = "143F6,81"
+
+cheat572_desc = "第三个特技やみのはどう"
+cheat572_handler = "2"
+cheat572_code = "143F6,82"
+
+cheat573_desc = "第三个特技たたかいのうた"
+cheat573_handler = "2"
+cheat573_code = "143F6,88"
+
+cheat574_desc = "第三个特技いきをすいこむ"
+cheat574_handler = "2"
+cheat574_code = "143F6,89"
+
+cheat575_desc = "第三个特技せいしんとういつ"
+cheat575_handler = "2"
+cheat575_code = "143F6,8A"
+
+cheat576_desc = "第三个特技なめまわし"
+cheat576_handler = "2"
+cheat576_code = "143F6,8B"
+
+cheat577_desc = "第三个特技おどりふうじ"
+cheat577_handler = "2"
+cheat577_code = "143F6,92"
+
+cheat578_desc = "第三个特技だいぼうぎょ"
+cheat578_handler = "2"
+cheat578_code = "143F6,94"
+
+cheat579_desc = "第三个特技うけながし"
+cheat579_handler = "2"
+cheat579_code = "143F6,95"
+
+cheat580_desc = "第三个特技やいばのぼうぎょ"
+cheat580_handler = "2"
+cheat580_code = "143F6,96"
+
+cheat581_desc = "第三个特技みがわり"
+cheat581_handler = "2"
+cheat581_code = "143F6,97"
+
+cheat582_desc = "第三个特技におうだち"
+cheat582_handler = "2"
+cheat582_code = "143F6,98"
+
+cheat583_desc = "第三个特技おいかぜ"
+cheat583_handler = "2"
+cheat583_code = "143F6,99"
+
+cheat584_desc = "第三个特技きょうふう"
+cheat584_handler = "2"
+cheat584_code = "143F6,9A"
+
+cheat585_desc = "第三个特技すねべてをすいこむ"
+cheat585_handler = "2"
+cheat585_code = "143F6,9D"
+
+cheat586_desc = "第三个特技まねまね"
+cheat586_handler = "2"
+cheat586_code = "143F6,9E"
+
+cheat587_desc = "第三个特技くちぶえ"
+cheat587_handler = "2"
+cheat587_code = "143F6,A2"
+
+cheat588_desc = "第三个特技フェロモン"
+cheat588_handler = "2"
+cheat588_code = "143F6,A3"
+
+cheat589_desc = "第三个特技トラマナ"
+cheat589_handler = "2"
+cheat589_code = "143F6,A4"
+
+cheat590_desc = "第三个特技リレミト"
+cheat590_handler = "2"
+cheat590_code = "143F6,A5"
+
+cheat591_desc = "第三个特技みみうち"
+cheat591_handler = "2"
+cheat591_code = "143F6,A6"
+
+cheat592_desc = "第三个特技おつかい"
+cheat592_handler = "2"
+cheat592_code = "143F6,A7"
+
+cheat593_desc = "第三个特技タカのめ"
+cheat593_handler = "2"
+cheat593_code = "143F6,A8"
+
+cheat594_desc = "第三个特技レミラーマ"
+cheat594_handler = "2"
+cheat594_code = "143F6,A9"
+
+cheat595_desc = "第三个特技ぼーっとする"
+cheat595_handler = "2"
+cheat595_code = "143F6,AB"
+
+cheat596_desc = "第三个特技ぼうぎょ"
+cheat596_handler = "2"
+cheat596_code = "143F6,AC"
+
+cheat597_desc = "第三个特技メダパニ"
+cheat597_handler = "2"
+cheat597_code = "143F6,AD"
+
+cheat598_desc = "第三个特技トヘロス"
+cheat598_handler = "2"
+cheat598_code = "143F6,F0"
+
+cheat599_desc = "第三个特技どうぐやよび"
+cheat599_handler = "2"
+cheat599_code = "143F6,F1"
+
+cheat600_desc = "第三个特技きょうかいよび"
+cheat600_handler = "2"
+cheat600_code = "143F6,F2"
+
+cheat601_desc = "第三个特技ルーラ"
+cheat601_handler = "2"
+cheat601_code = "143F6,F3"
+
+cheat602_desc = "第三个特技たびのうた"
+cheat602_handler = "2"
+cheat602_code = "143F6,F4"
+
+cheat603_desc = "第三个特技たびのおどり"
+cheat603_handler = "2"
+cheat603_code = "143F6,F5"
+
+cheat604_desc = "第三个特技さかなつり"
+cheat604_handler = "2"
+cheat604_code = "143F6,F6"
+
+cheat605_desc = "第三个特技かり"
+cheat605_handler = "2"
+cheat605_code = "143F6,F7"
+
+cheat606_desc = "第三个特技てんせいのけはい"
+cheat606_handler = "2"
+cheat606_code = "143F6,F8"
+
+cheat607_desc = "第三个特技インパス"
+cheat607_handler = "2"
+cheat607_code = "143F6,F9"
+
+cheat608_desc = "第三个特技あそびにいく"
+cheat608_handler = "2"
+cheat608_code = "143F6,FA"
+
+cheat609_desc = "第三个特技まもののけはい"
+cheat609_handler = "2"
+cheat609_code = "143F6,FB"
+
+cheat610_desc = "第三个特技フローミ"
+cheat610_handler = "2"
+cheat610_code = "143F6,FC"
+
+cheat611_desc = "第三个特技カジノよび"
+cheat611_handler = "2"
+cheat611_code = "143F6,FD"
+
+cheat612_desc = "第三个特技ルーラ"
+cheat612_handler = "2"
+cheat612_code = "143F6,FE"
+
+cheat613_desc = "第四个特技メラ"
+cheat613_handler = "2"
+cheat613_code = "143F7,01"
+
+cheat614_desc = "第四个特技メラミ"
+cheat614_handler = "2"
+cheat614_code = "143F7,02"
+
+cheat615_desc = "第四个特技メラゾーマ"
+cheat615_handler = "2"
+cheat615_code = "143F7,03"
+
+cheat616_desc = "第四个特技ギラ"
+cheat616_handler = "2"
+cheat616_code = "143F7,04"
+
+cheat617_desc = "第四个特技ベギラマ"
+cheat617_handler = "2"
+cheat617_code = "143F7,05"
+
+cheat618_desc = "第四个特技ベギラゴン"
+cheat618_handler = "2"
+cheat618_code = "143F7,06"
+
+cheat619_desc = "第四个特技イオ"
+cheat619_handler = "2"
+cheat619_code = "143F7,07"
+
+cheat620_desc = "第四个特技イオラ"
+cheat620_handler = "2"
+cheat620_code = "143F7,08"
+
+cheat621_desc = "第四个特技イオナズン"
+cheat621_handler = "2"
+cheat621_code = "143F7,09"
+
+cheat622_desc = "第四个特技バギ"
+cheat622_handler = "2"
+cheat622_code = "143F7,0A"
+
+cheat623_desc = "第四个特技バギマ"
+cheat623_handler = "2"
+cheat623_code = "143F7,0B"
+
+cheat624_desc = "第四个特技バギクロス"
+cheat624_handler = "2"
+cheat624_code = "143F7,0C"
+
+cheat625_desc = "第四个特技デイン"
+cheat625_handler = "2"
+cheat625_code = "143F7,0D"
+
+cheat626_desc = "第四个特技ライデイン"
+cheat626_handler = "2"
+cheat626_code = "143F7,0E"
+
+cheat627_desc = "第四个特技ギガデイン"
+cheat627_handler = "2"
+cheat627_code = "143F7,0F"
+
+cheat628_desc = "第四个特技ヒャド"
+cheat628_handler = "2"
+cheat628_code = "143F7,10"
+
+cheat629_desc = "第四个特技ヒャダルコ"
+cheat629_handler = "2"
+cheat629_code = "143F7,11"
+
+cheat630_desc = "第四个特技マヒャド"
+cheat630_handler = "2"
+cheat630_code = "143F7,12"
+
+cheat631_desc = "第四个特技ザキ"
+cheat631_handler = "2"
+cheat631_code = "143F7,13"
+
+cheat632_desc = "第四个特技ザラキ"
+cheat632_handler = "2"
+cheat632_code = "143F7,14"
+
+cheat633_desc = "第四个特技メガンテ"
+cheat633_handler = "2"
+cheat633_code = "143F7,15"
+
+cheat634_desc = "第四个特技ホイミ"
+cheat634_handler = "2"
+cheat634_code = "143F7,16"
+
+cheat635_desc = "第四个特技ベホイミ"
+cheat635_handler = "2"
+cheat635_code = "143F7,17"
+
+cheat636_desc = "第四个特技ベホマ"
+cheat636_handler = "2"
+cheat636_code = "143F7,18"
+
+cheat637_desc = "第四个特技ベホマラー"
+cheat637_handler = "2"
+cheat637_code = "143F7,19"
+
+cheat638_desc = "第四个特技ベホマズン"
+cheat638_handler = "2"
+cheat638_code = "143F7,1A"
+
+cheat639_desc = "第四个特技ザオラル"
+cheat639_handler = "2"
+cheat639_code = "143F7,1E"
+
+cheat640_desc = "第四个特技ザオリク"
+cheat640_handler = "2"
+cheat640_code = "143F7,1F"
+
+cheat641_desc = "第四个特技メガザル"
+cheat641_handler = "2"
+cheat641_code = "143F7,20"
+
+cheat642_desc = "第四个特技キアリー"
+cheat642_handler = "2"
+cheat642_code = "143F7,21"
+
+cheat643_desc = "第四个特技キアラル"
+cheat643_handler = "2"
+cheat643_code = "143F7,22"
+
+cheat644_desc = "第四个特技キアリク"
+cheat644_handler = "2"
+cheat644_code = "143F7,23"
+
+cheat645_desc = "第四个特技シャナク"
+cheat645_handler = "2"
+cheat645_code = "143F7,24"
+
+cheat646_desc = "第四个特技スカラ"
+cheat646_handler = "2"
+cheat646_code = "143F7,25"
+
+cheat647_desc = "第四个特技スクルト"
+cheat647_handler = "2"
+cheat647_code = "143F7,26"
+
+cheat648_desc = "第四个特技ルカニ"
+cheat648_handler = "2"
+cheat648_code = "143F7,27"
+
+cheat649_desc = "第四个特技ルカナン"
+cheat649_handler = "2"
+cheat649_code = "143F7,28"
+
+cheat650_desc = "第四个特技ピオラ"
+cheat650_handler = "2"
+cheat650_code = "143F7,29"
+
+cheat651_desc = "第四个特技ピオリム"
+cheat651_handler = "2"
+cheat651_code = "143F7,2A"
+
+cheat652_desc = "第四个特技ボエミ"
+cheat652_handler = "2"
+cheat652_code = "143F7,2B"
+
+cheat653_desc = "第四个特技ボミオス"
+cheat653_handler = "2"
+cheat653_code = "143F7,2C"
+
+cheat654_desc = "第四个特技バイキルト"
+cheat654_handler = "2"
+cheat654_code = "143F7,2D"
+
+cheat655_desc = "第四个特技マヌーサ"
+cheat655_handler = "2"
+cheat655_code = "143F7,2E"
+
+cheat656_desc = "第四个特技ラリホー"
+cheat656_handler = "2"
+cheat656_code = "143F7,2F"
+
+cheat657_desc = "第四个特技ラリホーマ"
+cheat657_handler = "2"
+cheat657_code = "143F7,30"
+
+cheat658_desc = "第四个特技マホキテ"
+cheat658_handler = "2"
+cheat658_code = "143F7,31"
+
+cheat659_desc = "第四个特技マホトラ"
+cheat659_handler = "2"
+cheat659_code = "143F7,32"
+
+cheat660_desc = "第四个特技マホトーン"
+cheat660_handler = "2"
+cheat660_code = "143F7,33"
+
+cheat661_desc = "第四个特技メダパニ"
+cheat661_handler = "2"
+cheat661_code = "143F7,34"
+
+cheat662_desc = "第四个特技マホターン"
+cheat662_handler = "2"
+cheat662_code = "143F7,36"
+
+cheat663_desc = "第四个特技マホカンタ"
+cheat663_handler = "2"
+cheat663_code = "143F7,37"
+
+cheat664_desc = "第四个特技フバーハ"
+cheat664_handler = "2"
+cheat664_code = "143F7,38"
+
+cheat665_desc = "第四个特技マジックバリア"
+cheat665_handler = "2"
+cheat665_code = "143F7,39"
+
+cheat666_desc = "第四个特技ザラキーマ"
+cheat666_handler = "2"
+cheat666_code = "143F7,3A"
+
+cheat667_desc = "第四个特技ひのいき"
+cheat667_handler = "2"
+cheat667_code = "143F7,40"
+
+cheat668_desc = "第四个特技かえんほうしゃ"
+cheat668_handler = "2"
+cheat668_code = "143F7,41"
+
+cheat669_desc = "第四个特技はげしいほのお"
+cheat669_handler = "2"
+cheat669_code = "143F7,42"
+
+cheat670_desc = "第四个特技つめたいいき"
+cheat670_handler = "2"
+cheat670_code = "143F7,44"
+
+cheat671_desc = "第四个特技こおりのいき"
+cheat671_handler = "2"
+cheat671_code = "143F7,45"
+
+cheat672_desc = "第四个特技こごえるふぶき"
+cheat672_handler = "2"
+cheat672_code = "143F7,46"
+
+cheat673_desc = "第四个特技かまいたち"
+cheat673_handler = "2"
+cheat673_code = "143F7,47"
+
+cheat674_desc = "第四个特技しんくうは"
+cheat674_handler = "2"
+cheat674_code = "143F7,48"
+
+cheat675_desc = "第四个特技いなずま"
+cheat675_handler = "2"
+cheat675_code = "143F7,49"
+
+cheat676_desc = "第四个特技てっぽうみず"
+cheat676_handler = "2"
+cheat676_code = "143F7,4C"
+
+cheat677_desc = "第四个特技つなみ"
+cheat677_handler = "2"
+cheat677_code = "143F7,4D"
+
+cheat678_desc = "第四个特技かえんぎり"
+cheat678_handler = "2"
+cheat678_code = "143F7,50"
+
+cheat679_desc = "第四个特技しんくうぎり"
+cheat679_handler = "2"
+cheat679_code = "143F7,51"
+
+cheat680_desc = "第四个特技いなずまぎり"
+cheat680_handler = "2"
+cheat680_code = "143F7,52"
+
+cheat681_desc = "第四个特技マヒャドぎり"
+cheat681_handler = "2"
+cheat681_code = "143F7,53"
+
+cheat682_desc = "第四个特技どくこうげき"
+cheat682_handler = "2"
+cheat682_code = "143F7,5F"
+
+cheat683_desc = "第四个特技マヒこうげき"
+cheat683_handler = "2"
+cheat683_code = "143F7,60"
+
+cheat684_desc = "第四个特技ねむりこうげき"
+cheat684_handler = "2"
+cheat684_code = "143F7,61"
+
+cheat685_desc = "第四个特技ちからをためる"
+cheat685_handler = "2"
+cheat685_code = "143F7,68"
+
+cheat686_desc = "第四个特技たかくとびあがる"
+cheat686_handler = "2"
+cheat686_code = "143F7,6A"
+
+cheat687_desc = "第四个特技もろはぎり"
+cheat687_handler = "2"
+cheat687_code = "143F7,6D"
+
+cheat688_desc = "第四个特技すてみ"
+cheat688_handler = "2"
+cheat688_code = "143F7,6E"
+
+cheat689_desc = "第四个特技たいあたり"
+cheat689_handler = "2"
+cheat689_code = "143F7,6F"
+
+cheat690_desc = "第四个特技とっこう"
+cheat690_handler = "2"
+cheat690_code = "143F7,70"
+
+cheat691_desc = "第四个特技あまいいき"
+cheat691_handler = "2"
+cheat691_code = "143F7,71"
+
+cheat692_desc = "第四个特技やけつきいき"
+cheat692_handler = "2"
+cheat692_code = "143F7,72"
+
+cheat693_desc = "第四个特技どくのいき"
+cheat693_handler = "2"
+cheat693_code = "143F7,73"
+
+cheat694_desc = "第四个特技もうどくのいき"
+cheat694_handler = "2"
+cheat694_code = "143F7,74"
+
+cheat695_desc = "第四个特技のろいのことば"
+cheat695_handler = "2"
+cheat695_code = "143F7,75"
+
+cheat696_desc = "第四个特技ふしぎなおどり"
+cheat696_handler = "2"
+cheat696_code = "143F7,76"
+
+cheat697_desc = "第四个特技マホトラおどり"
+cheat697_handler = "2"
+cheat697_code = "143F7,77"
+
+cheat698_desc = "第四个特技メダパニダンス"
+cheat698_handler = "2"
+cheat698_code = "143F7,78"
+
+cheat699_desc = "第四个特技さそうおどり"
+cheat699_handler = "2"
+cheat699_code = "143F7,7A"
+
+cheat700_desc = "第四个特技メガザルダンス"
+cheat700_handler = "2"
+cheat700_code = "143F7,7B"
+
+cheat701_desc = "第四个特技ハッスルダンス"
+cheat701_handler = "2"
+cheat701_code = "143F7,7C"
+
+cheat702_desc = "第四个特技みかわしきゃく"
+cheat702_handler = "2"
+cheat702_code = "143F7,7D"
+
+cheat703_desc = "第四个特技すなけむり"
+cheat703_handler = "2"
+cheat703_code = "143F7,7E"
+
+cheat704_desc = "第四个特技ぶきみなひかり"
+cheat704_handler = "2"
+cheat704_code = "143F7,80"
+
+cheat705_desc = "第四个特技ひかりのはどう"
+cheat705_handler = "2"
+cheat705_code = "143F7,81"
+
+cheat706_desc = "第四个特技やみのはどう"
+cheat706_handler = "2"
+cheat706_code = "143F7,82"
+
+cheat707_desc = "第四个特技たたかいのうた"
+cheat707_handler = "2"
+cheat707_code = "143F7,88"
+
+cheat708_desc = "第四个特技いきをすいこむ"
+cheat708_handler = "2"
+cheat708_code = "143F7,89"
+
+cheat709_desc = "第四个特技せいしんとういつ"
+cheat709_handler = "2"
+cheat709_code = "143F7,8A"
+
+cheat710_desc = "第四个特技なめまわし"
+cheat710_handler = "2"
+cheat710_code = "143F7,8B"
+
+cheat711_desc = "第四个特技おどりふうじ"
+cheat711_handler = "2"
+cheat711_code = "143F7,92"
+
+cheat712_desc = "第四个特技だいぼうぎょ"
+cheat712_handler = "2"
+cheat712_code = "143F7,94"
+
+cheat713_desc = "第四个特技うけながし"
+cheat713_handler = "2"
+cheat713_code = "143F7,95"
+
+cheat714_desc = "第四个特技やいばのぼうぎょ"
+cheat714_handler = "2"
+cheat714_code = "143F7,96"
+
+cheat715_desc = "第四个特技みがわり"
+cheat715_handler = "2"
+cheat715_code = "143F7,97"
+
+cheat716_desc = "第四个特技におうだち"
+cheat716_handler = "2"
+cheat716_code = "143F7,98"
+
+cheat717_desc = "第四个特技おいかぜ"
+cheat717_handler = "2"
+cheat717_code = "143F7,99"
+
+cheat718_desc = "第四个特技きょうふう"
+cheat718_handler = "2"
+cheat718_code = "143F7,9A"
+
+cheat719_desc = "第四个特技すねべてをすいこむ"
+cheat719_handler = "2"
+cheat719_code = "143F7,9D"
+
+cheat720_desc = "第四个特技まねまね"
+cheat720_handler = "2"
+cheat720_code = "143F7,9E"
+
+cheat721_desc = "第四个特技くちぶえ"
+cheat721_handler = "2"
+cheat721_code = "143F7,A2"
+
+cheat722_desc = "第四个特技フェロモン"
+cheat722_handler = "2"
+cheat722_code = "143F7,A3"
+
+cheat723_desc = "第四个特技トラマナ"
+cheat723_handler = "2"
+cheat723_code = "143F7,A4"
+
+cheat724_desc = "第四个特技リレミト"
+cheat724_handler = "2"
+cheat724_code = "143F7,A5"
+
+cheat725_desc = "第四个特技みみうち"
+cheat725_handler = "2"
+cheat725_code = "143F7,A6"
+
+cheat726_desc = "第四个特技おつかい"
+cheat726_handler = "2"
+cheat726_code = "143F7,A7"
+
+cheat727_desc = "第四个特技タカのめ"
+cheat727_handler = "2"
+cheat727_code = "143F7,A8"
+
+cheat728_desc = "第四个特技レミラーマ"
+cheat728_handler = "2"
+cheat728_code = "143F7,A9"
+
+cheat729_desc = "第四个特技ぼーっとする"
+cheat729_handler = "2"
+cheat729_code = "143F7,AB"
+
+cheat730_desc = "第四个特技ぼうぎょ"
+cheat730_handler = "2"
+cheat730_code = "143F7,AC"
+
+cheat731_desc = "第四个特技メダパニ"
+cheat731_handler = "2"
+cheat731_code = "143F7,AD"
+
+cheat732_desc = "第四个特技トヘロス"
+cheat732_handler = "2"
+cheat732_code = "143F7,F0"
+
+cheat733_desc = "第四个特技どうぐやよび"
+cheat733_handler = "2"
+cheat733_code = "143F7,F1"
+
+cheat734_desc = "第四个特技きょうかいよび"
+cheat734_handler = "2"
+cheat734_code = "143F7,F2"
+
+cheat735_desc = "第四个特技ルーラ"
+cheat735_handler = "2"
+cheat735_code = "143F7,F3"
+
+cheat736_desc = "第四个特技たびのうた"
+cheat736_handler = "2"
+cheat736_code = "143F7,F4"
+
+cheat737_desc = "第四个特技たびのおどり"
+cheat737_handler = "2"
+cheat737_code = "143F7,F5"
+
+cheat738_desc = "第四个特技さかなつり"
+cheat738_handler = "2"
+cheat738_code = "143F7,F6"
+
+cheat739_desc = "第四个特技かり"
+cheat739_handler = "2"
+cheat739_code = "143F7,F7"
+
+cheat740_desc = "第四个特技てんせいのけはい"
+cheat740_handler = "2"
+cheat740_code = "143F7,F8"
+
+cheat741_desc = "第四个特技インパス"
+cheat741_handler = "2"
+cheat741_code = "143F7,F9"
+
+cheat742_desc = "第四个特技あそびにいく"
+cheat742_handler = "2"
+cheat742_code = "143F7,FA"
+
+cheat743_desc = "第四个特技まもののけはい"
+cheat743_handler = "2"
+cheat743_code = "143F7,FB"
+
+cheat744_desc = "第四个特技フローミ"
+cheat744_handler = "2"
+cheat744_code = "143F7,FC"
+
+cheat745_desc = "第四个特技カジノよび"
+cheat745_handler = "2"
+cheat745_code = "143F7,FD"
+
+cheat746_desc = "第四个特技ルーラ"
+cheat746_handler = "2"
+cheat746_code = "143F7,FE"
+
+cheat747_desc = "第五个特技メラ"
+cheat747_handler = "2"
+cheat747_code = "143F8,01"
+
+cheat748_desc = "第五个特技メラミ"
+cheat748_handler = "2"
+cheat748_code = "143F8,02"
+
+cheat749_desc = "第五个特技メラゾーマ"
+cheat749_handler = "2"
+cheat749_code = "143F8,03"
+
+cheat750_desc = "第五个特技ギラ"
+cheat750_handler = "2"
+cheat750_code = "143F8,04"
+
+cheat751_desc = "第五个特技ベギラマ"
+cheat751_handler = "2"
+cheat751_code = "143F8,05"
+
+cheat752_desc = "第五个特技ベギラゴン"
+cheat752_handler = "2"
+cheat752_code = "143F8,06"
+
+cheat753_desc = "第五个特技イオ"
+cheat753_handler = "2"
+cheat753_code = "143F8,07"
+
+cheat754_desc = "第五个特技イオラ"
+cheat754_handler = "2"
+cheat754_code = "143F8,08"
+
+cheat755_desc = "第五个特技イオナズン"
+cheat755_handler = "2"
+cheat755_code = "143F8,09"
+
+cheat756_desc = "第五个特技バギ"
+cheat756_handler = "2"
+cheat756_code = "143F8,0A"
+
+cheat757_desc = "第五个特技バギマ"
+cheat757_handler = "2"
+cheat757_code = "143F8,0B"
+
+cheat758_desc = "第五个特技バギクロス"
+cheat758_handler = "2"
+cheat758_code = "143F8,0C"
+
+cheat759_desc = "第五个特技デイン"
+cheat759_handler = "2"
+cheat759_code = "143F8,0D"
+
+cheat760_desc = "第五个特技ライデイン"
+cheat760_handler = "2"
+cheat760_code = "143F8,0E"
+
+cheat761_desc = "第五个特技ギガデイン"
+cheat761_handler = "2"
+cheat761_code = "143F8,0F"
+
+cheat762_desc = "第五个特技ヒャド"
+cheat762_handler = "2"
+cheat762_code = "143F8,10"
+
+cheat763_desc = "第五个特技ヒャダルコ"
+cheat763_handler = "2"
+cheat763_code = "143F8,11"
+
+cheat764_desc = "第五个特技マヒャド"
+cheat764_handler = "2"
+cheat764_code = "143F8,12"
+
+cheat765_desc = "第五个特技ザキ"
+cheat765_handler = "2"
+cheat765_code = "143F8,13"
+
+cheat766_desc = "第五个特技ザラキ"
+cheat766_handler = "2"
+cheat766_code = "143F8,14"
+
+cheat767_desc = "第五个特技メガンテ"
+cheat767_handler = "2"
+cheat767_code = "143F8,15"
+
+cheat768_desc = "第五个特技ホイミ"
+cheat768_handler = "2"
+cheat768_code = "143F8,16"
+
+cheat769_desc = "第五个特技ベホイミ"
+cheat769_handler = "2"
+cheat769_code = "143F8,17"
+
+cheat770_desc = "第五个特技ベホマ"
+cheat770_handler = "2"
+cheat770_code = "143F8,18"
+
+cheat771_desc = "第五个特技ベホマラー"
+cheat771_handler = "2"
+cheat771_code = "143F8,19"
+
+cheat772_desc = "第五个特技ベホマズン"
+cheat772_handler = "2"
+cheat772_code = "143F8,1A"
+
+cheat773_desc = "第五个特技ザオラル"
+cheat773_handler = "2"
+cheat773_code = "143F8,1E"
+
+cheat774_desc = "第五个特技ザオリク"
+cheat774_handler = "2"
+cheat774_code = "143F8,1F"
+
+cheat775_desc = "第五个特技メガザル"
+cheat775_handler = "2"
+cheat775_code = "143F8,20"
+
+cheat776_desc = "第五个特技キアリー"
+cheat776_handler = "2"
+cheat776_code = "143F8,21"
+
+cheat777_desc = "第五个特技キアラル"
+cheat777_handler = "2"
+cheat777_code = "143F8,22"
+
+cheat778_desc = "第五个特技キアリク"
+cheat778_handler = "2"
+cheat778_code = "143F8,23"
+
+cheat779_desc = "第五个特技シャナク"
+cheat779_handler = "2"
+cheat779_code = "143F8,24"
+
+cheat780_desc = "第五个特技スカラ"
+cheat780_handler = "2"
+cheat780_code = "143F8,25"
+
+cheat781_desc = "第五个特技スクルト"
+cheat781_handler = "2"
+cheat781_code = "143F8,26"
+
+cheat782_desc = "第五个特技ルカニ"
+cheat782_handler = "2"
+cheat782_code = "143F8,27"
+
+cheat783_desc = "第五个特技ルカナン"
+cheat783_handler = "2"
+cheat783_code = "143F8,28"
+
+cheat784_desc = "第五个特技ピオラ"
+cheat784_handler = "2"
+cheat784_code = "143F8,29"
+
+cheat785_desc = "第五个特技ピオリム"
+cheat785_handler = "2"
+cheat785_code = "143F8,2A"
+
+cheat786_desc = "第五个特技ボエミ"
+cheat786_handler = "2"
+cheat786_code = "143F8,2B"
+
+cheat787_desc = "第五个特技ボミオス"
+cheat787_handler = "2"
+cheat787_code = "143F8,2C"
+
+cheat788_desc = "第五个特技バイキルト"
+cheat788_handler = "2"
+cheat788_code = "143F8,2D"
+
+cheat789_desc = "第五个特技マヌーサ"
+cheat789_handler = "2"
+cheat789_code = "143F8,2E"
+
+cheat790_desc = "第五个特技ラリホー"
+cheat790_handler = "2"
+cheat790_code = "143F8,2F"
+
+cheat791_desc = "第五个特技ラリホーマ"
+cheat791_handler = "2"
+cheat791_code = "143F8,30"
+
+cheat792_desc = "第五个特技マホキテ"
+cheat792_handler = "2"
+cheat792_code = "143F8,31"
+
+cheat793_desc = "第五个特技マホトラ"
+cheat793_handler = "2"
+cheat793_code = "143F8,32"
+
+cheat794_desc = "第五个特技マホトーン"
+cheat794_handler = "2"
+cheat794_code = "143F8,33"
+
+cheat795_desc = "第五个特技メダパニ"
+cheat795_handler = "2"
+cheat795_code = "143F8,34"
+
+cheat796_desc = "第五个特技マホターン"
+cheat796_handler = "2"
+cheat796_code = "143F8,36"
+
+cheat797_desc = "第五个特技マホカンタ"
+cheat797_handler = "2"
+cheat797_code = "143F8,37"
+
+cheat798_desc = "第五个特技フバーハ"
+cheat798_handler = "2"
+cheat798_code = "143F8,38"
+
+cheat799_desc = "第五个特技マジックバリア"
+cheat799_handler = "2"
+cheat799_code = "143F8,39"
+
+cheat800_desc = "第五个特技ザラキーマ"
+cheat800_handler = "2"
+cheat800_code = "143F8,3A"
+
+cheat801_desc = "第五个特技ひのいき"
+cheat801_handler = "2"
+cheat801_code = "143F8,40"
+
+cheat802_desc = "第五个特技かえんほうしゃ"
+cheat802_handler = "2"
+cheat802_code = "143F8,41"
+
+cheat803_desc = "第五个特技はげしいほのお"
+cheat803_handler = "2"
+cheat803_code = "143F8,42"
+
+cheat804_desc = "第五个特技つめたいいき"
+cheat804_handler = "2"
+cheat804_code = "143F8,44"
+
+cheat805_desc = "第五个特技こおりのいき"
+cheat805_handler = "2"
+cheat805_code = "143F8,45"
+
+cheat806_desc = "第五个特技こごえるふぶき"
+cheat806_handler = "2"
+cheat806_code = "143F8,46"
+
+cheat807_desc = "第五个特技かまいたち"
+cheat807_handler = "2"
+cheat807_code = "143F8,47"
+
+cheat808_desc = "第五个特技しんくうは"
+cheat808_handler = "2"
+cheat808_code = "143F8,48"
+
+cheat809_desc = "第五个特技いなずま"
+cheat809_handler = "2"
+cheat809_code = "143F8,49"
+
+cheat810_desc = "第五个特技てっぽうみず"
+cheat810_handler = "2"
+cheat810_code = "143F8,4C"
+
+cheat811_desc = "第五个特技つなみ"
+cheat811_handler = "2"
+cheat811_code = "143F8,4D"
+
+cheat812_desc = "第五个特技かえんぎり"
+cheat812_handler = "2"
+cheat812_code = "143F8,50"
+
+cheat813_desc = "第五个特技しんくうぎり"
+cheat813_handler = "2"
+cheat813_code = "143F8,51"
+
+cheat814_desc = "第五个特技いなずまぎり"
+cheat814_handler = "2"
+cheat814_code = "143F8,52"
+
+cheat815_desc = "第五个特技マヒャドぎり"
+cheat815_handler = "2"
+cheat815_code = "143F8,53"
+
+cheat816_desc = "第五个特技どくこうげき"
+cheat816_handler = "2"
+cheat816_code = "143F8,5F"
+
+cheat817_desc = "第五个特技マヒこうげき"
+cheat817_handler = "2"
+cheat817_code = "143F8,60"
+
+cheat818_desc = "第五个特技ねむりこうげき"
+cheat818_handler = "2"
+cheat818_code = "143F8,61"
+
+cheat819_desc = "第五个特技ちからをためる"
+cheat819_handler = "2"
+cheat819_code = "143F8,68"
+
+cheat820_desc = "第五个特技たかくとびあがる"
+cheat820_handler = "2"
+cheat820_code = "143F8,6A"
+
+cheat821_desc = "第五个特技もろはぎり"
+cheat821_handler = "2"
+cheat821_code = "143F8,6D"
+
+cheat822_desc = "第五个特技すてみ"
+cheat822_handler = "2"
+cheat822_code = "143F8,6E"
+
+cheat823_desc = "第五个特技たいあたり"
+cheat823_handler = "2"
+cheat823_code = "143F8,6F"
+
+cheat824_desc = "第五个特技とっこう"
+cheat824_handler = "2"
+cheat824_code = "143F8,70"
+
+cheat825_desc = "第五个特技あまいいき"
+cheat825_handler = "2"
+cheat825_code = "143F8,71"
+
+cheat826_desc = "第五个特技やけつきいき"
+cheat826_handler = "2"
+cheat826_code = "143F8,72"
+
+cheat827_desc = "第五个特技どくのいき"
+cheat827_handler = "2"
+cheat827_code = "143F8,73"
+
+cheat828_desc = "第五个特技もうどくのいき"
+cheat828_handler = "2"
+cheat828_code = "143F8,74"
+
+cheat829_desc = "第五个特技のろいのことば"
+cheat829_handler = "2"
+cheat829_code = "143F8,75"
+
+cheat830_desc = "第五个特技ふしぎなおどり"
+cheat830_handler = "2"
+cheat830_code = "143F8,76"
+
+cheat831_desc = "第五个特技マホトラおどり"
+cheat831_handler = "2"
+cheat831_code = "143F8,77"
+
+cheat832_desc = "第五个特技メダパニダンス"
+cheat832_handler = "2"
+cheat832_code = "143F8,78"
+
+cheat833_desc = "第五个特技さそうおどり"
+cheat833_handler = "2"
+cheat833_code = "143F8,7A"
+
+cheat834_desc = "第五个特技メガザルダンス"
+cheat834_handler = "2"
+cheat834_code = "143F8,7B"
+
+cheat835_desc = "第五个特技ハッスルダンス"
+cheat835_handler = "2"
+cheat835_code = "143F8,7C"
+
+cheat836_desc = "第五个特技みかわしきゃく"
+cheat836_handler = "2"
+cheat836_code = "143F8,7D"
+
+cheat837_desc = "第五个特技すなけむり"
+cheat837_handler = "2"
+cheat837_code = "143F8,7E"
+
+cheat838_desc = "第五个特技ぶきみなひかり"
+cheat838_handler = "2"
+cheat838_code = "143F8,80"
+
+cheat839_desc = "第五个特技ひかりのはどう"
+cheat839_handler = "2"
+cheat839_code = "143F8,81"
+
+cheat840_desc = "第五个特技やみのはどう"
+cheat840_handler = "2"
+cheat840_code = "143F8,82"
+
+cheat841_desc = "第五个特技たたかいのうた"
+cheat841_handler = "2"
+cheat841_code = "143F8,88"
+
+cheat842_desc = "第五个特技いきをすいこむ"
+cheat842_handler = "2"
+cheat842_code = "143F8,89"
+
+cheat843_desc = "第五个特技せいしんとういつ"
+cheat843_handler = "2"
+cheat843_code = "143F8,8A"
+
+cheat844_desc = "第五个特技なめまわし"
+cheat844_handler = "2"
+cheat844_code = "143F8,8B"
+
+cheat845_desc = "第五个特技おどりふうじ"
+cheat845_handler = "2"
+cheat845_code = "143F8,92"
+
+cheat846_desc = "第五个特技だいぼうぎょ"
+cheat846_handler = "2"
+cheat846_code = "143F8,94"
+
+cheat847_desc = "第五个特技うけながし"
+cheat847_handler = "2"
+cheat847_code = "143F8,95"
+
+cheat848_desc = "第五个特技やいばのぼうぎょ"
+cheat848_handler = "2"
+cheat848_code = "143F8,96"
+
+cheat849_desc = "第五个特技みがわり"
+cheat849_handler = "2"
+cheat849_code = "143F8,97"
+
+cheat850_desc = "第五个特技におうだち"
+cheat850_handler = "2"
+cheat850_code = "143F8,98"
+
+cheat851_desc = "第五个特技おいかぜ"
+cheat851_handler = "2"
+cheat851_code = "143F8,99"
+
+cheat852_desc = "第五个特技きょうふう"
+cheat852_handler = "2"
+cheat852_code = "143F8,9A"
+
+cheat853_desc = "第五个特技すねべてをすいこむ"
+cheat853_handler = "2"
+cheat853_code = "143F8,9D"
+
+cheat854_desc = "第五个特技まねまね"
+cheat854_handler = "2"
+cheat854_code = "143F8,9E"
+
+cheat855_desc = "第五个特技くちぶえ"
+cheat855_handler = "2"
+cheat855_code = "143F8,A2"
+
+cheat856_desc = "第五个特技フェロモン"
+cheat856_handler = "2"
+cheat856_code = "143F8,A3"
+
+cheat857_desc = "第五个特技トラマナ"
+cheat857_handler = "2"
+cheat857_code = "143F8,A4"
+
+cheat858_desc = "第五个特技リレミト"
+cheat858_handler = "2"
+cheat858_code = "143F8,A5"
+
+cheat859_desc = "第五个特技みみうち"
+cheat859_handler = "2"
+cheat859_code = "143F8,A6"
+
+cheat860_desc = "第五个特技おつかい"
+cheat860_handler = "2"
+cheat860_code = "143F8,A7"
+
+cheat861_desc = "第五个特技タカのめ"
+cheat861_handler = "2"
+cheat861_code = "143F8,A8"
+
+cheat862_desc = "第五个特技レミラーマ"
+cheat862_handler = "2"
+cheat862_code = "143F8,A9"
+
+cheat863_desc = "第五个特技ぼーっとする"
+cheat863_handler = "2"
+cheat863_code = "143F8,AB"
+
+cheat864_desc = "第五个特技ぼうぎょ"
+cheat864_handler = "2"
+cheat864_code = "143F8,AC"
+
+cheat865_desc = "第五个特技メダパニ"
+cheat865_handler = "2"
+cheat865_code = "143F8,AD"
+
+cheat866_desc = "第五个特技トヘロス"
+cheat866_handler = "2"
+cheat866_code = "143F8,F0"
+
+cheat867_desc = "第五个特技どうぐやよび"
+cheat867_handler = "2"
+cheat867_code = "143F8,F1"
+
+cheat868_desc = "第五个特技きょうかいよび"
+cheat868_handler = "2"
+cheat868_code = "143F8,F2"
+
+cheat869_desc = "第五个特技ルーラ"
+cheat869_handler = "2"
+cheat869_code = "143F8,F3"
+
+cheat870_desc = "第五个特技たびのうた"
+cheat870_handler = "2"
+cheat870_code = "143F8,F4"
+
+cheat871_desc = "第五个特技たびのおどり"
+cheat871_handler = "2"
+cheat871_code = "143F8,F5"
+
+cheat872_desc = "第五个特技さかなつり"
+cheat872_handler = "2"
+cheat872_code = "143F8,F6"
+
+cheat873_desc = "第五个特技かり"
+cheat873_handler = "2"
+cheat873_code = "143F8,F7"
+
+cheat874_desc = "第五个特技てんせいのけはい"
+cheat874_handler = "2"
+cheat874_code = "143F8,F8"
+
+cheat875_desc = "第五个特技インパス"
+cheat875_handler = "2"
+cheat875_code = "143F8,F9"
+
+cheat876_desc = "第五个特技あそびにいく"
+cheat876_handler = "2"
+cheat876_code = "143F8,FA"
+
+cheat877_desc = "第五个特技まもののけはい"
+cheat877_handler = "2"
+cheat877_code = "143F8,FB"
+
+cheat878_desc = "第五个特技フローミ"
+cheat878_handler = "2"
+cheat878_code = "143F8,FC"
+
+cheat879_desc = "第五个特技カジノよび"
+cheat879_handler = "2"
+cheat879_code = "143F8,FD"
+
+cheat880_desc = "第五个特技ルーラ"
+cheat880_handler = "2"
+cheat880_code = "143F8,FE"
+
+cheat881_desc = "第六个特技メラ"
+cheat881_handler = "2"
+cheat881_code = "143F9,01"
+
+cheat882_desc = "第六个特技メラミ"
+cheat882_handler = "2"
+cheat882_code = "143F9,02"
+
+cheat883_desc = "第六个特技メラゾーマ"
+cheat883_handler = "2"
+cheat883_code = "143F9,03"
+
+cheat884_desc = "第六个特技ギラ"
+cheat884_handler = "2"
+cheat884_code = "143F9,04"
+
+cheat885_desc = "第六个特技ベギラマ"
+cheat885_handler = "2"
+cheat885_code = "143F9,05"
+
+cheat886_desc = "第六个特技ベギラゴン"
+cheat886_handler = "2"
+cheat886_code = "143F9,06"
+
+cheat887_desc = "第六个特技イオ"
+cheat887_handler = "2"
+cheat887_code = "143F9,07"
+
+cheat888_desc = "第六个特技イオラ"
+cheat888_handler = "2"
+cheat888_code = "143F9,08"
+
+cheat889_desc = "第六个特技イオナズン"
+cheat889_handler = "2"
+cheat889_code = "143F9,09"
+
+cheat890_desc = "第六个特技バギ"
+cheat890_handler = "2"
+cheat890_code = "143F9,0A"
+
+cheat891_desc = "第六个特技バギマ"
+cheat891_handler = "2"
+cheat891_code = "143F9,0B"
+
+cheat892_desc = "第六个特技バギクロス"
+cheat892_handler = "2"
+cheat892_code = "143F9,0C"
+
+cheat893_desc = "第六个特技デイン"
+cheat893_handler = "2"
+cheat893_code = "143F9,0D"
+
+cheat894_desc = "第六个特技ライデイン"
+cheat894_handler = "2"
+cheat894_code = "143F9,0E"
+
+cheat895_desc = "第六个特技ギガデイン"
+cheat895_handler = "2"
+cheat895_code = "143F9,0F"
+
+cheat896_desc = "第六个特技ヒャド"
+cheat896_handler = "2"
+cheat896_code = "143F9,10"
+
+cheat897_desc = "第六个特技ヒャダルコ"
+cheat897_handler = "2"
+cheat897_code = "143F9,11"
+
+cheat898_desc = "第六个特技マヒャド"
+cheat898_handler = "2"
+cheat898_code = "143F9,12"
+
+cheat899_desc = "第六个特技ザキ"
+cheat899_handler = "2"
+cheat899_code = "143F9,13"
+
+cheat900_desc = "第六个特技ザラキ"
+cheat900_handler = "2"
+cheat900_code = "143F9,14"
+
+cheat901_desc = "第六个特技メガンテ"
+cheat901_handler = "2"
+cheat901_code = "143F9,15"
+
+cheat902_desc = "第六个特技ホイミ"
+cheat902_handler = "2"
+cheat902_code = "143F9,16"
+
+cheat903_desc = "第六个特技ベホイミ"
+cheat903_handler = "2"
+cheat903_code = "143F9,17"
+
+cheat904_desc = "第六个特技ベホマ"
+cheat904_handler = "2"
+cheat904_code = "143F9,18"
+
+cheat905_desc = "第六个特技ベホマラー"
+cheat905_handler = "2"
+cheat905_code = "143F9,19"
+
+cheat906_desc = "第六个特技ベホマズン"
+cheat906_handler = "2"
+cheat906_code = "143F9,1A"
+
+cheat907_desc = "第六个特技ザオラル"
+cheat907_handler = "2"
+cheat907_code = "143F9,1E"
+
+cheat908_desc = "第六个特技ザオリク"
+cheat908_handler = "2"
+cheat908_code = "143F9,1F"
+
+cheat909_desc = "第六个特技メガザル"
+cheat909_handler = "2"
+cheat909_code = "143F9,20"
+
+cheat910_desc = "第六个特技キアリー"
+cheat910_handler = "2"
+cheat910_code = "143F9,21"
+
+cheat911_desc = "第六个特技キアラル"
+cheat911_handler = "2"
+cheat911_code = "143F9,22"
+
+cheat912_desc = "第六个特技キアリク"
+cheat912_handler = "2"
+cheat912_code = "143F9,23"
+
+cheat913_desc = "第六个特技シャナク"
+cheat913_handler = "2"
+cheat913_code = "143F9,24"
+
+cheat914_desc = "第六个特技スカラ"
+cheat914_handler = "2"
+cheat914_code = "143F9,25"
+
+cheat915_desc = "第六个特技スクルト"
+cheat915_handler = "2"
+cheat915_code = "143F9,26"
+
+cheat916_desc = "第六个特技ルカニ"
+cheat916_handler = "2"
+cheat916_code = "143F9,27"
+
+cheat917_desc = "第六个特技ルカナン"
+cheat917_handler = "2"
+cheat917_code = "143F9,28"
+
+cheat918_desc = "第六个特技ピオラ"
+cheat918_handler = "2"
+cheat918_code = "143F9,29"
+
+cheat919_desc = "第六个特技ピオリム"
+cheat919_handler = "2"
+cheat919_code = "143F9,2A"
+
+cheat920_desc = "第六个特技ボエミ"
+cheat920_handler = "2"
+cheat920_code = "143F9,2B"
+
+cheat921_desc = "第六个特技ボミオス"
+cheat921_handler = "2"
+cheat921_code = "143F9,2C"
+
+cheat922_desc = "第六个特技バイキルト"
+cheat922_handler = "2"
+cheat922_code = "143F9,2D"
+
+cheat923_desc = "第六个特技マヌーサ"
+cheat923_handler = "2"
+cheat923_code = "143F9,2E"
+
+cheat924_desc = "第六个特技ラリホー"
+cheat924_handler = "2"
+cheat924_code = "143F9,2F"
+
+cheat925_desc = "第六个特技ラリホーマ"
+cheat925_handler = "2"
+cheat925_code = "143F9,30"
+
+cheat926_desc = "第六个特技マホキテ"
+cheat926_handler = "2"
+cheat926_code = "143F9,31"
+
+cheat927_desc = "第六个特技マホトラ"
+cheat927_handler = "2"
+cheat927_code = "143F9,32"
+
+cheat928_desc = "第六个特技マホトーン"
+cheat928_handler = "2"
+cheat928_code = "143F9,33"
+
+cheat929_desc = "第六个特技メダパニ"
+cheat929_handler = "2"
+cheat929_code = "143F9,34"
+
+cheat930_desc = "第六个特技マホターン"
+cheat930_handler = "2"
+cheat930_code = "143F9,36"
+
+cheat931_desc = "第六个特技マホカンタ"
+cheat931_handler = "2"
+cheat931_code = "143F9,37"
+
+cheat932_desc = "第六个特技フバーハ"
+cheat932_handler = "2"
+cheat932_code = "143F9,38"
+
+cheat933_desc = "第六个特技マジックバリア"
+cheat933_handler = "2"
+cheat933_code = "143F9,39"
+
+cheat934_desc = "第六个特技ザラキーマ"
+cheat934_handler = "2"
+cheat934_code = "143F9,3A"
+
+cheat935_desc = "第六个特技ひのいき"
+cheat935_handler = "2"
+cheat935_code = "143F9,40"
+
+cheat936_desc = "第六个特技かえんほうしゃ"
+cheat936_handler = "2"
+cheat936_code = "143F9,41"
+
+cheat937_desc = "第六个特技はげしいほのお"
+cheat937_handler = "2"
+cheat937_code = "143F9,42"
+
+cheat938_desc = "第六个特技つめたいいき"
+cheat938_handler = "2"
+cheat938_code = "143F9,44"
+
+cheat939_desc = "第六个特技こおりのいき"
+cheat939_handler = "2"
+cheat939_code = "143F9,45"
+
+cheat940_desc = "第六个特技こごえるふぶき"
+cheat940_handler = "2"
+cheat940_code = "143F9,46"
+
+cheat941_desc = "第六个特技かまいたち"
+cheat941_handler = "2"
+cheat941_code = "143F9,47"
+
+cheat942_desc = "第六个特技しんくうは"
+cheat942_handler = "2"
+cheat942_code = "143F9,48"
+
+cheat943_desc = "第六个特技いなずま"
+cheat943_handler = "2"
+cheat943_code = "143F9,49"
+
+cheat944_desc = "第六个特技てっぽうみず"
+cheat944_handler = "2"
+cheat944_code = "143F9,4C"
+
+cheat945_desc = "第六个特技つなみ"
+cheat945_handler = "2"
+cheat945_code = "143F9,4D"
+
+cheat946_desc = "第六个特技かえんぎり"
+cheat946_handler = "2"
+cheat946_code = "143F9,50"
+
+cheat947_desc = "第六个特技しんくうぎり"
+cheat947_handler = "2"
+cheat947_code = "143F9,51"
+
+cheat948_desc = "第六个特技いなずまぎり"
+cheat948_handler = "2"
+cheat948_code = "143F9,52"
+
+cheat949_desc = "第六个特技マヒャドぎり"
+cheat949_handler = "2"
+cheat949_code = "143F9,53"
+
+cheat950_desc = "第六个特技どくこうげき"
+cheat950_handler = "2"
+cheat950_code = "143F9,5F"
+
+cheat951_desc = "第六个特技マヒこうげき"
+cheat951_handler = "2"
+cheat951_code = "143F9,60"
+
+cheat952_desc = "第六个特技ねむりこうげき"
+cheat952_handler = "2"
+cheat952_code = "143F9,61"
+
+cheat953_desc = "第六个特技ちからをためる"
+cheat953_handler = "2"
+cheat953_code = "143F9,68"
+
+cheat954_desc = "第六个特技たかくとびあがる"
+cheat954_handler = "2"
+cheat954_code = "143F9,6A"
+
+cheat955_desc = "第六个特技もろはぎり"
+cheat955_handler = "2"
+cheat955_code = "143F9,6D"
+
+cheat956_desc = "第六个特技すてみ"
+cheat956_handler = "2"
+cheat956_code = "143F9,6E"
+
+cheat957_desc = "第六个特技たいあたり"
+cheat957_handler = "2"
+cheat957_code = "143F9,6F"
+
+cheat958_desc = "第六个特技とっこう"
+cheat958_handler = "2"
+cheat958_code = "143F9,70"
+
+cheat959_desc = "第六个特技あまいいき"
+cheat959_handler = "2"
+cheat959_code = "143F9,71"
+
+cheat960_desc = "第六个特技やけつきいき"
+cheat960_handler = "2"
+cheat960_code = "143F9,72"
+
+cheat961_desc = "第六个特技どくのいき"
+cheat961_handler = "2"
+cheat961_code = "143F9,73"
+
+cheat962_desc = "第六个特技もうどくのいき"
+cheat962_handler = "2"
+cheat962_code = "143F9,74"
+
+cheat963_desc = "第六个特技のろいのことば"
+cheat963_handler = "2"
+cheat963_code = "143F9,75"
+
+cheat964_desc = "第六个特技ふしぎなおどり"
+cheat964_handler = "2"
+cheat964_code = "143F9,76"
+
+cheat965_desc = "第六个特技マホトラおどり"
+cheat965_handler = "2"
+cheat965_code = "143F9,77"
+
+cheat966_desc = "第六个特技メダパニダンス"
+cheat966_handler = "2"
+cheat966_code = "143F9,78"
+
+cheat967_desc = "第六个特技さそうおどり"
+cheat967_handler = "2"
+cheat967_code = "143F9,7A"
+
+cheat968_desc = "第六个特技メガザルダンス"
+cheat968_handler = "2"
+cheat968_code = "143F9,7B"
+
+cheat969_desc = "第六个特技ハッスルダンス"
+cheat969_handler = "2"
+cheat969_code = "143F9,7C"
+
+cheat970_desc = "第六个特技みかわしきゃく"
+cheat970_handler = "2"
+cheat970_code = "143F9,7D"
+
+cheat971_desc = "第六个特技すなけむり"
+cheat971_handler = "2"
+cheat971_code = "143F9,7E"
+
+cheat972_desc = "第六个特技ぶきみなひかり"
+cheat972_handler = "2"
+cheat972_code = "143F9,80"
+
+cheat973_desc = "第六个特技ひかりのはどう"
+cheat973_handler = "2"
+cheat973_code = "143F9,81"
+
+cheat974_desc = "第六个特技やみのはどう"
+cheat974_handler = "2"
+cheat974_code = "143F9,82"
+
+cheat975_desc = "第六个特技たたかいのうた"
+cheat975_handler = "2"
+cheat975_code = "143F9,88"
+
+cheat976_desc = "第六个特技いきをすいこむ"
+cheat976_handler = "2"
+cheat976_code = "143F9,89"
+
+cheat977_desc = "第六个特技せいしんとういつ"
+cheat977_handler = "2"
+cheat977_code = "143F9,8A"
+
+cheat978_desc = "第六个特技なめまわし"
+cheat978_handler = "2"
+cheat978_code = "143F9,8B"
+
+cheat979_desc = "第六个特技おどりふうじ"
+cheat979_handler = "2"
+cheat979_code = "143F9,92"
+
+cheat980_desc = "第六个特技だいぼうぎょ"
+cheat980_handler = "2"
+cheat980_code = "143F9,94"
+
+cheat981_desc = "第六个特技うけながし"
+cheat981_handler = "2"
+cheat981_code = "143F9,95"
+
+cheat982_desc = "第六个特技やいばのぼうぎょ"
+cheat982_handler = "2"
+cheat982_code = "143F9,96"
+
+cheat983_desc = "第六个特技みがわり"
+cheat983_handler = "2"
+cheat983_code = "143F9,97"
+
+cheat984_desc = "第六个特技におうだち"
+cheat984_handler = "2"
+cheat984_code = "143F9,98"
+
+cheat985_desc = "第六个特技おいかぜ"
+cheat985_handler = "2"
+cheat985_code = "143F9,99"
+
+cheat986_desc = "第六个特技きょうふう"
+cheat986_handler = "2"
+cheat986_code = "143F9,9A"
+
+cheat987_desc = "第六个特技すねべてをすいこむ"
+cheat987_handler = "2"
+cheat987_code = "143F9,9D"
+
+cheat988_desc = "第六个特技まねまね"
+cheat988_handler = "2"
+cheat988_code = "143F9,9E"
+
+cheat989_desc = "第六个特技くちぶえ"
+cheat989_handler = "2"
+cheat989_code = "143F9,A2"
+
+cheat990_desc = "第六个特技フェロモン"
+cheat990_handler = "2"
+cheat990_code = "143F9,A3"
+
+cheat991_desc = "第六个特技トラマナ"
+cheat991_handler = "2"
+cheat991_code = "143F9,A4"
+
+cheat992_desc = "第六个特技リレミト"
+cheat992_handler = "2"
+cheat992_code = "143F9,A5"
+
+cheat993_desc = "第六个特技みみうち"
+cheat993_handler = "2"
+cheat993_code = "143F9,A6"
+
+cheat994_desc = "第六个特技おつかい"
+cheat994_handler = "2"
+cheat994_code = "143F9,A7"
+
+cheat995_desc = "第六个特技タカのめ"
+cheat995_handler = "2"
+cheat995_code = "143F9,A8"
+
+cheat996_desc = "第六个特技レミラーマ"
+cheat996_handler = "2"
+cheat996_code = "143F9,A9"
+
+cheat997_desc = "第六个特技ぼーっとする"
+cheat997_handler = "2"
+cheat997_code = "143F9,AB"
+
+cheat998_desc = "第六个特技ぼうぎょ"
+cheat998_handler = "2"
+cheat998_code = "143F9,AC"
+
+cheat999_desc = "第六个特技メダパニ"
+cheat999_handler = "2"
+cheat999_code = "143F9,AD"
+
+cheat1000_desc = "第六个特技トヘロス"
+cheat1000_handler = "2"
+cheat1000_code = "143F9,F0"
+
+cheat1001_desc = "第六个特技どうぐやよび"
+cheat1001_handler = "2"
+cheat1001_code = "143F9,F1"
+
+cheat1002_desc = "第六个特技きょうかいよび"
+cheat1002_handler = "2"
+cheat1002_code = "143F9,F2"
+
+cheat1003_desc = "第六个特技ルーラ"
+cheat1003_handler = "2"
+cheat1003_code = "143F9,F3"
+
+cheat1004_desc = "第六个特技たびのうた"
+cheat1004_handler = "2"
+cheat1004_code = "143F9,F4"
+
+cheat1005_desc = "第六个特技たびのおどり"
+cheat1005_handler = "2"
+cheat1005_code = "143F9,F5"
+
+cheat1006_desc = "第六个特技さかなつり"
+cheat1006_handler = "2"
+cheat1006_code = "143F9,F6"
+
+cheat1007_desc = "第六个特技かり"
+cheat1007_handler = "2"
+cheat1007_code = "143F9,F7"
+
+cheat1008_desc = "第六个特技てんせいのけはい"
+cheat1008_handler = "2"
+cheat1008_code = "143F9,F8"
+
+cheat1009_desc = "第六个特技インパス"
+cheat1009_handler = "2"
+cheat1009_code = "143F9,F9"
+
+cheat1010_desc = "第六个特技あそびにいく"
+cheat1010_handler = "2"
+cheat1010_code = "143F9,FA"
+
+cheat1011_desc = "第六个特技まもののけはい"
+cheat1011_handler = "2"
+cheat1011_code = "143F9,FB"
+
+cheat1012_desc = "第六个特技フローミ"
+cheat1012_handler = "2"
+cheat1012_code = "143F9,FC"
+
+cheat1013_desc = "第六个特技カジノよび"
+cheat1013_handler = "2"
+cheat1013_code = "143F9,FD"
+
+cheat1014_desc = "第六个特技ルーラ"
+cheat1014_handler = "2"
+cheat1014_code = "143F9,FE"
+
+cheats = 1015

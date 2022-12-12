@@ -1,0 +1,13 @@
+cheat0_desc = "金錢"
+cheat0_handler = "2"
+cheat0_code = "449D4,7F,96,98"
+
+cheat1_desc = "體力"
+cheat1_handler = "2"
+cheat1_code = "44B9C,E7,3,E7,3;44CB8,E7,3,E7,3;44DD4,E7,3,E7,3"
+
+cheat2_desc = "查克拉"
+cheat2_handler = "2"
+cheat2_code = "44BA0,E7,3,E7,3;44CBC,E7,3,E7,3;44DD8,E7,3,E7,3"
+
+cheats = 3

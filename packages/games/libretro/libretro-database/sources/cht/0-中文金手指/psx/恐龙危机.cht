@@ -1,0 +1,61 @@
+cheat0_desc = "启动破解"
+cheat0_handler = "0"
+cheat0_code = "8014957E#1000"
+
+cheat1_desc = "无限体力"
+cheat1_handler = "0"
+cheat1_code = "800AE1DC#04B0"
+
+cheat2_desc = "所有武器"
+cheat2_handler = "0"
+cheat2_code = "800B6210#FFFE"
+
+cheat3_desc = "道具不減"
+cheat3_handler = "0"
+cheat3_code = "800B6534#631B"
+
+cheat4_desc = "立刻進入OPERATION WIPE-OUT-A"
+cheat4_handler = "0"
+cheat4_code = "800BC8A2#0001"
+
+cheat5_desc = "立刻進入OPERATION WIPE-OUT-B"
+cheat5_handler = "0"
+cheat5_code = "800BC8A2#0403"
+
+cheat6_desc = "第一格止血劑-A"
+cheat6_handler = "0"
+cheat6_code = "800B6538#631C;800B653A#0001"
+
+cheat7_desc = "第一格止血劑-B"
+cheat7_handler = "0"
+cheat7_code = "800B6538#631C;800B653A#0002"
+
+cheat8_desc = "第一格回復劑-C"
+cheat8_handler = "0"
+cheat8_code = "800B6538#631C;800B653A#0003"
+
+cheat9_desc = "第二格9MM-子彈"
+cheat9_handler = "0"
+cheat9_code = "800B653C#6316"
+
+cheat10_desc = "散彈枪"
+cheat10_handler = "0"
+cheat10_code = "800B6540#6311"
+
+cheat11_desc = "槍榴彈"
+cheat11_handler = "0"
+cheat11_code = "800B6544#6318"
+
+cheat12_desc = "猛毒彈"
+cheat12_handler = "0"
+cheat12_code = "800B6548#6315"
+
+cheat13_desc = "麻醉彈"
+cheat13_handler = "0"
+cheat13_code = "800B654C#6312;800B6550#6313;800B6554#6314"
+
+cheat14_desc = "(SG)彈"
+cheat14_handler = "0"
+cheat14_code = "800B6558#6310"
+
+cheats = 15

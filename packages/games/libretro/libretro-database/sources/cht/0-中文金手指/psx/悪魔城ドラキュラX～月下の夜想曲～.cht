@@ -1,0 +1,549 @@
+cheat0_desc = "金钱无限(日)开启"
+cheat0_handler = "0"
+cheat0_code = "80097BF0#423F;80097BF2#000F"
+
+cheat1_desc = "快速升级(日)开启"
+cheat1_handler = "0"
+cheat1_code = "800FD912#1200"
+
+cheat2_desc = "绝对无敌(日)开启"
+cheat2_handler = "0"
+cheat2_code = "80109D02#1400;80109EB8#0000"
+
+cheat3_desc = "攻击力最高(日)开启"
+cheat3_handler = "0"
+cheat3_code = "800F4BF6#1200"
+
+cheat4_desc = "防御力最高(日)开启"
+cheat4_handler = "0"
+cheat4_code = "800F504E#1200"
+
+cheat5_desc = "HP 最高(日)开启"
+cheat5_handler = "0"
+cheat5_code = "80097BA0#270F;80097BA4#270F"
+
+cheat6_desc = "MP 最高(日)开启"
+cheat6_handler = "0"
+cheat6_code = "80097BB0#270F;80097BB4#270F"
+
+cheat7_desc = "STR 最高(日)开启"
+cheat7_handler = "0"
+cheat7_code = "80097BB8#03E7"
+
+cheat8_desc = "C开启 最高(日)开启"
+cheat8_handler = "0"
+cheat8_code = "80097BBC#03E7"
+
+cheat9_desc = "INT 最高(日)开启"
+cheat9_handler = "0"
+cheat9_code = "80097BC0#03E7"
+
+cheat10_desc = "LCK 最高(日)开启"
+cheat10_handler = "0"
+cheat10_code = "80097BC4#03E7"
+
+cheat11_desc = "MP 快速恢复(日)开启"
+cheat11_handler = "0"
+cheat11_code = "8010131A#1200"
+
+cheat12_desc = "HEART MAX心(日)开启"
+cheat12_handler = "0"
+cheat12_code = "80097BA8#270F;80097BAC#270F"
+
+cheat13_desc = "全部必杀技(日)开启"
+cheat13_handler = "0"
+cheat13_code = "80097982#8180;80097984#8382;80097986#8584;80097988#8786"
+
+cheat14_desc = "全部魔导器(日)开启"
+cheat14_handler = "0"
+cheat14_code = "B00F0002#00000000,80097964#0303"
+
+cheat15_desc = "怪物图鉴全开(日)开启"
+cheat15_handler = "0"
+cheat15_code = "B0130001#00000000,3003BF7C#00FF;B0130001#00000000,3003BF9C#00FF"
+
+cheat16_desc = "全部武器.防具.饰物及道具(日)开启"
+cheat16_handler = "0"
+cheat16_code = "B0800002#00000000,8009798C#0909"
+
+cheat17_desc = "使魔等级最高(日)开启"
+cheat17_handler = "0"
+cheat17_code = "B0250002#00000000,80097C44#0063"
+
+cheat18_desc = "时间暂停的秒数不变(日)开启"
+cheat18_handler = "0"
+cheat18_code = "80074BD4#0005;80129E7C#0000"
+
+cheat19_desc = "开启地下庭院(日)正城"
+cheat19_handler = "0"
+cheat19_code = "30181104#01"
+
+cheat20_desc = "逆城入城口第8使魔召唤(日)开启"
+cheat20_handler = "0"
+cheat20_code = "30079B2E#01;30078526#01"
+
+cheat21_desc = "入城口关灯(日)开启"
+cheat21_handler = "0"
+cheat21_code = "3003BE23#00"
+
+cheat22_desc = "死神搜身(日)不搜"
+cheat22_handler = "0"
+cheat22_code = "3003BE21#1"
+
+cheat23_desc = "死神搜身(日)搜"
+cheat23_handler = "0"
+cheat23_code = "3003BE21#0"
+
+cheat24_desc = "音乐停止(日)"
+cheat24_handler = "0"
+cheat24_code = "801382AC#1D"
+
+cheat25_desc = "时钟静止(日)"
+cheat25_handler = "0"
+cheat25_code = "80074BD4#05"
+
+cheat26_desc = "妖刀村正成长经验值(日)开启"
+cheat26_handler = "0"
+cheat26_code = "30097C40#FF;30097C41#FF"
+
+cheat27_desc = "所有BOSS复活(日)所有BOSS复活"
+cheat27_handler = "0"
+cheat27_code = "3003CA90#0;3003CA91#0;3003CA28#0;3003CA29#0;3003CA2C#0;3003CA2D#0;3003CA30#0;3003CA31#0;3003CA34#0;3003CA35#0;3003CA38#0;3003CA39#0;3003CA3C#0;3003CA3D#0;3003CA40#0;3003CA41#0;3003CA44#0;3003CA45#0;3003CA48#0;3003CA49#0;3003CA4C#0;3003CA4D#0;3003CA50#0;3003CA51#0;3003CA54#0;3003CA55#0;3003CA58#0;3003CA59#0;3003CA5C#0;3003CA5D#0;3003CA60#0;3003CA61#0;3003CA64#0;3003CA65#0;3003CA68#0;3003CA69#0;3003CA6C#0;3003CA6D#0;3003CA70#0;3003CA71#0;3003CA74#0;3003CA75#0;3003CA78#0;3003CA79#0;3003CA7C#0;3003CA7D#0;3003CA80#0;3003CA81#0;3003CA85#0;3003CA84#0;3003CA88#0;3003CA89#0;3003CA8C#0;3003CA8D#0;3003CA2A#00;3003CA2B#00;3003CA2E#00;3003CA2F#00;3003CA32#00;3003CA33#00;3003CA36#00;3003CA37#00;3003CA3A#00;3003CA3B#00;3003CA3E#00;3003CA3F#00;3003CA42#00;3003CA43#00;3003CA46#00;3003CA47#00;3003CA4A#00;3003CA4B#00;3003CA4E#00;3003CA4F#00;3003CA52#00;3003CA53#00;3003CA56#00;3003CA57#00;3003CA5A#00;3003CA5B#00;3003CA5E#00;3003CA5F#00;3003CA62#00;3003CA63#00;3003CA66#00;3003CA67#00;3003CA6A#00;3003CA6B#00;3003CA6E#00;3003CA6F#00;3003CA72#00;3003CA73#00;3003CA76#00;3003CA77#00;3003CA7A#00;3003CA7B#00;3003CA7E#00;3003CA7F#00;3003CA82#00;3003CA83#00;3003CA86#00;3003CA87#00;3003CA8A#00;3003CA8B#00;3003CA8E#00;3003CA8F#00;3003CA92#00;3003CA93#00"
+
+cheat28_desc = "所有BOSS复活(日)所有BOSS全灭"
+cheat28_handler = "0"
+cheat28_code = "3003CA28#1;3003CA29#00;3003CA2A#00;3003CA2B#00;3003CA2C#2;3003CA2D#00;3003CA2E#00;3003CA2F#00;3003CA30#3;3003CA31#00;3003CA32#00;3003CA33#00;3003CA34#4;3003CA35#00;3003CA36#00;3003CA37#00;3003CA38#5;3003CA39#00;3003CA3A#00;3003CA3B#00;3003CA3C#6;3003CA3D#00;3003CA3E#00;3003CA3F#00;3003CA40#7;3003CA41#00;3003CA42#00;3003CA43#00;3003CA44#8;3003CA45#00;3003CA46#00;3003CA47#00;3003CA48#9;3003CA49#00;3003CA4A#00;3003CA4B#00;3003CA4C#A;3003CA4D#00;3003CA4E#00;3003CA4F#00;3003CA50#B;3003CA51#00;3003CA52#00;3003CA53#00;3003CA54#C;3003CA55#00;3003CA56#00;3003CA57#00;3003CA58#D;3003CA59#00;3003CA5A#00;3003CA5B#00;3003CA5C#E;3003CA5D#00;3003CA5E#00;3003CA5F#00;3003CA60#F;3003CA61#00;3003CA62#00;3003CA63#00;3003CA64#10;3003CA65#00;3003CA66#00;3003CA67#00;3003CA68#11;3003CA69#00;3003CA6A#00;3003CA6B#00;3003CA6C#12;3003CA6D#00;3003CA6E#00;3003CA6F#00;3003CA70#13;3003CA71#00;3003CA72#00;3003CA73#00;3003CA74#14;3003CA75#00;3003CA76#00;3003CA77#00;3003CA78#15;3003CA79#00;3003CA7A#00;3003CA7B#00;3003CA7C#16;3003CA7D#00;3003CA7E#00;3003CA7F#00;3003CA80#17;3003CA81#00;3003CA82#00;3003CA83#00;3003CA84#18;3003CA85#00;3003CA86#00;3003CA87#00;3003CA88#19;3003CA89#00;3003CA8A#00;3003CA8B#00;3003CA8C#1A;3003CA8D#00;3003CA8E#00;3003CA8F#00;3003CA90#1B;3003CA91#00;3003CA92#00;3003CA93#00"
+
+cheat29_desc = "免费观看战术指南(日)开启"
+cheat29_handler = "0"
+cheat29_code = "301817F0#0;301817F1#0;301817E0#0;301817E1#0;301817D0#0;301817D1#0;301817C0#0;301817C1#0;301817B0#0;301817B1#0;301817A0#0;301817A1#0;30181790#0;30181791#0;30181780#0;30181781#0;30181770#0;30181771#0;30181760#0;30181761#0;30181750#0;30181751#0;30181740#0;30181741#0;30181748#0;30181749#0;30181758#0;30181759#0;30181768#0;30181769#0;30181778#0;30181779#0;30181788#0;30181789#0;30181798#0;30181799#0;301817A8#0;301817A9#0;301817B8#0;301817B9#0;301817C8#0;301817C9#0;301817D8#0;301817D9#0;301817E8#0;301817E9#0"
+
+cheat30_desc = "RICHTER燃烧圣鞭(日)燃烧圣鞭"
+cheat30_handler = "0"
+cheat30_code = "30072F00#FF;30072F01#FF"
+
+cheat31_desc = "武器任选(日)飞刀"
+cheat31_handler = "0"
+cheat31_code = "30097BFC#01"
+
+cheat32_desc = "武器任选(日)斧头"
+cheat32_handler = "0"
+cheat32_code = "30097BFC#02"
+
+cheat33_desc = "武器任选(日)圣水瓶"
+cheat33_handler = "0"
+cheat33_code = "30097BFC#03"
+
+cheat34_desc = "武器任选(日)十字架"
+cheat34_handler = "0"
+cheat34_code = "30097BFC#04"
+
+cheat35_desc = "武器任选(日)十字烟盒"
+cheat35_handler = "0"
+cheat35_code = "30097BFC#05"
+
+cheat36_desc = "武器任选(日)定时表"
+cheat36_handler = "0"
+cheat36_code = "30097BFC#06"
+
+cheat37_desc = "武器任选(日)折射光线的钻石"
+cheat37_handler = "0"
+cheat37_code = "30097BFC#07"
+
+cheat38_desc = "武器任选(日)大手"
+cheat38_handler = "0"
+cheat38_code = "30097BFC#08"
+
+cheat39_desc = "武器任选(日)圣指环"
+cheat39_handler = "0"
+cheat39_code = "30097BFC#09"
+
+cheat40_desc = "RICHTER心满(日)MAX"
+cheat40_handler = "0"
+cheat40_code = "30097BA8#00000063"
+
+cheat41_desc = "RICHTER血满(日)MAX"
+cheat41_handler = "0"
+cheat41_code = "30097BA0#32;30097BA4#32"
+
+cheat42_desc = "光环围绕RICHTER(日)开启"
+cheat42_handler = "0"
+cheat42_code = "9007623F#22009400;90076240#00220094;90076241#80002200;90076242#43800022"
+
+cheat43_desc = "全自动攻击(日)钻石光线智能连发"
+cheat43_handler = "0"
+cheat43_code = "900739E5#38000000;900739E6#00380000;800739E7#00003800;300739E8#00000038;90073A45#30800733;90073A46#00308007;80073A47#00003080;30073A48#00000030"
+
+cheat44_desc = "全自动攻击(日)攻击时下圣水"
+cheat44_handler = "0"
+cheat44_code = "300739E8#0C"
+
+cheat45_desc = "姿势(日)指天"
+cheat45_handler = "0"
+cheat45_code = "90073422#57AC0000;90073423#1557AC00;90073424#801557AC"
+
+cheat46_desc = "滑行(日)开启"
+cheat46_handler = "0"
+cheat46_code = "9007342B#268010FF"
+
+cheat47_desc = "往上出城(日)开启"
+cheat47_handler = "0"
+cheat47_code = "900973F1#17000000;900973F2#00170000;800973F3#00001700;300973F4#00000017"
+
+cheat48_desc = "普通下跳出城(日)开启"
+cheat48_handler = "0"
+cheat48_code = "900973F1#A7000000;900973F2#00A70000;800973F3#0000A700;300973F4#000000A7"
+
+cheat49_desc = "最左边出城(日)开启"
+cheat49_handler = "0"
+cheat49_code = "900733D7#09000000;900733D8#00090000;800733D9#00000900;900733DB#88000000;900733DC#00880000;800733DD#00008800;300733DE#00000088;900973F1#87000000;900973F2#00870000;800973F3#00008700;300973F4#00000087"
+
+cheat50_desc = "最右边出城(日)开启"
+cheat50_handler = "0"
+cheat50_code = "900733D6#60000000;900733D7#FC600000;900733D8#00FC6000;800733D9#0000FC60;900733DB#83000000;900733DC#00830000;800733DD#00008300;300733DE#00000083;900973F1#87000000;900973F2#00870000;800973F3#00008700;300973F4#00000087"
+
+cheat51_desc = "穿正中铁门到中间的左边(日)开启"
+cheat51_handler = "0"
+cheat51_code = "900733D7#5C800000;900733D8#005C8000;800733D9#00005C80;300733DA#0000005C"
+
+cheat52_desc = "身处最左边(日)开启"
+cheat52_handler = "0"
+cheat52_code = "900733D7#09000000;900733D8#00090000;800733D9#00000900;900733DB#88000000;900733DC#00880000;800733DD#00008800;300733DE#00000088"
+
+cheat53_desc = "身处最右边(日)开启"
+cheat53_handler = "0"
+cheat53_code = "900733D6#60000000;900733D7#FC600000;900733D8#00FC6000;800733D9#0000FC60;900733DB#83000000;900733DC#00830000;800733DD#00008300;300733DE#00000083"
+
+cheat54_desc = "Y轴上下的中段(日)开启"
+cheat54_handler = "0"
+cheat54_code = "900973F1#87000000;900973F2#00870000;800973F3#00008700;300973F4#00000087"
+
+cheat55_desc = "上下出城法(日)极上出城法"
+cheat55_handler = "0"
+cheat55_code = "900973F1#08000000;900973F2#00080000;800973F3#00000800;300973F4#00000008"
+
+cheat56_desc = "上下出城法(日)极下出城法"
+cheat56_handler = "0"
+cheat56_code = "300973F4#D2"
+
+cheat57_desc = "上下出城法(日)往上出城"
+cheat57_handler = "0"
+cheat57_code = "900973F1#17000000;900973F2#00170000;800973F3#00001700;300973F4#00000017"
+
+cheat58_desc = "上下出城法(日)普通下跳出城"
+cheat58_handler = "0"
+cheat58_code = "900973F1#A7000000;900973F2#00A70000;800973F3#0000A700;300973F4#000000A7"
+
+cheat59_desc = "上下出城法(日)上下的中段"
+cheat59_handler = "0"
+cheat59_code = "900973F1#87000000;900973F2#00870000;800973F3#00008700;300973F4#00000087"
+
+cheat60_desc = "左右出城法(日)最左边出城"
+cheat60_handler = "0"
+cheat60_code = "900733D7#09000000;900733D8#00090000;800733D9#00000900;900733DB#88000000;900733DC#00880000;800733DD#00008800;300733DE#00000088;900973F1#87000000;900973F2#00870000;800973F3#00008700;300973F4#00000087"
+
+cheat61_desc = "左右出城法(日)最右边出城"
+cheat61_handler = "0"
+cheat61_code = "900733D6#60000000;900733D7#FC600000;900733D8#00FC6000;800733D9#0000FC60;900733DB#83000000;900733DC#00830000;800733DD#00008300;300733DE#00000083;900973F1#87000000;900973F2#00870000;800973F3#00008700;300973F4#00000087"
+
+cheat62_desc = "左右出城法(日)穿正中铁门到中间的左边"
+cheat62_handler = "0"
+cheat62_code = "900733D7#5C800000;900733D8#005C8000;800733D9#00005C80;300733DA#0000005C"
+
+cheat63_desc = "左右出城法(日)身处最左边"
+cheat63_handler = "0"
+cheat63_code = "900733D7#09000000;900733D8#00090000;800733D9#00000900;900733DB#88000000;900733DC#00880000;800733DD#00008800;300733DE#00000088"
+
+cheat64_desc = "左右出城法(日)身处最右边"
+cheat64_handler = "0"
+cheat64_code = "900733D6#60000000;900733D7#FC600000;900733D8#00FC6000;800733D9#0000FC60;900733DB#83000000;900733DC#00830000;800733DD#00008300;300733DE#00000083"
+
+cheat65_desc = "左右出城法(日)左方未到版边"
+cheat65_handler = "0"
+cheat65_code = "900733D7#18C00000;900733D8#0018C000;800733D9#000018C0;300733DA#00000018"
+
+cheat66_desc = "左右出城法(日)左方离版边远点"
+cheat66_handler = "0"
+cheat66_code = "900733D7#1F000000;900733D8#001F0000;800733D9#00001F00;300733DA#0000001F"
+
+cheat67_desc = "左右出城法(日)最左"
+cheat67_handler = "0"
+cheat67_code = "900733D7#04C00000;900733D8#0004C000;800733D9#000004C0;300733DA#00000004"
+
+cheat68_desc = "ALUCARD绝对无敌(日)开启"
+cheat68_handler = "0"
+cheat68_code = "80109D02#1400;80109EB8#0000"
+
+cheat69_desc = "攻击力最高(日)开启"
+cheat69_handler = "0"
+cheat69_code = "800F4BF6#1200"
+
+cheat70_desc = "防御力最高(日)开启"
+cheat70_handler = "0"
+cheat70_code = "800F504E#1200"
+
+cheat71_desc = "通用HP最高(日)开启"
+cheat71_handler = "0"
+cheat71_code = "80097BA0#270F;80097BA4#270F"
+
+cheat72_desc = "MP 最高(日)开启"
+cheat72_handler = "0"
+cheat72_code = "80097BB0#270F;80097BB4#270F"
+
+cheat73_desc = "快速升级(日)开启"
+cheat73_handler = "0"
+cheat73_code = "800FD912#1200"
+
+cheat74_desc = "M开启EY无限(日)开启"
+cheat74_handler = "0"
+cheat74_code = "80097BF0#423F;80097BF2#000F"
+
+cheat75_desc = "STR 最高(日)开启"
+cheat75_handler = "0"
+cheat75_code = "80097BB8#03E7"
+
+cheat76_desc = "C开启 最高(日)开启"
+cheat76_handler = "0"
+cheat76_code = "80097BBC#03E7"
+
+cheat77_desc = "INT 最高(日)开启"
+cheat77_handler = "0"
+cheat77_code = "80097BC0#03E7"
+
+cheat78_desc = "LCK 最高(日)开启"
+cheat78_handler = "0"
+cheat78_code = "80097BC4#03E7"
+
+cheat79_desc = "MP 快速恢复(日)开启"
+cheat79_handler = "0"
+cheat79_code = "8010131A#1200"
+
+cheat80_desc = "心值最高(日)开启"
+cheat80_handler = "0"
+cheat80_code = "80097BA8#270F;80097BAC#270F"
+
+cheat81_desc = "所有必杀技(日)开启"
+cheat81_handler = "0"
+cheat81_code = "80097982#8180;80097984#8382;80097986#8584;80097988#8786"
+
+cheat82_desc = "所有魔导器(日)开启"
+cheat82_handler = "0"
+cheat82_code = "B00F0002#00000000,80097964#0303"
+
+cheat83_desc = "使魔等级最高(日)开启"
+cheat83_handler = "0"
+cheat83_code = "B0250002#00000000,80097C44#0063"
+
+cheat84_desc = "时间暂停的秒数不变(日)开启"
+cheat84_handler = "0"
+cheat84_code = "80074BD4#0005;80129E7C#0000"
+
+cheat85_desc = "所有武器.防具.饰物及道具(日)开启"
+cheat85_handler = "0"
+cheat85_code = "B0800002#00000000,8009798C#0909"
+
+cheat86_desc = "蝙蝠等级,经验值为99(日)开启"
+cheat86_handler = "0"
+cheat86_code = "80097C44#0063;80097C48#0063"
+
+cheat87_desc = "死灵等级,经验值为99(日)开启"
+cheat87_handler = "0"
+cheat87_code = "80097C50#0063;80097C54#0063"
+
+cheat88_desc = "妖精等级,经验值为99(日)开启"
+cheat88_handler = "0"
+cheat88_code = "80097C5C#0063;80097C60#0063"
+
+cheat89_desc = "小恶魔等级,经验值为99(日)开启"
+cheat89_handler = "0"
+cheat89_code = "80097C68#0063;80097C6C#0063"
+
+cheat90_desc = "剑魔等级,经验值为99(日)开启"
+cheat90_handler = "0"
+cheat90_code = "80097C74#0063;80097C78#0063"
+
+cheat91_desc = "半妖精等级,经验值为99(日)开启"
+cheat91_handler = "0"
+cheat91_code = "80097C80#0063;80097C84#0063"
+
+cheat92_desc = "鼻恶魔等级,经验值为99(日)开启"
+cheat92_handler = "0"
+cheat92_code = "80097C8C#0063;80097C90#0063"
+
+cheat93_desc = "怪物图鉴全开(日)"
+cheat93_handler = "0"
+cheat93_code = "B0130001#00000000,3003BF7C#00FF;B0130001#00000000,3003BF9C#00FF"
+
+cheat94_desc = "所有特别道具1(美)开启"
+cheat94_handler = "0"
+cheat94_code = "50000e02#0000;80097982#8180"
+
+cheat95_desc = "所有特别道具2(美)开启"
+cheat95_handler = "0"
+cheat95_code = "50000502#0000;80097978#0303"
+
+cheat96_desc = "快速升级(美)开启"
+cheat96_handler = "0"
+cheat96_code = "80097bec#ffff"
+
+cheat97_desc = "无限金钱(美)开启"
+cheat97_handler = "0"
+cheat97_code = "80097bf0#ffff"
+
+cheat98_desc = "最大HP(美)开启"
+cheat98_handler = "0"
+cheat98_code = "80097ba0#03e7"
+
+cheat99_desc = "最大MP(美)开启"
+cheat99_handler = "0"
+cheat99_code = "80097bb0#03e7"
+
+cheat100_desc = "最大Hearts(美)开启"
+cheat100_handler = "0"
+cheat100_code = "80097ba8#0063"
+
+cheat101_desc = "超级跳跃(Press X + L1)(美)开启"
+cheat101_handler = "0"
+cheat101_code = "d4000000#0044;800733e4#0000"
+
+cheat102_desc = "最大Attack(美)开启"
+cheat102_handler = "0"
+cheat102_code = "800f4bf6#1400"
+
+cheat103_desc = "最大Guard(美)开启"
+cheat103_handler = "0"
+cheat103_code = "800f504e#1400"
+
+cheat104_desc = "最大STR(美)开启"
+cheat104_handler = "0"
+cheat104_code = "80097bb8#03e7"
+
+cheat105_desc = "最大C开启(美)开启"
+cheat105_handler = "0"
+cheat105_code = "80097bbc#03e7"
+
+cheat106_desc = "最大INT(美)开启"
+cheat106_handler = "0"
+cheat106_code = "80097bc0#03e7"
+
+cheat107_desc = "最大LCK(美)开启"
+cheat107_handler = "0"
+cheat107_code = "80097bc4#03e7"
+
+cheat108_desc = "金钱(中)99999"
+cheat108_handler = "0"
+cheat108_code = "80097BF0#869F;30097BF2#0001"
+
+cheat109_desc = "武器.道具(中)99"
+cheat109_handler = "0"
+cheat109_code = "B0A70001#00000000,3009798B#0063"
+
+cheat110_desc = "武器.道具(中)00"
+cheat110_handler = "0"
+cheat110_code = "B0A70001#00000000,3009798B#0000"
+
+cheat111_desc = "凯甲(中)99"
+cheat111_handler = "0"
+cheat111_code = "B0180001#00000000,30097A34#0063"
+
+cheat112_desc = "凯甲(中)00"
+cheat112_handler = "0"
+cheat112_code = "B0180001#00000000,30097A34#0000"
+
+cheat113_desc = "头饰(中)99"
+cheat113_handler = "0"
+cheat113_code = "B0140001#00000000,30097A4E#0063"
+
+cheat114_desc = "头饰(中)00"
+cheat114_handler = "0"
+cheat114_code = "B0140001#00000000,30097A4E#0000"
+
+cheat115_desc = "披风(中)99"
+cheat115_handler = "0"
+cheat115_code = "B0070001#00000000,30097A64#0063"
+
+cheat116_desc = "披风(中)00"
+cheat116_handler = "0"
+cheat116_code = "B0070001#00000000,30097A64#0000"
+
+cheat117_desc = "饰物(中)99"
+cheat117_handler = "0"
+cheat117_code = "B01D0001#00000000,30097A6D#0063"
+
+cheat118_desc = "饰物(中)00"
+cheat118_handler = "0"
+cheat118_code = "B01D0001#00000000,30097A6D#0000"
+
+cheat119_desc = "魔导器(中)开启"
+cheat119_handler = "0"
+cheat119_code = "B01D0001#00000000,30097964#01"
+
+cheat120_desc = "魔导器(中)00"
+cheat120_handler = "0"
+cheat120_code = "B01D0001#00000000,30097964#00"
+
+cheat121_desc = "必杀技(中)开启"
+cheat121_handler = "0"
+cheat121_code = "BOO70001#00000001,30097982#80;30097B9C#FF"
+
+cheat122_desc = "必杀技(中)00"
+cheat122_handler = "0"
+cheat122_code = "BOO70001#00000000,30097982#00;30097B9C#00"
+
+cheat123_desc = "HP(中)999"
+cheat123_handler = "0"
+cheat123_code = "B0010004#00000000,80097BA0#03E7"
+
+cheat124_desc = "HP(中)9999"
+cheat124_handler = "0"
+cheat124_code = "B0010004#00000000,80097BA0#270F"
+
+cheat125_desc = "MP(中)999"
+cheat125_handler = "0"
+cheat125_code = "B0010004#00000000,80097BB0#03E7"
+
+cheat126_desc = "MP(中)9999"
+cheat126_handler = "0"
+cheat126_code = "B0010004#00000000,80097BB0#270F"
+
+cheat127_desc = "心(中)999"
+cheat127_handler = "0"
+cheat127_code = "B0010004#00000000,80097BA8#03E7"
+
+cheat128_desc = "心(中)9999"
+cheat128_handler = "0"
+cheat128_code = "B0010004#00000000,80097BA8#270F"
+
+cheat129_desc = "STR(中)100"
+cheat129_handler = "0"
+cheat129_code = "80097BB8#0064"
+
+cheat130_desc = "STR(中)999"
+cheat130_handler = "0"
+cheat130_code = "80097BB8#03E7"
+
+cheat131_desc = "C开启(中)100"
+cheat131_handler = "0"
+cheat131_code = "80097BBC#0064"
+
+cheat132_desc = "C开启(中)999"
+cheat132_handler = "0"
+cheat132_code = "80097BBC#03E7"
+
+cheat133_desc = "INI(中)100"
+cheat133_handler = "0"
+cheat133_code = "80097BC0#0064"
+
+cheat134_desc = "INI(中)999"
+cheat134_handler = "0"
+cheat134_code = "80097BC0#03E7"
+
+cheat135_desc = "LCK(中)100"
+cheat135_handler = "0"
+cheat135_code = "80097BC4#0064"
+
+cheat136_desc = "LCK(中)999"
+cheat136_handler = "0"
+cheat136_code = "80097BC4#03E7"
+
+cheats = 137

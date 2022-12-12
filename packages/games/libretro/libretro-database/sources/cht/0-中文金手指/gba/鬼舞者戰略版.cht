@@ -1,0 +1,81 @@
+cheat0_desc = "王仁丸-最大HP"
+cheat0_handler = "2"
+cheat0_code = "282,E7;282,E7,3;283,3"
+
+cheat1_desc = "王仁丸-現時HP"
+cheat1_handler = "2"
+cheat1_code = "286,E7;286,E7,3;287,3"
+
+cheat2_desc = "王仁丸-EXP"
+cheat2_handler = "2"
+cheat2_code = "27A,E7;27A,E7,3;27B,3"
+
+cheat3_desc = "王仁丸-LV"
+cheat3_handler = "2"
+cheat3_code = "279,63;279,63"
+
+cheat4_desc = "王仁丸-更換角色"
+cheat4_handler = "2"
+cheat4_code = "278,1;278,1"
+
+cheat5_desc = "王仁丸-現時SP"
+cheat5_handler = "2"
+cheat5_code = "280,E7;280,E7,3;281,3"
+
+cheat6_desc = "王仁丸-最大SP"
+cheat6_handler = "2"
+cheat6_code = "284,E7;284,E7,3;285,3"
+
+cheat7_desc = "武器更換"
+cheat7_handler = "2"
+cheat7_code = "29C,0;29C,0"
+
+cheat8_desc = "防具更換"
+cheat8_handler = "2"
+cheat8_code = "29E,0;29E,0"
+
+cheat9_desc = "？？更換"
+cheat9_handler = "2"
+cheat9_code = "2A0,0;2A0,0"
+
+cheat10_desc = "道具更換1"
+cheat10_handler = "2"
+cheat10_code = "2A2,0;2A2,0"
+
+cheat11_desc = "道具更換2"
+cheat11_handler = "2"
+cheat11_code = "2A4,0;2A4,0"
+
+cheat12_desc = "更換招式1"
+cheat12_handler = "2"
+cheat12_code = "2A6,0;2A6,0"
+
+cheat13_desc = "更換招式2"
+cheat13_handler = "2"
+cheat13_code = "2A8,0;2A8,0"
+
+cheat14_desc = "更換招式3"
+cheat14_handler = "2"
+cheat14_code = "2AA,0;2AA,0"
+
+cheat15_desc = "增加招式4"
+cheat15_handler = "2"
+cheat15_code = "2AC,0;2AC,0"
+
+cheat16_desc = "數值1"
+cheat16_handler = "2"
+cheat16_code = "296,E7;296,E7,3;297,3"
+
+cheat17_desc = "數值2"
+cheat17_handler = "2"
+cheat17_code = "298,E7;298,E7,3;299,3"
+
+cheat18_desc = "數值3"
+cheat18_handler = "2"
+cheat18_code = "294,E7;294,E7,3;295,3"
+
+cheat19_desc = "數值4"
+cheat19_handler = "2"
+cheat19_code = "292,E7;292,E7,3;293,3"
+
+cheats = 20

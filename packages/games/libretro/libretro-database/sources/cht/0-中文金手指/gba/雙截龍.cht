@@ -1,0 +1,13 @@
+cheat0_desc = "Time"
+cheat0_handler = "2"
+cheat0_code = "170E,63"
+
+cheat1_desc = "血"
+cheat1_handler = "2"
+cheat1_code = "37BC2,64;37C22,64"
+
+cheat2_desc = "命"
+cheat2_handler = "2"
+cheat2_code = "16AD,9;16C5,9"
+
+cheats = 3

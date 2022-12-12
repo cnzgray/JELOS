@@ -1,0 +1,81 @@
+cheat0_desc = "金钱"
+cheat0_handler = "2"
+cheat0_code = "13284,E7,3"
+
+cheat1_desc = "攻击力最高"
+cheat1_handler = "2"
+cheat1_code = "131E2,E7,3"
+
+cheat2_desc = "防御力最高"
+cheat2_handler = "2"
+cheat2_code = "131E4,E7,3"
+
+cheat3_desc = "各项数值最高"
+cheat3_handler = "2"
+cheat3_code = "13276,63;13278,63;1327A,63;1327C,63"
+
+cheat4_desc = "全魔导器"
+cheat4_handler = "2"
+cheat4_code = "13386,63,63,63,63"
+
+cheat5_desc = "MP"
+cheat5_handler = "2"
+cheat5_code = "13270,E7,3"
+
+cheat6_desc = "HP"
+cheat6_handler = "2"
+cheat6_code = "1326E,E7,3"
+
+cheat7_desc = "HP上限"
+cheat7_handler = "2"
+cheat7_code = "13272,E7,3"
+
+cheat8_desc = "MP上限"
+cheat8_handler = "2"
+cheat8_code = "13274,E7,3"
+
+cheat9_desc = "STR"
+cheat9_handler = "2"
+cheat9_code = "13276,E7,3"
+
+cheat10_desc = "CON"
+cheat10_handler = "2"
+cheat10_code = "13278,E7,3"
+
+cheat11_desc = "INT"
+cheat11_handler = "2"
+cheat11_code = "1327A,E7,3"
+
+cheat12_desc = "LCK"
+cheat12_handler = "2"
+cheat12_code = "1327C,E7,3"
+
+cheat13_desc = "EXP"
+cheat13_handler = "2"
+cheat13_code = "13280,7F,96,98"
+
+cheat14_desc = "LV"
+cheat14_handler = "2"
+cheat14_code = "1326D,63"
+
+cheat15_desc = "MONEY"
+cheat15_handler = "2"
+cheat15_code = "13284,7F,96,98"
+
+cheat16_desc = "装备的武器"
+cheat16_handler = "2"
+cheat16_code = "1325C,11"
+
+cheat17_desc = "装备的防具"
+cheat17_handler = "2"
+cheat17_code = "13260,8"
+
+cheat18_desc = "装备的装饰品"
+cheat18_handler = "2"
+cheat18_code = "13261,27"
+
+cheat19_desc = "所有能力"
+cheat19_handler = "2"
+cheat19_code = "13386,FF,FF,FF"
+
+cheats = 20

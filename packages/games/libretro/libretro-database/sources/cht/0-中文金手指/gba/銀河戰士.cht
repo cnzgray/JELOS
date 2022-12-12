@@ -1,0 +1,13 @@
+cheat0_desc = "hp"
+cheat0_handler = "2"
+cheat0_code = "41530,13,5;41536,13,5"
+
+cheat1_desc = "飛彈"
+cheat1_handler = "2"
+cheat1_code = "41532,E7,3,63;41538,E7,3,63"
+
+cheat2_desc = "炸彈"
+cheat2_handler = "2"
+cheat2_code = "41535,63;4153B,63"
+
+cheats = 3

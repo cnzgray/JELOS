@@ -1,0 +1,37 @@
+cheat0_desc = "所有隐藏项目及角色"
+cheat0_handler = "2"
+cheat0_code = "71C8,0f,27"
+
+cheat1_desc = "无限时间(拆车时请解锁)"
+cheat1_handler = "2"
+cheat1_code = "42254,63"
+
+cheat2_desc = "P1 生命值"
+cheat2_handler = "2"
+cheat2_code = "464C2,B0;464C4,B0;465D8,B0"
+
+cheat3_desc = "P1 能量槽"
+cheat3_handler = "2"
+cheat3_code = "466D4,30"
+
+cheat4_desc = "P1 空中出招"
+cheat4_handler = "2"
+cheat4_code = "4659C,0"
+
+cheat5_desc = "P1 豪鬼-瞬狱杀简化出招顺序按(轻脚、重拳)"
+cheat5_handler = "2"
+cheat5_code = "46714,03"
+
+cheat6_desc = "P1 豪鬼-瞬狱杀简化出招直接按(重拳)"
+cheat6_handler = "2"
+cheat6_code = "46714,04"
+
+cheat7_desc = "P2 生命值体力为零"
+cheat7_handler = "2"
+cheat7_code = "468D2,0;468D4,0;469E8,0"
+
+cheat8_desc = "P2 生命值体力不损"
+cheat8_handler = "2"
+cheat8_code = "468D2,b0;468D4,b0;469E8,b0"
+
+cheats = 9

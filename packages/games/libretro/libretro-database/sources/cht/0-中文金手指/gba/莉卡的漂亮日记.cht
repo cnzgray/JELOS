@@ -1,0 +1,25 @@
+cheat0_desc = "心数"
+cheat0_handler = "2"
+cheat0_code = "446,C"
+
+cheat1_desc = "心数上限"
+cheat1_handler = "2"
+cheat1_code = "447,C"
+
+cheat2_desc = "金钱"
+cheat2_handler = "2"
+cheat2_code = "448,9F,86,1"
+
+cheat3_desc = "全装饰"
+cheat3_handler = "2"
+cheat3_code = "404,FF;408,FF,FF,FF;40E,FF;411,FF,FF;414,FF,FF,FF"
+
+cheat4_desc = "全书籍"
+cheat4_handler = "2"
+cheat4_code = "40B,FF,FF;411,FF;414,FF"
+
+cheat5_desc = "全CD"
+cheat5_handler = "2"
+cheat5_code = "40F,FF,FF"
+
+cheats = 6

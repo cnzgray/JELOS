@@ -1,0 +1,1361 @@
+cheat0_desc = "资金不减"
+cheat0_handler = "2"
+cheat0_code = "39888,0,0,0,0"
+
+cheat1_desc = "购买的物品001 大师球"
+cheat1_handler = "2"
+cheat1_code = "4510A,1,0"
+
+cheat2_desc = "购买的物品002 超力怪兽球"
+cheat2_handler = "2"
+cheat2_code = "4510A,2,0"
+
+cheat3_desc = "购买的物品003 超级球（比怪兽球更厉害些）"
+cheat3_handler = "2"
+cheat3_code = "4510A,3,0"
+
+cheat4_desc = "购买的物品004 怪兽球（普通的球）"
+cheat4_handler = "2"
+cheat4_code = "4510A,4,0"
+
+cheat5_desc = "购买的物品005 砂狐球（砂狐乐园专用球）"
+cheat5_handler = "2"
+cheat5_code = "4510A,5,0"
+
+cheat6_desc = "购买的物品006 触网球（容易抓水和虫类的怪兽）"
+cheat6_handler = "2"
+cheat6_code = "4510A,6,0"
+
+cheat7_desc = "购买的物品007 大布斯球（容易抓海底的怪兽）"
+cheat7_handler = "2"
+cheat7_code = "4510A,7,0"
+
+cheat8_desc = "购买的物品008 尼斯道球（怪兽越弱越容易抓）"
+cheat8_handler = "2"
+cheat8_code = "4510A,8,0"
+
+cheat9_desc = "购买的物品009 利比道球（容易抓抓过的球）"
+cheat9_handler = "2"
+cheat9_code = "4510A,9,0"
+
+cheat10_desc = "购买的物品00A 达伊玛球（回合数越长越容易抓）"
+cheat10_handler = "2"
+cheat10_code = "4510A,A,0"
+
+cheat11_desc = "购买的物品00B 高基石球（抓到的怪兽变亲密）"
+cheat11_handler = "2"
+cheat11_code = "4510A,B,0"
+
+cheat12_desc = "购买的物品00C 布雷密球（珍惜怪兽球）"
+cheat12_handler = "2"
+cheat12_code = "4510A,C,0"
+
+cheat13_desc = "购买的物品00D 伤药（体力恢复20）"
+cheat13_handler = "2"
+cheat13_code = "4510A,D,0"
+
+cheat14_desc = "购买的物品00E 解毒药（恢复毒状态）"
+cheat14_handler = "2"
+cheat14_code = "4510A,E,0"
+
+cheat15_desc = "购买的物品00F 烧伤恢复（恢复烧伤状态）"
+cheat15_handler = "2"
+cheat15_code = "4510A,F,0"
+
+cheat16_desc = "购买的物品010 解冻药（恢复冻状态）"
+cheat16_handler = "2"
+cheat16_code = "4510A,10,0"
+
+cheat17_desc = "购买的物品011 清醒药（恢复沉睡状态）"
+cheat17_handler = "2"
+cheat17_code = "4510A,11,0"
+
+cheat18_desc = "购买的物品012 麻痹恢复（恢复麻痹状态）"
+cheat18_handler = "2"
+cheat18_code = "4510A,12,0"
+
+cheat19_desc = "购买的物品013 恢复药（全恢复体力与所有状态）"
+cheat19_handler = "2"
+cheat19_code = "4510A,13,0"
+
+cheat20_desc = "购买的物品014 慢谈药（体力全恢复）"
+cheat20_handler = "2"
+cheat20_code = "4510A,14,0"
+
+cheat21_desc = "购买的物品015 伤药（体力恢复200）"
+cheat21_handler = "2"
+cheat21_code = "4510A,15,0"
+
+cheat22_desc = "购买的物品016 好伤药（体力恢复50）"
+cheat22_handler = "2"
+cheat22_code = "4510A,16,0"
+
+cheat23_desc = "购买的物品017 万能恢复（全部恢复）"
+cheat23_handler = "2"
+cheat23_code = "4510A,17,0"
+
+cheat24_desc = "购买的物品018 精神片（死亡恢复体力一半）"
+cheat24_handler = "2"
+cheat24_code = "4510A,18,0"
+
+cheat25_desc = "购买的物品019 精神草（死亡全恢复体力）"
+cheat25_handler = "2"
+cheat25_code = "4510A,19,0"
+
+cheat26_desc = "购买的物品01A 美味水（恢复体力50）"
+cheat26_handler = "2"
+cheat26_code = "4510A,1A,0"
+
+cheat27_desc = "购买的物品01B 精神汽水（恢复体力60）"
+cheat27_handler = "2"
+cheat27_code = "4510A,1B,0"
+
+cheat28_desc = "购买的物品01C 米力液（恢复体力80）"
+cheat28_handler = "2"
+cheat28_code = "4510A,1C,0"
+
+cheat29_desc = "购买的物品01D 木木奶（恢复体力100）"
+cheat29_handler = "2"
+cheat29_code = "4510A,1D,0"
+
+cheat30_desc = "购买的物品01E 力量粉（恢复体力50，很苦粉，减底怪兽亲密度）"
+cheat30_handler = "2"
+cheat30_code = "4510A,1E,0"
+
+cheat31_desc = "购买的物品01F 力量根（恢复体力200，很苦根，减底怪兽亲密度）"
+cheat31_handler = "2"
+cheat31_code = "4510A,1F,0"
+
+cheat32_desc = "购买的物品020 万能粉（全恢复状态，非常苦的粉，大大减低与怪兽的亲密度）"
+cheat32_handler = "2"
+cheat32_code = "4510A,20,0"
+
+cheat33_desc = "购买的物品021 复活草（死亡复活，很苦的草）"
+cheat33_handler = "2"
+cheat33_code = "4510A,21,0"
+
+cheat34_desc = "购买的物品022 pp艾依（1种技能值恢复10）"
+cheat34_handler = "2"
+cheat34_code = "4510A,22,0"
+
+cheat35_desc = "购买的物品023 pp力卡（1种技能值全恢复）"
+cheat35_handler = "2"
+cheat35_code = "4510A,23,0"
+
+cheat36_desc = "购买的物品025 pp最大（1只怪兽的全部技能值全恢复）"
+cheat36_handler = "2"
+cheat36_code = "4510A,25,0"
+
+cheat37_desc = "购买的物品026 飞音饼（恢复全部异常状态）"
+cheat37_handler = "2"
+cheat37_code = "4510A,26,0"
+
+cheat38_desc = "购买的物品027 蓝玻璃（恢复沉睡状态，可用无限次）"
+cheat38_handler = "2"
+cheat38_code = "4510A,27,0"
+
+cheat39_desc = "购买的物品028 黄玻璃（恢复混乱状态，可用无限次）"
+cheat39_handler = "2"
+cheat39_code = "4510A,28,0"
+
+cheat40_desc = "购买的物品029 红玻璃（恢复颓废状态，可用无限次）"
+cheat40_handler = "2"
+cheat40_code = "4510A,29,0"
+
+cheat41_desc = "购买的物品02A 黑玻璃（不遇野生怪兽）"
+cheat41_handler = "2"
+cheat41_code = "4510A,2A,0"
+
+cheat42_desc = "购买的物品02B 白玻璃（容易遇野生怪兽）"
+cheat42_handler = "2"
+cheat42_code = "4510A,2B,0"
+
+cheat43_desc = "购买的物品02C 树果汁（恢复体力20）"
+cheat43_handler = "2"
+cheat43_code = "4510A,2C,0"
+
+cheat44_desc = "购买的物品02D 圣是（死亡恢复全部体力，异常状态恢复）"
+cheat44_handler = "2"
+cheat44_code = "4510A,2D,0"
+
+cheat45_desc = "购买的物品02E 浅水盐（看看洞用的道具）"
+cheat45_handler = "2"
+cheat45_code = "4510A,2E,0"
+
+cheat46_desc = "购买的物品02F 浅水贝（看看洞用的道具）"
+cheat46_handler = "2"
+cheat46_code = "4510A,2F,0"
+
+cheat47_desc = "购买的物品030 红碎片（换进化石的道具）"
+cheat47_handler = "2"
+cheat47_code = "4510A,30,0"
+
+cheat48_desc = "购买的物品031 蓝碎片（换进化石的道具）"
+cheat48_handler = "2"
+cheat48_code = "4510A,31,0"
+
+cheat49_desc = "购买的物品032 黄碎片（换进化石的道具）"
+cheat49_handler = "2"
+cheat49_code = "4510A,32,0"
+
+cheat50_desc = "购买的物品033 绿碎片（换进化石的道具）"
+cheat50_handler = "2"
+cheat50_code = "4510A,33,0"
+
+cheat51_desc = "购买的物品03F 最大上升（体力基础值提高）"
+cheat51_handler = "2"
+cheat51_code = "4510A,3F,0"
+
+cheat52_desc = "购买的物品040 赞美语（攻击基础值提高）"
+cheat52_handler = "2"
+cheat52_code = "4510A,40,0"
+
+cheat53_desc = "购买的物品041 落海夫（防御基础值提高）"
+cheat53_handler = "2"
+cheat53_code = "4510A,41,0"
+
+cheat54_desc = "购买的物品042 因得西（敏捷基础值提高）"
+cheat54_handler = "2"
+cheat54_code = "4510A,42,0"
+
+cheat55_desc = "购买的物品043 立麦森（特攻基础值提高）"
+cheat55_handler = "2"
+cheat55_code = "4510A,43,0"
+
+cheat56_desc = "购买的物品044 奇异甜食（怪兽升1级）"
+cheat56_handler = "2"
+cheat56_code = "4510A,44,0"
+
+cheat57_desc = "购买的物品045 值上升（技能值的最大值上升）"
+cheat57_handler = "2"
+cheat57_code = "4510A,45,0"
+
+cheat58_desc = "购买的物品046 极道山果（德望基础值提高）"
+cheat58_handler = "2"
+cheat58_code = "4510A,46,0"
+
+cheat59_desc = "购买的物品047 值最大（技能值提高到最大）"
+cheat59_handler = "2"
+cheat59_code = "4510A,47,0"
+
+cheat60_desc = "购买的物品049 效果卡（战斗中…能避开对方的攻击，用于装备）"
+cheat60_handler = "2"
+cheat60_code = "4510A,49,0"
+
+cheat61_desc = "购买的物品04A 清洗物（战斗中…容易命中要害，用于装备）"
+cheat61_handler = "2"
+cheat61_code = "4510A,4A,0"
+
+cheat62_desc = "购买的物品04B 布拉斯力量（战斗中…攻击力上升，用于装备）"
+cheat62_handler = "2"
+cheat62_code = "4510A,4B,0"
+
+cheat63_desc = "购买的物品04C 力道（战斗中…防御力上升，用于装备）"
+cheat63_handler = "2"
+cheat63_code = "4510A,4C,0"
+
+cheat64_desc = "购买的物品04D 敏捷力（战斗中…敏捷上升，用于装备）"
+cheat64_handler = "2"
+cheat64_code = "4510A,4D,0"
+
+cheat65_desc = "购买的物品04E 纪念打（战斗中…技能容易命中，用于装备）"
+cheat65_handler = "2"
+cheat65_code = "4510A,4E,0"
+
+cheat66_desc = "购买的物品04F 特别上升（战斗中…特攻的威力上升，用于装备）"
+cheat66_handler = "2"
+cheat66_code = "4510A,4F,0"
+
+cheat67_desc = "购买的物品050 皮皮木偶（在战斗中逃脱）"
+cheat67_handler = "2"
+cheat67_code = "4510A,50,0"
+
+cheat68_desc = "购买的物品051 小松鼠尾（在战斗中逃脱）"
+cheat68_handler = "2"
+cheat68_code = "4510A,51,0"
+
+cheat69_desc = "购买的物品05D 太阳石（让独特的怪兽进化）"
+cheat69_handler = "2"
+cheat69_code = "4510A,5D,0"
+
+cheat70_desc = "购买的物品05E 月亮石（让独特的怪兽进化）"
+cheat70_handler = "2"
+cheat70_code = "4510A,5E,0"
+
+cheat71_desc = "购买的物品05F 火焰石（让独特的怪兽进化）"
+cheat71_handler = "2"
+cheat71_code = "4510A,5F,0"
+
+cheat72_desc = "购买的物品060 雷电石（让独特的怪兽进化）"
+cheat72_handler = "2"
+cheat72_code = "4510A,60,0"
+
+cheat73_desc = "购买的物品061 水石（让独特的怪兽进化）"
+cheat73_handler = "2"
+cheat73_code = "4510A,61,0"
+
+cheat74_desc = "购买的物品062 珊瑚石（让独特的怪兽进化）"
+cheat74_handler = "2"
+cheat74_code = "4510A,62,0"
+
+cheat75_desc = "购买的物品067 小的树果（普通的树果容易成熟）"
+cheat75_handler = "2"
+cheat75_code = "4510A,67,0"
+
+cheat76_desc = "购买的物品068 大的树果（珍贵的树果难成熟）"
+cheat76_handler = "2"
+cheat76_code = "4510A,68,0"
+
+cheat77_desc = "购买的物品06A 珍珠（美丽的珍珠容易成熟）"
+cheat77_handler = "2"
+cheat77_code = "4510A,6A,0"
+
+cheat78_desc = "购买的物品06B 大珍珠（很美丽的大珍珠难成熟）"
+cheat78_handler = "2"
+cheat78_code = "4510A,6B,0"
+
+cheat79_desc = "购买的物品06C 星沙（美丽的红色的沙子）"
+cheat79_handler = "2"
+cheat79_code = "4510A,6C,0"
+
+cheat80_desc = "购买的物品06D 星星碎片（美丽的红宝石碎片）"
+cheat80_handler = "2"
+cheat80_code = "4510A,6D,0"
+
+cheat81_desc = "购买的物品06E 金珠（金星）"
+cheat81_handler = "2"
+cheat81_code = "4510A,6E,0"
+
+cheat82_desc = "购买的物品06F 心灵碎片（可以恢复忘却的技能）"
+cheat82_handler = "2"
+cheat82_code = "4510A,6F,0"
+
+cheat83_desc = "购买的物品079 彩色邮件（针鼠模样的信件）"
+cheat83_handler = "2"
+cheat83_code = "4510A,79,0"
+
+cheat84_desc = "购买的物品07A 哈伯邮件（海鸥模样的信件）"
+cheat84_handler = "2"
+cheat84_code = "4510A,7A,0"
+
+cheat85_desc = "购买的物品07B 闪光邮件（皮卡丘模样的信件）"
+cheat85_handler = "2"
+cheat85_code = "4510A,7B,0"
+
+cheat86_desc = "购买的物品07C 机械邮件（小磁怪模样的信件）"
+cheat86_handler = "2"
+cheat86_code = "4510A,7C,0"
+
+cheat87_desc = "购买的物品07D 鸟烟邮件（食叶兽模样的信件）"
+cheat87_handler = "2"
+cheat87_code = "4510A,7D,0"
+
+cheat88_desc = "购买的物品07E 十字邮件（皮皮鲸模样的信件）"
+cheat88_handler = "2"
+cheat88_code = "4510A,7E,0"
+
+cheat89_desc = "购买的物品07F 珍贵邮件（有持有怪兽模样的信件）"
+cheat89_handler = "2"
+cheat89_code = "4510A,7F,0"
+
+cheat90_desc = "购买的物品080 阴影邮件（钻墙怪模样的信件）"
+cheat90_handler = "2"
+cheat90_code = "4510A,80,0"
+
+cheat91_desc = "购买的物品081 热带邮件（美丽花模样的信件）"
+cheat91_handler = "2"
+cheat91_code = "4510A,81,0"
+
+cheat92_desc = "购买的物品082 花边邮件（有持有怪兽模样的信件）"
+cheat92_handler = "2"
+cheat92_code = "4510A,82,0"
+
+cheat93_desc = "购买的物品083 神奇邮件（豪华的信件）"
+cheat93_handler = "2"
+cheat93_code = "4510A,83,0"
+
+cheat94_desc = "购买的物品084 怀旧邮件（3只怪兽的信件）"
+cheat94_handler = "2"
+cheat94_code = "4510A,84,0"
+
+cheat95_desc = "购买的物品085 解麻果（恢复麻痹状态1号）"
+cheat95_handler = "2"
+cheat95_code = "4510A,85,0"
+
+cheat96_desc = "购买的物品086 醒睡果（恢复沉睡状态2号）"
+cheat96_handler = "2"
+cheat96_code = "4510A,86,0"
+
+cheat97_desc = "购买的物品087 解毒果（恢复中毒状态3号）"
+cheat97_handler = "2"
+cheat97_code = "4510A,87,0"
+
+cheat98_desc = "购买的物品088 烧伤果（恢复烧伤状态4号）"
+cheat98_handler = "2"
+cheat98_code = "4510A,88,0"
+
+cheat99_desc = "购买的物品089 解冻果（恢复冰冻状态5号）"
+cheat99_handler = "2"
+cheat99_code = "4510A,89,0"
+
+cheat100_desc = "购买的物品08A 木果（恢复技能值10，6号）"
+cheat100_handler = "2"
+cheat100_code = "4510A,8A,0"
+
+cheat101_desc = "购买的物品08B 桔果（恢复体力10，7号）"
+cheat101_handler = "2"
+cheat101_code = "4510A,8B,0"
+
+cheat102_desc = "购买的物品08C 太阳果（恢复混乱状态8号）"
+cheat102_handler = "2"
+cheat102_code = "4510A,8C,0"
+
+cheat103_desc = "购买的物品08D 雷木果（恢复全部状态9号）"
+cheat103_handler = "2"
+cheat103_code = "4510A,8D,0"
+
+cheat104_desc = "购买的物品08E 黄石果（恢复体力30，10号）"
+cheat104_handler = "2"
+cheat104_code = "4510A,8E,0"
+
+cheat105_desc = "购买的物品08F 飞来果（恢复体力产生混乱11号）"
+cheat105_handler = "2"
+cheat105_code = "4510A,8F,0"
+
+cheat106_desc = "购买的物品090 沙一果（恢复体力产生混乱12号）"
+cheat106_handler = "2"
+cheat106_code = "4510A,90,0"
+
+cheat107_desc = "购买的物品091 真之果（恢复体力产生混乱13号）"
+cheat107_handler = "2"
+cheat107_code = "4510A,91,0"
+
+cheat108_desc = "购买的物品092 混光果（恢复体力产生混乱14号）"
+cheat108_handler = "2"
+cheat108_code = "4510A,92,0"
+
+cheat109_desc = "购买的物品093 易果（恢复体力产生混乱15号）"
+cheat109_handler = "2"
+cheat109_code = "4510A,93,0"
+
+cheat110_desc = "购买的物品094 红果（怪兽盒材料16号）"
+cheat110_handler = "2"
+cheat110_code = "4510A,94,0"
+
+cheat111_desc = "购买的物品095 紫果（怪兽盒材料17号）"
+cheat111_handler = "2"
+cheat111_code = "4510A,95,0"
+
+cheat112_desc = "购买的物品096 香果（怪兽盒材料18号，会种出娜娜）"
+cheat112_handler = "2"
+cheat112_code = "4510A,96,0"
+
+cheat113_desc = "购买的物品097 利果（怪兽盒材料19号）"
+cheat113_handler = "2"
+cheat113_code = "4510A,97,0"
+
+cheat114_desc = "购买的物品098 波罗果（怪兽盒材料20号）"
+cheat114_handler = "2"
+cheat114_code = "4510A,98,0"
+
+cheat115_desc = "购买的物品099 灯灯果（怪兽盒材料21号）"
+cheat115_handler = "2"
+cheat115_code = "4510A,99,0"
+
+cheat116_desc = "购买的物品09A 猫形果（怪兽盒材料22号）"
+cheat116_handler = "2"
+cheat116_code = "4510A,9A,0"
+
+cheat117_desc = "购买的物品09B 水波果（怪兽盒材料23号）"
+cheat117_handler = "2"
+cheat117_code = "4510A,9B,0"
+
+cheat118_desc = "购买的物品09C 黄果（怪兽盒材料24号）"
+cheat118_handler = "2"
+cheat118_code = "4510A,9C,0"
+
+cheat119_desc = "购买的物品09D 鸟布果（怪兽盒材料25号）"
+cheat119_handler = "2"
+cheat119_code = "4510A,9D,0"
+
+cheat120_desc = "购买的物品09E 红刺果（怪兽盒材料26号）"
+cheat120_handler = "2"
+cheat120_code = "4510A,9E,0"
+
+cheat121_desc = "购买的物品09F 木高西果（怪兽盒材料27号）"
+cheat121_handler = "2"
+cheat121_code = "4510A,9F,0"
+
+cheat122_desc = "购买的物品0A0 高芝果（怪兽盒材料28号）"
+cheat122_handler = "2"
+cheat122_code = "4510A,A0,0"
+
+cheat123_desc = "购买的物品0A1 布拉达果（怪兽盒材料29号）"
+cheat123_handler = "2"
+cheat123_code = "4510A,A1,0"
+
+cheat124_desc = "购买的物品0A2 麦鲁果（怪兽盒材料30号）"
+cheat124_handler = "2"
+cheat124_code = "4510A,A2,0"
+
+cheat125_desc = "购买的物品0A3 万吉果（怪兽盒材料31号）"
+cheat125_handler = "2"
+cheat125_code = "4510A,A3,0"
+
+cheat126_desc = "购买的物品0A4 西亚果（怪兽盒材料32号）"
+cheat126_handler = "2"
+cheat126_code = "4510A,A4,0"
+
+cheat127_desc = "购买的物品0A5 卡依斯果（怪兽盒材料33号）"
+cheat127_handler = "2"
+cheat127_code = "4510A,A5,0"
+
+cheat128_desc = "购买的物品0A6 刀利果（怪兽盒材料34号）"
+cheat128_handler = "2"
+cheat128_code = "4510A,A6,0"
+
+cheat129_desc = "购买的物品0A7 海比果（怪兽盒材料35号）"
+cheat129_handler = "2"
+cheat129_code = "4510A,A7,0"
+
+cheat130_desc = "购买的物品0A8 吉拉果（战斗中…危急时攻击力上升36号）"
+cheat130_handler = "2"
+cheat130_code = "4510A,A8,0"
+
+cheat131_desc = "购买的物品0A9 利卡果（战斗中…危急时防御力上升37号）"
+cheat131_handler = "2"
+cheat131_code = "4510A,A9,0"
+
+cheat132_desc = "购买的物品0AA 卡木拉果（战斗中…危急时敏捷上升38号）"
+cheat132_handler = "2"
+cheat132_code = "4510A,AA,0"
+
+cheat133_desc = "购买的物品0AB 哑达比果（战斗中…危急时特攻上升39号）"
+cheat133_handler = "2"
+cheat133_code = "4510A,AB,0"
+
+cheat134_desc = "购买的物品0AC 阿芝果（战斗中…危急时德望上升40号）"
+cheat134_handler = "2"
+cheat134_code = "4510A,AC,0"
+
+cheat135_desc = "购买的物品0AD 山果（战斗中…危急时容易命中要害41号）"
+cheat135_handler = "2"
+cheat135_code = "4510A,AD,0"
+
+cheat136_desc = "购买的物品0AE 星星果（战斗中…危急时使其中一种能力迅速提高42号）"
+cheat136_handler = "2"
+cheat136_code = "4510A,AE,0"
+
+cheat137_desc = "购买的物品0AF 神秘果有（怪兽盒材料43号）"
+cheat137_handler = "2"
+cheat137_code = "4510A,AF,0"
+
+cheat138_desc = "购买的物品0B3 光粉（降低对手命中率）"
+cheat138_handler = "2"
+cheat138_code = "4510A,B3,0"
+
+cheat139_desc = "购买的物品0B4 白色海石花（下降能力复原）"
+cheat139_handler = "2"
+cheat139_code = "4510A,B4,0"
+
+cheat140_desc = "购买的物品0B5 竞争背心（敏捷下降，好好饲育）"
+cheat140_handler = "2"
+cheat140_code = "4510A,B5,0"
+
+cheat141_desc = "购买的物品0B6 学习装置（持有的怪兽得到经验值）"
+cheat141_handler = "2"
+cheat141_code = "4510A,B6,0"
+
+cheat142_desc = "购买的物品0B7 老师指甲（偶尔能先发出攻击）"
+cheat142_handler = "2"
+cheat142_code = "4510A,B7,0"
+
+cheat143_desc = "购买的物品0B8 安闲玲（持有的怪兽变亲密）"
+cheat143_handler = "2"
+cheat143_code = "4510A,B8,0"
+
+cheat144_desc = "购买的物品0B9 精神海石花（持有的怪兽恢复颓废状态）"
+cheat144_handler = "2"
+cheat144_code = "4510A,B9,0"
+
+cheat145_desc = "购买的物品0BA 守日器（攻击的威力提高）"
+cheat145_handler = "2"
+cheat145_code = "4510A,BA,0"
+
+cheat146_desc = "购买的物品0BB 王者之证（有时能让对手沉睡）"
+cheat146_handler = "2"
+cheat146_code = "4510A,BB,0"
+
+cheat147_desc = "购买的物品0BC 银粉（虫类技能的威力上升）"
+cheat147_handler = "2"
+cheat147_code = "4510A,BC,0"
+
+cheat148_desc = "购买的物品0BD 守卫饭（持有的怪兽参战能得到2倍金钱）"
+cheat148_handler = "2"
+cheat148_code = "4510A,BD,0"
+
+cheat149_desc = "购买的物品0BE 清符（难以与野生怪兽）"
+cheat149_handler = "2"
+cheat149_code = "4510A,BE,0"
+
+cheat150_desc = "购买的物品0BF 心珠（特攻和德望上升，限于雄奇怪和木皮怪）"
+cheat150_handler = "2"
+cheat150_code = "4510A,BF,0"
+
+cheat151_desc = "购买的物品0C0 进化牙（特攻上升，限于海贝）"
+cheat151_handler = "2"
+cheat151_code = "4510A,C0,0"
+
+cheat152_desc = "购买的物品0C1 进化鳞片（德望上升，限于海贝）"
+cheat152_handler = "2"
+cheat152_code = "4510A,C1,0"
+
+cheat153_desc = "购买的物品0C2 烟珠（遇到野生的怪兽能逃脱）"
+cheat153_handler = "2"
+cheat153_code = "4510A,C2,0"
+
+cheat154_desc = "购买的物品0C3 不变石（持有的怪兽不会进化）"
+cheat154_handler = "2"
+cheat154_code = "4510A,C3,0"
+
+cheat155_desc = "购买的物品0C4 精神器（偶尔能防御）"
+cheat155_handler = "2"
+cheat155_code = "4510A,C4,0"
+
+cheat156_desc = "购买的物品0C5 幸福怪兽蛋（怪兽经验值更容易上升）"
+cheat156_handler = "2"
+cheat156_code = "4510A,C5,0"
+
+cheat157_desc = "购买的物品0C6 焦点镜（容易命中要害）"
+cheat157_handler = "2"
+cheat157_code = "4510A,C6,0"
+
+cheat158_desc = "购买的物品0C7 杯衣（钢类技能威力上升）"
+cheat158_handler = "2"
+cheat158_code = "4510A,C7,0"
+
+cheat159_desc = "购买的物品0C8 余物（体力能在战斗间慢慢恢复）"
+cheat159_handler = "2"
+cheat159_code = "4510A,C8,0"
+
+cheat160_desc = "购买的物品0C9 龙鳞（飞龙类怪兽持有的奇异鳞片）"
+cheat160_handler = "2"
+cheat160_code = "4510A,C9,0"
+
+cheat161_desc = "购买的物品0CA 电珠（特攻上升，限于皮卡丘）"
+cheat161_handler = "2"
+cheat161_code = "4510A,CA,0"
+
+cheat162_desc = "购买的物品0CB 软沙（地面类技能的威力上升）"
+cheat162_handler = "2"
+cheat162_code = "4510A,CB,0"
+
+cheat163_desc = "购买的物品0CC 坚硬石头（岩石类技能的威力上升）"
+cheat163_handler = "2"
+cheat163_code = "4510A,CC,0"
+
+cheat164_desc = "购买的物品0CD 奇迹种（草类技能的威力上升）"
+cheat164_handler = "2"
+cheat164_code = "4510A,CD,0"
+
+cheat165_desc = "购买的物品0CE 黑色眼镜（恶类技能的威力上升）"
+cheat165_handler = "2"
+cheat165_code = "4510A,CE,0"
+
+cheat166_desc = "购买的物品0CF 黑带（格斗类技能的威力上升）"
+cheat166_handler = "2"
+cheat166_code = "4510A,CF,0"
+
+cheat167_desc = "购买的物品0D0 磁铁（电类技能的威力上升）"
+cheat167_handler = "2"
+cheat167_code = "4510A,D0,0"
+
+cheat168_desc = "购买的物品0D1 神秘水珠（水类技能的威力上升）"
+cheat168_handler = "2"
+cheat168_code = "4510A,D1,0"
+
+cheat169_desc = "购买的物品0D2 尖嘴（飞行类技能的威力上升）"
+cheat169_handler = "2"
+cheat169_code = "4510A,D2,0"
+
+cheat170_desc = "购买的物品0D3 毒针（毒类技能的威力上升）"
+cheat170_handler = "2"
+cheat170_code = "4510A,D3,0"
+
+cheat171_desc = "购买的物品0D4 不化冰（冰冻技能的威力上升）"
+cheat171_handler = "2"
+cheat171_code = "4510A,D4,0"
+
+cheat172_desc = "购买的物品0D5 诅咒符（幽灵类技能的威力上升）"
+cheat172_handler = "2"
+cheat172_code = "4510A,D5,0"
+
+cheat173_desc = "购买的物品0D6 银勺（超能技能的威力上升）"
+cheat173_handler = "2"
+cheat173_code = "4510A,D6,0"
+
+cheat174_desc = "购买的物品0D7 木炭（火焰类技能的威力上升）"
+cheat174_handler = "2"
+cheat174_code = "4510A,D7,0"
+
+cheat175_desc = "购买的物品0D8 龙牙（飞龙类技能的威力上升）"
+cheat175_handler = "2"
+cheat175_code = "4510A,D8,0"
+
+cheat176_desc = "购买的物品0D9 西库头巾（正常类技能的威力上升）"
+cheat176_handler = "2"
+cheat176_code = "4510A,D9,0"
+
+cheat177_desc = "购买的物品0DA 上升叶片（奇异箱子，收集用）"
+cheat177_handler = "2"
+cheat177_code = "4510A,DA,0"
+
+cheat178_desc = "购买的物品0DB 空贝（对敌人损伤时体力会恢复）"
+cheat178_handler = "2"
+cheat178_code = "4510A,DB,0"
+
+cheat179_desc = "购买的物品0DC 潮物（水类技能的威力上升一点）"
+cheat179_handler = "2"
+cheat179_code = "4510A,DC,0"
+
+cheat180_desc = "购买的物品0DD 气物（敌人的命中率下降一点）"
+cheat180_handler = "2"
+cheat180_code = "4510A,DD,0"
+
+cheat181_desc = "购买的物品0DE 吉利蛋钳（容易命中要害，限于吉利蛋）"
+cheat181_handler = "2"
+cheat181_code = "4510A,DE,0"
+
+cheat182_desc = "购买的物品0DF 木物（防御力上升，限于百变怪）"
+cheat182_handler = "2"
+cheat182_code = "4510A,DF,0"
+
+cheat183_desc = "购买的物品0FE 红手巾（持有参加比赛会比平时显得聪明）"
+cheat183_handler = "2"
+cheat183_code = "4510A,FE,0"
+
+cheat184_desc = "购买的物品0FF 蓝手巾（持有参加比赛会比平时显得美丽）"
+cheat184_handler = "2"
+cheat184_code = "4510A,FF,0"
+
+cheat185_desc = "购买的物品100 粉手巾（持有参加比赛会比平时显得可爱）"
+cheat185_handler = "2"
+cheat185_code = "4510A,0,1"
+
+cheat186_desc = "购买的物品101 绿手巾（持有参加比赛会比平时显得聪明）"
+cheat186_handler = "2"
+cheat186_code = "4510A,1,1"
+
+cheat187_desc = "购买的物品102 黄手巾（持有参加比赛会比平时显得坚强）"
+cheat187_handler = "2"
+cheat187_code = "4510A,2,1"
+
+cheat188_desc = "购买的物品103 风马自行车"
+cheat188_handler = "2"
+cheat188_code = "4510A,3,1"
+
+cheat189_desc = "购买的物品104 硬币盒子"
+cheat189_handler = "2"
+cheat189_code = "4510A,4,1"
+
+cheat190_desc = "购买的物品105 探宝器"
+cheat190_handler = "2"
+cheat190_code = "4510A,5,1"
+
+cheat191_desc = "购买的物品106 普通钓竿"
+cheat191_handler = "2"
+cheat191_code = "4510A,6,1"
+
+cheat192_desc = "购买的物品107 好钓竿"
+cheat192_handler = "2"
+cheat192_code = "4510A,7,1"
+
+cheat193_desc = "购买的物品108 超级钓竿"
+cheat193_handler = "2"
+cheat193_code = "4510A,8,1"
+
+cheat194_desc = "购买的物品109 船票"
+cheat194_handler = "2"
+cheat194_code = "4510A,9,1"
+
+cheat195_desc = "购买的物品10A 比赛通行证"
+cheat195_handler = "2"
+cheat195_code = "4510A,A,1"
+
+cheat196_desc = "购买的物品10C 皮皮鲸喷壶"
+cheat196_handler = "2"
+cheat196_code = "4510A,C,1"
+
+cheat197_desc = "购买的物品10D 天力行李"
+cheat197_handler = "2"
+cheat197_code = "4510A,D,1"
+
+cheat198_desc = "购买的物品10E 背包"
+cheat198_handler = "2"
+cheat198_code = "4510A,E,1"
+
+cheat199_desc = "购买的物品10F 地下钥匙"
+cheat199_handler = "2"
+cheat199_code = "4510A,F,1"
+
+cheat200_desc = "购买的物品110 沙道自行车"
+cheat200_handler = "2"
+cheat200_code = "4510A,10,1"
+
+cheat201_desc = "购买的物品111 怪兽盒"
+cheat201_handler = "2"
+cheat201_code = "4510A,11,1"
+
+cheat202_desc = "购买的物品112 代后的信"
+cheat202_handler = "2"
+cheat202_code = "4510A,12,1"
+
+cheat203_desc = "购买的物品113 梦幻船票"
+cheat203_handler = "2"
+cheat203_code = "4510A,13,1"
+
+cheat204_desc = "购买的物品114 红色玉石"
+cheat204_handler = "2"
+cheat204_code = "4510A,14,1"
+
+cheat205_desc = "购买的物品115 蓝色玉石"
+cheat205_handler = "2"
+cheat205_code = "4510A,15,1"
+
+cheat206_desc = "购买的物品116 探知器"
+cheat206_handler = "2"
+cheat206_code = "4510A,16,1"
+
+cheat207_desc = "购买的物品117 沙道眼睛"
+cheat207_handler = "2"
+cheat207_code = "4510A,17,1"
+
+cheat208_desc = "购买的物品118 陨石"
+cheat208_handler = "2"
+cheat208_code = "4510A,18,1"
+
+cheat209_desc = "购买的物品119 1室钥匙"
+cheat209_handler = "2"
+cheat209_code = "4510A,19,1"
+
+cheat210_desc = "购买的物品11A 2室钥匙"
+cheat210_handler = "2"
+cheat210_code = "4510A,1A,1"
+
+cheat211_desc = "购买的物品11B 4室钥匙"
+cheat211_handler = "2"
+cheat211_code = "4510A,1B,1"
+
+cheat212_desc = "购买的物品11C 6室钥匙"
+cheat212_handler = "2"
+cheat212_code = "4510A,1C,1"
+
+cheat213_desc = "购买的物品11D 仓库钥匙"
+cheat213_handler = "2"
+cheat213_code = "4510A,1D,1"
+
+cheat214_desc = "购买的物品11E 木根化石"
+cheat214_handler = "2"
+cheat214_code = "4510A,1E,1"
+
+cheat215_desc = "购买的物品11F 指甲化石"
+cheat215_handler = "2"
+cheat215_code = "4510A,1F,1"
+
+cheat216_desc = "购买的物品120 天力思奇"
+cheat216_handler = "2"
+cheat216_code = "4510A,20,1"
+
+cheat217_desc = "购买的物品121 招式机器01"
+cheat217_handler = "2"
+cheat217_code = "4510A,21,1"
+
+cheat218_desc = "购买的物品122 招式机器02"
+cheat218_handler = "2"
+cheat218_code = "4510A,22,1"
+
+cheat219_desc = "购买的物品123 招式机器03"
+cheat219_handler = "2"
+cheat219_code = "4510A,23,1"
+
+cheat220_desc = "购买的物品124 招式机器04"
+cheat220_handler = "2"
+cheat220_code = "4510A,24,1"
+
+cheat221_desc = "购买的物品125 招式机器05"
+cheat221_handler = "2"
+cheat221_code = "4510A,25,1"
+
+cheat222_desc = "购买的物品126 招式机器06"
+cheat222_handler = "2"
+cheat222_code = "4510A,26,1"
+
+cheat223_desc = "购买的物品127 招式机器07"
+cheat223_handler = "2"
+cheat223_code = "4510A,27,1"
+
+cheat224_desc = "购买的物品128 招式机器08"
+cheat224_handler = "2"
+cheat224_code = "4510A,28,1"
+
+cheat225_desc = "购买的物品129 招式机器09"
+cheat225_handler = "2"
+cheat225_code = "4510A,29,1"
+
+cheat226_desc = "购买的物品12A 招式机器10"
+cheat226_handler = "2"
+cheat226_code = "4510A,2A,1"
+
+cheat227_desc = "购买的物品12B 招式机器11"
+cheat227_handler = "2"
+cheat227_code = "4510A,2B,1"
+
+cheat228_desc = "购买的物品12C 招式机器12"
+cheat228_handler = "2"
+cheat228_code = "4510A,2C,1"
+
+cheat229_desc = "购买的物品12D 招式机器13"
+cheat229_handler = "2"
+cheat229_code = "4510A,2D,1"
+
+cheat230_desc = "购买的物品12E 招式机器14"
+cheat230_handler = "2"
+cheat230_code = "4510A,2E,1"
+
+cheat231_desc = "购买的物品12F 招式机器15"
+cheat231_handler = "2"
+cheat231_code = "4510A,2F,1"
+
+cheat232_desc = "购买的物品130 招式机器16"
+cheat232_handler = "2"
+cheat232_code = "4510A,30,1"
+
+cheat233_desc = "购买的物品131 招式机器17"
+cheat233_handler = "2"
+cheat233_code = "4510A,31,1"
+
+cheat234_desc = "购买的物品132 招式机器18"
+cheat234_handler = "2"
+cheat234_code = "4510A,32,1"
+
+cheat235_desc = "购买的物品133 招式机器19"
+cheat235_handler = "2"
+cheat235_code = "4510A,33,1"
+
+cheat236_desc = "购买的物品134 招式机器20"
+cheat236_handler = "2"
+cheat236_code = "4510A,34,1"
+
+cheat237_desc = "购买的物品135 招式机器21"
+cheat237_handler = "2"
+cheat237_code = "4510A,35,1"
+
+cheat238_desc = "购买的物品136 招式机器22"
+cheat238_handler = "2"
+cheat238_code = "4510A,36,1"
+
+cheat239_desc = "购买的物品137 招式机器23"
+cheat239_handler = "2"
+cheat239_code = "4510A,37,1"
+
+cheat240_desc = "购买的物品138 招式机器24"
+cheat240_handler = "2"
+cheat240_code = "4510A,38,1"
+
+cheat241_desc = "购买的物品139 招式机器25"
+cheat241_handler = "2"
+cheat241_code = "4510A,39,1"
+
+cheat242_desc = "购买的物品13A 招式机器26"
+cheat242_handler = "2"
+cheat242_code = "4510A,3A,1"
+
+cheat243_desc = "购买的物品13B 招式机器27"
+cheat243_handler = "2"
+cheat243_code = "4510A,3B,1"
+
+cheat244_desc = "购买的物品13C 招式机器28"
+cheat244_handler = "2"
+cheat244_code = "4510A,3C,1"
+
+cheat245_desc = "购买的物品13D 招式机器29"
+cheat245_handler = "2"
+cheat245_code = "4510A,3D,1"
+
+cheat246_desc = "购买的物品13E 招式机器30"
+cheat246_handler = "2"
+cheat246_code = "4510A,3E,1"
+
+cheat247_desc = "购买的物品13F 招式机器31"
+cheat247_handler = "2"
+cheat247_code = "4510A,3F,1"
+
+cheat248_desc = "购买的物品140 招式机器32"
+cheat248_handler = "2"
+cheat248_code = "4510A,40,1"
+
+cheat249_desc = "购买的物品141 招式机器33"
+cheat249_handler = "2"
+cheat249_code = "4510A,41,1"
+
+cheat250_desc = "购买的物品142 招式机器34"
+cheat250_handler = "2"
+cheat250_code = "4510A,42,1"
+
+cheat251_desc = "购买的物品143 招式机器35"
+cheat251_handler = "2"
+cheat251_code = "4510A,43,1"
+
+cheat252_desc = "购买的物品144 招式机器36"
+cheat252_handler = "2"
+cheat252_code = "4510A,44,1"
+
+cheat253_desc = "购买的物品145 招式机器37"
+cheat253_handler = "2"
+cheat253_code = "4510A,45,1"
+
+cheat254_desc = "购买的物品146 招式机器38"
+cheat254_handler = "2"
+cheat254_code = "4510A,46,1"
+
+cheat255_desc = "购买的物品147 招式机器39"
+cheat255_handler = "2"
+cheat255_code = "4510A,47,1"
+
+cheat256_desc = "购买的物品148 招式机器40"
+cheat256_handler = "2"
+cheat256_code = "4510A,48,1"
+
+cheat257_desc = "购买的物品149 招式机器41"
+cheat257_handler = "2"
+cheat257_code = "4510A,49,1"
+
+cheat258_desc = "购买的物品14A 招式机器42"
+cheat258_handler = "2"
+cheat258_code = "4510A,4A,1"
+
+cheat259_desc = "购买的物品14B 招式机器43"
+cheat259_handler = "2"
+cheat259_code = "4510A,4B,1"
+
+cheat260_desc = "购买的物品14C 招式机器44"
+cheat260_handler = "2"
+cheat260_code = "4510A,4C,1"
+
+cheat261_desc = "购买的物品14D 招式机器45"
+cheat261_handler = "2"
+cheat261_code = "4510A,4D,1"
+
+cheat262_desc = "购买的物品14E 招式机器46"
+cheat262_handler = "2"
+cheat262_code = "4510A,4E,1"
+
+cheat263_desc = "购买的物品14F 招式机器47"
+cheat263_handler = "2"
+cheat263_code = "4510A,4F,1"
+
+cheat264_desc = "购买的物品150 招式机器48"
+cheat264_handler = "2"
+cheat264_code = "4510A,50,1"
+
+cheat265_desc = "购买的物品151 招式机器49"
+cheat265_handler = "2"
+cheat265_code = "4510A,51,1"
+
+cheat266_desc = "购买的物品152 招式机器50"
+cheat266_handler = "2"
+cheat266_code = "4510A,52,1"
+
+cheat267_desc = "购买的物品153 秘传机01"
+cheat267_handler = "2"
+cheat267_code = "4510A,53,1"
+
+cheat268_desc = "购买的物品154 秘传机02"
+cheat268_handler = "2"
+cheat268_code = "4510A,54,1"
+
+cheat269_desc = "购买的物品155 秘传机03"
+cheat269_handler = "2"
+cheat269_code = "4510A,55,1"
+
+cheat270_desc = "购买的物品156 秘传机04"
+cheat270_handler = "2"
+cheat270_code = "4510A,56,1"
+
+cheat271_desc = "购买的物品157 秘传机05"
+cheat271_handler = "2"
+cheat271_code = "4510A,57,1"
+
+cheat272_desc = "购买的物品158 秘传机06"
+cheat272_handler = "2"
+cheat272_code = "4510A,58,1"
+
+cheat273_desc = "购买的物品159 秘传机07"
+cheat273_handler = "2"
+cheat273_code = "4510A,59,1"
+
+cheat274_desc = "购买的物品15A 秘传机08"
+cheat274_handler = "2"
+cheat274_code = "4510A,5A,1"
+
+cheat275_desc = "购买的物品15D 邮包"
+cheat275_handler = "2"
+cheat275_code = "4510A,5D,1"
+
+cheat276_desc = "购买的物品15E 怪兽笛子"
+cheat276_handler = "2"
+cheat276_code = "4510A,5E,1"
+
+cheat277_desc = "购买的物品15F 火焰道馆钥匙"
+cheat277_handler = "2"
+cheat277_code = "4510A,5F,1"
+
+cheat278_desc = "购买的物品160 自行车兑换卷"
+cheat278_handler = "2"
+cheat278_code = "4510A,60,1"
+
+cheat279_desc = "购买的物品161 假牙"
+cheat279_handler = "2"
+cheat279_code = "4510A,61,1"
+
+cheat280_desc = "购买的物品162 琥珀"
+cheat280_handler = "2"
+cheat280_code = "4510A,62,1"
+
+cheat281_desc = "购买的物品163 黄金室大楼钥匙"
+cheat281_handler = "2"
+cheat281_code = "4510A,63,1"
+
+cheat282_desc = "购买的物品164 火箭队钥匙"
+cheat282_handler = "2"
+cheat282_code = "4510A,64,1"
+
+cheat283_desc = "购买的物品165 菊石兽化石"
+cheat283_handler = "2"
+cheat283_code = "4510A,65,1"
+
+cheat284_desc = "购买的物品166 化石盔化石"
+cheat284_handler = "2"
+cheat284_code = "4510A,66,1"
+
+cheat285_desc = "购买的物品167 照妖眼镜"
+cheat285_handler = "2"
+cheat285_code = "4510A,67,1"
+
+cheat286_desc = "购买的物品168 自行车"
+cheat286_handler = "2"
+cheat286_code = "4510A,68,1"
+
+cheat287_desc = "购买的物品169 城市地图"
+cheat287_handler = "2"
+cheat287_code = "4510A,69,1"
+
+cheat288_desc = "购买的物品16A 声音探测器"
+cheat288_handler = "2"
+cheat288_code = "4510A,6A,1"
+
+cheat289_desc = "购买的物品16B 电话机"
+cheat289_handler = "2"
+cheat289_code = "4510A,6B,1"
+
+cheat290_desc = "购买的物品16C 技能盒子"
+cheat290_handler = "2"
+cheat290_code = "4510A,6C,1"
+
+cheat291_desc = "购买的物品16D 树果袋子"
+cheat291_handler = "2"
+cheat291_code = "4510A,6D,1"
+
+cheat292_desc = "购买的物品16E 电视机"
+cheat292_handler = "2"
+cheat292_code = "4510A,6E,1"
+
+cheat293_desc = "购买的物品16F 1、2、3岛道船票"
+cheat293_handler = "2"
+cheat293_code = "4510A,6F,1"
+
+cheat294_desc = "购买的物品170 彩虹船票"
+cheat294_handler = "2"
+cheat294_code = "4510A,70,1"
+
+cheat295_desc = "购买的物品171 茶"
+cheat295_handler = "2"
+cheat295_code = "4510A,71,1"
+
+cheat296_desc = "购买的物品172 紫色的票"
+cheat296_handler = "2"
+cheat296_code = "4510A,72,1"
+
+cheat297_desc = "购买的物品173 水底的票"
+cheat297_handler = "2"
+cheat297_code = "4510A,73,1"
+
+cheat298_desc = "购买的物品174 收集瓶（深蓝市老头家得到换东西的）"
+cheat298_handler = "2"
+cheat298_code = "4510A,74,1"
+
+cheat299_desc = "购买的物品175 红宝石"
+cheat299_handler = "2"
+cheat299_code = "4510A,75,1"
+
+cheat300_desc = "购买的物品176 蓝宝石"
+cheat300_handler = "2"
+cheat300_code = "4510A,76,1"
+
+cheat301_desc = "每战经验值100点"
+cheat301_handler = "2"
+cheat301_code = "23CB0,64,0"
+
+cheat302_desc = "每战经验值200点"
+cheat302_handler = "2"
+cheat302_code = "23CB0,C8,0"
+
+cheat303_desc = "每战经验值500点"
+cheat303_handler = "2"
+cheat303_code = "23CB0,F4,1"
+
+cheat304_desc = "每战经验值1000点"
+cheat304_handler = "2"
+cheat304_code = "23CB0,E8,3"
+
+cheat305_desc = "每战经验值2000点"
+cheat305_handler = "2"
+cheat305_code = "23CB0,D0,7"
+
+cheat306_desc = "每战经验值5000点"
+cheat306_handler = "2"
+cheat306_code = "23CB0,88,13"
+
+cheat307_desc = "每战经验值10000点"
+cheat307_handler = "2"
+cheat307_code = "23CB0,10,27"
+
+cheat308_desc = "每战经验值20000点"
+cheat308_handler = "2"
+cheat308_code = "23CB0,20,4E"
+
+cheat309_desc = "每战经验值50000点"
+cheat309_handler = "2"
+cheat309_code = "23CB0,50,C3"
+
+cheat310_desc = "喷雾剂剩余歩数"
+cheat310_handler = "2"
+cheat310_code = "264E4,FF"
+
+cheat311_desc = "喷雾剂剩余歩数0FF"
+cheat311_handler = "2"
+cheat311_code = "264E4,00"
+
+cheat312_desc = "地点转换4号岛饲养屋"
+cheat312_handler = "2"
+cheat312_code = "31CF0,23,0"
+
+cheat313_desc = "地点转换6号岛无路山洞"
+cheat313_handler = "2"
+cheat313_code = "31CF0,3,3A"
+
+cheat314_desc = "地点转换草会馆"
+cheat314_handler = "2"
+cheat314_code = "31CF0,4,3A"
+
+cheat315_desc = "地点转换毒会馆的精灵中心"
+cheat315_handler = "2"
+cheat315_code = "31CF0,6,3A"
+
+cheat316_desc = "地点转换红莲岛的研究馆"
+cheat316_handler = "2"
+cheat316_code = "31CF0,7,3A"
+
+cheat317_desc = "地点转换超能力城市"
+cheat317_handler = "2"
+cheat317_code = "31CF0,8,3A"
+
+cheat318_desc = "地点转换长青森林的过道"
+cheat318_handler = "2"
+cheat318_code = "31CF0,9,3A"
+
+cheat319_desc = "地点转换船"
+cheat319_handler = "2"
+cheat319_code = "31CF0,0,1F"
+
+cheat320_desc = "地点转换那大师球的地方"
+cheat320_handler = "2"
+cheat320_code = "31CF0,0,3A"
+
+cheat321_desc = "地点转换抓火焰鸟的地方"
+cheat321_handler = "2"
+cheat321_code = "31CF0,0,6A"
+
+cheat322_desc = "地点转换无人洞"
+cheat322_handler = "2"
+cheat322_code = "31CF0,1,7A"
+
+cheat323_desc = "地点转换通信站"
+cheat323_handler = "2"
+cheat323_code = "31CF0,0,1"
+
+cheat324_desc = "地点转换第8会馆"
+cheat324_handler = "2"
+cheat324_code = "31CF0,5,1"
+
+cheat325_desc = "地点转换主角学3招的地方"
+cheat325_handler = "2"
+cheat325_code = "31CF0,28,0"
+
+cheat326_desc = "地点转换4天王门口"
+cheat326_handler = "2"
+cheat326_code = "31CF0,3,2A"
+
+cheat327_desc = "地点转换狩猎区"
+cheat327_handler = "2"
+cheat327_code = "31CF0,5,3A"
+
+cheat328_desc = "地点转换超梦洞"
+cheat328_handler = "2"
+cheat328_code = "31CF0,1,4A"
+
+cheat329_desc = "地点转换家"
+cheat329_handler = "2"
+cheat329_code = "31CF0,2,7E"
+
+cheat330_desc = "地点转换1号岛"
+cheat330_handler = "2"
+cheat330_code = "31CF0,20,4"
+
+cheat331_desc = "地点转换2号岛"
+cheat331_handler = "2"
+cheat331_code = "31CF0,21,4"
+
+cheat332_desc = "地点转换3号岛"
+cheat332_handler = "2"
+cheat332_code = "31CF0,26,0"
+
+cheat333_desc = "地点转换4号岛"
+cheat333_handler = "2"
+cheat333_code = "31CF0,23,5"
+
+cheat334_desc = "地点转换5号岛"
+cheat334_handler = "2"
+cheat334_code = "31CF0,24,2"
+
+cheat335_desc = "地点转换6号岛"
+cheat335_handler = "2"
+cheat335_code = "31CF0,25,2"
+
+cheat336_desc = "地点转换7号岛"
+cheat336_handler = "2"
+cheat336_code = "31CF0,1F,6"
+
+cheat337_desc = "地点转换8号岛"
+cheat337_handler = "2"
+cheat337_code = "31CF0,2,3B"
+
+cheat338_desc = "地点转换9号岛"
+cheat338_handler = "2"
+cheat338_code = "31CF0,2,3A"
+
+cheat339_desc = "狩猎区"
+cheat339_handler = "2"
+cheat339_code = "3990C,32,0,58,2"
+
+cheats = 340

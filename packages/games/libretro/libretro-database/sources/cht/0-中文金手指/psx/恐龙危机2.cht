@@ -1,0 +1,45 @@
+cheat0_desc = "VITAR CREDIT 最大"
+cheat0_handler = "0"
+cheat0_code = "800ACDA0#967F,800ACDA2#0098"
+
+cheat1_desc = "FILE 全出現"
+cheat1_handler = "0"
+cheat1_code = "800ACE6E#FFFF;800ACE70#FFFF"
+
+cheat2_desc = "生命不減"
+cheat2_handler = "0"
+cheat2_code = "90022694#8645010A;900226B8#A6450108"
+
+cheat3_desc = "所有武器"
+cheat3_handler = "0"
+cheat3_code = "B00B000C#00000100,800ACC68#0101;B009000C#00000100,800ACCEC#1101;B00B000C#00000000,900ACC70#03E703E7;B008000C#00000000,900ACCF4#03E703E7"
+
+cheat4_desc = "所有藥劑"
+cheat4_handler = "0"
+cheat4_code = "B006000C#00000100,800ACD58#1A01;B006000C#00000000,900ACD60#00090009"
+
+cheat5_desc = "子彈不減"
+cheat5_handler = "0"
+cheat5_code = "D0052802#0071,80052802#0060"
+
+cheat6_desc = "時間不減"
+cheat6_handler = "0"
+cheat6_code = "800ACC44#0000;800ACC46#0000"
+
+cheat7_desc = "藥劑不減"
+cheat7_handler = "0"
+cheat7_code = "D0056448#FFFF,80056448#0000"
+
+cheat8_desc = "所有鎗隻變連發"
+cheat8_handler = "0"
+cheat8_code = "800B1260#0001"
+
+cheat9_desc = "得到所有重要道具"
+cheat9_handler = "0"
+cheat9_code = "800ACE68#FFFF;800ACE6A#03FF"
+
+cheat10_desc = "无限火箭筒"
+cheat10_handler = "0"
+cheat10_code = "800ACDD4#0301;800ACD0C#270F;800ACD0E#270F"
+
+cheats = 11

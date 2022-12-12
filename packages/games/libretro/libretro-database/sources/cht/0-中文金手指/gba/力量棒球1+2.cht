@@ -1,0 +1,37 @@
+cheat0_desc = "體力"
+cheat0_handler = "2"
+cheat0_code = "16E4E,64"
+
+cheat1_desc = "練習"
+cheat1_handler = "2"
+cheat1_code = "16E51,64"
+
+cheat2_desc = "血氣"
+cheat2_handler = "2"
+cheat2_code = "16E55,0"
+
+cheat3_desc = "活力"
+cheat3_handler = "2"
+cheat3_code = "16E50,A"
+
+cheat4_desc = "筋力"
+cheat4_handler = "2"
+cheat4_code = "16E58,E7,3"
+
+cheat5_desc = "速度"
+cheat5_handler = "2"
+cheat5_code = "16E5C,E7,3"
+
+cheat6_desc = "技術"
+cheat6_handler = "2"
+cheat6_code = "16E5A,E7,3"
+
+cheat7_desc = "變化球"
+cheat7_handler = "2"
+cheat7_code = "16E5E,E7,3"
+
+cheat8_desc = "評價"
+cheat8_handler = "2"
+cheat8_code = "16E53,64,64"
+
+cheats = 9

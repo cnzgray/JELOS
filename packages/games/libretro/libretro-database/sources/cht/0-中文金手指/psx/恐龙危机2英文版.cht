@@ -1,0 +1,113 @@
+cheat0_desc = "Have Item"
+cheat0_handler = "0"
+cheat0_code = "300aedc8#0001;300aedd4#0001;300aede0#0001;300aedec#0001;300aedf8#0001;300aee04#0001"
+
+cheat1_desc = "Infinite Shot Gun Ammo"
+cheat1_handler = "0"
+cheat1_code = "800aece0#0063"
+
+cheat2_desc = "max Score"
+cheat2_handler = "0"
+cheat2_code = "800aee10#e0ff;800aee10#05f5"
+
+cheat3_desc = "Recovery Item Slot Modifie xxr;Replace xx with: 1A"
+cheat3_handler = "0"
+cheat3_code = "Hemostat 1B"
+
+cheat4_desc = "Recovery Item Slot Modifie xxr"
+cheat4_handler = "0"
+cheat4_code = "300aedc9#00xx;300aedd5#00xx;300aede1#00xx;300aeded#00xx;300aedf9#00xx;300aee05#00xx"
+
+cheat5_desc = "Infinite Double Handed Machine Ammo"
+cheat5_handler = "0"
+cheat5_code = "800aed4c#0063"
+
+cheat6_desc = "Infinite Solid Cannon Ammo"
+cheat6_handler = "0"
+cheat6_code = "800aed28#0063"
+
+cheat7_desc = "Infinite Hand Gun Ammo"
+cheat7_handler = "0"
+cheat7_code = "800aecec#0063"
+
+cheat8_desc = "Infinite Flamewall"
+cheat8_handler = "0"
+cheat8_code = "800aed34#0063"
+
+cheat9_desc = "Infinite Flame Thrower"
+cheat9_handler = "0"
+cheat9_code = "800aed40#0063"
+
+cheat10_desc = "Infinite Solid Cannon Ammo"
+cheat10_handler = "0"
+cheat10_code = "800aed28#0063"
+
+cheat11_desc = "Unlock Extra Dino Mode"
+cheat11_handler = "0"
+cheat11_code = "800aeca8#0101;800aecae#0101"
+
+cheat12_desc = "Infinite Hemostat"
+cheat12_handler = "0"
+cheat12_code = "800aeddc#0009;800aedde#0009"
+
+cheat13_desc = "Infinite Med. Pak. M"
+cheat13_handler = "0"
+cheat13_code = "800aee0c#0009;800aee0e#0009"
+
+cheat14_desc = "Infinite Resusc. Pak"
+cheat14_handler = "0"
+cheat14_code = "800aedd0#0009;800aedd2#0009"
+
+cheat15_desc = "Infinite Resusc. Pak"
+cheat15_handler = "0"
+cheat15_code = "800ae370#0063"
+
+cheat16_desc = "Infinite Med. Pak. L"
+cheat16_handler = "0"
+cheat16_code = "800aee00#0009;800aee020#009"
+
+cheat17_desc = "Inf. Health (Travel Mode)"
+cheat17_handler = "0"
+cheat17_code = "800b53ca#00b4;800553ca#00b4"
+
+cheat18_desc = "99 Combo Hit (Trav. Mode)"
+cheat18_handler = "0"
+cheat18_code = "800b53dc#0063"
+
+cheat19_desc = "Stop the Timer"
+cheat19_handler = "0"
+cheat19_code = "800aecb4#0000"
+
+cheat20_desc = "Infinite Sub Machine Gun Ammo"
+cheat20_handler = "0"
+cheat20_code = "800aed40#0063"
+
+cheat21_desc = "Infinite Missle Pod Ammo"
+cheat21_handler = "0"
+cheat21_code = "800aed64#0063"
+
+cheat22_desc = "Infinite Hv. Mchn. Gun Ammo"
+cheat22_handler = "0"
+cheat22_code = "800aed58#0063"
+
+cheat23_desc = "Infinite AquaGrenade Ammo"
+cheat23_handler = "0"
+cheat23_code = "800aed70#0063"
+
+cheat24_desc = "Infinite Chainmine Ammo"
+cheat24_handler = "0"
+cheat24_code = "800aed88#0063"
+
+cheat25_desc = "Infinite Rocket Launcher Ammo"
+cheat25_handler = "0"
+cheat25_code = "800aed94#0063"
+
+cheat26_desc = "Infinite AntiTank R. Ammo"
+cheat26_handler = "0"
+cheat26_code = "800aed7c#0063"
+
+cheat27_desc = "Unlock All Characters (Dino Extra Mode)"
+cheat27_handler = "0"
+cheat27_code = "800aeace#ffff"
+
+cheats = 28

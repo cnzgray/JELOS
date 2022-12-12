@@ -1,0 +1,273 @@
+cheat0_desc = "靈魂on"
+cheat0_handler = "2"
+cheat0_code = "0456b4,9f,86,1"
+
+cheat1_desc = "合成石on"
+cheat1_handler = "2"
+cheat1_code = "0456aa,99;0456ab,99;0456ac,99;0456ad,99;0456ae,99;0456af,99;0456b0,99;0456b1,99;0456b2,99"
+
+cheat2_desc = "魂"
+cheat2_handler = "2"
+cheat2_code = "456B4,FF,FF"
+
+cheat3_desc = "王仁丸-最大HP"
+cheat3_handler = "2"
+cheat3_code = "282,E7;282,E7,3;283,3"
+
+cheat4_desc = "王仁丸-现时HP"
+cheat4_handler = "2"
+cheat4_code = "286,E7;286,E7,3;287,3"
+
+cheat5_desc = "王仁丸-EXP"
+cheat5_handler = "2"
+cheat5_code = "27A,E7;27A,E7,3;27B,3"
+
+cheat6_desc = "王仁丸-LV"
+cheat6_handler = "2"
+cheat6_code = "279,63;279,63"
+
+cheat7_desc = "王仁丸-更换角色"
+cheat7_handler = "2"
+cheat7_code = "278,1;278,1"
+
+cheat8_desc = "王仁丸-现时SP"
+cheat8_handler = "2"
+cheat8_code = "280,E7;280,E7,3;281,3"
+
+cheat9_desc = "王仁丸-最大SP"
+cheat9_handler = "2"
+cheat9_code = "284,E7;284,E7,3;285,3"
+
+cheat10_desc = "经验下一关有效"
+cheat10_handler = "2"
+cheat10_code = "27A,F,27;2BE,F,27;4DE,F,27;522,F,27;566,F,27;49A,F,27;6BA,F,27;346,F,27;6FE,F,27;676,F,27;632,F,27;456,F,27;786,F,27;302,F,27;5AA,F,27;38A,F,27;412,F,27;7CA,F,27;742,F,27"
+
+cheat11_desc = "武器更换"
+cheat11_handler = "2"
+cheat11_code = "29C,0;29C,0"
+
+cheat12_desc = "防具更换"
+cheat12_handler = "2"
+cheat12_code = "29E,0;29E,0"
+
+cheat13_desc = "？？更换"
+cheat13_handler = "2"
+cheat13_code = "2A0,0;2A0,0"
+
+cheat14_desc = "道具更换1"
+cheat14_handler = "2"
+cheat14_code = "2A2,0;2A2,0"
+
+cheat15_desc = "道具更换2"
+cheat15_handler = "2"
+cheat15_code = "2A4,0;2A4,0"
+
+cheat16_desc = "更换招式1"
+cheat16_handler = "2"
+cheat16_code = "2A6,0;2A6,0"
+
+cheat17_desc = "更换招式2"
+cheat17_handler = "2"
+cheat17_code = "2A8,0;2A8,0"
+
+cheat18_desc = "更换招式3"
+cheat18_handler = "2"
+cheat18_code = "2AA,0;2AA,0"
+
+cheat19_desc = "增加招式4"
+cheat19_handler = "2"
+cheat19_code = "2AC,0;2AC,0"
+
+cheat20_desc = "数值1"
+cheat20_handler = "2"
+cheat20_code = "296,E7;296,E7,3;297,3"
+
+cheat21_desc = "数值2"
+cheat21_handler = "2"
+cheat21_code = "298,E7;298,E7,3;299,3"
+
+cheat22_desc = "数值3"
+cheat22_handler = "2"
+cheat22_code = "294,E7;294,E7,3;295,3"
+
+cheat23_desc = "数值4"
+cheat23_handler = "2"
+cheat23_code = "292,E7;292,E7,3;293,3"
+
+cheat24_desc = "胧 在队伍中在 "
+cheat24_handler = "2"
+cheat24_code = "2C1,01"
+
+cheat25_desc = "胧 在队伍中不在"
+cheat25_handler = "2"
+cheat25_code = "2C1,00"
+
+cheat26_desc = "扬羽 在队伍中在 "
+cheat26_handler = "2"
+cheat26_code = "305,01"
+
+cheat27_desc = "扬羽 在队伍中不在"
+cheat27_handler = "2"
+cheat27_code = "305,00"
+
+cheat28_desc = "杂贺孙市 在队伍中在 "
+cheat28_handler = "2"
+cheat28_code = "349,01"
+
+cheat29_desc = "杂贺孙市 在队伍中不在"
+cheat29_handler = "2"
+cheat29_code = "349,00"
+
+cheat30_desc = "怪童丸 在队伍中在 "
+cheat30_handler = "2"
+cheat30_code = "38D,01"
+
+cheat31_desc = "怪童丸 在队伍中不在"
+cheat31_handler = "2"
+cheat31_code = "38D,00"
+
+cheat32_desc = "明智光秀 在队伍中在 "
+cheat32_handler = "2"
+cheat32_code = "3D1,01"
+
+cheat33_desc = "明智光秀 在队伍中不在"
+cheat33_handler = "2"
+cheat33_code = "3D1,00"
+
+cheat34_desc = "风魔小太郎 在队伍中在 "
+cheat34_handler = "2"
+cheat34_code = "415,01"
+
+cheat35_desc = "风魔小太郎 在队伍中不在"
+cheat35_handler = "2"
+cheat35_code = "415,00"
+
+cheat36_desc = "安国寺惠琼 在队伍中在 "
+cheat36_handler = "2"
+cheat36_code = "459,01"
+
+cheat37_desc = "安国寺惠琼 在队伍中不在"
+cheat37_handler = "2"
+cheat37_code = "459,00"
+
+cheat38_desc = "燕 在队伍中在 "
+cheat38_handler = "2"
+cheat38_code = "49D,01"
+
+cheat39_desc = "燕 在队伍中不在"
+cheat39_handler = "2"
+cheat39_code = "49D,00"
+
+cheat40_desc = "彦一 在队伍中在 "
+cheat40_handler = "2"
+cheat40_code = "4E1,01"
+
+cheat41_desc = "彦一 在队伍中不在"
+cheat41_handler = "2"
+cheat41_code = "4E1,00"
+
+cheat42_desc = "坊丸 在队伍中在 "
+cheat42_handler = "2"
+cheat42_code = "525,01"
+
+cheat43_desc = "坊丸 在队伍中不在"
+cheat43_handler = "2"
+cheat43_code = "525,00"
+
+cheat44_desc = "半平太 在队伍中在 "
+cheat44_handler = "2"
+cheat44_code = "569,01"
+
+cheat45_desc = "半平太 在队伍中不在"
+cheat45_handler = "2"
+cheat45_code = "569,00"
+
+cheat46_desc = "才藏 在队伍中在 "
+cheat46_handler = "2"
+cheat46_code = "5AD,01"
+
+cheat47_desc = "才藏 在队伍中不在"
+cheat47_handler = "2"
+cheat47_code = "5AD,01"
+
+cheat48_desc = "百地三太夫 在队伍中在 "
+cheat48_handler = "2"
+cheat48_code = "5F1,01"
+
+cheat49_desc = "百地三太夫 在队伍中不在"
+cheat49_handler = "2"
+cheat49_code = "5F1,00"
+
+cheat50_desc = "阿国 在队伍中在 "
+cheat50_handler = "2"
+cheat50_code = "635,01"
+
+cheat51_desc = "阿国 在队伍中不在"
+cheat51_handler = "2"
+cheat51_code = "635,01"
+
+cheat52_desc = "与一 在队伍中在 "
+cheat52_handler = "2"
+cheat52_code = "679,01"
+
+cheat53_desc = "与一 在队伍中不在"
+cheat53_handler = "2"
+cheat53_code = "679,00"
+
+cheat54_desc = "歌舞伎 在队伍中在 "
+cheat54_handler = "2"
+cheat54_code = "6BD,01"
+
+cheat55_desc = "歌舞伎 在队伍中不在"
+cheat55_handler = "2"
+cheat55_code = "6BD,00"
+
+cheat56_desc = "铁虎 在队伍中在 "
+cheat56_handler = "2"
+cheat56_code = "701,01"
+
+cheat57_desc = "铁虎 在队伍中不在"
+cheat57_handler = "2"
+cheat57_code = "701,00"
+
+cheat58_desc = "樱 在队伍中在 "
+cheat58_handler = "2"
+cheat58_code = "745,01"
+
+cheat59_desc = "樱 在队伍中不在"
+cheat59_handler = "2"
+cheat59_code = "745,00"
+
+cheat60_desc = "修罗 在队伍中在 "
+cheat60_handler = "2"
+cheat60_code = "789,01"
+
+cheat61_desc = "修罗 在队伍中不在"
+cheat61_handler = "2"
+cheat61_code = "789,00"
+
+cheat62_desc = "三十郎 在队伍中在 "
+cheat62_handler = "2"
+cheat62_code = "7CD,01"
+
+cheat63_desc = "三十郎 在队伍中不在"
+cheat63_handler = "2"
+cheat63_code = "7CD,00"
+
+cheat64_desc = "鬼之子 在队伍中在 "
+cheat64_handler = "2"
+cheat64_code = "811,01"
+
+cheat65_desc = "鬼之子 在队伍中不在"
+cheat65_handler = "2"
+cheat65_code = "811,00"
+
+cheat66_desc = "战斗中HP值锁定"
+cheat66_handler = "2"
+cheat66_code = "4306A,E7,3;43156,E7,3;43242,E7,3;4332E,E7,3;4341A,E7,3;43506,E7,3;435F2,E7,3;436DE,E7,3"
+
+cheat67_desc = "战斗中SP值锁定"
+cheat67_handler = "2"
+cheat67_code = "4306E,E7,3;4315A,E7,3;43246,E7,3;43332,E7,3;4341E,E7,3;4350A,E7,3;435F6,E7,3;436E2,E7,3"
+
+cheats = 68

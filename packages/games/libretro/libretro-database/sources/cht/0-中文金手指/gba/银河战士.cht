@@ -1,0 +1,429 @@
+cheat0_desc = "血格锁定99"
+cheat0_handler = "2"
+cheat0_code = "41310,63"
+
+cheat1_desc = "血格锁定199"
+cheat1_handler = "2"
+cheat1_code = "41310,C7"
+
+cheat2_desc = "血格锁定299"
+cheat2_handler = "2"
+cheat2_code = "41310,2B,01"
+
+cheat3_desc = "血格锁定399"
+cheat3_handler = "2"
+cheat3_code = "41310,8F,01"
+
+cheat4_desc = "血格锁定499"
+cheat4_handler = "2"
+cheat4_code = "41310,F3,01"
+
+cheat5_desc = "血格锁定599"
+cheat5_handler = "2"
+cheat5_code = "41310,57,02"
+
+cheat6_desc = "血格锁定699"
+cheat6_handler = "2"
+cheat6_code = "41310,BB,02"
+
+cheat7_desc = "血格锁定799"
+cheat7_handler = "2"
+cheat7_code = "41310,1F,03"
+
+cheat8_desc = "血格锁定899"
+cheat8_handler = "2"
+cheat8_code = "41310,83,03"
+
+cheat9_desc = "血格锁定999"
+cheat9_handler = "2"
+cheat9_code = "41310,E7,03"
+
+cheat10_desc = "血格锁定1099"
+cheat10_handler = "2"
+cheat10_code = "41310,4B,04"
+
+cheat11_desc = "血格锁定1199"
+cheat11_handler = "2"
+cheat11_code = "41310,AF,04"
+
+cheat12_desc = "血格锁定1299"
+cheat12_handler = "2"
+cheat12_code = "41310,13,05"
+
+cheat13_desc = "血格锁定1399"
+cheat13_handler = "2"
+cheat13_code = "41310,77,05"
+
+cheat14_desc = "血格锁定1499"
+cheat14_handler = "2"
+cheat14_code = "41310,DB,05"
+
+cheat15_desc = "血格锁定1599"
+cheat15_handler = "2"
+cheat15_code = "41310,3F,06"
+
+cheat16_desc = "血格锁定1699"
+cheat16_handler = "2"
+cheat16_code = "41310,A3,06"
+
+cheat17_desc = "血格锁定1799"
+cheat17_handler = "2"
+cheat17_code = "41310,07,07"
+
+cheat18_desc = "血格锁定1899"
+cheat18_handler = "2"
+cheat18_code = "41310,6B,07"
+
+cheat19_desc = "血格锁定1999"
+cheat19_handler = "2"
+cheat19_code = "41310,CF,07"
+
+cheat20_desc = "血格锁定2099(最后一个)"
+cheat20_handler = "2"
+cheat20_code = "41310,33,08"
+
+cheat21_desc = "飞弹锁定10"
+cheat21_handler = "2"
+cheat21_code = "41314,A"
+
+cheat22_desc = "飞弹锁定15"
+cheat22_handler = "2"
+cheat22_code = "41314,F"
+
+cheat23_desc = "飞弹锁定20"
+cheat23_handler = "2"
+cheat23_code = "41314,14"
+
+cheat24_desc = "飞弹锁定25"
+cheat24_handler = "2"
+cheat24_code = "41314,19"
+
+cheat25_desc = "飞弹锁定30"
+cheat25_handler = "2"
+cheat25_code = "41314,1E"
+
+cheat26_desc = "飞弹锁定35"
+cheat26_handler = "2"
+cheat26_code = "41314,23"
+
+cheat27_desc = "飞弹锁定40"
+cheat27_handler = "2"
+cheat27_code = "41314,28"
+
+cheat28_desc = "飞弹锁定45"
+cheat28_handler = "2"
+cheat28_code = "41314,2D"
+
+cheat29_desc = "飞弹锁定50"
+cheat29_handler = "2"
+cheat29_code = "41314,32"
+
+cheat30_desc = "飞弹锁定55"
+cheat30_handler = "2"
+cheat30_code = "41314,37"
+
+cheat31_desc = "飞弹锁定60"
+cheat31_handler = "2"
+cheat31_code = "41314,3C"
+
+cheat32_desc = "飞弹锁定65"
+cheat32_handler = "2"
+cheat32_code = "41314,41"
+
+cheat33_desc = "飞弹锁定70"
+cheat33_handler = "2"
+cheat33_code = "41314,46"
+
+cheat34_desc = "飞弹锁定75"
+cheat34_handler = "2"
+cheat34_code = "41314,4B"
+
+cheat35_desc = "飞弹锁定80"
+cheat35_handler = "2"
+cheat35_code = "41314,50"
+
+cheat36_desc = "飞弹锁定85"
+cheat36_handler = "2"
+cheat36_code = "41314,55"
+
+cheat37_desc = "飞弹锁定90"
+cheat37_handler = "2"
+cheat37_code = "41314,5A"
+
+cheat38_desc = "飞弹锁定95"
+cheat38_handler = "2"
+cheat38_code = "41314,5F"
+
+cheat39_desc = "飞弹锁定100"
+cheat39_handler = "2"
+cheat39_code = "41314,64"
+
+cheat40_desc = "飞弹锁定105"
+cheat40_handler = "2"
+cheat40_code = "41314,69"
+
+cheat41_desc = "飞弹锁定110"
+cheat41_handler = "2"
+cheat41_code = "41314,6E"
+
+cheat42_desc = "飞弹锁定115"
+cheat42_handler = "2"
+cheat42_code = "41314,73"
+
+cheat43_desc = "飞弹锁定120"
+cheat43_handler = "2"
+cheat43_code = "41314,78"
+
+cheat44_desc = "飞弹锁定125"
+cheat44_handler = "2"
+cheat44_code = "41314,7D"
+
+cheat45_desc = "飞弹锁定130"
+cheat45_handler = "2"
+cheat45_code = "41314,82"
+
+cheat46_desc = "飞弹锁定135"
+cheat46_handler = "2"
+cheat46_code = "41314,87"
+
+cheat47_desc = "飞弹锁定140"
+cheat47_handler = "2"
+cheat47_code = "41314,8C"
+
+cheat48_desc = "飞弹锁定145"
+cheat48_handler = "2"
+cheat48_code = "41314,91"
+
+cheat49_desc = "飞弹锁定150"
+cheat49_handler = "2"
+cheat49_code = "41314,96"
+
+cheat50_desc = "飞弹锁定155"
+cheat50_handler = "2"
+cheat50_code = "41314,9B"
+
+cheat51_desc = "飞弹锁定160"
+cheat51_handler = "2"
+cheat51_code = "41314,A0"
+
+cheat52_desc = "飞弹锁定165"
+cheat52_handler = "2"
+cheat52_code = "41314,A5"
+
+cheat53_desc = "飞弹锁定170"
+cheat53_handler = "2"
+cheat53_code = "41314,AA"
+
+cheat54_desc = "飞弹锁定175"
+cheat54_handler = "2"
+cheat54_code = "41314,AF"
+
+cheat55_desc = "飞弹锁定180"
+cheat55_handler = "2"
+cheat55_code = "41314,B4"
+
+cheat56_desc = "飞弹锁定185"
+cheat56_handler = "2"
+cheat56_code = "41314,B9"
+
+cheat57_desc = "飞弹锁定190"
+cheat57_handler = "2"
+cheat57_code = "41314,BE"
+
+cheat58_desc = "飞弹锁定195"
+cheat58_handler = "2"
+cheat58_code = "41314,C3"
+
+cheat59_desc = "飞弹锁定200"
+cheat59_handler = "2"
+cheat59_code = "41314,C8"
+
+cheat60_desc = "飞弹锁定205"
+cheat60_handler = "2"
+cheat60_code = "41314,CD"
+
+cheat61_desc = "飞弹锁定210"
+cheat61_handler = "2"
+cheat61_code = "41314,D2"
+
+cheat62_desc = "飞弹锁定215"
+cheat62_handler = "2"
+cheat62_code = "41314,D7"
+
+cheat63_desc = "飞弹锁定220"
+cheat63_handler = "2"
+cheat63_code = "41314,DC"
+
+cheat64_desc = "飞弹锁定225"
+cheat64_handler = "2"
+cheat64_code = "41314,E1"
+
+cheat65_desc = "飞弹锁定230"
+cheat65_handler = "2"
+cheat65_code = "41314,E6"
+
+cheat66_desc = "飞弹锁定235"
+cheat66_handler = "2"
+cheat66_code = "41314,EB"
+
+cheat67_desc = "飞弹锁定240"
+cheat67_handler = "2"
+cheat67_code = "41314,F0"
+
+cheat68_desc = "飞弹锁定245"
+cheat68_handler = "2"
+cheat68_code = "41314,F5"
+
+cheat69_desc = "飞弹锁定250(最后一个)"
+cheat69_handler = "2"
+cheat69_code = "41314,FA"
+
+cheat70_desc = "炸弹锁定10"
+cheat70_handler = "2"
+cheat70_code = "41318,A"
+
+cheat71_desc = "炸弹锁定12"
+cheat71_handler = "2"
+cheat71_code = "41318,C"
+
+cheat72_desc = "炸弹锁定14"
+cheat72_handler = "2"
+cheat72_code = "41318,E"
+
+cheat73_desc = "炸弹锁定16"
+cheat73_handler = "2"
+cheat73_code = "41318,10"
+
+cheat74_desc = "炸弹锁定18"
+cheat74_handler = "2"
+cheat74_code = "41318,12"
+
+cheat75_desc = "炸弹锁定20"
+cheat75_handler = "2"
+cheat75_code = "41318,14"
+
+cheat76_desc = "炸弹锁定22"
+cheat76_handler = "2"
+cheat76_code = "41318,16"
+
+cheat77_desc = "炸弹锁定24"
+cheat77_handler = "2"
+cheat77_code = "41318,18"
+
+cheat78_desc = "炸弹锁定26"
+cheat78_handler = "2"
+cheat78_code = "41318,1A"
+
+cheat79_desc = "炸弹锁定28"
+cheat79_handler = "2"
+cheat79_code = "41318,1C"
+
+cheat80_desc = "炸弹锁定30"
+cheat80_handler = "2"
+cheat80_code = "41318,1E"
+
+cheat81_desc = "炸弹锁定32"
+cheat81_handler = "2"
+cheat81_code = "41318,20"
+
+cheat82_desc = "炸弹锁定34"
+cheat82_handler = "2"
+cheat82_code = "41318,22"
+
+cheat83_desc = "炸弹锁定36"
+cheat83_handler = "2"
+cheat83_code = "41318,24"
+
+cheat84_desc = "炸弹锁定38"
+cheat84_handler = "2"
+cheat84_code = "41318,26"
+
+cheat85_desc = "炸弹锁定40"
+cheat85_handler = "2"
+cheat85_code = "41318,28"
+
+cheat86_desc = "炸弹锁定42"
+cheat86_handler = "2"
+cheat86_code = "41318,2A"
+
+cheat87_desc = "炸弹锁定44"
+cheat87_handler = "2"
+cheat87_code = "41318,2C"
+
+cheat88_desc = "炸弹锁定46"
+cheat88_handler = "2"
+cheat88_code = "41318,2E"
+
+cheat89_desc = "炸弹锁定48"
+cheat89_handler = "2"
+cheat89_code = "41318,30"
+
+cheat90_desc = "炸弹锁定50"
+cheat90_handler = "2"
+cheat90_code = "41318,32"
+
+cheat91_desc = "炸弹锁定52"
+cheat91_handler = "2"
+cheat91_code = "41318,34"
+
+cheat92_desc = "炸弹锁定54"
+cheat92_handler = "2"
+cheat92_code = "41318,36"
+
+cheat93_desc = "炸弹锁定56"
+cheat93_handler = "2"
+cheat93_code = "41318,38"
+
+cheat94_desc = "炸弹锁定58"
+cheat94_handler = "2"
+cheat94_code = "41318,3A"
+
+cheat95_desc = "炸弹锁定60"
+cheat95_handler = "2"
+cheat95_code = "41318,3C"
+
+cheat96_desc = "炸弹锁定62"
+cheat96_handler = "2"
+cheat96_code = "41318,3E"
+
+cheat97_desc = "炸弹锁定64"
+cheat97_handler = "2"
+cheat97_code = "41318,40"
+
+cheat98_desc = "炸弹锁定66"
+cheat98_handler = "2"
+cheat98_code = "41318,42"
+
+cheat99_desc = "炸弹锁定68"
+cheat99_handler = "2"
+cheat99_code = "41318,44"
+
+cheat100_desc = "炸弹锁定70"
+cheat100_handler = "2"
+cheat100_code = "41318,46"
+
+cheat101_desc = "炸弹锁定72"
+cheat101_handler = "2"
+cheat101_code = "41318,48"
+
+cheat102_desc = "炸弹锁定74(最后一个)"
+cheat102_handler = "2"
+cheat102_code = "41318,4A"
+
+cheat103_desc = "隐身锁定"
+cheat103_handler = "2"
+cheat103_code = "41249,63"
+
+cheat104_desc = "超加速状态1-需会技能后用"
+cheat104_handler = "2"
+cheat104_code = "41253,FF"
+
+cheat105_desc = "超加速状态2-最好技能会后用"
+cheat105_handler = "2"
+cheat105_code = "412DC,63"
+
+cheat106_desc = "时间锁定为1小时半,隐藏结局用"
+cheat106_handler = "2"
+cheat106_code = "40138,01,1E"
+
+cheats = 107

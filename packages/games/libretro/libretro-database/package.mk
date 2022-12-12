@@ -43,3 +43,8 @@ configure_target() {
 makeinstall_target() {
   make install INSTALLDIR="$INSTALL/usr/share/libretro-database"
 }
+
+post_makeinstall_target() {
+  # copy cht
+  cp -r ${PKG_DIR}/sources/* ${INSTALL}/usr/share/libretro-database/
+}

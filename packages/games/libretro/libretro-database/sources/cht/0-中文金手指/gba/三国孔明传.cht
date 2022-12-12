@@ -1,0 +1,137 @@
+cheat0_desc = "金钱"
+cheat0_handler = "2"
+cheat0_code = "117FC,7F,96,98"
+
+cheat1_desc = "第1位武将能力人物长相(诸葛亮)"
+cheat1_handler = "2"
+cheat1_code = "B9FC,0"
+
+cheat2_desc = "第1位武将能力人物模型"
+cheat2_handler = "2"
+cheat2_code = "BA05,0"
+
+cheat3_desc = "第1位武将能力职别(大军师)"
+cheat3_handler = "2"
+cheat3_code = "BA14,14"
+
+cheat4_desc = "第1位武将能力LV 99"
+cheat4_handler = "2"
+cheat4_code = "BA15,63"
+
+cheat5_desc = "第1位武将能力EXP 255"
+cheat5_handler = "2"
+cheat5_code = "BA16,FF"
+
+cheat6_desc = "第1位武将能力手持武器(铁扇)"
+cheat6_handler = "2"
+cheat6_code = "BA18,50"
+
+cheat7_desc = "第1位武将能力身穿装备"
+cheat7_handler = "2"
+cheat7_code = "BA18,57"
+
+cheat8_desc = "第1位武将能力脚穿之鞋"
+cheat8_handler = "2"
+cheat8_code = "BA19,5C"
+
+cheat9_desc = "第1位武将能力道具1(回复之豆)"
+cheat9_handler = "2"
+cheat9_code = "BA1B,9F"
+
+cheat10_desc = "第1位武将能力道具2(智谋之种)"
+cheat10_handler = "2"
+cheat10_code = "BA1C,B4"
+
+cheat11_desc = "第2位武将能力人物长相(刘备)"
+cheat11_handler = "2"
+cheat11_code = "BA28,1"
+
+cheat12_desc = "第2位武将能力人物模型"
+cheat12_handler = "2"
+cheat12_code = "BA31,1"
+
+cheat13_desc = "第2位武将能力职别(轻骑兵)"
+cheat13_handler = "2"
+cheat13_code = "BA40,6"
+
+cheat14_desc = "第2位武将能力LV 99"
+cheat14_handler = "2"
+cheat14_code = "BA41,63"
+
+cheat15_desc = "第2位武将能力EXP 255"
+cheat15_handler = "2"
+cheat15_code = "BA42,FF"
+
+cheat16_desc = "第3位武将能力人物长相(关羽)"
+cheat16_handler = "2"
+cheat16_code = "BA54,2"
+
+cheat17_desc = "第3位武将能力人物模型"
+cheat17_handler = "2"
+cheat17_code = "BA5D,2"
+
+cheat18_desc = "第3位武将能力职别(轻骑兵)"
+cheat18_handler = "2"
+cheat18_code = "BA6C,6"
+
+cheat19_desc = "第3位武将能力LV 99"
+cheat19_handler = "2"
+cheat19_code = "BA6D,63"
+
+cheat20_desc = "第3位武将能力EXP 255"
+cheat20_handler = "2"
+cheat20_code = "BA6E,FF"
+
+cheat21_desc = "第4位武将能力人物长相(张飞)"
+cheat21_handler = "2"
+cheat21_code = "BA80,3"
+
+cheat22_desc = "第4位武将能力人物模型"
+cheat22_handler = "2"
+cheat22_code = "BA89,3"
+
+cheat23_desc = "第4位武将能力职别(轻骑兵)"
+cheat23_handler = "2"
+cheat23_code = "BA98,6"
+
+cheat24_desc = "第4位武将能力LV 99"
+cheat24_handler = "2"
+cheat24_code = "BA99,63"
+
+cheat25_desc = "第4位武将能力EXP 255"
+cheat25_handler = "2"
+cheat25_code = "BA9A,FF"
+
+cheat26_desc = "第5位武将能力人物长相(赵云)"
+cheat26_handler = "2"
+cheat26_code = "BB04,6"
+
+cheat27_desc = "第5位武将能力人物模型"
+cheat27_handler = "2"
+cheat27_code = "BB0D,6"
+
+cheat28_desc = "第5位武将能力职别(轻骑兵)"
+cheat28_handler = "2"
+cheat28_code = "BB1C,6"
+
+cheat29_desc = "第5位武将能力LV 99"
+cheat29_handler = "2"
+cheat29_code = "BB1D,63"
+
+cheat30_desc = "第5位武将能力EXP 255"
+cheat30_handler = "2"
+cheat30_code = "BB1E,FF"
+
+cheat31_desc = "GAMEINFONAME"
+cheat31_handler = "2"
+cheat31_code = "三国孔明传"
+
+cheat32_desc = "GAMEINFOSYSTEM"
+cheat32_handler = "2"
+cheat32_code = "GBA"
+
+cheat33_desc = "GAMEINFOTEXT"
+cheat33_handler = "2"
+cheat33_code = "三国孔明传 KRIZAL制作 2005 / 1/ 29"
+
+cheats = 34

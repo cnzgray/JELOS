@@ -1,0 +1,205 @@
+cheat0_desc = "不遇敌"
+cheat0_handler = "2"
+cheat0_code = "41524,FF,FF"
+
+cheat1_desc = "游戏时间为0"
+cheat1_handler = "2"
+cheat1_code = "4150D,00,00"
+
+cheat2_desc = "战斗次数0"
+cheat2_handler = "2"
+cheat2_code = "41510,00,00"
+
+cheat3_desc = "战斗次数MAX"
+cheat3_handler = "2"
+cheat3_code = "41510,0F,27"
+
+cheat4_desc = "金钱"
+cheat4_handler = "2"
+cheat4_code = "40F94,7F,96,98"
+
+cheat5_desc = "称号"
+cheat5_handler = "2"
+cheat5_code = "4153C,FF,FF,FF;4154C,FF,FF,FF;41540,FF,FF,FF;41548,FF,FF,FF;41544,FF,FF,FF;41550,FF,FF,FF"
+
+cheat6_desc = "全料理"
+cheat6_handler = "2"
+cheat6_code = "41638,FF,FF,FF,01"
+
+cheat7_desc = "战斗后EXP50"
+cheat7_handler = "2"
+cheat7_code = "326EC,64"
+
+cheat8_desc = "战斗后EXP250"
+cheat8_handler = "2"
+cheat8_code = "326EC,F4,01"
+
+cheat9_desc = "战斗后EXP500"
+cheat9_handler = "2"
+cheat9_code = "326EC,E8,03"
+
+cheat10_desc = "战斗后EXP2500"
+cheat10_handler = "2"
+cheat10_code = "326EC,88,13"
+
+cheat11_desc = "战斗后EXP5000"
+cheat11_handler = "2"
+cheat11_code = "326EC,10,27"
+
+cheat12_desc = "战斗后EXP25000"
+cheat12_handler = "2"
+cheat12_code = "326EC,50,C3"
+
+cheat13_desc = "战斗后EXPMAX"
+cheat13_handler = "2"
+cheat13_code = "326EC,FF,FF"
+
+cheat14_desc = "战斗后金钱100"
+cheat14_handler = "2"
+cheat14_code = "326DC,64"
+
+cheat15_desc = "战斗后金钱500"
+cheat15_handler = "2"
+cheat15_code = "326DC,F4,01"
+
+cheat16_desc = "战斗后金钱1000"
+cheat16_handler = "2"
+cheat16_code = "326DC,E8,03"
+
+cheat17_desc = "战斗后金钱5000"
+cheat17_handler = "2"
+cheat17_code = "326DC,88,13"
+
+cheat18_desc = "战斗后金钱10000"
+cheat18_handler = "2"
+cheat18_code = "326DC,10,27"
+
+cheat19_desc = "战斗后金钱50000"
+cheat19_handler = "2"
+cheat19_code = "326DC,50,C3"
+
+cheat20_desc = "战斗后金钱MAX"
+cheat20_handler = "2"
+cheat20_code = "326DC,FF,FF"
+
+cheat21_desc = "第一位置人物クレス"
+cheat21_handler = "2"
+cheat21_code = "40F80,01"
+
+cheat22_desc = "第一位置人物ミント"
+cheat22_handler = "2"
+cheat22_code = "40F80,02"
+
+cheat23_desc = "第一位置人物アーチェ"
+cheat23_handler = "2"
+cheat23_code = "40F80,03"
+
+cheat24_desc = "第一位置人物クラース"
+cheat24_handler = "2"
+cheat24_code = "40F80,04"
+
+cheat25_desc = "第一位置人物チェスター"
+cheat25_handler = "2"
+cheat25_code = "40F80,05"
+
+cheat26_desc = "第一位置人物すず"
+cheat26_handler = "2"
+cheat26_code = "40F80,06"
+
+cheat27_desc = "第二位置人物ミント"
+cheat27_handler = "2"
+cheat27_code = "40F82,02"
+
+cheat28_desc = "第二位置人物クレス"
+cheat28_handler = "2"
+cheat28_code = "40F82,01"
+
+cheat29_desc = "第二位置人物アーチェ"
+cheat29_handler = "2"
+cheat29_code = "40F82,03"
+
+cheat30_desc = "第二位置人物クラース"
+cheat30_handler = "2"
+cheat30_code = "40F82,04"
+
+cheat31_desc = "第二位置人物チェスター"
+cheat31_handler = "2"
+cheat31_code = "40F82,05"
+
+cheat32_desc = "第二位置人物すず"
+cheat32_handler = "2"
+cheat32_code = "40F82,06"
+
+cheat33_desc = "第三位置人物アーチェ"
+cheat33_handler = "2"
+cheat33_code = "40F84,03"
+
+cheat34_desc = "第三位置人物クレス"
+cheat34_handler = "2"
+cheat34_code = "40F84,01"
+
+cheat35_desc = "第三位置人物ミント"
+cheat35_handler = "2"
+cheat35_code = "40F84,02"
+
+cheat36_desc = "第三位置人物クラース"
+cheat36_handler = "2"
+cheat36_code = "40F84,04"
+
+cheat37_desc = "第三位置人物チェスター"
+cheat37_handler = "2"
+cheat37_code = "40F84,05"
+
+cheat38_desc = "第三位置人物すず"
+cheat38_handler = "2"
+cheat38_code = "40F84,06"
+
+cheat39_desc = "第四位置人物クラース"
+cheat39_handler = "2"
+cheat39_code = "40F86,04"
+
+cheat40_desc = "第四位置人物クレス"
+cheat40_handler = "2"
+cheat40_code = "40F86,01"
+
+cheat41_desc = "第四位置人物ミント"
+cheat41_handler = "2"
+cheat41_code = "40F86,02"
+
+cheat42_desc = "第四位置人物アーチェ"
+cheat42_handler = "2"
+cheat42_code = "40F86,03"
+
+cheat43_desc = "第四位置人物チェスター"
+cheat43_handler = "2"
+cheat43_code = "40F86,05"
+
+cheat44_desc = "第四位置人物すず"
+cheat44_handler = "2"
+cheat44_code = "40F86,06"
+
+cheat45_desc = "战斗进第一人HP&TP不减"
+cheat45_handler = "2"
+cheat45_code = "21E9C,0F,27;21EA8,E7,03"
+
+cheat46_desc = "战斗进第二人HP&TP不减"
+cheat46_handler = "2"
+cheat46_code = "22124,0F,27;22130,E7,03"
+
+cheat47_desc = "战斗进第三人HP&TP不减"
+cheat47_handler = "2"
+cheat47_code = "223AC,0F,27;223B8,E7,03"
+
+cheat48_desc = "战斗进第四人HP&TP不减"
+cheat48_handler = "2"
+cheat48_code = "22634,0F,27;22640,E7,03"
+
+cheat49_desc = "收集图鉴"
+cheat49_handler = "2"
+cheat49_code = "0414AC,FF;0414AD,FF;0414AC,FF;0414AE,FF;0414AF,FF;0414B0,FF;0414B1,FF;0414B2,FF;0414B3,FF;0414B4,FF;0414B5,FF;0414B6,FF;0414B7,FF;0414B8,FF;0414B9,FF;0414BA,FF;0414BB,FF;0414BC,FF;0414BD,FF;0414BE,FF;0414BF,FF;0414C0,FF;0414C1,FF;0414C2,FF;0414C3,FF;0414C4,FF;0414C5,FF;0414C6,FF;0414C7,FF;0414C8,FF;0414C9,FF;0414CA,FF;0414CB,FF;0414CC,FF;0414CD,FF;0414CE,FF;0414CF,FF;0414D0,FF;0414D1,FF;0414D2,FF;0414D3,FF;0414D4,FF;0414D5,FF;0414D6,FF;0414D7,FF;0414D8,FF;0414D9,FF;0414DA,FF;0414DB,FF;0414DC,FF;0414DD,FF;0414DE,03"
+
+cheat50_desc = "怪物图鉴"
+cheat50_handler = "2"
+cheat50_code = "041556,1E;041557,1E;041558,1E;041559,1E;04155A,1E;04155B,1E;04155C,1E;04155D,1E;04155E,1E;04155F,1E;041560,1E;041561,1E;041562,1E;041563,1E;041564,1E;041565,1E;041566,1E;041567,1E;041568,1E;041569,1E;04156A,1E;04156B,1E;04156C,1E;04156D,1E;04156E,1E;04156F,1E;041570,1E;041571,1E;041572,1E;041573,1E;041574,1E;041575,1E;041576,1E;041577,1E;041578,1E;041579,1E;04157A,1E;04157B,1E;04157C,1E;04157D,1E;04157E,1E;04157F,1E;041580,1E;041581,1E;041582,1E;041583,1E;041584,1E;041585,1E;041586,1E;041587,1E;041588,1E;041589,1E;04158A,1E;04158B,1E;04158C,1E;04158D,1E;04158E,1E;04158F,1E;041590,1E;041591,1E;041592,1E;041593,1E;041594,1E;041595,1E;041596,1E;041597,1E;041598,1E;041599,1E;04159A,1E;04159B,1E;04159C,1E;04159D,1E;04159E,1E;04159F,1E;0415A0,1E;0415A1,1E;0415A2,1E;0415A3,1E;0415A4,1E;0415A5,1E;0415A6,1E;0415A7,1E;0415A8,1E;0415A9,1E;0415AA,1E;0415AB,1E;0415AC,1E;0415AD,1E;0415AE,1E;0415AF,1E;0415B0,1E;0415B1,1E;0415B2,1E;0415B3,1E;0415B4,1E;0415B5,1E;0415B6,1E;0415B7,1E;0415B8,1E;0415B9,1E;0415BA,1E;0415BB,1E;0415BC,1E;0415BD,1E;0415BE,1E;0415BF,1E;0415C0,1E;0415C1,1E;0415C2,1E;0415C3,1E;0415C4,1E;0415C5,1E;0415C6,1E;0415C7,1E;0415C8,1E;0415C9,1E;0415CA,1E;0415CB,1E;0415CC,1E;0415CD,1E;0415CE,1E;0415CF,1E;0415D0,1E;0415D1,1E;0415D2,1E;0415D3,1E;0415D4,1E;0415D5,1E;0415D6,1E;0415D7,1E;0415D8,1E;0415D9,1E;0415DA,1E;0415DB,1E;0415DC,1E;0415DD,1E;0415DE,1E;0415EF,1E;0415E0,1E;0415E1,1E;0415E2,1E;0415E3,1E;0415E4,1E;0415E5,1E;0415E6,1E;0415E7,1E;0415E8,1E;0415E9,1E;0415EA,1E;0415EB,1E;0415EC,1E;0415ED,1E;0415EE,1E;0415FF,1E;0415F0,1E;0415F1,1E;0415F2,1E;0415F3,1E;0415F4,1E;0415F5,1E;0415F6,1E;0415F7,1E;0415F8,1E;0415F9,1E;0415FA,1E;0415FB,1E;0415FC,1E;0415FD,1E;0415FE,1E;04160F,1E;041600,1E;041601,1E;041602,1E;041603,1E;041604,1E;041605,1E;041606,1E;041607,1E;041608,1E;041609,1E;04160A,1E;04160B,1E;04160C,1E;04160D,1E;04160E,1E;04160F,1E"
+
+cheats = 51

@@ -1,0 +1,209 @@
+cheat0_desc = "一号移动"
+cheat0_handler = "2"
+cheat0_code = "2AB84,00"
+
+cheat1_desc = "一号经验"
+cheat1_handler = "2"
+cheat1_code = "2AB81,63"
+
+cheat2_desc = "一号体力"
+cheat2_handler = "2"
+cheat2_code = "2AB88,63,63"
+
+cheat3_desc = "一号等级最高"
+cheat3_handler = "2"
+cheat3_code = "2AB80,63"
+
+cheat4_desc = "一号等级最低"
+cheat4_handler = "2"
+cheat4_code = "2AB80,1"
+
+cheat5_desc = "二号移动"
+cheat5_handler = "2"
+cheat5_code = "2ABCC,00"
+
+cheat6_desc = "二号经验"
+cheat6_handler = "2"
+cheat6_code = "2ABC9,63"
+
+cheat7_desc = "二号体力"
+cheat7_handler = "2"
+cheat7_code = "2ABD0,63,63"
+
+cheat8_desc = "二号等级最高"
+cheat8_handler = "2"
+cheat8_code = "2ABC8,63"
+
+cheat9_desc = "二号等级最低"
+cheat9_handler = "2"
+cheat9_code = "2ABC8,1"
+
+cheat10_desc = "三号移动"
+cheat10_handler = "2"
+cheat10_code = "2AC14,00"
+
+cheat11_desc = "三号经验"
+cheat11_handler = "2"
+cheat11_code = "2AC11,63"
+
+cheat12_desc = "三号体力"
+cheat12_handler = "2"
+cheat12_code = "2AC18,63,63"
+
+cheat13_desc = "三号等级最高"
+cheat13_handler = "2"
+cheat13_code = "2AC10,63"
+
+cheat14_desc = "三号等级最低"
+cheat14_handler = "2"
+cheat14_code = "2AC10,1"
+
+cheat15_desc = "四号移动"
+cheat15_handler = "2"
+cheat15_code = "2AC5C,00"
+
+cheat16_desc = "四号经验"
+cheat16_handler = "2"
+cheat16_code = "2AC59,63"
+
+cheat17_desc = "四号体力"
+cheat17_handler = "2"
+cheat17_code = "2AC60,63,63"
+
+cheat18_desc = "四号等级最高"
+cheat18_handler = "2"
+cheat18_code = "2AC58,63"
+
+cheat19_desc = "四号等级最低"
+cheat19_handler = "2"
+cheat19_code = "2AC58,1"
+
+cheat20_desc = "五号移动"
+cheat20_handler = "2"
+cheat20_code = "2ACA4,00"
+
+cheat21_desc = "五号经验"
+cheat21_handler = "2"
+cheat21_code = "2ACA1,63"
+
+cheat22_desc = "五号体力"
+cheat22_handler = "2"
+cheat22_code = "2ACA8,63,63"
+
+cheat23_desc = "五号等级最高"
+cheat23_handler = "2"
+cheat23_code = "2ACA0,63"
+
+cheat24_desc = "五号等级最低"
+cheat24_handler = "2"
+cheat24_code = "2ACA0,1"
+
+cheat25_desc = "六号移动"
+cheat25_handler = "2"
+cheat25_code = "2ACEC,00"
+
+cheat26_desc = "六号经验"
+cheat26_handler = "2"
+cheat26_code = "2ACE9,63"
+
+cheat27_desc = "六号体力"
+cheat27_handler = "2"
+cheat27_code = "2ACF0,63,63"
+
+cheat28_desc = "六号等级最高"
+cheat28_handler = "2"
+cheat28_code = "2ACE8,63"
+
+cheat29_desc = "六号等级最低"
+cheat29_handler = "2"
+cheat29_code = "2ACE8,1"
+
+cheat30_desc = "七号移动"
+cheat30_handler = "2"
+cheat30_code = "2AD34,00"
+
+cheat31_desc = "七号经验"
+cheat31_handler = "2"
+cheat31_code = "2AD31,63"
+
+cheat32_desc = "七号体力"
+cheat32_handler = "2"
+cheat32_code = "2AD38,63,63"
+
+cheat33_desc = "七号等级最高"
+cheat33_handler = "2"
+cheat33_code = "2AD30,63"
+
+cheat34_desc = "七号等级最低"
+cheat34_handler = "2"
+cheat34_code = "2AD30,1"
+
+cheat35_desc = "八号移动"
+cheat35_handler = "2"
+cheat35_code = "2AD7C,00"
+
+cheat36_desc = "八号经验"
+cheat36_handler = "2"
+cheat36_code = "2AD79,63"
+
+cheat37_desc = "八号体力"
+cheat37_handler = "2"
+cheat37_code = "2AD80,63,63"
+
+cheat38_desc = "八号等级最高"
+cheat38_handler = "2"
+cheat38_code = "2AD78,63"
+
+cheat39_desc = "八号等级最低"
+cheat39_handler = "2"
+cheat39_code = "2AD78,1"
+
+cheat40_desc = "九号移动"
+cheat40_handler = "2"
+cheat40_code = "2ADC4,00"
+
+cheat41_desc = "九号经验"
+cheat41_handler = "2"
+cheat41_code = "2ADC1,63"
+
+cheat42_desc = "九号体力"
+cheat42_handler = "2"
+cheat42_code = "2ADC8,63,63"
+
+cheat43_desc = "九号等级最高"
+cheat43_handler = "2"
+cheat43_code = "2ADC0,63"
+
+cheat44_desc = "九号等级最低"
+cheat44_handler = "2"
+cheat44_code = "2ADC0,1"
+
+cheat45_desc = "十号移动"
+cheat45_handler = "2"
+cheat45_code = "2AE0C,00"
+
+cheat46_desc = "十号经验"
+cheat46_handler = "2"
+cheat46_code = "2AE09,63"
+
+cheat47_desc = "十号体力"
+cheat47_handler = "2"
+cheat47_code = "2AE10,63,63"
+
+cheat48_desc = "十号等级最高"
+cheat48_handler = "2"
+cheat48_code = "2AE08,63"
+
+cheat49_desc = "十号等级最低"
+cheat49_handler = "2"
+cheat49_code = "2AE08,1"
+
+cheat50_desc = "其它经验"
+cheat50_handler = "2"
+cheat50_code = "2AE51,63;2AE99,63;2AEE1,63;02AF29,63;02AF71,63;02AFB9,63;02B049,63;02B001,63;02B091,63"
+
+cheat51_desc = "其它体力"
+cheat51_handler = "2"
+cheat51_code = "2AEE9,63;2AF31,63;02AFC1,63;02AF79,63;02B009,63;02B051,63;02B099,63"
+
+cheats = 52

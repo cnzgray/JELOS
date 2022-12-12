@@ -1,0 +1,121 @@
+cheat0_desc = "积分"
+cheat0_handler = "2"
+cheat0_code = "7548,3F,42,F"
+
+cheat1_desc = "快速胜利"
+cheat1_handler = "2"
+cheat1_code = "4080C,63"
+
+cheat2_desc = "次位方块上方种类蓝犬"
+cheat2_handler = "2"
+cheat2_code = "8ADC,0"
+
+cheat3_desc = "次位方块上方种类黄犬"
+cheat3_handler = "2"
+cheat3_code = "8ADC,1"
+
+cheat4_desc = "次位方块上方种类白犬"
+cheat4_handler = "2"
+cheat4_code = "8ADC,2"
+
+cheat5_desc = "次位方块上方种类黑犬"
+cheat5_handler = "2"
+cheat5_code = "8ADC,3"
+
+cheat6_desc = "次位方块上方种类红犬"
+cheat6_handler = "2"
+cheat6_code = "8ADC,4"
+
+cheat7_desc = "次位方块上方种类粉犬"
+cheat7_handler = "2"
+cheat7_code = "8ADC,5"
+
+cheat8_desc = "次位方块上方种类绿犬"
+cheat8_handler = "2"
+cheat8_code = "8ADC,6"
+
+cheat9_desc = "次位方块上方种类蓝屋"
+cheat9_handler = "2"
+cheat9_code = "8ADC,7"
+
+cheat10_desc = "次位方块上方种类黄屋"
+cheat10_handler = "2"
+cheat10_code = "8ADC,8"
+
+cheat11_desc = "次位方块上方种类白屋"
+cheat11_handler = "2"
+cheat11_code = "8ADC,9"
+
+cheat12_desc = "次位方块上方种类黑屋"
+cheat12_handler = "2"
+cheat12_code = "8ADC,A"
+
+cheat13_desc = "次位方块上方种类红屋"
+cheat13_handler = "2"
+cheat13_code = "8ADC,B"
+
+cheat14_desc = "次位方块上方种类粉屋"
+cheat14_handler = "2"
+cheat14_code = "8ADC,C"
+
+cheat15_desc = "次位方块上方种类绿屋"
+cheat15_handler = "2"
+cheat15_code = "8ADC,D"
+
+cheat16_desc = "次位方块下方种类蓝犬"
+cheat16_handler = "2"
+cheat16_code = "8AC4,0"
+
+cheat17_desc = "次位方块下方种类黄犬"
+cheat17_handler = "2"
+cheat17_code = "8AC4,1"
+
+cheat18_desc = "次位方块下方种类白犬"
+cheat18_handler = "2"
+cheat18_code = "8AC4,2"
+
+cheat19_desc = "次位方块下方种类黑犬"
+cheat19_handler = "2"
+cheat19_code = "8AC4,3"
+
+cheat20_desc = "次位方块下方种类红犬"
+cheat20_handler = "2"
+cheat20_code = "8AC4,4"
+
+cheat21_desc = "次位方块下方种类粉犬"
+cheat21_handler = "2"
+cheat21_code = "8AC4,5"
+
+cheat22_desc = "次位方块下方种类绿犬"
+cheat22_handler = "2"
+cheat22_code = "8AC4,6"
+
+cheat23_desc = "次位方块下方种类蓝屋"
+cheat23_handler = "2"
+cheat23_code = "8AC4,7"
+
+cheat24_desc = "次位方块下方种类黄屋"
+cheat24_handler = "2"
+cheat24_code = "8AC4,8"
+
+cheat25_desc = "次位方块下方种类白屋"
+cheat25_handler = "2"
+cheat25_code = "8AC4,9"
+
+cheat26_desc = "次位方块下方种类黑屋"
+cheat26_handler = "2"
+cheat26_code = "8AC4,A"
+
+cheat27_desc = "次位方块下方种类红屋"
+cheat27_handler = "2"
+cheat27_code = "8AC4,B"
+
+cheat28_desc = "次位方块下方种类粉屋"
+cheat28_handler = "2"
+cheat28_code = "8AC4,C"
+
+cheat29_desc = "次位方块下方种类绿屋"
+cheat29_handler = "2"
+cheat29_code = "8AC4,D"
+
+cheats = 30

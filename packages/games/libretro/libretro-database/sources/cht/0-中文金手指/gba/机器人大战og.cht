@@ -1,0 +1,73 @@
+cheat0_desc = "无限金钱"
+cheat0_handler = "2"
+cheat0_code = "19BB4,FF,E0,F5,5"
+
+cheat1_desc = "熟練度"
+cheat1_handler = "2"
+cheat1_code = "19B66,32"
+
+cheat2_desc = "難易度选择難"
+cheat2_handler = "2"
+cheat2_code = "19B6C,02"
+
+cheat3_desc = "難易度选择普"
+cheat3_handler = "2"
+cheat3_code = "19B6C,01"
+
+cheat4_desc = "難易度选择易"
+cheat4_handler = "2"
+cheat4_code = "19B6C,00"
+
+cheat5_desc = "回合数"
+cheat5_handler = "2"
+cheat5_code = "19BAC,0"
+
+cheat6_desc = "攻击敌方后所的EXP"
+cheat6_handler = "2"
+cheat6_code = "19C8,01,F4"
+
+cheat7_desc = "战后所的EXP"
+cheat7_handler = "2"
+cheat7_code = "19D8,01,F4"
+
+cheat8_desc = "前15名人物气力超高"
+cheat8_handler = "2"
+cheat8_code = "18B4A,ff;18B7E,ff;18BB2,ff;18BE6,ff;18C1A,ff;18C4E,ff;18C82,ff;18CB6,ff;18CEA,ff;18D1E,ff;18D52,ff;18D86,ff;18DBA,ff;18DEE,ff;18E22,ff"
+
+cheat9_desc = "前15名人物格闘数值超高"
+cheat9_handler = "2"
+cheat9_code = "18B26,03,e7;18B5A,03,e7;18B8E,03,e7;18BC2,03,e7;18BF6,03,e7;18C2A,03,e7;18C5E,03,e7;18C92,03,e7;18CC6,03,e7;18CFA,03,e7;18D2E,03,e7;18D62,03,e7;18D96,03,e7;18DCA,03,e7;18DFE,03,e7"
+
+cheat10_desc = "前15名人物射击数值超高"
+cheat10_handler = "2"
+cheat10_code = "18B28,03,e7;18B5C,03,e7;18B90,03,e7;18BC4,03,e7;18BF8,03,e7;18C2C,03,e7;18C60,03,e7;18C94,03,e7;18CC8,03,e7;18CFC,03,e7;18D30,03,e7;18D64,03,e7;18D98,03,e7;18DCC,03,e7;18E00,03,e7"
+
+cheat11_desc = "前15名人物回避数值超高"
+cheat11_handler = "2"
+cheat11_code = "18B2A,03,e7;18B5E,03,e7;18B92,03,e7;18BC6,03,e7;18BFA,03,e7;18C2E,03,e7;18C62,03,e7;18C96,03,e7;18CCA,03,e7;18CFE,03,e7;18D32,03,e7;18D66,03,e7;18D9A,03,e7;18DCE,03,e7;18E02,03,e7"
+
+cheat12_desc = "前15名人物命中数值超高"
+cheat12_handler = "2"
+cheat12_code = "18B2C,03,e7;18B60,03,e7;18B94,03,e7;18BC8,03,e7;18BFC,03,e7;18C30,03,e7;18C64,03,e7;18C98,03,e7;18CCC,03,e7;18D00,03,e7;18D34,03,e7;18D68,03,e7;18D9C,03,e7;18DD0,03,e7;18E04,03,e7"
+
+cheat13_desc = "前15名人物防御数值超高"
+cheat13_handler = "2"
+cheat13_code = "18B2E,03,e7;18B62,03,e7;18B96,03,e7;18BCA,03,e7;18BFE,03,e7;18C32,03,e7;18C66,03,e7;18C9A,03,e7;18CCE,03,e7;18D02,03,e7;18D36,03,e7;18D6A,03,e7;18D9E,03,e7;18DD2,03,e7;18E06,03,e7"
+
+cheat14_desc = "前15名人物技量数值超高"
+cheat14_handler = "2"
+cheat14_code = "18B30,03,e7;18B64,03,e7;18B98,03,e7;18BCC,03,e7;18C00,03,e7;18C34,03,e7;18C68,03,e7;18C9C,03,e7;18CD0,03,e7;18D04,03,e7;18D38,03,e7;18D6C,03,e7;18DA0,03,e7;18DD4,03,e7;18E08,03,e7"
+
+cheat15_desc = "前15名人物战斗精神"
+cheat15_handler = "2"
+cheat15_code = "18B4C,0F,1A;18B80,0F,1A;18BB4,0F,1A;18BE8,0F,1A;18C1C,0F,1A;18C50,0F,1A;18C84,0F,1A;18CB8,0F,1A;18CEC,0F,1A;18D20,0F,1A;18D54,0F,1A;18D88,0F,1A;18DBC,0F,1A;18DF0,0F,1A;18E24,0F,1A"
+
+cheat16_desc = "10架机体EN超强"
+cheat16_handler = "2"
+cheat16_code = "175EA,03,E7;1762E,03,E7;17672,03,E7;176B6,03,E7;176FA,03,E7;1773E,03,E7;17782,03,E7;177C6,03,E7;1780A,03,E7;1784E,03,E7"
+
+cheat17_desc = "10架机体HP超强"
+cheat17_handler = "2"
+cheat17_code = "175EC,00,02,71,00;17630,00,02,71,00;17674,00,02,71,00;176B8,00,02,71,00;176FC,00,02,71,00;17740,00,02,71,00;17784,00,02,71,00;177C8,00,02,71,00;1780C,00,02,71,00;17850,00,02,71,00"
+
+cheats = 18

@@ -1,0 +1,861 @@
+cheat0_desc = "无限时间"
+cheat0_handler = "2"
+cheat0_code = "A8A,5B"
+
+cheat1_desc = "P1 体力"
+cheat1_handler = "2"
+cheat1_code = "23E0,64"
+
+cheat2_desc = "P1 怒槽"
+cheat2_handler = "2"
+cheat2_code = "23EC,FF"
+
+cheat3_desc = "P1 援助"
+cheat3_handler = "2"
+cheat3_code = "23EE,5"
+
+cheat4_desc = "P1 第一角色*iori"
+cheat4_handler = "2"
+cheat4_code = "801,12;819,12"
+
+cheat5_desc = "P1 第一角色*geese"
+cheat5_handler = "2"
+cheat5_code = "801,13;819,13"
+
+cheat6_desc = "P1 第一角色kyo"
+cheat6_handler = "2"
+cheat6_code = "801,0;819,0"
+
+cheat7_desc = "P1 第一角色benimaru"
+cheat7_handler = "2"
+cheat7_code = "801,1;819,1"
+
+cheat8_desc = "P1 第一角色moe"
+cheat8_handler = "2"
+cheat8_code = "801,2;819,2"
+
+cheat9_desc = "P1 第一角色terry"
+cheat9_handler = "2"
+cheat9_code = "801,3;819,3"
+
+cheat10_desc = "P1 第一角色andy"
+cheat10_handler = "2"
+cheat10_code = "801,4;819,4"
+
+cheat11_desc = "P1 第一角色mai"
+cheat11_handler = "2"
+cheat11_code = "801,5;819,5"
+
+cheat12_desc = "P1 第一角色ryo"
+cheat12_handler = "2"
+cheat12_code = "801,6;819,6"
+
+cheat13_desc = "P1 第一角色robert"
+cheat13_handler = "2"
+cheat13_code = "801,7;819,7"
+
+cheat14_desc = "P1 第一角色king"
+cheat14_handler = "2"
+cheat14_code = "801,8;819,8"
+
+cheat15_desc = "P1 第一角色leona"
+cheat15_handler = "2"
+cheat15_code = "801,9;819,9"
+
+cheat16_desc = "P1 第一角色ralf"
+cheat16_handler = "2"
+cheat16_code = "801,A;819,A"
+
+cheat17_desc = "P1 第一角色clark"
+cheat17_handler = "2"
+cheat17_code = "801,B;819,B"
+
+cheat18_desc = "P1 第一角色athena"
+cheat18_handler = "2"
+cheat18_code = "801,C;819,C"
+
+cheat19_desc = "P1 第一角色kensou"
+cheat19_handler = "2"
+cheat19_code = "801,D;819,D"
+
+cheat20_desc = "P1 第一角色bao"
+cheat20_handler = "2"
+cheat20_code = "801,E;819,E"
+
+cheat21_desc = "P1 第一角色kim"
+cheat21_handler = "2"
+cheat21_code = "801,F;819,F"
+
+cheat22_desc = "P1 第一角色chang"
+cheat22_handler = "2"
+cheat22_code = "801,10;819,10"
+
+cheat23_desc = "P1 第一角色choi"
+cheat23_handler = "2"
+cheat23_code = "801,11;819,11"
+
+cheat24_desc = "P1 第一角色shingo"
+cheat24_handler = "2"
+cheat24_code = "801,14;819,14"
+
+cheat25_desc = "P1 第一角色joe"
+cheat25_handler = "2"
+cheat25_code = "801,15;819,15"
+
+cheat26_desc = "P1 第一角色yuri"
+cheat26_handler = "2"
+cheat26_code = "801,16;819,16"
+
+cheat27_desc = "P1 第一角色whip"
+cheat27_handler = "2"
+cheat27_code = "801,17;819,17"
+
+cheat28_desc = "P1 第一角色chin"
+cheat28_handler = "2"
+cheat28_code = "801,18;819,18"
+
+cheat29_desc = "P1 第一角色jhun"
+cheat29_handler = "2"
+cheat29_code = "801,19;819,19"
+
+cheat30_desc = "P1 第二角色*iori"
+cheat30_handler = "2"
+cheat30_code = "802,12;81A,12"
+
+cheat31_desc = "P1 第二角色*geese"
+cheat31_handler = "2"
+cheat31_code = "802,13;81A,13"
+
+cheat32_desc = "P1 第二角色kyo"
+cheat32_handler = "2"
+cheat32_code = "802,0;81A,0"
+
+cheat33_desc = "P1 第二角色benimaru"
+cheat33_handler = "2"
+cheat33_code = "802,1;81A,1"
+
+cheat34_desc = "P1 第二角色moe"
+cheat34_handler = "2"
+cheat34_code = "802,2;81A,2"
+
+cheat35_desc = "P1 第二角色terry"
+cheat35_handler = "2"
+cheat35_code = "802,3;81A,3"
+
+cheat36_desc = "P1 第二角色andy"
+cheat36_handler = "2"
+cheat36_code = "802,4;81A,4"
+
+cheat37_desc = "P1 第二角色mai"
+cheat37_handler = "2"
+cheat37_code = "802,5;81A,5"
+
+cheat38_desc = "P1 第二角色ryo"
+cheat38_handler = "2"
+cheat38_code = "802,6;81A,6"
+
+cheat39_desc = "P1 第二角色robert"
+cheat39_handler = "2"
+cheat39_code = "802,7;81A,7"
+
+cheat40_desc = "P1 第二角色king"
+cheat40_handler = "2"
+cheat40_code = "802,8;81A,8"
+
+cheat41_desc = "P1 第二角色leona"
+cheat41_handler = "2"
+cheat41_code = "802,9;81A,9"
+
+cheat42_desc = "P1 第二角色ralf"
+cheat42_handler = "2"
+cheat42_code = "802,A;81A,A"
+
+cheat43_desc = "P1 第二角色clark"
+cheat43_handler = "2"
+cheat43_code = "802,B;81A,B"
+
+cheat44_desc = "P1 第二角色athena"
+cheat44_handler = "2"
+cheat44_code = "802,C;81A,C"
+
+cheat45_desc = "P1 第二角色kensou"
+cheat45_handler = "2"
+cheat45_code = "802,D;81A,D"
+
+cheat46_desc = "P1 第二角色bao"
+cheat46_handler = "2"
+cheat46_code = "802,E;81A,E"
+
+cheat47_desc = "P1 第二角色kim"
+cheat47_handler = "2"
+cheat47_code = "802,F;81A,F"
+
+cheat48_desc = "P1 第二角色chang"
+cheat48_handler = "2"
+cheat48_code = "802,10;81A,10"
+
+cheat49_desc = "P1 第二角色choi"
+cheat49_handler = "2"
+cheat49_code = "802,11;81A,11"
+
+cheat50_desc = "P1 第二角色shingo"
+cheat50_handler = "2"
+cheat50_code = "802,14;81A,14"
+
+cheat51_desc = "P1 第二角色joe"
+cheat51_handler = "2"
+cheat51_code = "802,15;81A,15"
+
+cheat52_desc = "P1 第二角色yuri"
+cheat52_handler = "2"
+cheat52_code = "802,16;81A,16"
+
+cheat53_desc = "P1 第二角色whip"
+cheat53_handler = "2"
+cheat53_code = "802,17;81A,17"
+
+cheat54_desc = "P1 第二角色chin"
+cheat54_handler = "2"
+cheat54_code = "802,18;81A,18"
+
+cheat55_desc = "P1 第二角色jhun"
+cheat55_handler = "2"
+cheat55_code = "802,19;81A,19"
+
+cheat56_desc = "P1 第三角色*iori"
+cheat56_handler = "2"
+cheat56_code = "803,12;81B,12"
+
+cheat57_desc = "P1 第三角色*geese"
+cheat57_handler = "2"
+cheat57_code = "803,13;81B,13"
+
+cheat58_desc = "P1 第三角色kyo"
+cheat58_handler = "2"
+cheat58_code = "803,0;81B,0"
+
+cheat59_desc = "P1 第三角色benimaru"
+cheat59_handler = "2"
+cheat59_code = "803,1;81B,1"
+
+cheat60_desc = "P1 第三角色moe"
+cheat60_handler = "2"
+cheat60_code = "803,2;81B,2"
+
+cheat61_desc = "P1 第三角色terry"
+cheat61_handler = "2"
+cheat61_code = "803,3;81B,3"
+
+cheat62_desc = "P1 第三角色andy"
+cheat62_handler = "2"
+cheat62_code = "803,4;81B,4"
+
+cheat63_desc = "P1 第三角色mai"
+cheat63_handler = "2"
+cheat63_code = "803,5;81B,5"
+
+cheat64_desc = "P1 第三角色ryo"
+cheat64_handler = "2"
+cheat64_code = "803,6;81B,6"
+
+cheat65_desc = "P1 第三角色robert"
+cheat65_handler = "2"
+cheat65_code = "803,7;81B,7"
+
+cheat66_desc = "P1 第三角色king"
+cheat66_handler = "2"
+cheat66_code = "803,8;81B,8"
+
+cheat67_desc = "P1 第三角色leona"
+cheat67_handler = "2"
+cheat67_code = "803,9;81B,9"
+
+cheat68_desc = "P1 第三角色ralf"
+cheat68_handler = "2"
+cheat68_code = "803,A;81B,A"
+
+cheat69_desc = "P1 第三角色clark"
+cheat69_handler = "2"
+cheat69_code = "803,B;81B,B"
+
+cheat70_desc = "P1 第三角色athena"
+cheat70_handler = "2"
+cheat70_code = "803,C;81B,C"
+
+cheat71_desc = "P1 第三角色kensou"
+cheat71_handler = "2"
+cheat71_code = "803,D;81B,D"
+
+cheat72_desc = "P1 第三角色bao"
+cheat72_handler = "2"
+cheat72_code = "803,E;81B,E"
+
+cheat73_desc = "P1 第三角色kim"
+cheat73_handler = "2"
+cheat73_code = "803,F;81B,F"
+
+cheat74_desc = "P1 第三角色chang"
+cheat74_handler = "2"
+cheat74_code = "803,10;81B,10"
+
+cheat75_desc = "P1 第三角色choi"
+cheat75_handler = "2"
+cheat75_code = "803,11;81B,11"
+
+cheat76_desc = "P1 第三角色shingo"
+cheat76_handler = "2"
+cheat76_code = "803,14;81B,14"
+
+cheat77_desc = "P1 第三角色joe"
+cheat77_handler = "2"
+cheat77_code = "803,15;81B,15"
+
+cheat78_desc = "P1 第三角色yuri"
+cheat78_handler = "2"
+cheat78_code = "803,16;81B,16"
+
+cheat79_desc = "P1 第三角色whip"
+cheat79_handler = "2"
+cheat79_code = "803,17;81B,17"
+
+cheat80_desc = "P1 第三角色chin"
+cheat80_handler = "2"
+cheat80_code = "803,18;81B,18"
+
+cheat81_desc = "P1 第三角色jhun"
+cheat81_handler = "2"
+cheat81_code = "803,19;81B,19"
+
+cheat82_desc = "P1 第四角色*iori"
+cheat82_handler = "2"
+cheat82_code = "804,12;81C,12"
+
+cheat83_desc = "P1 第四角色*geese"
+cheat83_handler = "2"
+cheat83_code = "804,13;81C,13"
+
+cheat84_desc = "P1 第四角色kyo"
+cheat84_handler = "2"
+cheat84_code = "804,0;81C,0"
+
+cheat85_desc = "P1 第四角色benimaru"
+cheat85_handler = "2"
+cheat85_code = "804,1;81C,1"
+
+cheat86_desc = "P1 第四角色moe"
+cheat86_handler = "2"
+cheat86_code = "804,2;81C,2"
+
+cheat87_desc = "P1 第四角色terry"
+cheat87_handler = "2"
+cheat87_code = "804,3;81C,3"
+
+cheat88_desc = "P1 第四角色andy"
+cheat88_handler = "2"
+cheat88_code = "804,4;81C,4"
+
+cheat89_desc = "P1 第四角色mai"
+cheat89_handler = "2"
+cheat89_code = "804,5;81C,5"
+
+cheat90_desc = "P1 第四角色ryo"
+cheat90_handler = "2"
+cheat90_code = "804,6;81C,6"
+
+cheat91_desc = "P1 第四角色robert"
+cheat91_handler = "2"
+cheat91_code = "804,7;81C,7"
+
+cheat92_desc = "P1 第四角色king"
+cheat92_handler = "2"
+cheat92_code = "804,8;81C,8"
+
+cheat93_desc = "P1 第四角色leona"
+cheat93_handler = "2"
+cheat93_code = "804,9;81C,9"
+
+cheat94_desc = "P1 第四角色ralf"
+cheat94_handler = "2"
+cheat94_code = "804,A;81C,A"
+
+cheat95_desc = "P1 第四角色clark"
+cheat95_handler = "2"
+cheat95_code = "804,B;81C,B"
+
+cheat96_desc = "P1 第四角色athena"
+cheat96_handler = "2"
+cheat96_code = "804,C;81C,C"
+
+cheat97_desc = "P1 第四角色kensou"
+cheat97_handler = "2"
+cheat97_code = "804,D;81C,D"
+
+cheat98_desc = "P1 第四角色bao"
+cheat98_handler = "2"
+cheat98_code = "804,E;81C,E"
+
+cheat99_desc = "P1 第四角色kim"
+cheat99_handler = "2"
+cheat99_code = "804,F;81C,F"
+
+cheat100_desc = "P1 第四角色chang"
+cheat100_handler = "2"
+cheat100_code = "804,10;81C,10"
+
+cheat101_desc = "P1 第四角色choi"
+cheat101_handler = "2"
+cheat101_code = "804,11;81C,11"
+
+cheat102_desc = "P1 第四角色shingo"
+cheat102_handler = "2"
+cheat102_code = "804,14;81C,14"
+
+cheat103_desc = "P1 第四角色joe"
+cheat103_handler = "2"
+cheat103_code = "804,15;81C,15"
+
+cheat104_desc = "P1 第四角色yuri"
+cheat104_handler = "2"
+cheat104_code = "804,16;81C,16"
+
+cheat105_desc = "P1 第四角色whip"
+cheat105_handler = "2"
+cheat105_code = "804,17;81C,17"
+
+cheat106_desc = "P1 第四角色chin"
+cheat106_handler = "2"
+cheat106_code = "804,18;81C,18"
+
+cheat107_desc = "P1 第四角色jhun"
+cheat107_handler = "2"
+cheat107_code = "804,19;81C,19"
+
+cheat108_desc = "P2 体力"
+cheat108_handler = "2"
+cheat108_code = "23F8,64"
+
+cheat109_desc = "P2 怒槽"
+cheat109_handler = "2"
+cheat109_code = "2404,FF"
+
+cheat110_desc = "P2 援助"
+cheat110_handler = "2"
+cheat110_code = "2406,5"
+
+cheat111_desc = "P2 第一角色*iori"
+cheat111_handler = "2"
+cheat111_code = "80C,12;824,12"
+
+cheat112_desc = "P2 第一角色*geese"
+cheat112_handler = "2"
+cheat112_code = "80C,13;824,13"
+
+cheat113_desc = "P2 第一角色kyo"
+cheat113_handler = "2"
+cheat113_code = "80C,0;824,0"
+
+cheat114_desc = "P2 第一角色benimaru"
+cheat114_handler = "2"
+cheat114_code = "80C,1;824,1"
+
+cheat115_desc = "P2 第一角色moe"
+cheat115_handler = "2"
+cheat115_code = "80C,2;824,2"
+
+cheat116_desc = "P2 第一角色terry"
+cheat116_handler = "2"
+cheat116_code = "80C,3;824,3"
+
+cheat117_desc = "P2 第一角色andy"
+cheat117_handler = "2"
+cheat117_code = "80C,4;824,4"
+
+cheat118_desc = "P2 第一角色mai"
+cheat118_handler = "2"
+cheat118_code = "80C,5;824,5"
+
+cheat119_desc = "P2 第一角色ryo"
+cheat119_handler = "2"
+cheat119_code = "80C,6;824,6"
+
+cheat120_desc = "P2 第一角色robert"
+cheat120_handler = "2"
+cheat120_code = "80C,7;824,7"
+
+cheat121_desc = "P2 第一角色king"
+cheat121_handler = "2"
+cheat121_code = "80C,8;824,8"
+
+cheat122_desc = "P2 第一角色leona"
+cheat122_handler = "2"
+cheat122_code = "80C,9;824,9"
+
+cheat123_desc = "P2 第一角色ralf"
+cheat123_handler = "2"
+cheat123_code = "80C,A;824,A"
+
+cheat124_desc = "P2 第一角色clark"
+cheat124_handler = "2"
+cheat124_code = "80C,B;824,B"
+
+cheat125_desc = "P2 第一角色athena"
+cheat125_handler = "2"
+cheat125_code = "80C,C;824,C"
+
+cheat126_desc = "P2 第一角色kensou"
+cheat126_handler = "2"
+cheat126_code = "80C,D;824,D"
+
+cheat127_desc = "P2 第一角色bao"
+cheat127_handler = "2"
+cheat127_code = "80C,E;824,E"
+
+cheat128_desc = "P2 第一角色kim"
+cheat128_handler = "2"
+cheat128_code = "80C,F;824,F"
+
+cheat129_desc = "P2 第一角色chang"
+cheat129_handler = "2"
+cheat129_code = "80C,10;824,10"
+
+cheat130_desc = "P2 第一角色choi"
+cheat130_handler = "2"
+cheat130_code = "80C,11;824,11"
+
+cheat131_desc = "P2 第一角色shingo"
+cheat131_handler = "2"
+cheat131_code = "80C,14;824,14"
+
+cheat132_desc = "P2 第一角色joe"
+cheat132_handler = "2"
+cheat132_code = "80C,15;824,15"
+
+cheat133_desc = "P2 第一角色yuri"
+cheat133_handler = "2"
+cheat133_code = "80C,16;824,16"
+
+cheat134_desc = "P2 第一角色whip"
+cheat134_handler = "2"
+cheat134_code = "80C,17;824,17"
+
+cheat135_desc = "P2 第一角色chin"
+cheat135_handler = "2"
+cheat135_code = "80C,18;824,18"
+
+cheat136_desc = "P2 第一角色jhun"
+cheat136_handler = "2"
+cheat136_code = "80C,19;824,19"
+
+cheat137_desc = "P2 第二角色*iori"
+cheat137_handler = "2"
+cheat137_code = "80D,12;825,12"
+
+cheat138_desc = "P2 第二角色*geese"
+cheat138_handler = "2"
+cheat138_code = "80D,13;825,13"
+
+cheat139_desc = "P2 第二角色kyo"
+cheat139_handler = "2"
+cheat139_code = "80D,0;825,0"
+
+cheat140_desc = "P2 第二角色benimaru"
+cheat140_handler = "2"
+cheat140_code = "80D,1;825,1"
+
+cheat141_desc = "P2 第二角色moe"
+cheat141_handler = "2"
+cheat141_code = "80D,2;825,2"
+
+cheat142_desc = "P2 第二角色terry"
+cheat142_handler = "2"
+cheat142_code = "80D,3;825,3"
+
+cheat143_desc = "P2 第二角色andy"
+cheat143_handler = "2"
+cheat143_code = "80D,4;825,4"
+
+cheat144_desc = "P2 第二角色mai"
+cheat144_handler = "2"
+cheat144_code = "80D,5;825,5"
+
+cheat145_desc = "P2 第二角色ryo"
+cheat145_handler = "2"
+cheat145_code = "80D,6;825,6"
+
+cheat146_desc = "P2 第二角色robert"
+cheat146_handler = "2"
+cheat146_code = "80D,7;825,7"
+
+cheat147_desc = "P2 第二角色king"
+cheat147_handler = "2"
+cheat147_code = "80D,8;825,8"
+
+cheat148_desc = "P2 第二角色leona"
+cheat148_handler = "2"
+cheat148_code = "80D,9;825,9"
+
+cheat149_desc = "P2 第二角色ralf"
+cheat149_handler = "2"
+cheat149_code = "80D,A;825,A"
+
+cheat150_desc = "P2 第二角色clark"
+cheat150_handler = "2"
+cheat150_code = "80D,B;825,B"
+
+cheat151_desc = "P2 第二角色athena"
+cheat151_handler = "2"
+cheat151_code = "80D,C;825,C"
+
+cheat152_desc = "P2 第二角色kensou"
+cheat152_handler = "2"
+cheat152_code = "80D,D;825,D"
+
+cheat153_desc = "P2 第二角色bao"
+cheat153_handler = "2"
+cheat153_code = "80D,E;825,E"
+
+cheat154_desc = "P2 第二角色kim"
+cheat154_handler = "2"
+cheat154_code = "80D,F;825,F"
+
+cheat155_desc = "P2 第二角色chang"
+cheat155_handler = "2"
+cheat155_code = "80D,10;825,10"
+
+cheat156_desc = "P2 第二角色choi"
+cheat156_handler = "2"
+cheat156_code = "80D,11;825,11"
+
+cheat157_desc = "P2 第二角色shingo"
+cheat157_handler = "2"
+cheat157_code = "80D,14;825,14"
+
+cheat158_desc = "P2 第二角色joe"
+cheat158_handler = "2"
+cheat158_code = "80D,15;825,15"
+
+cheat159_desc = "P2 第二角色yuri"
+cheat159_handler = "2"
+cheat159_code = "80D,16;825,16"
+
+cheat160_desc = "P2 第二角色whip"
+cheat160_handler = "2"
+cheat160_code = "80D,17;825,17"
+
+cheat161_desc = "P2 第二角色chin"
+cheat161_handler = "2"
+cheat161_code = "80D,18;825,18"
+
+cheat162_desc = "P2 第二角色jhun"
+cheat162_handler = "2"
+cheat162_code = "80D,19;825,19"
+
+cheat163_desc = "P2 第三角色*iori"
+cheat163_handler = "2"
+cheat163_code = "80E,12;826,12"
+
+cheat164_desc = "P2 第三角色*geese"
+cheat164_handler = "2"
+cheat164_code = "80E,13;826,13"
+
+cheat165_desc = "P2 第三角色kyo"
+cheat165_handler = "2"
+cheat165_code = "80E,0;826,0"
+
+cheat166_desc = "P2 第三角色benimaru"
+cheat166_handler = "2"
+cheat166_code = "80E,1;826,1"
+
+cheat167_desc = "P2 第三角色moe"
+cheat167_handler = "2"
+cheat167_code = "80E,2;826,2"
+
+cheat168_desc = "P2 第三角色terry"
+cheat168_handler = "2"
+cheat168_code = "80E,3;826,3"
+
+cheat169_desc = "P2 第三角色andy"
+cheat169_handler = "2"
+cheat169_code = "80E,4;826,4"
+
+cheat170_desc = "P2 第三角色mai"
+cheat170_handler = "2"
+cheat170_code = "80E,5;826,5"
+
+cheat171_desc = "P2 第三角色ryo"
+cheat171_handler = "2"
+cheat171_code = "80E,6;826,6"
+
+cheat172_desc = "P2 第三角色robert"
+cheat172_handler = "2"
+cheat172_code = "80E,7;826,7"
+
+cheat173_desc = "P2 第三角色king"
+cheat173_handler = "2"
+cheat173_code = "80E,8;826,8"
+
+cheat174_desc = "P2 第三角色leona"
+cheat174_handler = "2"
+cheat174_code = "80E,9;826,9"
+
+cheat175_desc = "P2 第三角色ralf"
+cheat175_handler = "2"
+cheat175_code = "80E,A;826,A"
+
+cheat176_desc = "P2 第三角色clark"
+cheat176_handler = "2"
+cheat176_code = "80E,B;826,B"
+
+cheat177_desc = "P2 第三角色athena"
+cheat177_handler = "2"
+cheat177_code = "80E,C;826,C"
+
+cheat178_desc = "P2 第三角色kensou"
+cheat178_handler = "2"
+cheat178_code = "80E,D;826,D"
+
+cheat179_desc = "P2 第三角色bao"
+cheat179_handler = "2"
+cheat179_code = "80E,E;826,E"
+
+cheat180_desc = "P2 第三角色kim"
+cheat180_handler = "2"
+cheat180_code = "80E,F;826,F"
+
+cheat181_desc = "P2 第三角色chang"
+cheat181_handler = "2"
+cheat181_code = "80E,10;826,10"
+
+cheat182_desc = "P2 第三角色choi"
+cheat182_handler = "2"
+cheat182_code = "80E,11;826,11"
+
+cheat183_desc = "P2 第三角色shingo"
+cheat183_handler = "2"
+cheat183_code = "80E,14;826,14"
+
+cheat184_desc = "P2 第三角色joe"
+cheat184_handler = "2"
+cheat184_code = "80E,15;826,15"
+
+cheat185_desc = "P2 第三角色yuri"
+cheat185_handler = "2"
+cheat185_code = "80E,16;826,16"
+
+cheat186_desc = "P2 第三角色whip"
+cheat186_handler = "2"
+cheat186_code = "80E,17;826,17"
+
+cheat187_desc = "P2 第三角色chin"
+cheat187_handler = "2"
+cheat187_code = "80E,18;826,18"
+
+cheat188_desc = "P2 第三角色jhun"
+cheat188_handler = "2"
+cheat188_code = "80E,19;826,19"
+
+cheat189_desc = "P2 第四角色*iori"
+cheat189_handler = "2"
+cheat189_code = "80F,12;827,12"
+
+cheat190_desc = "P2 第四角色*geese"
+cheat190_handler = "2"
+cheat190_code = "80F,13;827,13"
+
+cheat191_desc = "P2 第四角色kyo"
+cheat191_handler = "2"
+cheat191_code = "80F,0;827,0"
+
+cheat192_desc = "P2 第四角色benimaru"
+cheat192_handler = "2"
+cheat192_code = "80F,1;827,1"
+
+cheat193_desc = "P2 第四角色moe"
+cheat193_handler = "2"
+cheat193_code = "80F,2;827,2"
+
+cheat194_desc = "P2 第四角色terry"
+cheat194_handler = "2"
+cheat194_code = "80F,3;827,3"
+
+cheat195_desc = "P2 第四角色andy"
+cheat195_handler = "2"
+cheat195_code = "80F,4;827,4"
+
+cheat196_desc = "P2 第四角色mai"
+cheat196_handler = "2"
+cheat196_code = "80F,5;827,5"
+
+cheat197_desc = "P2 第四角色ryo"
+cheat197_handler = "2"
+cheat197_code = "80F,6;827,6"
+
+cheat198_desc = "P2 第四角色robert"
+cheat198_handler = "2"
+cheat198_code = "80F,7;827,7"
+
+cheat199_desc = "P2 第四角色king"
+cheat199_handler = "2"
+cheat199_code = "80F,8;827,8"
+
+cheat200_desc = "P2 第四角色leona"
+cheat200_handler = "2"
+cheat200_code = "80F,9;827,9"
+
+cheat201_desc = "P2 第四角色ralf"
+cheat201_handler = "2"
+cheat201_code = "80F,A;827,A"
+
+cheat202_desc = "P2 第四角色clark"
+cheat202_handler = "2"
+cheat202_code = "80F,B;827,B"
+
+cheat203_desc = "P2 第四角色athena"
+cheat203_handler = "2"
+cheat203_code = "80F,C;827,C"
+
+cheat204_desc = "P2 第四角色kensou"
+cheat204_handler = "2"
+cheat204_code = "80F,D;827,D"
+
+cheat205_desc = "P2 第四角色bao"
+cheat205_handler = "2"
+cheat205_code = "80F,E;827,E"
+
+cheat206_desc = "P2 第四角色kim"
+cheat206_handler = "2"
+cheat206_code = "80F,F;827,F"
+
+cheat207_desc = "P2 第四角色chang"
+cheat207_handler = "2"
+cheat207_code = "80F,10;827,10"
+
+cheat208_desc = "P2 第四角色choi"
+cheat208_handler = "2"
+cheat208_code = "80F,11;827,11"
+
+cheat209_desc = "P2 第四角色shingo"
+cheat209_handler = "2"
+cheat209_code = "80F,14;827,14"
+
+cheat210_desc = "P2 第四角色joe"
+cheat210_handler = "2"
+cheat210_code = "80F,15;827,15"
+
+cheat211_desc = "P2 第四角色yuri"
+cheat211_handler = "2"
+cheat211_code = "80F,16;827,16"
+
+cheat212_desc = "P2 第四角色whip"
+cheat212_handler = "2"
+cheat212_code = "80F,17;827,17"
+
+cheat213_desc = "P2 第四角色chin"
+cheat213_handler = "2"
+cheat213_code = "80F,18;827,18"
+
+cheat214_desc = "P2 第四角色jhun"
+cheat214_handler = "2"
+cheat214_code = "80F,19;827,19"
+
+cheats = 215

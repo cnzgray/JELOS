@@ -1,0 +1,29 @@
+cheat0_desc = "生命不减"
+cheat0_handler = "2"
+cheat0_code = "3755,63"
+
+cheat1_desc = "体力上限MAX"
+cheat1_handler = "2"
+cheat1_code = "3756,A"
+
+cheat2_desc = "体力不减"
+cheat2_handler = "2"
+cheat2_code = "27F7E,A"
+
+cheat3_desc = "无敌"
+cheat3_handler = "2"
+cheat3_code = "27F80,64"
+
+cheat4_desc = "援助MAX"
+cheat4_handler = "2"
+cheat4_code = "3757,63;3760,5,5,5,5"
+
+cheat5_desc = "拥有所有换装"
+cheat5_handler = "2"
+cheat5_code = "3754,FF"
+
+cheat6_desc = "换装能量无限"
+cheat6_handler = "2"
+cheat6_code = "37B2,7F;37B5,18;37B6,38"
+
+cheats = 7

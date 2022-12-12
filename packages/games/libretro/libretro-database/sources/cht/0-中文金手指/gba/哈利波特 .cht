@@ -1,0 +1,13 @@
+cheat0_desc = "金錢"
+cheat0_handler = "2"
+cheat0_code = "43180,FF,E0,F5,5"
+
+cheat1_desc = "mp"
+cheat1_handler = "2"
+cheat1_code = "424F6,E7,3;42512,E7,3"
+
+cheat2_desc = "sp"
+cheat2_handler = "2"
+cheat2_code = "424F4,E7,3;42510,E7,3"
+
+cheats = 3

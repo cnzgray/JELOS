@@ -1,0 +1,77 @@
+cheat0_desc = "资金9999999G"
+cheat0_handler = "0"
+cheat0_code = "9008FFB0#0098967F"
+
+cheat1_desc = "全部卡片"
+cheat1_handler = "0"
+cheat1_code = "B0640006#00000001,3008270E#0000"
+
+cheat2_desc = "全道具99個不減"
+cheat2_handler = "0"
+cheat2_code = "B0FF0002#00000001,8008FFC4#6301"
+
+cheat3_desc = "战斗中ＡＴＢ最大"
+cheat3_handler = "0"
+cheat3_code = "D00ED450#1021,800ED450#2710;D00ED452#0043,800ED452#2402"
+
+cheat4_desc = "战斗中ＭＰ不减"
+cheat4_handler = "0"
+cheat4_code = "D00C02C0#0002,800C02C0#0001"
+
+cheat5_desc = "受到攻击后CHANGE槽最大"
+cheat5_handler = "0"
+cheat5_code = "D00BAC46#1040,800BAC46#1440"
+
+cheat6_desc = "战斗后取得AP"
+cheat6_handler = "0"
+cheat6_code = "DOOFF0D2#0001,800FF0D0#03E7"
+
+cheat7_desc = "快速升級"
+cheat7_handler = "0"
+cheat7_code = "D00FF0CC#0000,900FF0CC#0098967F"
+
+cheat8_desc = "所有同伴魔石值不減"
+cheat8_handler = "0"
+cheat8_code = "B00A0090#00000000,3008FAA3#0063"
+
+cheat9_desc = "一般畫面高速化"
+cheat9_handler = "0"
+cheat9_code = "D011F9AC#FFA9,800426B0#0001;D0089230#0002,800426B0#FFE9"
+
+cheat10_desc = "敵人一定掉卡片"
+cheat10_handler = "0"
+cheat10_code = "D00C3D20#0004,800C3D20#0001"
+
+cheat11_desc = "卡片可攻擊全方向"
+cheat11_handler = "0"
+cheat11_code = "B0640006#00000000,3008270F#0000"
+
+cheat12_desc = "學到全特殊能力"
+cheat12_handler = "0"
+cheat12_code = "80034CA0#FFFF;80034CA6#AC43;80034CB4#0001;80034CB6#2402"
+
+cheat13_desc = "青魔法全出現"
+cheat13_handler = "0"
+cheat13_code = "B0180002#00000000,8008FDB4#FFFF"
+
+cheat14_desc = "LV UP後HP9999"
+cheat14_handler = "0"
+cheat14_code = "D0033488#0002,80033488#0001"
+
+cheat15_desc = "LV UP後MP999"
+cheat15_handler = "0"
+cheat15_code = "D00334A0#0002,800334A0#0001"
+
+cheat16_desc = "LV UP後魔力MAX"
+cheat16_handler = "0"
+cheat16_code = "80034FD0#0001"
+
+cheat17_desc = "LV UP後氣力MAX"
+cheat17_handler = "0"
+cheat17_code = "800350D8#0001"
+
+cheat18_desc = "全聖獸"
+cheat18_handler = "0"
+cheat18_code = "B0100045#000000000,80078AC0#000B"
+
+cheats = 19

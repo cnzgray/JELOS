@@ -1,0 +1,69 @@
+cheat0_desc = "启动破解"
+cheat0_handler = "0"
+cheat0_code = "8009b342#0000;8009b340#0000;8009B384#0000;8003aa00#0000;8009A0CC#0000"
+
+cheat1_desc = "无限金钱"
+cheat1_handler = "0"
+cheat1_code = "80076BA4#0FFF;80076BA6#5F5E"
+
+cheat2_desc = "道具不减"
+cheat2_handler = "0"
+cheat2_code = "80076BDC#6401"
+
+cheat3_desc = "全召唤兽"
+cheat3_handler = "0"
+cheat3_code = "800760F8#0100"
+
+cheat4_desc = "全部卡片"
+cheat4_handler = "0"
+cheat4_code = "80077378#E4E4;800773C4#00E4;800773C6#F0F0;800773C5#00F0;800773EA#00FF"
+
+cheat5_desc = "跳出战斗画面"
+cheat5_handler = "0"
+cheat5_code = "80021368#0000;8002136a#0000"
+
+cheat6_desc = "随时随地记录"
+cheat6_handler = "0"
+cheat6_code = "8006F372#0100"
+
+cheat7_desc = "特殊技 (L1+R1)第一人"
+cheat7_handler = "0"
+cheat7_code = "80081B0E#0005;80077460#0400"
+
+cheat8_desc = "特殊技 (L1+R1)第二人"
+cheat8_handler = "0"
+cheat8_code = "80081B0E#000A;80077630#0400"
+
+cheat9_desc = "特殊技 (L1+R1)第三人"
+cheat9_handler = "0"
+cheat9_code = "80081B0E#000C;80077800#0400"
+
+cheat10_desc = "召唤兽的战斗后LV100"
+cheat10_handler = "0"
+cheat10_code = "80022752#34A2"
+
+cheat11_desc = "召唤兽快速呼出"
+cheat11_handler = "0"
+cheat11_code = "80077454#0000"
+
+cheat12_desc = "战斗途中快速集气"
+cheat12_handler = "0"
+cheat12_code = "800775C4#2EE0"
+
+cheat13_desc = "史克尔全吸收魔法"
+cheat13_handler = "0"
+cheat13_code = "80076538#6301"
+
+cheat14_desc = "姬思蒂全吸收魔法"
+cheat14_handler = "0"
+cheat14_code = "80076700#6311"
+
+cheat15_desc = "第三位角色全吸收魔法"
+cheat15_handler = "0"
+cheat15_code = "800768C8#6321"
+
+cheat16_desc = "第四位角色全吸收魔法"
+cheat16_handler = "0"
+cheat16_code = "80076A90#6331"
+
+cheats = 17

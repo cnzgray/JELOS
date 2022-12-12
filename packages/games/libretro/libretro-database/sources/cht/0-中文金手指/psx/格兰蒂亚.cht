@@ -1,0 +1,77 @@
+cheat0_desc = "战斗后大量金钱NO"
+cheat0_handler = "0"
+cheat0_code = "8009C68C#FFFF"
+
+cheat1_desc = "战斗后快速升级NO"
+cheat1_handler = "0"
+cheat1_code = "8009C688#FFFF"
+
+cheat2_desc = "无限魔法点NO"
+cheat2_handler = "0"
+cheat2_code = "801A97E0#0001"
+
+cheat3_desc = "第一人-SPNO"
+cheat3_handler = "0"
+cheat3_code = "800C09EE#03E7;800C09F0#03E7"
+
+cheat4_desc = "第一人-魔法点NO"
+cheat4_handler = "0"
+cheat4_code = "800102A8#6363;800102AA#6363;800102AC#6363"
+
+cheat5_desc = "第一人-技能等级NO"
+cheat5_handler = "0"
+cheat5_code = "80010290#270F;80010292#270F;80010294#270F"
+
+cheat6_desc = "第一人-魔法等级NO"
+cheat6_handler = "0"
+cheat6_code = "80010288#270F;8001028A#270F;8001028C#270F;8001028E#270F"
+
+cheat7_desc = "第二人-SPNO"
+cheat7_handler = "0"
+cheat7_code = "800C0BDA#03E7;800C0BDC#03E7"
+
+cheat8_desc = "第二人-魔法点NO"
+cheat8_handler = "0"
+cheat8_code = "800103A8#6363;800103AA#6363;800103AC#6363"
+
+cheat9_desc = "第二人-技能等级NO"
+cheat9_handler = "0"
+cheat9_code = "80010390#270F;80010392#270F;80010394#270F"
+
+cheat10_desc = "第二人-魔法等级NO"
+cheat10_handler = "0"
+cheat10_code = "80010388#270F;8001038A#270F;8001038C#270F;8001038E#270F"
+
+cheat11_desc = "第三人-SPNO"
+cheat11_handler = "0"
+cheat11_code = "800C0BDA#03E7;800C0BDC#03E7"
+
+cheat12_desc = "第三人-魔法点NO"
+cheat12_handler = "0"
+cheat12_code = "800104A8#6363;800104AA#6363;800104AC#6363"
+
+cheat13_desc = "第三人-技能等级NO"
+cheat13_handler = "0"
+cheat13_code = "80010490#270F;80010492#270F;80010494#270F"
+
+cheat14_desc = "第三人-魔法等级NO"
+cheat14_handler = "0"
+cheat14_code = "80010488#270F;8001048A#270F;8001048C#270F;8001048E#270F"
+
+cheat15_desc = "第四人-SPNO"
+cheat15_handler = "0"
+cheat15_code = "800C0DC8#03E7;800C0DCA#03E7"
+
+cheat16_desc = "第四人-魔法点NO"
+cheat16_handler = "0"
+cheat16_code = "800105A8#6363;800105AA#6363;800105AC#6363"
+
+cheat17_desc = "第四人-技能等级NO"
+cheat17_handler = "0"
+cheat17_code = "80010590#270F;80010592#270F;80010594#270F"
+
+cheat18_desc = "第四人-魔法等级NO"
+cheat18_handler = "0"
+cheat18_code = "80010588#270F;8001058A#270F;8001058C#270F;8001058E#270F"
+
+cheats = 19

@@ -1,0 +1,9 @@
+cheat0_desc = "HP"
+cheat0_handler = "2"
+cheat0_code = "41CFF,64"
+
+cheat1_desc = "必殺技值"
+cheat1_handler = "2"
+cheat1_code = "41CD3,64"
+
+cheats = 2

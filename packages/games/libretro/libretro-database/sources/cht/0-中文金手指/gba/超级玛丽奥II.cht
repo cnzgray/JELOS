@@ -1,0 +1,57 @@
+cheat0_desc = "生命数"
+cheat0_handler = "2"
+cheat0_code = "442A4,63"
+
+cheat1_desc = "金币数"
+cheat1_handler = "2"
+cheat1_code = "442E7,63"
+
+cheat2_desc = "星星数(只是好看.实际没用)"
+cheat2_handler = "2"
+cheat2_code = "442E5,63"
+
+cheat3_desc = "人物状态普通"
+cheat3_handler = "2"
+cheat3_code = "442E8,00"
+
+cheat4_desc = "人物状态吃到蘑菇"
+cheat4_handler = "2"
+cheat4_code = "442E8,01"
+
+cheat5_desc = "人物状态吃到羽毛"
+cheat5_handler = "2"
+cheat5_code = "442E8,02"
+
+cheat6_desc = "人物状态吃到火力花"
+cheat6_handler = "2"
+cheat6_code = "442E8,03"
+
+cheat7_desc = "备用物品无"
+cheat7_handler = "2"
+cheat7_code = "442E9,00"
+
+cheat8_desc = "备用物品蘑菇"
+cheat8_handler = "2"
+cheat8_code = "442E9,01"
+
+cheat9_desc = "备用物品火力花"
+cheat9_handler = "2"
+cheat9_code = "442E9,02"
+
+cheat10_desc = "备用物品星星"
+cheat10_handler = "2"
+cheat10_code = "442E9,03"
+
+cheat11_desc = "备用物品羽毛"
+cheat11_handler = "2"
+cheat11_code = "442E9,04"
+
+cheat12_desc = "备用物品1UP"
+cheat12_handler = "2"
+cheat12_code = "442E9,05"
+
+cheat13_desc = "乘骑状态"
+cheat13_handler = "2"
+cheat13_code = "442EA,0A;442EB,01"
+
+cheats = 14

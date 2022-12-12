@@ -1,0 +1,69 @@
+cheat0_desc = "能源最大"
+cheat0_handler = "0"
+cheat0_code = "3008C4E9#0063;8008C4EA#1400"
+
+cheat1_desc = "无限金钱"
+cheat1_handler = "0"
+cheat1_code = "8009CAC8#967E;8009CACA#0098"
+
+cheat2_desc = "无限命"
+cheat2_handler = "0"
+cheat2_code = "3008C4EB#0063"
+
+cheat3_desc = "体力不减"
+cheat3_handler = "0"
+cheat3_code = "8008C3C8#00C5;8008C3CA#00C5"
+
+cheat4_desc = "HP不减"
+cheat4_handler = "0"
+cheat4_code = "8008C3C8#00A0;8008C3CA#00A0"
+
+cheat5_desc = "金钱无限"
+cheat5_handler = "0"
+cheat5_code = "8009CAC8#967F;8009CACA#0098"
+
+cheat6_desc = "限制时间不减"
+cheat6_handler = "0"
+cheat6_code = "8009CBB8#1518"
+
+cheat7_desc = "所有武器、防具"
+cheat7_handler = "0"
+cheat7_code = "B0050002#00000000;80098860#FFFF"
+
+cheat8_desc = "所有道具"
+cheat8_handler = "0"
+cheat8_code = "B0080002#00000000;8009886A#FFFF"
+
+cheat9_desc = "全部道具"
+cheat9_handler = "0"
+cheat9_code = "80098870#7F1F;80098872#FFF0;80098874#FFFF;80098876#F03F;80098878#FFFF"
+
+cheat10_desc = "无敌"
+cheat10_handler = "0"
+cheat10_code = "8008C444#000A"
+
+cheat11_desc = "能源不减"
+cheat11_handler = "0"
+cheat11_code = "D010A31E#0043;8010A31E#2400;D00CF4BE#A482;800CF4BE#2400;D00CF3EE#A482;800CF3EE#2400"
+
+cheat12_desc = "武器改造一次最大值"
+cheat12_handler = "0"
+cheat12_code = "E00EB9F4#00010005;800EB9F4#0003;800EBA08#0003;800EBA1C#0003;800EBA30#0003;800EBA44#0003"
+
+cheat13_desc = "金钱最大"
+cheat13_handler = "0"
+cheat13_code = "8009CAC8#967F;8009CACA#0098"
+
+cheat14_desc = "ＨＰ最大"
+cheat14_handler = "0"
+cheat14_code = "8008C3C8#00A0;8008C3CA#00A0"
+
+cheat15_desc = "全武器"
+cheat15_handler = "0"
+cheat15_code = "80098860#FFFF"
+
+cheat16_desc = "灭火器不减"
+cheat16_handler = "0"
+cheat16_code = "8008C4F2#0100"
+
+cheats = 17

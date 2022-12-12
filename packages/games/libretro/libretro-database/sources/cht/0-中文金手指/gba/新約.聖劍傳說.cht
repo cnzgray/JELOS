@@ -1,0 +1,37 @@
+cheat0_desc = "hp"
+cheat0_handler = "2"
+cheat0_code = "203F8,E7,3"
+
+cheat1_desc = "金錢"
+cheat1_handler = "2"
+cheat1_code = "25A70,9F,86,1"
+
+cheat2_desc = "POW"
+cheat2_handler = "2"
+cheat2_code = "25A10,E7,3"
+
+cheat3_desc = "DEF"
+cheat3_handler = "2"
+cheat3_code = "25A12,E7,3"
+
+cheat4_desc = "INT"
+cheat4_handler = "2"
+cheat4_code = "25A14,E7,3"
+
+cheat5_desc = "MND"
+cheat5_handler = "2"
+cheat5_code = "25A16,E7,3"
+
+cheat6_desc = "AGI"
+cheat6_handler = "2"
+cheat6_code = "25A18,E7,3"
+
+cheat7_desc = "mp"
+cheat7_handler = "2"
+cheat7_code = "203F9,9B,7F,3E"
+
+cheat8_desc = "必殺技值"
+cheat8_handler = "2"
+cheat8_code = "203F5,FF,FF,0"
+
+cheats = 9

@@ -1,0 +1,97 @@
+cheat0_desc = "血格锁定3颗红心"
+cheat0_handler = "2"
+cheat0_code = "234D,18"
+
+cheat1_desc = "血格锁定4颗红心"
+cheat1_handler = "2"
+cheat1_code = "234D,20"
+
+cheat2_desc = "血格锁定5颗红心"
+cheat2_handler = "2"
+cheat2_code = "234D,28"
+
+cheat3_desc = "血格锁定6颗红心"
+cheat3_handler = "2"
+cheat3_code = "234D,30"
+
+cheat4_desc = "血格锁定7颗红心"
+cheat4_handler = "2"
+cheat4_code = "234D,38"
+
+cheat5_desc = "血格锁定8颗红心"
+cheat5_handler = "2"
+cheat5_code = "234D,40"
+
+cheat6_desc = "血格锁定9颗红心"
+cheat6_handler = "2"
+cheat6_code = "234D,48"
+
+cheat7_desc = "血格锁定10颗红心"
+cheat7_handler = "2"
+cheat7_code = "234D,50"
+
+cheat8_desc = "血格锁定11颗红心"
+cheat8_handler = "2"
+cheat8_code = "234D,58"
+
+cheat9_desc = "血格锁定12颗红心"
+cheat9_handler = "2"
+cheat9_code = "234D,60"
+
+cheat10_desc = "血格锁定13颗红心"
+cheat10_handler = "2"
+cheat10_code = "234D,68"
+
+cheat11_desc = "血格锁定14颗红心"
+cheat11_handler = "2"
+cheat11_code = "234D,70"
+
+cheat12_desc = "血格锁定15颗红心"
+cheat12_handler = "2"
+cheat12_code = "234D,78"
+
+cheat13_desc = "血格锁定16颗红心"
+cheat13_handler = "2"
+cheat13_code = "234D,80"
+
+cheat14_desc = "血格锁定17颗红心"
+cheat14_handler = "2"
+cheat14_code = "234D,88"
+
+cheat15_desc = "血格锁定18颗红心"
+cheat15_handler = "2"
+cheat15_code = "234D,90"
+
+cheat16_desc = "血格锁定19颗红心"
+cheat16_handler = "2"
+cheat16_code = "234D,98"
+
+cheat17_desc = "血格锁定20颗红心"
+cheat17_handler = "2"
+cheat17_code = "234D,A0"
+
+cheat18_desc = "魔法值锁定"
+cheat18_handler = "2"
+cheat18_code = "234E,80"
+
+cheat19_desc = "炸弹锁定"
+cheat19_handler = "2"
+cheat19_code = "2323,63"
+
+cheat20_desc = "宝箭锁定"
+cheat20_handler = "2"
+cheat20_code = "2357,63"
+
+cheat21_desc = "隐身锁定"
+cheat21_handler = "2"
+cheat21_code = "439DA,63"
+
+cheat22_desc = "宝石最大"
+cheat22_handler = "2"
+cheat22_code = "2340,E7,03"
+
+cheat23_desc = "小钥匙锁定"
+cheat23_handler = "2"
+cheat23_code = "234F,1"
+
+cheats = 24

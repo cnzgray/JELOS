@@ -1,0 +1,17 @@
+cheat0_desc = "快速過關"
+cheat0_handler = "2"
+cheat0_code = "70F2,4"
+
+cheat1_desc = "表演模式賽道全開"
+cheat1_handler = "2"
+cheat1_code = "421A8,FF"
+
+cheat2_desc = "表演模式關卡全開"
+cheat2_handler = "2"
+cheat2_code = "421D0,FF"
+
+cheat3_desc = "街機模式賽道全開"
+cheat3_handler = "2"
+cheat3_code = "422C8,1;422CC,1;422D0,1;422D4,1;422D8,1;422DC,1;422E0,1;422E4,1;422E8,1;422EC,1;422F0,1"
+
+cheats = 4

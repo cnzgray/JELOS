@@ -1,0 +1,17 @@
+cheat0_desc = "生命数-吃鬼"
+cheat0_handler = "2"
+cheat0_code = "8AA0,5"
+
+cheat1_desc = "生命数-除虫"
+cheat1_handler = "2"
+cheat1_code = "E560,5"
+
+cheat2_desc = "生命数-小蜜蜂"
+cheat2_handler = "2"
+cheat2_code = "10E12,5"
+
+cheat3_desc = "生命数-大蜜蜂"
+cheat3_handler = "2"
+cheat3_code = "1A88C,5"
+
+cheats = 4

@@ -1,0 +1,9 @@
+cheat0_desc = "$$999999"
+cheat0_handler = "2"
+cheat0_code = "250,3F,42,F"
+
+cheat1_desc = "全角色EXP9999999"
+cheat1_handler = "2"
+cheat1_code = "B74,7F,96,98;CC0,7F,96,98;E0C,7F,96,98;F58,7F,96,98;644,7F,96,98;790,7F,96,98;8DC,7F,96,98;A28,7F,96,98"
+
+cheats = 2

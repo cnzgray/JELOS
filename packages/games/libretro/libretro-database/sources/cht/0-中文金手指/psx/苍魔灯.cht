@@ -1,0 +1,41 @@
+cheat0_desc = "体力不减"
+cheat0_handler = "0"
+cheat0_code = "800C22AE#0190"
+
+cheat1_desc = "Ark无限"
+cheat1_handler = "0"
+cheat1_code = "900B7CE4#05F5E0FF"
+
+cheat2_desc = "Dreak无限"
+cheat2_handler = "0"
+cheat2_code = "900B7CDC#05F5E0FF"
+
+cheat3_desc = "使用道具不需等待（有些关无效）"
+cheat3_handler = "0"
+cheat3_code = "800BFC7C#0000;800BFD10#0000;800BFDA4#0000"
+
+cheat4_desc = "陷阱检定模式等级S"
+cheat4_handler = "0"
+cheat4_code = "800B7CEE#0700"
+
+cheat5_desc = "陷阱检定模式时间不减"
+cheat5_handler = "0"
+cheat5_code = "801AA4E0#4E00"
+
+cheat6_desc = "HP不减"
+cheat6_handler = "0"
+cheat6_code = "30118762#0060"
+
+cheat7_desc = "DREAK超高"
+cheat7_handler = "0"
+cheat7_code = "800B7CDC#FFFA;800B7CDE#0098"
+
+cheat8_desc = "ARK超高"
+cheat8_handler = "0"
+cheat8_code = "800B7CE4#FFFA;800B7CDE#0098"
+
+cheat9_desc = "陷阱回复表速度超快"
+cheat9_handler = "0"
+cheat9_code = "30116924#0002"
+
+cheats = 10

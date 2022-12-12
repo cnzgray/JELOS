@@ -1,0 +1,2001 @@
+cheat0_desc = "快速通关"
+cheat0_handler = "0"
+cheat0_code = "D00C646C#0001,8000E3A4#4AC8"
+
+cheat1_desc = "物品名变为日文(开场时用，用完后解锁)"
+cheat1_handler = "0"
+cheat1_code = "D000E3A4#0000,300C7CE4#00"
+
+cheat2_desc = "LEON第二路线(开场时用，用完后解锁)"
+cheat2_handler = "0"
+cheat2_code = "300C7D07#40"
+
+cheat3_desc = "快速射击(按下"R1"+"×"键时使用)"
+cheat3_handler = "0"
+cheat3_code = "D00C646C#0048,800C7E70#000B"
+
+cheat4_desc = "LEON血不减"
+cheat4_handler = "0"
+cheat4_code = "300C7E7A#FF"
+
+cheat5_desc = "LEON无任何异常状态"
+cheat5_handler = "0"
+cheat5_code = "800C7F3C#0000"
+
+cheat6_desc = "LEON无限色带"
+cheat6_handler = "0"
+cheat6_code = "800CCB84#FF1E"
+
+cheat7_desc = "LEON无限弹药"
+cheat7_handler = "0"
+cheat7_code = "30064D21#00"
+
+cheat8_desc = "LEON发射的弹药手枪"
+cheat8_handler = "0"
+cheat8_code = "300C7E32#02"
+
+cheat9_desc = "LEON发射的弹药强化手枪"
+cheat9_handler = "0"
+cheat9_code = "300C7E32#04"
+
+cheat10_desc = "LEON发射的弹药密林"
+cheat10_handler = "0"
+cheat10_code = "300C7E32#05"
+
+cheat11_desc = "LEON发射的弹药强化密林"
+cheat11_handler = "0"
+cheat11_code = "300C7E32#06"
+
+cheat12_desc = "LEON发射的弹药散弹枪"
+cheat12_handler = "0"
+cheat12_code = "300C7E32#07"
+
+cheat13_desc = "LEON发射的弹药强化散弹枪"
+cheat13_handler = "0"
+cheat13_code = "300C7E32#08"
+
+cheat14_desc = "LEON发射的弹药榴弹炮"
+cheat14_handler = "0"
+cheat14_code = "300C7E32#09"
+
+cheat15_desc = "LEON发射的弹药燃烧弹"
+cheat15_handler = "0"
+cheat15_code = "300C7E32#0A"
+
+cheat16_desc = "LEON发射的弹药硫酸弹"
+cheat16_handler = "0"
+cheat16_code = "300C7E32#0B"
+
+cheat17_desc = "LEON发射的弹药弩"
+cheat17_handler = "0"
+cheat17_code = "300C7E32#0C"
+
+cheat18_desc = "LEON发射的弹药半自动机关枪"
+cheat18_handler = "0"
+cheat18_code = "300C7E32#0F"
+
+cheat19_desc = "LEON发射的弹药火炎喷射器"
+cheat19_handler = "0"
+cheat19_code = "300C7E32#10"
+
+cheat20_desc = "LEON发射的弹药火箭炮"
+cheat20_handler = "0"
+cheat20_code = "300C7E32#11"
+
+cheat21_desc = "LEON发射的弹药MP5机关枪"
+cheat21_handler = "0"
+cheat21_code = "300C7E32#13"
+
+cheat22_desc = "LEON装备栏第一格军刀"
+cheat22_handler = "0"
+cheat22_code = "800CCB68#FF01"
+
+cheat23_desc = "LEON装备栏第一格手枪"
+cheat23_handler = "0"
+cheat23_code = "800CCB68#FF02"
+
+cheat24_desc = "LEON装备栏第一格强化手枪"
+cheat24_handler = "0"
+cheat24_code = "800CCB68#FF04"
+
+cheat25_desc = "LEON装备栏第一格密林"
+cheat25_handler = "0"
+cheat25_code = "800CCB68#FF05"
+
+cheat26_desc = "LEON装备栏第一格强化密林"
+cheat26_handler = "0"
+cheat26_code = "800CCB68#FF06"
+
+cheat27_desc = "LEON装备栏第一格散弹枪"
+cheat27_handler = "0"
+cheat27_code = "800CCB68#FF07"
+
+cheat28_desc = "LEON装备栏第一格强化散弹枪"
+cheat28_handler = "0"
+cheat28_code = "800CCB68#FF08"
+
+cheat29_desc = "LEON装备栏第一格半自动机关枪"
+cheat29_handler = "0"
+cheat29_code = "800CCB68#FF0F"
+
+cheat30_desc = "LEON装备栏第一格火炎喷射器"
+cheat30_handler = "0"
+cheat30_code = "800CCB68#FF10"
+
+cheat31_desc = "LEON装备栏第一格火箭炮"
+cheat31_handler = "0"
+cheat31_code = "800CCB68#FF11"
+
+cheat32_desc = "LEON装备栏第一格格林式机关枪"
+cheat32_handler = "0"
+cheat32_code = "800CCB68#FF12"
+
+cheat33_desc = "LEON装备栏第二格手枪子弹"
+cheat33_handler = "0"
+cheat33_code = "800CCB6C#FF14"
+
+cheat34_desc = "LEON装备栏第二格散弹枪子弹"
+cheat34_handler = "0"
+cheat34_code = "800CCB6C#FF15"
+
+cheat35_desc = "LEON装备栏第二格密林子弹"
+cheat35_handler = "0"
+cheat35_code = "800CCB6C#FF16"
+
+cheat36_desc = "LEON装备栏第二格燃料"
+cheat36_handler = "0"
+cheat36_code = "800CCB6C#FF17"
+
+cheat37_desc = "LEON装备栏第二格榴弹"
+cheat37_handler = "0"
+cheat37_code = "800CCB6C#FF18"
+
+cheat38_desc = "LEON装备栏第二格燃烧弹"
+cheat38_handler = "0"
+cheat38_code = "800CCB6C#FF19"
+
+cheat39_desc = "LEON装备栏第二格硫酸弹"
+cheat39_handler = "0"
+cheat39_code = "800CCB6C#FF1A"
+
+cheat40_desc = "LEON装备栏第二格半自动机关枪子弹"
+cheat40_handler = "0"
+cheat40_code = "800CCB6C#FF1B"
+
+cheat41_desc = "LEON装备栏第二格小型锁匙"
+cheat41_handler = "0"
+cheat41_code = "300CCB6C#1F"
+
+cheat42_desc = "LEON装备栏第二格手枪强化部件"
+cheat42_handler = "0"
+cheat42_code = "300CCB6C#20"
+
+cheat43_desc = "LEON装备栏第二格密林强化部件"
+cheat43_handler = "0"
+cheat43_code = "300CCB6C#21"
+
+cheat44_desc = "LEON装备栏第二格散弹枪强化部件"
+cheat44_handler = "0"
+cheat44_code = "300CCB6C#22"
+
+cheat45_desc = "LEON装备栏第二格急救喷雾"
+cheat45_handler = "0"
+cheat45_code = "300CCB6C#23"
+
+cheat46_desc = "LEON装备栏第二格药品FR-W09"
+cheat46_handler = "0"
+cheat46_code = "300CCB6C#24"
+
+cheat47_desc = "LEON装备栏第二格药品AC-W24"
+cheat47_handler = "0"
+cheat47_code = "300CCB6C#25"
+
+cheat48_desc = "LEON装备栏第二格绿色药草"
+cheat48_handler = "0"
+cheat48_code = "300CCB6C#26"
+
+cheat49_desc = "LEON装备栏第二格红色药草"
+cheat49_handler = "0"
+cheat49_code = "300CCB6C#27"
+
+cheat50_desc = "LEON装备栏第二格蓝色药草"
+cheat50_handler = "0"
+cheat50_code = "300CCB6C#28"
+
+cheat51_desc = "LEON装备栏第二格绿+绿（混合药草）"
+cheat51_handler = "0"
+cheat51_code = "300CCB6C#29"
+
+cheat52_desc = "LEON装备栏第二格绿+红（混合药草）"
+cheat52_handler = "0"
+cheat52_code = "300CCB6C#2A"
+
+cheat53_desc = "LEON装备栏第二格绿+蓝（混合药草）"
+cheat53_handler = "0"
+cheat53_code = "300CCB6C#2B"
+
+cheat54_desc = "LEON装备栏第二格绿+绿+绿（混合药草）"
+cheat54_handler = "0"
+cheat54_code = "300CCB6C#2C"
+
+cheat55_desc = "LEON装备栏第二格绿+绿+蓝（混合药草）"
+cheat55_handler = "0"
+cheat55_code = "300CCB6C#2D"
+
+cheat56_desc = "LEON装备栏第二格绿+红+蓝（混合药草）"
+cheat56_handler = "0"
+cheat56_code = "300CCB6C#2E"
+
+cheat57_desc = "LEON装备栏第二格相片"
+cheat57_handler = "0"
+cheat57_code = "300CCB6C#31"
+
+cheat58_desc = "LEON装备栏第二格六角把手"
+cheat58_handler = "0"
+cheat58_code = "300CCB6C#32"
+
+cheat59_desc = "LEON装备栏第二格红色宝石"
+cheat59_handler = "0"
+cheat59_code = "300CCB6C#33"
+
+cheat60_desc = "LEON装备栏第二格红色匙卡"
+cheat60_handler = "0"
+cheat60_code = "300CCB6C#34"
+
+cheat61_desc = "LEON装备栏第二格蓝色匙卡"
+cheat61_handler = "0"
+cheat61_code = "300CCB6C#35"
+
+cheat62_desc = "LEON装备栏第二格水蛇之石"
+cheat62_handler = "0"
+cheat62_code = "300CCB6C#36"
+
+cheat63_desc = "LEON装备栏第二格豹之石"
+cheat63_handler = "0"
+cheat63_code = "300CCB6C#37"
+
+cheat64_desc = "LEON装备栏第二格蓝之石（左）"
+cheat64_handler = "0"
+cheat64_code = "300CCB6C#38"
+
+cheat65_desc = "LEON装备栏第二格蓝之石（右）"
+cheat65_handler = "0"
+cheat65_code = "300CCB6C#39"
+
+cheat66_desc = "LEON装备栏第二格飞鹰之石"
+cheat66_handler = "0"
+cheat66_code = "300CCB6C#3A"
+
+cheat67_desc = "LEON装备栏第二格象BISHOP"
+cheat67_handler = "0"
+cheat67_code = "300CCB6C#3B"
+
+cheat68_desc = "LEON装备栏第二格车ROOK"
+cheat68_handler = "0"
+cheat68_code = "300CCB6C#3C"
+
+cheat69_desc = "LEON装备栏第二格马KNIGHT"
+cheat69_handler = "0"
+cheat69_code = "300CCB6C#3D"
+
+cheat70_desc = "LEON装备栏第二格国王KING"
+cheat70_handler = "0"
+cheat70_code = "300CCB6C#3E"
+
+cheat71_desc = "LEON装备栏第二格武器箱锁匙"
+cheat71_handler = "0"
+cheat71_code = "300CCB6C#3F"
+
+cheat72_desc = "LEON装备栏第二格信管"
+cheat72_handler = "0"
+cheat72_code = "300CCB6C#40"
+
+cheat73_desc = "LEON装备栏第二格塑胶炸弹"
+cheat73_handler = "0"
+cheat73_code = "300CCB6C#41"
+
+cheat74_desc = "LEON装备栏第二格信管+塑胶炸弹"
+cheat74_handler = "0"
+cheat74_code = "300CCB6C#42"
+
+cheat75_desc = "LEON装备栏第二格四角把手"
+cheat75_handler = "0"
+cheat75_code = "300CCB6C#43"
+
+cheat76_desc = "LEON装备栏第二格菲林"
+cheat76_handler = "0"
+cheat76_code = "300CCB6C#44"
+
+cheat77_desc = "LEON装备栏第二格菲林2"
+cheat77_handler = "0"
+cheat77_code = "300CCB6C#45"
+
+cheat78_desc = "LEON装备栏第二格菲林3"
+cheat78_handler = "0"
+cheat78_code = "300CCB6C#46"
+
+cheat79_desc = "LEON装备栏第二格独角兽之金币"
+cheat79_handler = "0"
+cheat79_code = "300CCB6C#47"
+
+cheat80_desc = "LEON装备栏第二格鹭之金币"
+cheat80_handler = "0"
+cheat80_code = "300CCB6C#48"
+
+cheat81_desc = "LEON装备栏第二格狼之金币"
+cheat81_handler = "0"
+cheat81_code = "300CCB6C#49"
+
+cheat82_desc = "LEON装备栏第二格金色齿轮"
+cheat82_handler = "0"
+cheat82_code = "300CCB6C#4A"
+
+cheat83_desc = "LEON装备栏第二格下水道开盖器"
+cheat83_handler = "0"
+cheat83_code = "300CCB6C#4B"
+
+cheat84_desc = "LEON装备栏第二格合成灰士"
+cheat84_handler = "0"
+cheat84_code = "300CCB6C#4C"
+
+cheat85_desc = "LEON装备栏第二格灰士"
+cheat85_handler = "0"
+cheat85_code = "300CCB6C#4D"
+
+cheat86_desc = "LEON装备栏第二格疫苗"
+cheat86_handler = "0"
+cheat86_code = "300CCB6C#4E"
+
+cheat87_desc = "LEON装备栏第二格疫苗盒"
+cheat87_handler = "0"
+cheat87_code = "300CCB6C#4F"
+
+cheat88_desc = "LEON装备栏第二格菲林4"
+cheat88_handler = "0"
+cheat88_code = "300CCB6C#50"
+
+cheat89_desc = "LEON装备栏第二格疫苗样本"
+cheat89_handler = "0"
+cheat89_code = "300CCB6C#51"
+
+cheat90_desc = "LEON装备栏第二格G-细菌"
+cheat90_handler = "0"
+cheat90_code = "300CCB6C#52"
+
+cheat91_desc = "LEON装备栏第二格换衫锁匙"
+cheat91_handler = "0"
+cheat91_code = "300CCB6C#53"
+
+cheat92_desc = "LEON装备栏第二格S 插头"
+cheat92_handler = "0"
+cheat92_code = "300CCB6C#54"
+
+cheat93_desc = "LEON装备栏第二格N 插头"
+cheat93_handler = "0"
+cheat93_code = "300CCB6C#55"
+
+cheat94_desc = "LEON装备栏第二格电线"
+cheat94_handler = "0"
+cheat94_code = "300CCB6C#56"
+
+cheat95_desc = "LEON装备栏第二格相片"
+cheat95_handler = "0"
+cheat95_code = "300CCB6C#57"
+
+cheat96_desc = "LEON装备栏第二格小屋锁匙"
+cheat96_handler = "0"
+cheat96_code = "300CCB6C#58"
+
+cheat97_desc = "LEON装备栏第二格葵扇锁匙"
+cheat97_handler = "0"
+cheat97_code = "300CCB6C#59"
+
+cheat98_desc = "LEON装备栏第二格钻石锁匙"
+cheat98_handler = "0"
+cheat98_code = "300CCB6C#5A"
+
+cheat99_desc = "LEON装备栏第二格红心锁匙"
+cheat99_handler = "0"
+cheat99_code = "300CCB6C#5B"
+
+cheat100_desc = "LEON装备栏第二格梅花锁匙"
+cheat100_handler = "0"
+cheat100_code = "300CCB6C#5C"
+
+cheat101_desc = "LEON装备栏第二格工场锁匙{D}"
+cheat101_handler = "0"
+cheat101_code = "300CCB6C#5D"
+
+cheat102_desc = "LEON装备栏第二格工场锁匙{C}"
+cheat102_handler = "0"
+cheat102_code = "300CCB6C#5E"
+
+cheat103_desc = "LEON装备栏第二格动力室锁匙"
+cheat103_handler = "0"
+cheat103_code = "300CCB6C#5F"
+
+cheat104_desc = "LEON装备栏第二格MO"
+cheat104_handler = "0"
+cheat104_code = "300CCB6C#60"
+
+cheat105_desc = "LEON装备栏第二格实验室锁匙卡"
+cheat105_handler = "0"
+cheat105_code = "300CCB6C#61"
+
+cheat106_desc = "LEON装备栏第二格MASTER KEY"
+cheat106_handler = "0"
+cheat106_code = "300CCB6C#62"
+
+cheat107_desc = "LEON装备栏第二格月台锁匙"
+cheat107_handler = "0"
+cheat107_code = "300CCB6C#63"
+
+cheat108_desc = "LEON装备栏第三格手枪子弹"
+cheat108_handler = "0"
+cheat108_code = "800CCB70#FF14"
+
+cheat109_desc = "LEON装备栏第三格散弹枪子弹"
+cheat109_handler = "0"
+cheat109_code = "800CCB70#FF15"
+
+cheat110_desc = "LEON装备栏第三格密林子弹"
+cheat110_handler = "0"
+cheat110_code = "800CCB70#FF16"
+
+cheat111_desc = "LEON装备栏第三格燃料"
+cheat111_handler = "0"
+cheat111_code = "800CCB70#FF17"
+
+cheat112_desc = "LEON装备栏第三格榴弹"
+cheat112_handler = "0"
+cheat112_code = "800CCB70#FF18"
+
+cheat113_desc = "LEON装备栏第三格燃烧弹"
+cheat113_handler = "0"
+cheat113_code = "800CCB70#FF19"
+
+cheat114_desc = "LEON装备栏第三格硫酸弹"
+cheat114_handler = "0"
+cheat114_code = "800CCB70#FF1A"
+
+cheat115_desc = "LEON装备栏第三格半自动机关枪子弹"
+cheat115_handler = "0"
+cheat115_code = "800CCB70#FF1B"
+
+cheat116_desc = "LEON装备栏第三格小型锁匙"
+cheat116_handler = "0"
+cheat116_code = "300CCB70#1F"
+
+cheat117_desc = "LEON装备栏第三格手枪强化部件"
+cheat117_handler = "0"
+cheat117_code = "300CCB70#20"
+
+cheat118_desc = "LEON装备栏第三格密林强化部件"
+cheat118_handler = "0"
+cheat118_code = "300CCB70#21"
+
+cheat119_desc = "LEON装备栏第三格散弹枪强化部件"
+cheat119_handler = "0"
+cheat119_code = "300CCB70#22"
+
+cheat120_desc = "LEON装备栏第三格急救喷雾"
+cheat120_handler = "0"
+cheat120_code = "300CCB70#23"
+
+cheat121_desc = "LEON装备栏第三格药品FR-W09"
+cheat121_handler = "0"
+cheat121_code = "300CCB70#24"
+
+cheat122_desc = "LEON装备栏第三格药品AC-W24"
+cheat122_handler = "0"
+cheat122_code = "300CCB70#25"
+
+cheat123_desc = "LEON装备栏第三格绿色药草"
+cheat123_handler = "0"
+cheat123_code = "300CCB70#26"
+
+cheat124_desc = "LEON装备栏第三格红色药草"
+cheat124_handler = "0"
+cheat124_code = "300CCB70#27"
+
+cheat125_desc = "LEON装备栏第三格蓝色药草"
+cheat125_handler = "0"
+cheat125_code = "300CCB70#28"
+
+cheat126_desc = "LEON装备栏第三格绿+绿（混合药草）"
+cheat126_handler = "0"
+cheat126_code = "300CCB70#29"
+
+cheat127_desc = "LEON装备栏第三格绿+红（混合药草）"
+cheat127_handler = "0"
+cheat127_code = "300CCB70#2A"
+
+cheat128_desc = "LEON装备栏第三格绿+蓝（混合药草）"
+cheat128_handler = "0"
+cheat128_code = "300CCB70#2B"
+
+cheat129_desc = "LEON装备栏第三格绿+绿+绿（混合药草）"
+cheat129_handler = "0"
+cheat129_code = "300CCB70#2C"
+
+cheat130_desc = "LEON装备栏第三格绿+绿+蓝（混合药草）"
+cheat130_handler = "0"
+cheat130_code = "300CCB70#2D"
+
+cheat131_desc = "LEON装备栏第三格绿+红+蓝（混合药草）"
+cheat131_handler = "0"
+cheat131_code = "300CCB70#2E"
+
+cheat132_desc = "LEON装备栏第三格相片"
+cheat132_handler = "0"
+cheat132_code = "300CCB70#31"
+
+cheat133_desc = "LEON装备栏第三格六角把手"
+cheat133_handler = "0"
+cheat133_code = "300CCB70#32"
+
+cheat134_desc = "LEON装备栏第三格红色宝石"
+cheat134_handler = "0"
+cheat134_code = "300CCB70#33"
+
+cheat135_desc = "LEON装备栏第三格红色匙卡"
+cheat135_handler = "0"
+cheat135_code = "300CCB70#34"
+
+cheat136_desc = "LEON装备栏第三格蓝色匙卡"
+cheat136_handler = "0"
+cheat136_code = "300CCB70#35"
+
+cheat137_desc = "LEON装备栏第三格水蛇之石"
+cheat137_handler = "0"
+cheat137_code = "300CCB70#36"
+
+cheat138_desc = "LEON装备栏第三格豹之石"
+cheat138_handler = "0"
+cheat138_code = "300CCB70#37"
+
+cheat139_desc = "LEON装备栏第三格蓝之石（左）"
+cheat139_handler = "0"
+cheat139_code = "300CCB70#38"
+
+cheat140_desc = "LEON装备栏第三格蓝之石（右）"
+cheat140_handler = "0"
+cheat140_code = "300CCB70#39"
+
+cheat141_desc = "LEON装备栏第三格飞鹰之石"
+cheat141_handler = "0"
+cheat141_code = "300CCB70#3A"
+
+cheat142_desc = "LEON装备栏第三格象BISHOP"
+cheat142_handler = "0"
+cheat142_code = "300CCB70#3B"
+
+cheat143_desc = "LEON装备栏第三格车ROOK"
+cheat143_handler = "0"
+cheat143_code = "300CCB70#3C"
+
+cheat144_desc = "LEON装备栏第三格马KNIGHT"
+cheat144_handler = "0"
+cheat144_code = "300CCB70#3D"
+
+cheat145_desc = "LEON装备栏第三格国王KING"
+cheat145_handler = "0"
+cheat145_code = "300CCB70#3E"
+
+cheat146_desc = "LEON装备栏第三格武器箱锁匙"
+cheat146_handler = "0"
+cheat146_code = "300CCB70#3F"
+
+cheat147_desc = "LEON装备栏第三格信管"
+cheat147_handler = "0"
+cheat147_code = "300CCB70#40"
+
+cheat148_desc = "LEON装备栏第三格塑胶炸弹"
+cheat148_handler = "0"
+cheat148_code = "300CCB70#41"
+
+cheat149_desc = "LEON装备栏第三格信管+塑胶炸弹"
+cheat149_handler = "0"
+cheat149_code = "300CCB70#42"
+
+cheat150_desc = "LEON装备栏第三格四角把手"
+cheat150_handler = "0"
+cheat150_code = "300CCB70#43"
+
+cheat151_desc = "LEON装备栏第三格菲林"
+cheat151_handler = "0"
+cheat151_code = "300CCB70#44"
+
+cheat152_desc = "LEON装备栏第三格菲林2"
+cheat152_handler = "0"
+cheat152_code = "300CCB70#45"
+
+cheat153_desc = "LEON装备栏第三格菲林3"
+cheat153_handler = "0"
+cheat153_code = "300CCB70#46"
+
+cheat154_desc = "LEON装备栏第三格独角兽之金币"
+cheat154_handler = "0"
+cheat154_code = "300CCB70#47"
+
+cheat155_desc = "LEON装备栏第三格鹭之金币"
+cheat155_handler = "0"
+cheat155_code = "300CCB70#48"
+
+cheat156_desc = "LEON装备栏第三格狼之金币"
+cheat156_handler = "0"
+cheat156_code = "300CCB70#49"
+
+cheat157_desc = "LEON装备栏第三格金色齿轮"
+cheat157_handler = "0"
+cheat157_code = "300CCB70#4A"
+
+cheat158_desc = "LEON装备栏第三格下水道开盖器"
+cheat158_handler = "0"
+cheat158_code = "300CCB70#4B"
+
+cheat159_desc = "LEON装备栏第三格合成灰士"
+cheat159_handler = "0"
+cheat159_code = "300CCB70#4C"
+
+cheat160_desc = "LEON装备栏第三格灰士"
+cheat160_handler = "0"
+cheat160_code = "300CCB70#4D"
+
+cheat161_desc = "LEON装备栏第三格疫苗"
+cheat161_handler = "0"
+cheat161_code = "300CCB70#4E"
+
+cheat162_desc = "LEON装备栏第三格疫苗盒"
+cheat162_handler = "0"
+cheat162_code = "300CCB70#4F"
+
+cheat163_desc = "LEON装备栏第三格菲林4"
+cheat163_handler = "0"
+cheat163_code = "300CCB70#50"
+
+cheat164_desc = "LEON装备栏第三格疫苗样本"
+cheat164_handler = "0"
+cheat164_code = "300CCB70#51"
+
+cheat165_desc = "LEON装备栏第三格G-细菌"
+cheat165_handler = "0"
+cheat165_code = "300CCB70#52"
+
+cheat166_desc = "LEON装备栏第三格换衫锁匙"
+cheat166_handler = "0"
+cheat166_code = "300CCB70#53"
+
+cheat167_desc = "LEON装备栏第三格S 插头"
+cheat167_handler = "0"
+cheat167_code = "300CCB70#54"
+
+cheat168_desc = "LEON装备栏第三格N 插头"
+cheat168_handler = "0"
+cheat168_code = "300CCB70#55"
+
+cheat169_desc = "LEON装备栏第三格电线"
+cheat169_handler = "0"
+cheat169_code = "300CCB70#56"
+
+cheat170_desc = "LEON装备栏第三格相片"
+cheat170_handler = "0"
+cheat170_code = "300CCB70#57"
+
+cheat171_desc = "LEON装备栏第三格小屋锁匙"
+cheat171_handler = "0"
+cheat171_code = "300CCB70#58"
+
+cheat172_desc = "LEON装备栏第三格葵扇锁匙"
+cheat172_handler = "0"
+cheat172_code = "300CCB70#59"
+
+cheat173_desc = "LEON装备栏第三格钻石锁匙"
+cheat173_handler = "0"
+cheat173_code = "300CCB70#5A"
+
+cheat174_desc = "LEON装备栏第三格红心锁匙"
+cheat174_handler = "0"
+cheat174_code = "300CCB70#5B"
+
+cheat175_desc = "LEON装备栏第三格梅花锁匙"
+cheat175_handler = "0"
+cheat175_code = "300CCB70#5C"
+
+cheat176_desc = "LEON装备栏第三格工场锁匙{D}"
+cheat176_handler = "0"
+cheat176_code = "300CCB70#5D"
+
+cheat177_desc = "LEON装备栏第三格工场锁匙{C}"
+cheat177_handler = "0"
+cheat177_code = "300CCB70#5E"
+
+cheat178_desc = "LEON装备栏第三格动力室锁匙"
+cheat178_handler = "0"
+cheat178_code = "300CCB70#5F"
+
+cheat179_desc = "LEON装备栏第三格MO"
+cheat179_handler = "0"
+cheat179_code = "300CCB70#60"
+
+cheat180_desc = "LEON装备栏第三格实验室锁匙卡"
+cheat180_handler = "0"
+cheat180_code = "300CCB70#61"
+
+cheat181_desc = "LEON装备栏第三格MASTER KEY"
+cheat181_handler = "0"
+cheat181_code = "300CCB70#62"
+
+cheat182_desc = "LEON装备栏第三格月台锁匙"
+cheat182_handler = "0"
+cheat182_code = "300CCB70#63"
+
+cheat183_desc = "LEON装备栏第四格手枪子弹"
+cheat183_handler = "0"
+cheat183_code = "800CCB74#FF14"
+
+cheat184_desc = "LEON装备栏第四格散弹枪子弹"
+cheat184_handler = "0"
+cheat184_code = "800CCB74#FF15"
+
+cheat185_desc = "LEON装备栏第四格密林子弹"
+cheat185_handler = "0"
+cheat185_code = "800CCB74#FF16"
+
+cheat186_desc = "LEON装备栏第四格燃料"
+cheat186_handler = "0"
+cheat186_code = "800CCB74#FF17"
+
+cheat187_desc = "LEON装备栏第四格榴弹"
+cheat187_handler = "0"
+cheat187_code = "800CCB74#FF18"
+
+cheat188_desc = "LEON装备栏第四格燃烧弹"
+cheat188_handler = "0"
+cheat188_code = "800CCB74#FF19"
+
+cheat189_desc = "LEON装备栏第四格硫酸弹"
+cheat189_handler = "0"
+cheat189_code = "800CCB74#FF1A"
+
+cheat190_desc = "LEON装备栏第四格半自动机关枪子弹"
+cheat190_handler = "0"
+cheat190_code = "800CCB74#FF1B"
+
+cheat191_desc = "LEON装备栏第四格小型锁匙"
+cheat191_handler = "0"
+cheat191_code = "300CCB74#1F"
+
+cheat192_desc = "LEON装备栏第四格手枪强化部件"
+cheat192_handler = "0"
+cheat192_code = "300CCB74#20"
+
+cheat193_desc = "LEON装备栏第四格密林强化部件"
+cheat193_handler = "0"
+cheat193_code = "300CCB74#21"
+
+cheat194_desc = "LEON装备栏第四格散弹枪强化部件"
+cheat194_handler = "0"
+cheat194_code = "300CCB74#22"
+
+cheat195_desc = "LEON装备栏第四格急救喷雾"
+cheat195_handler = "0"
+cheat195_code = "300CCB74#23"
+
+cheat196_desc = "LEON装备栏第四格药品FR-W09"
+cheat196_handler = "0"
+cheat196_code = "300CCB74#24"
+
+cheat197_desc = "LEON装备栏第四格药品AC-W24"
+cheat197_handler = "0"
+cheat197_code = "300CCB74#25"
+
+cheat198_desc = "LEON装备栏第四格绿色药草"
+cheat198_handler = "0"
+cheat198_code = "300CCB74#26"
+
+cheat199_desc = "LEON装备栏第四格红色药草"
+cheat199_handler = "0"
+cheat199_code = "300CCB74#27"
+
+cheat200_desc = "LEON装备栏第四格蓝色药草"
+cheat200_handler = "0"
+cheat200_code = "300CCB74#28"
+
+cheat201_desc = "LEON装备栏第四格绿+绿（混合药草）"
+cheat201_handler = "0"
+cheat201_code = "300CCB74#29"
+
+cheat202_desc = "LEON装备栏第四格绿+红（混合药草）"
+cheat202_handler = "0"
+cheat202_code = "300CCB74#2A"
+
+cheat203_desc = "LEON装备栏第四格绿+蓝（混合药草）"
+cheat203_handler = "0"
+cheat203_code = "300CCB74#2B"
+
+cheat204_desc = "LEON装备栏第四格绿+绿+绿（混合药草）"
+cheat204_handler = "0"
+cheat204_code = "300CCB74#2C"
+
+cheat205_desc = "LEON装备栏第四格绿+绿+蓝（混合药草）"
+cheat205_handler = "0"
+cheat205_code = "300CCB74#2D"
+
+cheat206_desc = "LEON装备栏第四格绿+红+蓝（混合药草）"
+cheat206_handler = "0"
+cheat206_code = "300CCB74#2E"
+
+cheat207_desc = "LEON装备栏第四格相片"
+cheat207_handler = "0"
+cheat207_code = "300CCB74#31"
+
+cheat208_desc = "LEON装备栏第四格六角把手"
+cheat208_handler = "0"
+cheat208_code = "300CCB74#32"
+
+cheat209_desc = "LEON装备栏第四格红色宝石"
+cheat209_handler = "0"
+cheat209_code = "300CCB74#33"
+
+cheat210_desc = "LEON装备栏第四格红色匙卡"
+cheat210_handler = "0"
+cheat210_code = "300CCB74#34"
+
+cheat211_desc = "LEON装备栏第四格蓝色匙卡"
+cheat211_handler = "0"
+cheat211_code = "300CCB74#35"
+
+cheat212_desc = "LEON装备栏第四格水蛇之石"
+cheat212_handler = "0"
+cheat212_code = "300CCB74#36"
+
+cheat213_desc = "LEON装备栏第四格豹之石"
+cheat213_handler = "0"
+cheat213_code = "300CCB74#37"
+
+cheat214_desc = "LEON装备栏第四格蓝之石（左）"
+cheat214_handler = "0"
+cheat214_code = "300CCB74#38"
+
+cheat215_desc = "LEON装备栏第四格蓝之石（右）"
+cheat215_handler = "0"
+cheat215_code = "300CCB74#39"
+
+cheat216_desc = "LEON装备栏第四格飞鹰之石"
+cheat216_handler = "0"
+cheat216_code = "300CCB74#3A"
+
+cheat217_desc = "LEON装备栏第四格象BISHOP"
+cheat217_handler = "0"
+cheat217_code = "300CCB74#3B"
+
+cheat218_desc = "LEON装备栏第四格车ROOK"
+cheat218_handler = "0"
+cheat218_code = "300CCB74#3C"
+
+cheat219_desc = "LEON装备栏第四格马KNIGHT"
+cheat219_handler = "0"
+cheat219_code = "300CCB74#3D"
+
+cheat220_desc = "LEON装备栏第四格国王KING"
+cheat220_handler = "0"
+cheat220_code = "300CCB74#3E"
+
+cheat221_desc = "LEON装备栏第四格武器箱锁匙"
+cheat221_handler = "0"
+cheat221_code = "300CCB74#3F"
+
+cheat222_desc = "LEON装备栏第四格信管"
+cheat222_handler = "0"
+cheat222_code = "300CCB74#40"
+
+cheat223_desc = "LEON装备栏第四格塑胶炸弹"
+cheat223_handler = "0"
+cheat223_code = "300CCB74#41"
+
+cheat224_desc = "LEON装备栏第四格信管+塑胶炸弹"
+cheat224_handler = "0"
+cheat224_code = "300CCB74#42"
+
+cheat225_desc = "LEON装备栏第四格四角把手"
+cheat225_handler = "0"
+cheat225_code = "300CCB74#43"
+
+cheat226_desc = "LEON装备栏第四格菲林"
+cheat226_handler = "0"
+cheat226_code = "300CCB74#44"
+
+cheat227_desc = "LEON装备栏第四格菲林2"
+cheat227_handler = "0"
+cheat227_code = "300CCB74#45"
+
+cheat228_desc = "LEON装备栏第四格菲林3"
+cheat228_handler = "0"
+cheat228_code = "300CCB74#46"
+
+cheat229_desc = "LEON装备栏第四格独角兽之金币"
+cheat229_handler = "0"
+cheat229_code = "300CCB74#47"
+
+cheat230_desc = "LEON装备栏第四格鹭之金币"
+cheat230_handler = "0"
+cheat230_code = "300CCB74#48"
+
+cheat231_desc = "LEON装备栏第四格狼之金币"
+cheat231_handler = "0"
+cheat231_code = "300CCB74#49"
+
+cheat232_desc = "LEON装备栏第四格金色齿轮"
+cheat232_handler = "0"
+cheat232_code = "300CCB74#4A"
+
+cheat233_desc = "LEON装备栏第四格下水道开盖器"
+cheat233_handler = "0"
+cheat233_code = "300CCB74#4B"
+
+cheat234_desc = "LEON装备栏第四格合成灰士"
+cheat234_handler = "0"
+cheat234_code = "300CCB74#4C"
+
+cheat235_desc = "LEON装备栏第四格灰士"
+cheat235_handler = "0"
+cheat235_code = "300CCB74#4D"
+
+cheat236_desc = "LEON装备栏第四格疫苗"
+cheat236_handler = "0"
+cheat236_code = "300CCB74#4E"
+
+cheat237_desc = "LEON装备栏第四格疫苗盒"
+cheat237_handler = "0"
+cheat237_code = "300CCB74#4F"
+
+cheat238_desc = "LEON装备栏第四格菲林4"
+cheat238_handler = "0"
+cheat238_code = "300CCB74#50"
+
+cheat239_desc = "LEON装备栏第四格疫苗样本"
+cheat239_handler = "0"
+cheat239_code = "300CCB74#51"
+
+cheat240_desc = "LEON装备栏第四格G-细菌"
+cheat240_handler = "0"
+cheat240_code = "300CCB74#52"
+
+cheat241_desc = "LEON装备栏第四格换衫锁匙"
+cheat241_handler = "0"
+cheat241_code = "300CCB74#53"
+
+cheat242_desc = "LEON装备栏第四格S 插头"
+cheat242_handler = "0"
+cheat242_code = "300CCB74#54"
+
+cheat243_desc = "LEON装备栏第四格N 插头"
+cheat243_handler = "0"
+cheat243_code = "300CCB74#55"
+
+cheat244_desc = "LEON装备栏第四格电线"
+cheat244_handler = "0"
+cheat244_code = "300CCB74#56"
+
+cheat245_desc = "LEON装备栏第四格相片"
+cheat245_handler = "0"
+cheat245_code = "300CCB74#57"
+
+cheat246_desc = "LEON装备栏第四格小屋锁匙"
+cheat246_handler = "0"
+cheat246_code = "300CCB74#58"
+
+cheat247_desc = "LEON装备栏第四格葵扇锁匙"
+cheat247_handler = "0"
+cheat247_code = "300CCB74#59"
+
+cheat248_desc = "LEON装备栏第四格钻石锁匙"
+cheat248_handler = "0"
+cheat248_code = "300CCB74#5A"
+
+cheat249_desc = "LEON装备栏第四格红心锁匙"
+cheat249_handler = "0"
+cheat249_code = "300CCB74#5B"
+
+cheat250_desc = "LEON装备栏第四格梅花锁匙"
+cheat250_handler = "0"
+cheat250_code = "300CCB74#5C"
+
+cheat251_desc = "LEON装备栏第四格工场锁匙{D}"
+cheat251_handler = "0"
+cheat251_code = "300CCB74#5D"
+
+cheat252_desc = "LEON装备栏第四格工场锁匙{C}"
+cheat252_handler = "0"
+cheat252_code = "300CCB74#5E"
+
+cheat253_desc = "LEON装备栏第四格动力室锁匙"
+cheat253_handler = "0"
+cheat253_code = "300CCB74#5F"
+
+cheat254_desc = "LEON装备栏第四格MO"
+cheat254_handler = "0"
+cheat254_code = "300CCB74#60"
+
+cheat255_desc = "LEON装备栏第四格实验室锁匙卡"
+cheat255_handler = "0"
+cheat255_code = "300CCB74#61"
+
+cheat256_desc = "LEON装备栏第四格MASTER KEY"
+cheat256_handler = "0"
+cheat256_code = "300CCB74#62"
+
+cheat257_desc = "LEON装备栏第四格月台锁匙"
+cheat257_handler = "0"
+cheat257_code = "300CCB74#63"
+
+cheat258_desc = "LEON装备栏第五格手枪子弹"
+cheat258_handler = "0"
+cheat258_code = "800CCB78#FF14"
+
+cheat259_desc = "LEON装备栏第五格散弹枪子弹"
+cheat259_handler = "0"
+cheat259_code = "800CCB78#FF15"
+
+cheat260_desc = "LEON装备栏第五格密林子弹"
+cheat260_handler = "0"
+cheat260_code = "800CCB78#FF16"
+
+cheat261_desc = "LEON装备栏第五格燃料"
+cheat261_handler = "0"
+cheat261_code = "800CCB78#FF17"
+
+cheat262_desc = "LEON装备栏第五格榴弹"
+cheat262_handler = "0"
+cheat262_code = "800CCB78#FF18"
+
+cheat263_desc = "LEON装备栏第五格燃烧弹"
+cheat263_handler = "0"
+cheat263_code = "800CCB78#FF19"
+
+cheat264_desc = "LEON装备栏第五格硫酸弹"
+cheat264_handler = "0"
+cheat264_code = "800CCB78#FF1A"
+
+cheat265_desc = "LEON装备栏第五格半自动机关枪子弹"
+cheat265_handler = "0"
+cheat265_code = "800CCB78#FF1B"
+
+cheat266_desc = "LEON装备栏第五格小型锁匙"
+cheat266_handler = "0"
+cheat266_code = "300CCB78#1F"
+
+cheat267_desc = "LEON装备栏第五格手枪强化部件"
+cheat267_handler = "0"
+cheat267_code = "300CCB78#20"
+
+cheat268_desc = "LEON装备栏第五格密林强化部件"
+cheat268_handler = "0"
+cheat268_code = "300CCB78#21"
+
+cheat269_desc = "LEON装备栏第五格散弹枪强化部件"
+cheat269_handler = "0"
+cheat269_code = "300CCB78#22"
+
+cheat270_desc = "LEON装备栏第五格急救喷雾"
+cheat270_handler = "0"
+cheat270_code = "300CCB78#23"
+
+cheat271_desc = "LEON装备栏第五格药品FR-W09"
+cheat271_handler = "0"
+cheat271_code = "300CCB78#24"
+
+cheat272_desc = "LEON装备栏第五格药品AC-W24"
+cheat272_handler = "0"
+cheat272_code = "300CCB78#25"
+
+cheat273_desc = "LEON装备栏第五格绿色药草"
+cheat273_handler = "0"
+cheat273_code = "300CCB78#26"
+
+cheat274_desc = "LEON装备栏第五格红色药草"
+cheat274_handler = "0"
+cheat274_code = "300CCB78#27"
+
+cheat275_desc = "LEON装备栏第五格蓝色药草"
+cheat275_handler = "0"
+cheat275_code = "300CCB78#28"
+
+cheat276_desc = "LEON装备栏第五格绿+绿（混合药草）"
+cheat276_handler = "0"
+cheat276_code = "300CCB78#29"
+
+cheat277_desc = "LEON装备栏第五格绿+红（混合药草）"
+cheat277_handler = "0"
+cheat277_code = "300CCB78#2A"
+
+cheat278_desc = "LEON装备栏第五格绿+蓝（混合药草）"
+cheat278_handler = "0"
+cheat278_code = "300CCB78#2B"
+
+cheat279_desc = "LEON装备栏第五格绿+绿+绿（混合药草）"
+cheat279_handler = "0"
+cheat279_code = "300CCB78#2C"
+
+cheat280_desc = "LEON装备栏第五格绿+绿+蓝（混合药草）"
+cheat280_handler = "0"
+cheat280_code = "300CCB78#2D"
+
+cheat281_desc = "LEON装备栏第五格绿+红+蓝（混合药草）"
+cheat281_handler = "0"
+cheat281_code = "300CCB78#2E"
+
+cheat282_desc = "LEON装备栏第五格相片"
+cheat282_handler = "0"
+cheat282_code = "300CCB78#31"
+
+cheat283_desc = "LEON装备栏第五格六角把手"
+cheat283_handler = "0"
+cheat283_code = "300CCB78#32"
+
+cheat284_desc = "LEON装备栏第五格红色宝石"
+cheat284_handler = "0"
+cheat284_code = "300CCB78#33"
+
+cheat285_desc = "LEON装备栏第五格红色匙卡"
+cheat285_handler = "0"
+cheat285_code = "300CCB78#34"
+
+cheat286_desc = "LEON装备栏第五格蓝色匙卡"
+cheat286_handler = "0"
+cheat286_code = "300CCB78#35"
+
+cheat287_desc = "LEON装备栏第五格水蛇之石"
+cheat287_handler = "0"
+cheat287_code = "300CCB78#36"
+
+cheat288_desc = "LEON装备栏第五格豹之石"
+cheat288_handler = "0"
+cheat288_code = "300CCB78#37"
+
+cheat289_desc = "LEON装备栏第五格蓝之石（左）"
+cheat289_handler = "0"
+cheat289_code = "300CCB78#38"
+
+cheat290_desc = "LEON装备栏第五格蓝之石（右）"
+cheat290_handler = "0"
+cheat290_code = "300CCB78#39"
+
+cheat291_desc = "LEON装备栏第五格飞鹰之石"
+cheat291_handler = "0"
+cheat291_code = "300CCB78#3A"
+
+cheat292_desc = "LEON装备栏第五格象BISHOP"
+cheat292_handler = "0"
+cheat292_code = "300CCB78#3B"
+
+cheat293_desc = "LEON装备栏第五格车ROOK"
+cheat293_handler = "0"
+cheat293_code = "300CCB78#3C"
+
+cheat294_desc = "LEON装备栏第五格马KNIGHT"
+cheat294_handler = "0"
+cheat294_code = "300CCB78#3D"
+
+cheat295_desc = "LEON装备栏第五格国王KING"
+cheat295_handler = "0"
+cheat295_code = "300CCB78#3E"
+
+cheat296_desc = "LEON装备栏第五格武器箱锁匙"
+cheat296_handler = "0"
+cheat296_code = "300CCB78#3F"
+
+cheat297_desc = "LEON装备栏第五格信管"
+cheat297_handler = "0"
+cheat297_code = "300CCB78#40"
+
+cheat298_desc = "LEON装备栏第五格塑胶炸弹"
+cheat298_handler = "0"
+cheat298_code = "300CCB78#41"
+
+cheat299_desc = "LEON装备栏第五格信管+塑胶炸弹"
+cheat299_handler = "0"
+cheat299_code = "300CCB78#42"
+
+cheat300_desc = "LEON装备栏第五格四角把手"
+cheat300_handler = "0"
+cheat300_code = "300CCB78#43"
+
+cheat301_desc = "LEON装备栏第五格菲林"
+cheat301_handler = "0"
+cheat301_code = "300CCB78#44"
+
+cheat302_desc = "LEON装备栏第五格菲林2"
+cheat302_handler = "0"
+cheat302_code = "300CCB78#45"
+
+cheat303_desc = "LEON装备栏第五格菲林3"
+cheat303_handler = "0"
+cheat303_code = "300CCB78#46"
+
+cheat304_desc = "LEON装备栏第五格独角兽之金币"
+cheat304_handler = "0"
+cheat304_code = "300CCB78#47"
+
+cheat305_desc = "LEON装备栏第五格鹭之金币"
+cheat305_handler = "0"
+cheat305_code = "300CCB78#48"
+
+cheat306_desc = "LEON装备栏第五格狼之金币"
+cheat306_handler = "0"
+cheat306_code = "300CCB78#49"
+
+cheat307_desc = "LEON装备栏第五格金色齿轮"
+cheat307_handler = "0"
+cheat307_code = "300CCB78#4A"
+
+cheat308_desc = "LEON装备栏第五格下水道开盖器"
+cheat308_handler = "0"
+cheat308_code = "300CCB78#4B"
+
+cheat309_desc = "LEON装备栏第五格合成灰士"
+cheat309_handler = "0"
+cheat309_code = "300CCB78#4C"
+
+cheat310_desc = "LEON装备栏第五格灰士"
+cheat310_handler = "0"
+cheat310_code = "300CCB78#4D"
+
+cheat311_desc = "LEON装备栏第五格疫苗"
+cheat311_handler = "0"
+cheat311_code = "300CCB78#4E"
+
+cheat312_desc = "LEON装备栏第五格疫苗盒"
+cheat312_handler = "0"
+cheat312_code = "300CCB78#4F"
+
+cheat313_desc = "LEON装备栏第五格菲林4"
+cheat313_handler = "0"
+cheat313_code = "300CCB78#50"
+
+cheat314_desc = "LEON装备栏第五格疫苗样本"
+cheat314_handler = "0"
+cheat314_code = "300CCB78#51"
+
+cheat315_desc = "LEON装备栏第五格G-细菌"
+cheat315_handler = "0"
+cheat315_code = "300CCB78#52"
+
+cheat316_desc = "LEON装备栏第五格换衫锁匙"
+cheat316_handler = "0"
+cheat316_code = "300CCB78#53"
+
+cheat317_desc = "LEON装备栏第五格S 插头"
+cheat317_handler = "0"
+cheat317_code = "300CCB78#54"
+
+cheat318_desc = "LEON装备栏第五格N 插头"
+cheat318_handler = "0"
+cheat318_code = "300CCB78#55"
+
+cheat319_desc = "LEON装备栏第五格电线"
+cheat319_handler = "0"
+cheat319_code = "300CCB78#56"
+
+cheat320_desc = "LEON装备栏第五格相片"
+cheat320_handler = "0"
+cheat320_code = "300CCB78#57"
+
+cheat321_desc = "LEON装备栏第五格小屋锁匙"
+cheat321_handler = "0"
+cheat321_code = "300CCB78#58"
+
+cheat322_desc = "LEON装备栏第五格葵扇锁匙"
+cheat322_handler = "0"
+cheat322_code = "300CCB78#59"
+
+cheat323_desc = "LEON装备栏第五格钻石锁匙"
+cheat323_handler = "0"
+cheat323_code = "300CCB78#5A"
+
+cheat324_desc = "LEON装备栏第五格红心锁匙"
+cheat324_handler = "0"
+cheat324_code = "300CCB78#5B"
+
+cheat325_desc = "LEON装备栏第五格梅花锁匙"
+cheat325_handler = "0"
+cheat325_code = "300CCB78#5C"
+
+cheat326_desc = "LEON装备栏第五格工场锁匙{D}"
+cheat326_handler = "0"
+cheat326_code = "300CCB78#5D"
+
+cheat327_desc = "LEON装备栏第五格工场锁匙{C}"
+cheat327_handler = "0"
+cheat327_code = "300CCB78#5E"
+
+cheat328_desc = "LEON装备栏第五格动力室锁匙"
+cheat328_handler = "0"
+cheat328_code = "300CCB78#5F"
+
+cheat329_desc = "LEON装备栏第五格MO"
+cheat329_handler = "0"
+cheat329_code = "300CCB78#60"
+
+cheat330_desc = "LEON装备栏第五格实验室锁匙卡"
+cheat330_handler = "0"
+cheat330_code = "300CCB78#61"
+
+cheat331_desc = "LEON装备栏第五格MASTER KEY"
+cheat331_handler = "0"
+cheat331_code = "300CCB78#62"
+
+cheat332_desc = "LEON装备栏第五格月台锁匙"
+cheat332_handler = "0"
+cheat332_code = "300CCB78#63"
+
+cheat333_desc = "LEON装备栏第六格手枪子弹"
+cheat333_handler = "0"
+cheat333_code = "800CCB7C#FF14"
+
+cheat334_desc = "LEON装备栏第六格散弹枪子弹"
+cheat334_handler = "0"
+cheat334_code = "800CCB7C#FF15"
+
+cheat335_desc = "LEON装备栏第六格密林子弹"
+cheat335_handler = "0"
+cheat335_code = "800CCB7C#FF16"
+
+cheat336_desc = "LEON装备栏第六格燃料"
+cheat336_handler = "0"
+cheat336_code = "800CCB7C#FF17"
+
+cheat337_desc = "LEON装备栏第六格榴弹"
+cheat337_handler = "0"
+cheat337_code = "800CCB7C#FF18"
+
+cheat338_desc = "LEON装备栏第六格燃烧弹"
+cheat338_handler = "0"
+cheat338_code = "800CCB7C#FF19"
+
+cheat339_desc = "LEON装备栏第六格硫酸弹"
+cheat339_handler = "0"
+cheat339_code = "800CCB7C#FF1A"
+
+cheat340_desc = "LEON装备栏第六格半自动机关枪子弹"
+cheat340_handler = "0"
+cheat340_code = "800CCB7C#FF1B"
+
+cheat341_desc = "LEON装备栏第六格小型锁匙"
+cheat341_handler = "0"
+cheat341_code = "300CCB7C#1F"
+
+cheat342_desc = "LEON装备栏第六格手枪强化部件"
+cheat342_handler = "0"
+cheat342_code = "300CCB7C#20"
+
+cheat343_desc = "LEON装备栏第六格密林强化部件"
+cheat343_handler = "0"
+cheat343_code = "300CCB7C#21"
+
+cheat344_desc = "LEON装备栏第六格散弹枪强化部件"
+cheat344_handler = "0"
+cheat344_code = "300CCB7C#22"
+
+cheat345_desc = "LEON装备栏第六格急救喷雾"
+cheat345_handler = "0"
+cheat345_code = "300CCB7C#23"
+
+cheat346_desc = "LEON装备栏第六格药品FR-W09"
+cheat346_handler = "0"
+cheat346_code = "300CCB7C#24"
+
+cheat347_desc = "LEON装备栏第六格药品AC-W24"
+cheat347_handler = "0"
+cheat347_code = "300CCB7C#25"
+
+cheat348_desc = "LEON装备栏第六格绿色药草"
+cheat348_handler = "0"
+cheat348_code = "300CCB7C#26"
+
+cheat349_desc = "LEON装备栏第六格红色药草"
+cheat349_handler = "0"
+cheat349_code = "300CCB7C#27"
+
+cheat350_desc = "LEON装备栏第六格蓝色药草"
+cheat350_handler = "0"
+cheat350_code = "300CCB7C#28"
+
+cheat351_desc = "LEON装备栏第六格绿+绿（混合药草）"
+cheat351_handler = "0"
+cheat351_code = "300CCB7C#29"
+
+cheat352_desc = "LEON装备栏第六格绿+红（混合药草）"
+cheat352_handler = "0"
+cheat352_code = "300CCB7C#2A"
+
+cheat353_desc = "LEON装备栏第六格绿+蓝（混合药草）"
+cheat353_handler = "0"
+cheat353_code = "300CCB7C#2B"
+
+cheat354_desc = "LEON装备栏第六格绿+绿+绿（混合药草）"
+cheat354_handler = "0"
+cheat354_code = "300CCB7C#2C"
+
+cheat355_desc = "LEON装备栏第六格绿+绿+蓝（混合药草）"
+cheat355_handler = "0"
+cheat355_code = "300CCB7C#2D"
+
+cheat356_desc = "LEON装备栏第六格绿+红+蓝（混合药草）"
+cheat356_handler = "0"
+cheat356_code = "300CCB7C#2E"
+
+cheat357_desc = "LEON装备栏第六格相片"
+cheat357_handler = "0"
+cheat357_code = "300CCB7C#31"
+
+cheat358_desc = "LEON装备栏第六格六角把手"
+cheat358_handler = "0"
+cheat358_code = "300CCB7C#32"
+
+cheat359_desc = "LEON装备栏第六格红色宝石"
+cheat359_handler = "0"
+cheat359_code = "300CCB7C#33"
+
+cheat360_desc = "LEON装备栏第六格红色匙卡"
+cheat360_handler = "0"
+cheat360_code = "300CCB7C#34"
+
+cheat361_desc = "LEON装备栏第六格蓝色匙卡"
+cheat361_handler = "0"
+cheat361_code = "300CCB7C#35"
+
+cheat362_desc = "LEON装备栏第六格水蛇之石"
+cheat362_handler = "0"
+cheat362_code = "300CCB7C#36"
+
+cheat363_desc = "LEON装备栏第六格豹之石"
+cheat363_handler = "0"
+cheat363_code = "300CCB7C#37"
+
+cheat364_desc = "LEON装备栏第六格蓝之石（左）"
+cheat364_handler = "0"
+cheat364_code = "300CCB7C#38"
+
+cheat365_desc = "LEON装备栏第六格蓝之石（右）"
+cheat365_handler = "0"
+cheat365_code = "300CCB7C#39"
+
+cheat366_desc = "LEON装备栏第六格飞鹰之石"
+cheat366_handler = "0"
+cheat366_code = "300CCB7C#3A"
+
+cheat367_desc = "LEON装备栏第六格象BISHOP"
+cheat367_handler = "0"
+cheat367_code = "300CCB7C#3B"
+
+cheat368_desc = "LEON装备栏第六格车ROOK"
+cheat368_handler = "0"
+cheat368_code = "300CCB7C#3C"
+
+cheat369_desc = "LEON装备栏第六格马KNIGHT"
+cheat369_handler = "0"
+cheat369_code = "300CCB7C#3D"
+
+cheat370_desc = "LEON装备栏第六格国王KING"
+cheat370_handler = "0"
+cheat370_code = "300CCB7C#3E"
+
+cheat371_desc = "LEON装备栏第六格武器箱锁匙"
+cheat371_handler = "0"
+cheat371_code = "300CCB7C#3F"
+
+cheat372_desc = "LEON装备栏第六格信管"
+cheat372_handler = "0"
+cheat372_code = "300CCB7C#40"
+
+cheat373_desc = "LEON装备栏第六格塑胶炸弹"
+cheat373_handler = "0"
+cheat373_code = "300CCB7C#41"
+
+cheat374_desc = "LEON装备栏第六格信管+塑胶炸弹"
+cheat374_handler = "0"
+cheat374_code = "300CCB7C#42"
+
+cheat375_desc = "LEON装备栏第六格四角把手"
+cheat375_handler = "0"
+cheat375_code = "300CCB7C#43"
+
+cheat376_desc = "LEON装备栏第六格菲林"
+cheat376_handler = "0"
+cheat376_code = "300CCB7C#44"
+
+cheat377_desc = "LEON装备栏第六格菲林2"
+cheat377_handler = "0"
+cheat377_code = "300CCB7C#45"
+
+cheat378_desc = "LEON装备栏第六格菲林3"
+cheat378_handler = "0"
+cheat378_code = "300CCB7C#46"
+
+cheat379_desc = "LEON装备栏第六格独角兽之金币"
+cheat379_handler = "0"
+cheat379_code = "300CCB7C#47"
+
+cheat380_desc = "LEON装备栏第六格鹭之金币"
+cheat380_handler = "0"
+cheat380_code = "300CCB7C#48"
+
+cheat381_desc = "LEON装备栏第六格狼之金币"
+cheat381_handler = "0"
+cheat381_code = "300CCB7C#49"
+
+cheat382_desc = "LEON装备栏第六格金色齿轮"
+cheat382_handler = "0"
+cheat382_code = "300CCB7C#4A"
+
+cheat383_desc = "LEON装备栏第六格下水道开盖器"
+cheat383_handler = "0"
+cheat383_code = "300CCB7C#4B"
+
+cheat384_desc = "LEON装备栏第六格合成灰士"
+cheat384_handler = "0"
+cheat384_code = "300CCB7C#4C"
+
+cheat385_desc = "LEON装备栏第六格灰士"
+cheat385_handler = "0"
+cheat385_code = "300CCB7C#4D"
+
+cheat386_desc = "LEON装备栏第六格疫苗"
+cheat386_handler = "0"
+cheat386_code = "300CCB7C#4E"
+
+cheat387_desc = "LEON装备栏第六格疫苗盒"
+cheat387_handler = "0"
+cheat387_code = "300CCB7C#4F"
+
+cheat388_desc = "LEON装备栏第六格菲林4"
+cheat388_handler = "0"
+cheat388_code = "300CCB7C#50"
+
+cheat389_desc = "LEON装备栏第六格疫苗样本"
+cheat389_handler = "0"
+cheat389_code = "300CCB7C#51"
+
+cheat390_desc = "LEON装备栏第六格G-细菌"
+cheat390_handler = "0"
+cheat390_code = "300CCB7C#52"
+
+cheat391_desc = "LEON装备栏第六格换衫锁匙"
+cheat391_handler = "0"
+cheat391_code = "300CCB7C#53"
+
+cheat392_desc = "LEON装备栏第六格S 插头"
+cheat392_handler = "0"
+cheat392_code = "300CCB7C#54"
+
+cheat393_desc = "LEON装备栏第六格N 插头"
+cheat393_handler = "0"
+cheat393_code = "300CCB7C#55"
+
+cheat394_desc = "LEON装备栏第六格电线"
+cheat394_handler = "0"
+cheat394_code = "300CCB7C#56"
+
+cheat395_desc = "LEON装备栏第六格相片"
+cheat395_handler = "0"
+cheat395_code = "300CCB7C#57"
+
+cheat396_desc = "LEON装备栏第六格小屋锁匙"
+cheat396_handler = "0"
+cheat396_code = "300CCB7C#58"
+
+cheat397_desc = "LEON装备栏第六格葵扇锁匙"
+cheat397_handler = "0"
+cheat397_code = "300CCB7C#59"
+
+cheat398_desc = "LEON装备栏第六格钻石锁匙"
+cheat398_handler = "0"
+cheat398_code = "300CCB7C#5A"
+
+cheat399_desc = "LEON装备栏第六格红心锁匙"
+cheat399_handler = "0"
+cheat399_code = "300CCB7C#5B"
+
+cheat400_desc = "LEON装备栏第六格梅花锁匙"
+cheat400_handler = "0"
+cheat400_code = "300CCB7C#5C"
+
+cheat401_desc = "LEON装备栏第六格工场锁匙{D}"
+cheat401_handler = "0"
+cheat401_code = "300CCB7C#5D"
+
+cheat402_desc = "LEON装备栏第六格工场锁匙{C}"
+cheat402_handler = "0"
+cheat402_code = "300CCB7C#5E"
+
+cheat403_desc = "LEON装备栏第六格动力室锁匙"
+cheat403_handler = "0"
+cheat403_code = "300CCB7C#5F"
+
+cheat404_desc = "LEON装备栏第六格MO"
+cheat404_handler = "0"
+cheat404_code = "300CCB7C#60"
+
+cheat405_desc = "LEON装备栏第六格实验室锁匙卡"
+cheat405_handler = "0"
+cheat405_code = "300CCB7C#61"
+
+cheat406_desc = "LEON装备栏第六格MASTER KEY"
+cheat406_handler = "0"
+cheat406_code = "300CCB7C#62"
+
+cheat407_desc = "LEON装备栏第六格月台锁匙"
+cheat407_handler = "0"
+cheat407_code = "300CCB7C#63"
+
+cheat408_desc = "LEON装备栏第七格手枪子弹"
+cheat408_handler = "0"
+cheat408_code = "800CCB80#FF14"
+
+cheat409_desc = "LEON装备栏第七格散弹枪子弹"
+cheat409_handler = "0"
+cheat409_code = "800CCB80#FF15"
+
+cheat410_desc = "LEON装备栏第七格密林子弹"
+cheat410_handler = "0"
+cheat410_code = "800CCB80#FF16"
+
+cheat411_desc = "LEON装备栏第七格燃料"
+cheat411_handler = "0"
+cheat411_code = "800CCB80#FF17"
+
+cheat412_desc = "LEON装备栏第七格榴弹"
+cheat412_handler = "0"
+cheat412_code = "800CCB80#FF18"
+
+cheat413_desc = "LEON装备栏第七格燃烧弹"
+cheat413_handler = "0"
+cheat413_code = "800CCB80#FF19"
+
+cheat414_desc = "LEON装备栏第七格硫酸弹"
+cheat414_handler = "0"
+cheat414_code = "800CCB80#FF1A"
+
+cheat415_desc = "LEON装备栏第七格半自动机关枪子弹"
+cheat415_handler = "0"
+cheat415_code = "800CCB80#FF1B"
+
+cheat416_desc = "LEON装备栏第七格小型锁匙"
+cheat416_handler = "0"
+cheat416_code = "300CCB80#1F"
+
+cheat417_desc = "LEON装备栏第七格手枪强化部件"
+cheat417_handler = "0"
+cheat417_code = "300CCB80#20"
+
+cheat418_desc = "LEON装备栏第七格密林强化部件"
+cheat418_handler = "0"
+cheat418_code = "300CCB80#21"
+
+cheat419_desc = "LEON装备栏第七格散弹枪强化部件"
+cheat419_handler = "0"
+cheat419_code = "300CCB80#22"
+
+cheat420_desc = "LEON装备栏第七格急救喷雾"
+cheat420_handler = "0"
+cheat420_code = "300CCB80#23"
+
+cheat421_desc = "LEON装备栏第七格药品FR-W09"
+cheat421_handler = "0"
+cheat421_code = "300CCB80#24"
+
+cheat422_desc = "LEON装备栏第七格药品AC-W24"
+cheat422_handler = "0"
+cheat422_code = "300CCB80#25"
+
+cheat423_desc = "LEON装备栏第七格绿色药草"
+cheat423_handler = "0"
+cheat423_code = "300CCB80#26"
+
+cheat424_desc = "LEON装备栏第七格红色药草"
+cheat424_handler = "0"
+cheat424_code = "300CCB80#27"
+
+cheat425_desc = "LEON装备栏第七格蓝色药草"
+cheat425_handler = "0"
+cheat425_code = "300CCB80#28"
+
+cheat426_desc = "LEON装备栏第七格绿+绿（混合药草）"
+cheat426_handler = "0"
+cheat426_code = "300CCB80#29"
+
+cheat427_desc = "LEON装备栏第七格绿+红（混合药草）"
+cheat427_handler = "0"
+cheat427_code = "300CCB80#2A"
+
+cheat428_desc = "LEON装备栏第七格绿+蓝（混合药草）"
+cheat428_handler = "0"
+cheat428_code = "300CCB80#2B"
+
+cheat429_desc = "LEON装备栏第七格绿+绿+绿（混合药草）"
+cheat429_handler = "0"
+cheat429_code = "300CCB80#2C"
+
+cheat430_desc = "LEON装备栏第七格绿+绿+蓝（混合药草）"
+cheat430_handler = "0"
+cheat430_code = "300CCB80#2D"
+
+cheat431_desc = "LEON装备栏第七格绿+红+蓝（混合药草）"
+cheat431_handler = "0"
+cheat431_code = "300CCB80#2E"
+
+cheat432_desc = "LEON装备栏第七格相片"
+cheat432_handler = "0"
+cheat432_code = "300CCB80#31"
+
+cheat433_desc = "LEON装备栏第七格六角把手"
+cheat433_handler = "0"
+cheat433_code = "300CCB80#32"
+
+cheat434_desc = "LEON装备栏第七格红色宝石"
+cheat434_handler = "0"
+cheat434_code = "300CCB80#33"
+
+cheat435_desc = "LEON装备栏第七格红色匙卡"
+cheat435_handler = "0"
+cheat435_code = "300CCB80#34"
+
+cheat436_desc = "LEON装备栏第七格蓝色匙卡"
+cheat436_handler = "0"
+cheat436_code = "300CCB80#35"
+
+cheat437_desc = "LEON装备栏第七格水蛇之石"
+cheat437_handler = "0"
+cheat437_code = "300CCB80#36"
+
+cheat438_desc = "LEON装备栏第七格豹之石"
+cheat438_handler = "0"
+cheat438_code = "300CCB80#37"
+
+cheat439_desc = "LEON装备栏第七格蓝之石（左）"
+cheat439_handler = "0"
+cheat439_code = "300CCB80#38"
+
+cheat440_desc = "LEON装备栏第七格蓝之石（右）"
+cheat440_handler = "0"
+cheat440_code = "300CCB80#39"
+
+cheat441_desc = "LEON装备栏第七格飞鹰之石"
+cheat441_handler = "0"
+cheat441_code = "300CCB80#3A"
+
+cheat442_desc = "LEON装备栏第七格象BISHOP"
+cheat442_handler = "0"
+cheat442_code = "300CCB80#3B"
+
+cheat443_desc = "LEON装备栏第七格车ROOK"
+cheat443_handler = "0"
+cheat443_code = "300CCB80#3C"
+
+cheat444_desc = "LEON装备栏第七格马KNIGHT"
+cheat444_handler = "0"
+cheat444_code = "300CCB80#3D"
+
+cheat445_desc = "LEON装备栏第七格国王KING"
+cheat445_handler = "0"
+cheat445_code = "300CCB80#3E"
+
+cheat446_desc = "LEON装备栏第七格武器箱锁匙"
+cheat446_handler = "0"
+cheat446_code = "300CCB80#3F"
+
+cheat447_desc = "LEON装备栏第七格信管"
+cheat447_handler = "0"
+cheat447_code = "300CCB80#40"
+
+cheat448_desc = "LEON装备栏第七格塑胶炸弹"
+cheat448_handler = "0"
+cheat448_code = "300CCB80#41"
+
+cheat449_desc = "LEON装备栏第七格信管+塑胶炸弹"
+cheat449_handler = "0"
+cheat449_code = "300CCB80#42"
+
+cheat450_desc = "LEON装备栏第七格四角把手"
+cheat450_handler = "0"
+cheat450_code = "300CCB80#43"
+
+cheat451_desc = "LEON装备栏第七格菲林"
+cheat451_handler = "0"
+cheat451_code = "300CCB80#44"
+
+cheat452_desc = "LEON装备栏第七格菲林2"
+cheat452_handler = "0"
+cheat452_code = "300CCB80#45"
+
+cheat453_desc = "LEON装备栏第七格菲林3"
+cheat453_handler = "0"
+cheat453_code = "300CCB80#46"
+
+cheat454_desc = "LEON装备栏第七格独角兽之金币"
+cheat454_handler = "0"
+cheat454_code = "300CCB80#47"
+
+cheat455_desc = "LEON装备栏第七格鹭之金币"
+cheat455_handler = "0"
+cheat455_code = "300CCB80#48"
+
+cheat456_desc = "LEON装备栏第七格狼之金币"
+cheat456_handler = "0"
+cheat456_code = "300CCB80#49"
+
+cheat457_desc = "LEON装备栏第七格金色齿轮"
+cheat457_handler = "0"
+cheat457_code = "300CCB80#4A"
+
+cheat458_desc = "LEON装备栏第七格下水道开盖器"
+cheat458_handler = "0"
+cheat458_code = "300CCB80#4B"
+
+cheat459_desc = "LEON装备栏第七格合成灰士"
+cheat459_handler = "0"
+cheat459_code = "300CCB80#4C"
+
+cheat460_desc = "LEON装备栏第七格灰士"
+cheat460_handler = "0"
+cheat460_code = "300CCB80#4D"
+
+cheat461_desc = "LEON装备栏第七格疫苗"
+cheat461_handler = "0"
+cheat461_code = "300CCB80#4E"
+
+cheat462_desc = "LEON装备栏第七格疫苗盒"
+cheat462_handler = "0"
+cheat462_code = "300CCB80#4F"
+
+cheat463_desc = "LEON装备栏第七格菲林4"
+cheat463_handler = "0"
+cheat463_code = "300CCB80#50"
+
+cheat464_desc = "LEON装备栏第七格疫苗样本"
+cheat464_handler = "0"
+cheat464_code = "300CCB80#51"
+
+cheat465_desc = "LEON装备栏第七格G-细菌"
+cheat465_handler = "0"
+cheat465_code = "300CCB80#52"
+
+cheat466_desc = "LEON装备栏第七格换衫锁匙"
+cheat466_handler = "0"
+cheat466_code = "300CCB80#53"
+
+cheat467_desc = "LEON装备栏第七格S 插头"
+cheat467_handler = "0"
+cheat467_code = "300CCB80#54"
+
+cheat468_desc = "LEON装备栏第七格N 插头"
+cheat468_handler = "0"
+cheat468_code = "300CCB80#55"
+
+cheat469_desc = "LEON装备栏第七格电线"
+cheat469_handler = "0"
+cheat469_code = "300CCB80#56"
+
+cheat470_desc = "LEON装备栏第七格相片"
+cheat470_handler = "0"
+cheat470_code = "300CCB80#57"
+
+cheat471_desc = "LEON装备栏第七格小屋锁匙"
+cheat471_handler = "0"
+cheat471_code = "300CCB80#58"
+
+cheat472_desc = "LEON装备栏第七格葵扇锁匙"
+cheat472_handler = "0"
+cheat472_code = "300CCB80#59"
+
+cheat473_desc = "LEON装备栏第七格钻石锁匙"
+cheat473_handler = "0"
+cheat473_code = "300CCB80#5A"
+
+cheat474_desc = "LEON装备栏第七格红心锁匙"
+cheat474_handler = "0"
+cheat474_code = "300CCB80#5B"
+
+cheat475_desc = "LEON装备栏第七格梅花锁匙"
+cheat475_handler = "0"
+cheat475_code = "300CCB80#5C"
+
+cheat476_desc = "LEON装备栏第七格工场锁匙{D}"
+cheat476_handler = "0"
+cheat476_code = "300CCB80#5D"
+
+cheat477_desc = "LEON装备栏第七格工场锁匙{C}"
+cheat477_handler = "0"
+cheat477_code = "300CCB80#5E"
+
+cheat478_desc = "LEON装备栏第七格动力室锁匙"
+cheat478_handler = "0"
+cheat478_code = "300CCB80#5F"
+
+cheat479_desc = "LEON装备栏第七格MO"
+cheat479_handler = "0"
+cheat479_code = "300CCB80#60"
+
+cheat480_desc = "LEON装备栏第七格实验室锁匙卡"
+cheat480_handler = "0"
+cheat480_code = "300CCB80#61"
+
+cheat481_desc = "LEON装备栏第七格MASTER KEY"
+cheat481_handler = "0"
+cheat481_code = "300CCB80#62"
+
+cheat482_desc = "LEON装备栏第七格月台锁匙"
+cheat482_handler = "0"
+cheat482_code = "300CCB80#63"
+
+cheat483_desc = "LEON开启后备装备栏"
+cheat483_handler = "0"
+cheat483_code = "300CC9EC#01"
+
+cheat484_desc = "LEON从未存过档，从未吃过药"
+cheat484_handler = "0"
+cheat484_code = "800CC7EE#0000;800CC7F0#0000"
+
+cheat485_desc = "LEON直接进道具箱(按下"L2"+"□"键使用)"
+cheat485_handler = "0"
+cheat485_code = "D00C646C#0021,800CDC80#0001"
+
+cheat486_desc = "LEON随时随地可记忆(按下"L1"+"×"键使用)"
+cheat486_handler = "0"
+cheat486_code = "D00C646C#0044,900CC5C8#8004E5B0"
+
+cheat487_desc = "Ada不中毒"
+cheat487_handler = "0"
+cheat487_code = "800C7D2C#800E"
+
+cheat488_desc = "打总BOSS时间暂停"
+cheat488_handler = "0"
+cheat488_code = "800CC95E#012C"
+
+cheat489_desc = "第四幸存者模式血不减"
+cheat489_handler = "0"
+cheat489_code = "300C7E7A#FF"
+
+cheat490_desc = "第四幸存者模式手枪"
+cheat490_handler = "0"
+cheat490_code = "800CCB68#FF02"
+
+cheat491_desc = "第四幸存者模式强化手枪"
+cheat491_handler = "0"
+cheat491_code = "800CCB68#FF04"
+
+cheat492_desc = "第四幸存者模式密林"
+cheat492_handler = "0"
+cheat492_code = "800CCB68#FF05"
+
+cheat493_desc = "第四幸存者模式强化密林"
+cheat493_handler = "0"
+cheat493_code = "800CCB68#FF06"
+
+cheat494_desc = "第四幸存者模式散弹枪"
+cheat494_handler = "0"
+cheat494_code = "800CCB68#FF07"
+
+cheat495_desc = "第四幸存者模式强化散弹枪"
+cheat495_handler = "0"
+cheat495_code = "800CCB68#FF08"
+
+cheat496_desc = "第四幸存者模式半自动机关枪"
+cheat496_handler = "0"
+cheat496_code = "800CCB68#FF0F"
+
+cheat497_desc = "第四幸存者模式火炎喷射器"
+cheat497_handler = "0"
+cheat497_code = "800CCB68#FF10"
+
+cheat498_desc = "第四幸存者模式火箭炮"
+cheat498_handler = "0"
+cheat498_code = "800CCB68#FF11"
+
+cheat499_desc = "第四幸存者模式格林式机关枪"
+cheat499_handler = "0"
+cheat499_code = "800CCB68#FF12"
+
+cheats = 500

@@ -1,0 +1,721 @@
+cheat0_desc = "锁定 RISK ZERO锁定"
+cheat0_handler = "0"
+cheat0_code = "3011F260#0000"
+
+cheat1_desc = "锁定 RISK MAX锁定"
+cheat1_handler = "0"
+cheat1_code = "3011F260#64"
+
+cheat2_desc = "击倒人类"
+cheat2_handler = "0"
+cheat2_code = "8005FE9C#270F"
+
+cheat3_desc = "击倒魔兽"
+cheat3_handler = "0"
+cheat3_code = "8005FE9E#270F"
+
+cheat4_desc = "击倒不死族"
+cheat4_handler = "0"
+cheat4_code = "8005FEA0#270F"
+
+cheat5_desc = "击倒精灵"
+cheat5_handler = "0"
+cheat5_code = "8005FEA2#270F"
+
+cheat6_desc = "击倒龙族"
+cheat6_handler = "0"
+cheat6_code = "8005FEA4#270F"
+
+cheat7_desc = "击倒恶魔"
+cheat7_handler = "0"
+cheat7_code = "8005FEA6#270F"
+
+cheat8_desc = "攻击连锁记录"
+cheat8_handler = "0"
+cheat8_code = "8005FF20#270F"
+
+cheat9_desc = "全部空手必杀技"
+cheat9_handler = "0"
+cheat9_code = "80060044#270F"
+
+cheat10_desc = "全部短剑必杀技"
+cheat10_handler = "0"
+cheat10_code = "80060046#270F"
+
+cheat11_desc = "全部剑必杀技"
+cheat11_handler = "0"
+cheat11_code = "80060048#270F"
+
+cheat12_desc = "全部长剑必杀技"
+cheat12_handler = "0"
+cheat12_code = "8006004A#270F"
+
+cheat13_desc = "全部斧＆槌必杀技"
+cheat13_handler = "0"
+cheat13_code = "8006004C#270F"
+
+cheat14_desc = "全部重斧必杀技"
+cheat14_handler = "0"
+cheat14_code = "8006004E#270F"
+
+cheat15_desc = "全部杖必杀技"
+cheat15_handler = "0"
+cheat15_code = "80060050#270F"
+
+cheat16_desc = "全部重槌必杀技"
+cheat16_handler = "0"
+cheat16_code = "80060052#270F"
+
+cheat17_desc = "全部枪必杀技"
+cheat17_handler = "0"
+cheat17_code = "80060054#270F"
+
+cheat18_desc = "全部弩必杀技"
+cheat18_handler = "0"
+cheat18_code = "80060056#270F"
+
+cheat19_desc = "全部技能"
+cheat19_handler = "0"
+cheat19_code = "8006005A#270F"
+
+cheat20_desc = "美版金手指以下为美版"
+cheat20_handler = "0"
+cheat20_code = "0000;0000"
+
+cheat21_desc = "SPEED CODEon"
+cheat21_handler = "0"
+cheat21_code = "D001F8BC"
+
+cheat22_desc = "HP MAX.on"
+cheat22_handler = "0"
+cheat22_code = "D0008528#0000;8011F258#03E7"
+
+cheat23_desc = "HP LARGEon"
+cheat23_handler = "0"
+cheat23_code = "D0008528#0000;8011F25A#03E7"
+
+cheat24_desc = "MP MAX.on"
+cheat24_handler = "0"
+cheat24_code = "D0008528#0000;8011F25C 03E7"
+
+cheat25_desc = "MP LARGEon"
+cheat25_handler = "0"
+cheat25_code = "D0008528#0000;8011F25E#03E7"
+
+cheat26_desc = "ALWAY RISK ZEROon"
+cheat26_handler = "0"
+cheat26_code = "D0008528#0000;8011F260#0000"
+
+cheat27_desc = "日版以下为日版"
+cheat27_handler = "0"
+cheat27_code = "0000;0000"
+
+cheat28_desc = "武器DP不减on"
+cheat28_handler = "0"
+cheat28_code = "D0080A3E#0067;80080A3E#0060"
+
+cheat29_desc = "道防具DP不减on"
+cheat29_handler = "0"
+cheat29_code = "D0080ACA#0064;80080ACA#0060"
+
+cheat30_desc = "PP不减on"
+cheat30_handler = "0"
+cheat30_code = "D0088EA2#2442;80088EA0#0000"
+
+cheat31_desc = "MP不减on"
+cheat31_handler = "0"
+cheat31_code = "D008602A#00E9;8008602A#00E0"
+
+cheat32_desc = "地图全开 on"
+cheat32_handler = "0"
+cheat32_code = "B0220002#00000000;8005FFD0#FFFF"
+
+cheat33_desc = "全称号取得on"
+cheat33_handler = "0"
+cheat33_code = "9005FE98#FFFFFFFF"
+
+cheat34_desc = "全图鉴 on"
+cheat34_handler = "0"
+cheat34_code = "B0150001#0000;3005FF34#00FF"
+
+cheat35_desc = "游戏时间归零不增on"
+cheat35_handler = "0"
+cheat35_code = "8006106C#0000;8006106E#0000;D004267E#0062;80042682#ACA0"
+
+cheat36_desc = "RISK为零on"
+cheat36_handler = "0"
+cheat36_code = "3011F260#0000;D0008528#0000;8011F260#0000;E005E230#0004;80060056#0200;80060044#0200;80060048#0200;8006004A#0200;8006004C#0200;80060054#0200"
+
+cheat37_desc = "HP现值999on"
+cheat37_handler = "0"
+cheat37_code = "8011F258#03E7"
+
+cheat38_desc = "HP最大值999on"
+cheat38_handler = "0"
+cheat38_code = "8011F25A#03E7"
+
+cheat39_desc = "MP现值999on"
+cheat39_handler = "0"
+cheat39_code = "8011F25C#03E7"
+
+cheat40_desc = "MP最大值999on"
+cheat40_handler = "0"
+cheat40_code = "8011F25E#016e"
+
+cheat41_desc = "STRENGTH的EQP值on"
+cheat41_handler = "0"
+cheat41_code = "8011F262#0177"
+
+cheat42_desc = "STRENGTH的ORG值on"
+cheat42_handler = "0"
+cheat42_code = "8011F264#016e"
+
+cheat43_desc = "INTELLIGENCE的EQP值366on"
+cheat43_handler = "0"
+cheat43_code = "8011F266#0175"
+
+cheat44_desc = "INTELLIGENCE的ORG值on"
+cheat44_handler = "0"
+cheat44_code = "8011F268#016e"
+
+cheat45_desc = "AGILITY的EQP值on"
+cheat45_handler = "0"
+cheat45_code = "8011F26A#0177"
+
+cheat46_desc = "AGILITY的ORG值on"
+cheat46_handler = "0"
+cheat46_code = "8011F26C#16e"
+
+cheat47_desc = "行动、跳跃力、攻击雷达范围on"
+cheat47_handler = "0"
+cheat47_code = "E011F234#FBA40003;3011F273#0035;8011F278#1A1A;8011F27A#1A1A"
+
+cheat48_desc = "按住R2.HP/MP回复加快on"
+cheat48_handler = "0"
+cheat48_code = "D005E230#0002;800E8C78#0000"
+
+cheat49_desc = "战后武器必杀技全获得on"
+cheat49_handler = "0"
+cheat49_code = "E005E230#0004;80060044#0200;80060048#0200;8006004A#0200;8006004C#0200;80060054#0200;80060056#0200"
+
+cheat50_desc = "主角HP999on"
+cheat50_handler = "0"
+cheat50_code = "9011F258#03E703E7"
+
+cheat51_desc = "MP999 on"
+cheat51_handler = "0"
+cheat51_code = "9011F25C#03E703E7"
+
+cheat52_desc = "以下”□□□□臘□SPEED CODEon"
+cheat52_handler = "0"
+cheat52_code = "D001F8BC#FFE9;8001FE8C#0001"
+
+cheat53_desc = "PLAYTIME 00:00:00on"
+cheat53_handler = "0"
+cheat53_code = "D004267E#0062;80042682#ACA0"
+
+cheat54_desc = "生命值hp雙9999"
+cheat54_handler = "0"
+cheat54_code = "8011FA58#270F;8011FA5A#270F"
+
+cheat55_desc = "魔力值mp雙9999"
+cheat55_handler = "0"
+cheat55_code = "8011FA5C#270F;8011FA5E#270F"
+
+cheat56_desc = "HP當前值MAX.on"
+cheat56_handler = "0"
+cheat56_code = "D0008528#0000;8011FA58#270F"
+
+cheat57_desc = "HP最大值LARGEon"
+cheat57_handler = "0"
+cheat57_code = "D0008528#0000;8011FA5A#270F"
+
+cheat58_desc = "MP當前值MAX.on"
+cheat58_handler = "0"
+cheat58_code = "D0008528#0000;8011FA5C#270F"
+
+cheat59_desc = "MP最大值LARGEon"
+cheat59_handler = "0"
+cheat59_code = "D0008528#0000;8011FA5E#270F"
+
+cheat60_desc = "RISK ZEROon"
+cheat60_handler = "0"
+cheat60_code = "D0008528#0000;8011FA60#0000"
+
+cheat61_desc = "RISK9999"
+cheat61_handler = "0"
+cheat61_code = "8011FA60#270F"
+
+cheat62_desc = "機關門關閉時間倒數無限99:99:99"
+cheat62_handler = "0"
+cheat62_code = "9005046C#006363FF"
+
+cheat63_desc = "STR的EQP值9999"
+cheat63_handler = "0"
+cheat63_code = "8011FA62#270F"
+
+cheat64_desc = "STR的ORG值9999"
+cheat64_handler = "0"
+cheat64_code = "8011FA64#270F"
+
+cheat65_desc = "INT的EQP值9999"
+cheat65_handler = "0"
+cheat65_code = "8011FA66#270F"
+
+cheat66_desc = "INT的ORG值9999"
+cheat66_handler = "0"
+cheat66_code = "8011FA68#270F"
+
+cheat67_desc = "AGL的EQP值9999"
+cheat67_handler = "0"
+cheat67_code = "8011FA6A#270F"
+
+cheat68_desc = "AGL的ORG值9999"
+cheat68_handler = "0"
+cheat68_code = "8011FA6C#270F"
+
+cheat69_desc = "行動﹑跳躍力﹑攻擊雷達範圍"
+cheat69_handler = "0"
+cheat69_code = "E011FA34#FBA40003;3011FA73#0035;8011FA78#1A1A;8011FA7A#1A1A"
+
+cheat70_desc = "全D质盾On"
+cheat70_handler = "0"
+cheat70_code = "30060288#7;300602B8#7;300602E8#7;30060318#7;30060348#7;30060378#7;300603A8#7;300603D8#7"
+
+cheat71_desc = "全D质武器"
+cheat71_handler = "0"
+cheat71_code = "3006053C#7;30060510#7;300604E4#7;300604B8#7;3006048C#7;30060460#7;30060434#7;30060408#7"
+
+cheat72_desc = "全D质防具"
+cheat72_handler = "0"
+cheat72_code = "300607C4#07;300607EC#07;30060814#07;3006083C#07;30060864#07;3006088C#07;300608B4#07;300608DC#07;30060904#07;3006092C#07;30060954#07;3006097C#07;300609A4#07;300609CC#07;300609F4#07;30060A1C#07"
+
+cheat73_desc = "全秘石之一"
+cheat73_handler = "0"
+cheat73_code = "30060A20#00;30060A21#01;30060A3C#1;30060A3D#1;30060A58#2;30060A59#1;30060A74#3;30060A75#1;30060A90#4;30060A91#1;30060AAC#5;30060AAD#1;30060AC8#6;30060AC9#1;30060AE4#7;30060AE5#1;30060B00#8;30060B01#1;30060B1C#9;30060B1D#1;30060B38#A;30060B39#1;30060B54#C;30060B55#1;30060B70#D;30060B71#1;30060B8C#E;30060B8D#1;30060BA8#F;30060BA9#1;30060BC4#10;30060BC5#1;30060BE0#11;30060BE1#1;30060BFC#12;30060BFD#1;30060C18#13;30060C19#1;30060C34#14;30060C35#1;30060C50#15;30060C51#1;30060C6C#16;30060C6D#1;30060C88#17;30060C89#1;30060CA4#18;30060CA5#1;30060CC0#19;30060CC1#1;30060CDC#1A;30060CDD#1;30060CF8#1B;30060CF9#1;30060D14#1C;30060D15#1;30060D30#1D;30060D31#1;30060D4C#1E;30060D4D#1;30060D68#1F;30060D69#1;30060D84#20;30060D85#1;30060DA0#21;30060DA1#1;30060DBC#22;30060DBD#1;30060DD8#23;30060DD9#1;30060DF4#24;30060DF5#1;30060E10#25;30060E11#1;30060E2C#26;30060E2D#1;30060E48#27;30060E49#1;30060E64#28;30060E65#1;30060E80#29;30060E81#1;30060E9C#2A;30060E9D#1;30060EB8#2B;30060EB9#1;30060ED4#2C;30060ED5#1;30060EF0#2D;30060EF1#1;30060F0C#2E;30060F0D#1;30060F28#2F;30060F29#1;30060F44#30;30060F45#1"
+
+cheat74_desc = "全秘石之二"
+cheat74_handler = "0"
+cheat74_code = "30060A20#31;30060A21#01;30060A3C#32;30060A3D#1;30060A58#33;30060A59#1"
+
+cheat75_desc = "攻击魔法Drain Heart"
+cheat75_handler = "0"
+cheat75_code = "8004CD00#9000"
+
+cheat76_desc = "攻击魔法Drain Mind"
+cheat76_handler = "0"
+cheat76_code = "8004CD34#9000"
+
+cheat77_desc = "攻击魔法Solid Shock"
+cheat77_handler = "0"
+cheat77_code = "8004CD9C#9000"
+
+cheat78_desc = "攻击魔法Lightning Bolt"
+cheat78_handler = "0"
+cheat78_code = "8004CDD0#C000"
+
+cheat79_desc = "攻击魔法Fireball"
+cheat79_handler = "0"
+cheat79_code = "8004CE04#9000"
+
+cheat80_desc = "攻击魔法Vulcan Lance"
+cheat80_handler = "0"
+cheat80_code = "8004CE38#9000"
+
+cheat81_desc = "攻击魔法Aqua Blast"
+cheat81_handler = "0"
+cheat81_code = "8004CE6C#9000"
+
+cheat82_desc = "攻击魔法Spirit Surge"
+cheat82_handler = "0"
+cheat82_code = "8004CEA0#9000"
+
+cheat83_desc = "攻击魔法Dark Chant"
+cheat83_handler = "0"
+cheat83_code = "8004CED4#9000"
+
+cheat84_desc = "攻击魔法Exorcism"
+cheat84_handler = "0"
+cheat84_code = "8004CF08#9000"
+
+cheat85_desc = "攻击魔法Banish"
+cheat85_handler = "0"
+cheat85_code = "8004CF3C#9000"
+
+cheat86_desc = "攻击魔法Explosion Level 1"
+cheat86_handler = "0"
+cheat86_code = "8004CF70#8000"
+
+cheat87_desc = "攻击魔法Explosion Level 2"
+cheat87_handler = "0"
+cheat87_code = "8004CFA4#8000"
+
+cheat88_desc = "攻击魔法Explosion Level 3"
+cheat88_handler = "0"
+cheat88_code = "8004CFD8#8000"
+
+cheat89_desc = "攻击魔法Explosion Level 4"
+cheat89_handler = "0"
+cheat89_code = "8004D00C#8000"
+
+cheat90_desc = "攻击魔法Thunderburst Level 1"
+cheat90_handler = "0"
+cheat90_code = "8004D040#8000"
+
+cheat91_desc = "攻击魔法Thunderburst Level 2"
+cheat91_handler = "0"
+cheat91_code = "8004D074#8000"
+
+cheat92_desc = "攻击魔法Thunderburst Level 3"
+cheat92_handler = "0"
+cheat92_code = "8004D0A8#8000"
+
+cheat93_desc = "攻击魔法Thunderburst Level 4"
+cheat93_handler = "0"
+cheat93_code = "8004D0DC#8000"
+
+cheat94_desc = "攻击魔法Flame Sphere Level 1"
+cheat94_handler = "0"
+cheat94_code = "8004D110#8000"
+
+cheat95_desc = "攻击魔法Flame Sphere Level 2"
+cheat95_handler = "0"
+cheat95_code = "8004D144#8000"
+
+cheat96_desc = "攻击魔法Flame Sphere Level 3"
+cheat96_handler = "0"
+cheat96_code = "8004D178#8000"
+
+cheat97_desc = "攻击魔法Flame Sphere Level 4"
+cheat97_handler = "0"
+cheat97_code = "8004D1AC#8000"
+
+cheat98_desc = "攻击魔法Gaea Strike Level 1"
+cheat98_handler = "0"
+cheat98_code = "8004D1E0#8000"
+
+cheat99_desc = "攻击魔法Gaea Strike Level 2"
+cheat99_handler = "0"
+cheat99_code = "8004D214#8000"
+
+cheat100_desc = "攻击魔法Gaea Strike Level 3"
+cheat100_handler = "0"
+cheat100_code = "8004D248#8000"
+
+cheat101_desc = "攻击魔法Gaea Strike Level 4"
+cheat101_handler = "0"
+cheat101_code = "8004D27C#8000"
+
+cheat102_desc = "攻击魔法Avalanche Level 1"
+cheat102_handler = "0"
+cheat102_code = "8004D2B0#8000"
+
+cheat103_desc = "攻击魔法Avalanche Level 2"
+cheat103_handler = "0"
+cheat103_code = "8004D2E4#8000"
+
+cheat104_desc = "攻击魔法Avalanche Level 3"
+cheat104_handler = "0"
+cheat104_code = "8004D318#8000"
+
+cheat105_desc = "攻击魔法Avalanche Level 4"
+cheat105_handler = "0"
+cheat105_code = "8004D34C#8000"
+
+cheat106_desc = "攻击魔法Radial Surge Level 1"
+cheat106_handler = "0"
+cheat106_code = "8004D380#8000"
+
+cheat107_desc = "攻击魔法Radial Surge Level 2"
+cheat107_handler = "0"
+cheat107_code = "8004D3B4#8000"
+
+cheat108_desc = "攻击魔法Radial Surge Level 3"
+cheat108_handler = "0"
+cheat108_code = "8004D3E8#8000"
+
+cheat109_desc = "攻击魔法Radial Surge Level 4"
+cheat109_handler = "0"
+cheat109_code = "8004D41C#8000"
+
+cheat110_desc = "攻击魔法Meteor Level 1"
+cheat110_handler = "0"
+cheat110_code = "8004D450#8000"
+
+cheat111_desc = "攻击魔法Meteor Level 2"
+cheat111_handler = "0"
+cheat111_code = "8004D484#8000"
+
+cheat112_desc = "攻击魔法Meteor Level 3"
+cheat112_handler = "0"
+cheat112_code = "8004D4B8#8000"
+
+cheat113_desc = "攻击魔法Meteor Level 4"
+cheat113_handler = "0"
+cheat113_code = "8004D4EC#8000"
+
+cheat114_desc = "回复魔法Surging Balm"
+cheat114_handler = "0"
+cheat114_code = "8004C98C#9000"
+
+cheat115_desc = "回复魔法Restoration"
+cheat115_handler = "0"
+cheat115_code = "8004CB94#9000"
+
+cheat116_desc = "回复魔法Antidote"
+cheat116_handler = "0"
+cheat116_code = "8004CBC8#9000"
+
+cheat117_desc = "回复魔法Blessing"
+cheat117_handler = "0"
+cheat117_code = "8004CC30#9000"
+
+cheat118_desc = "回复魔法Clearance"
+cheat118_handler = "0"
+cheat118_code = "8004CC64#9000"
+
+cheat119_desc = "回复魔法Heal"
+cheat119_handler = "0"
+cheat119_code = "8004CD68#9000"
+
+cheat120_desc = "辅助魔法Degenerate"
+cheat120_handler = "0"
+cheat120_code = "8004C4E0#9000"
+
+cheat121_desc = "辅助魔法Psychodrain"
+cheat121_handler = "0"
+cheat121_code = "8004C514#9000"
+
+cheat122_desc = "辅助魔法Leadbones"
+cheat122_handler = "0"
+cheat122_code = "8004C548#9000"
+
+cheat123_desc = "辅助魔法Tarnish"
+cheat123_handler = "0"
+cheat123_code = "8004C57C#9000"
+
+cheat124_desc = "辅助魔法Analyze"
+cheat124_handler = "0"
+cheat124_code = "8004C5B0#9000"
+
+cheat125_desc = "辅助魔法Herakles"
+cheat125_handler = "0"
+cheat125_code = "8004C618#9000"
+
+cheat126_desc = "辅助魔法Enlighten"
+cheat126_handler = "0"
+cheat126_code = "8004C64C#9000"
+
+cheat127_desc = "辅助魔法Invigorate"
+cheat127_handler = "0"
+cheat127_code = "8004C680#9000"
+
+cheat128_desc = "辅助魔法Prostasia"
+cheat128_handler = "0"
+cheat128_code = "8004C6B4#9000"
+
+cheat129_desc = "辅助魔法Silence"
+cheat129_handler = "0"
+cheat129_code = "8004C924#9000"
+
+cheat130_desc = "辅助魔法Magic Ward"
+cheat130_handler = "0"
+cheat130_code = "8004C958#9000"
+
+cheat131_desc = "辅助魔法Fixate"
+cheat131_handler = "0"
+cheat131_code = "8004C9F4#B000"
+
+cheat132_desc = "辅助魔法Dispel"
+cheat132_handler = "0"
+cheat132_code = "8004CA28#9000"
+
+cheat133_desc = "辅助魔法Stun Cloud"
+cheat133_handler = "0"
+cheat133_code = "8004CA90#9000"
+
+cheat134_desc = "辅助魔法Poison Mist"
+cheat134_handler = "0"
+cheat134_code = "8004CAC4#9000"
+
+cheat135_desc = "辅助魔法Curse"
+cheat135_handler = "0"
+cheat135_code = "8004CB2C#9000"
+
+cheat136_desc = "辅助魔法Unlock"
+cheat136_handler = "0"
+cheat136_code = "8004CC98#9000"
+
+cheat137_desc = "辅助魔法Eureka"
+cheat137_handler = "0"
+cheat137_code = "8004CCCC#B000"
+
+cheat138_desc = "属性魔法Luft Fusion"
+cheat138_handler = "0"
+cheat138_code = "8004C750#9000"
+
+cheat139_desc = "属性魔法Spark Fusion"
+cheat139_handler = "0"
+cheat139_code = "8004C784#9000"
+
+cheat140_desc = "属性魔法Soil Fusion"
+cheat140_handler = "0"
+cheat140_code = "8004C7B8#9000"
+
+cheat141_desc = "属性魔法Frost Fusion"
+cheat141_handler = "0"
+cheat141_code = "8004C7EC#9000"
+
+cheat142_desc = "属性魔法Aero Guard"
+cheat142_handler = "0"
+cheat142_code = "8004C820#9000"
+
+cheat143_desc = "属性魔法Pyro Guard"
+cheat143_handler = "0"
+cheat143_code = "8004C854#9000"
+
+cheat144_desc = "属性魔法Terra Guard"
+cheat144_handler = "0"
+cheat144_code = "8004C888#9000"
+
+cheat145_desc = "属性魔法Aero Guard"
+cheat145_handler = "0"
+cheat145_code = "8004C8BC#9000"
+
+cheat146_desc = "属性魔法Aero Guard________________"
+cheat146_handler = "0"
+cheat146_code = ""
+
+cheat147_desc = "體力不減&敵人一擊必死"
+cheat147_handler = "0"
+cheat147_code = "D0087E8A#1040;80087E8A#1680;D0087E8E#0083;80087E8E#0080"
+
+cheat148_desc = "MP不減"
+cheat148_handler = "0"
+cheat148_code = "D008602A#00E9;8008602A#00E0"
+
+cheat149_desc = "身體各部位不受傷"
+cheat149_handler = "0"
+cheat149_code = "D0087EC2#0083;80087EC2#0080"
+
+cheat150_desc = "存檔回數0"
+cheat150_handler = "0"
+cheat150_code = "80060030#0000;80060032#0000;80060034#0000"
+
+cheat151_desc = "游戲時間0"
+cheat151_handler = "0"
+cheat151_code = "D004267E#0062;80042682#ACA0"
+
+cheat152_desc = "武器DP不減"
+cheat152_handler = "0"
+cheat152_code = "D0080A3E#0067;80080A3E#0060"
+
+cheat153_desc = "防具DP不減"
+cheat153_handler = "0"
+cheat153_code = "D0080ACA#0064;80080ACA#0060"
+
+cheat154_desc = "PP不減"
+cheat154_handler = "0"
+cheat154_code = "D0088EA2#2442;80088EA0#0000"
+
+cheat155_desc = "地圖全開"
+cheat155_handler = "0"
+cheat155_code = "B0220002#00000000;8005FFD0#FFFF"
+
+cheat156_desc = "全稱號取得"
+cheat156_handler = "0"
+cheat156_code = "9005FE98#FFFFFFFF"
+
+cheat157_desc = "全圖鑒"
+cheat157_handler = "0"
+cheat157_code = "B0150001#00000000;3005FF34#00FF"
+
+cheat158_desc = "按住R2.HP/MP回復加快"
+cheat158_handler = "0"
+cheat158_code = "D005E230#0002;800E8C78#0000"
+
+cheat159_desc = "戰後武器必殺技全獲得"
+cheat159_handler = "0"
+cheat159_code = "E005E230#0004;80060044#0200;80060048#0200;8006004A#0200;8006004C#0200;80060054#0200;80060056#0200"
+
+cheat160_desc = "鎖定 RISK ZERO鎖定"
+cheat160_handler = "0"
+cheat160_code = "3011FA60#0000"
+
+cheat161_desc = "鎖定 RISK MAX鎖定"
+cheat161_handler = "0"
+cheat161_code = "3011FA60#64"
+
+cheat162_desc = "擊倒人類"
+cheat162_handler = "0"
+cheat162_code = "8005FE9C#270F"
+
+cheat163_desc = "擊倒魔獸"
+cheat163_handler = "0"
+cheat163_code = "8005FE9E#270F"
+
+cheat164_desc = "擊倒不死族"
+cheat164_handler = "0"
+cheat164_code = "8005FEA0#270F"
+
+cheat165_desc = "擊倒精靈"
+cheat165_handler = "0"
+cheat165_code = "8005FEA2#270F"
+
+cheat166_desc = "擊倒龍族"
+cheat166_handler = "0"
+cheat166_code = "8005FEA4#270F"
+
+cheat167_desc = "擊倒惡魔"
+cheat167_handler = "0"
+cheat167_code = "8005FEA6#270F"
+
+cheat168_desc = "攻擊連鎖記錄"
+cheat168_handler = "0"
+cheat168_code = "8005FF20#270F"
+
+cheat169_desc = "全部空手必殺技"
+cheat169_handler = "0"
+cheat169_code = "80060044#270F"
+
+cheat170_desc = "全部短劍必殺技"
+cheat170_handler = "0"
+cheat170_code = "80060046#270F"
+
+cheat171_desc = "全部劍必殺技"
+cheat171_handler = "0"
+cheat171_code = "80060048#270F"
+
+cheat172_desc = "全部長劍必殺技"
+cheat172_handler = "0"
+cheat172_code = "8006004A#270F"
+
+cheat173_desc = "全部斧＆槌必殺技"
+cheat173_handler = "0"
+cheat173_code = "8006004C#270F"
+
+cheat174_desc = "全部重斧必殺技"
+cheat174_handler = "0"
+cheat174_code = "8006004E#270F"
+
+cheat175_desc = "全部杖必殺技"
+cheat175_handler = "0"
+cheat175_code = "80060050#270F"
+
+cheat176_desc = "全部重槌必殺技"
+cheat176_handler = "0"
+cheat176_code = "80060052#270F"
+
+cheat177_desc = "全部槍必殺技"
+cheat177_handler = "0"
+cheat177_code = "80060054#270F"
+
+cheat178_desc = "全部弩必殺技"
+cheat178_handler = "0"
+cheat178_code = "80060056#270F"
+
+cheat179_desc = "全部技能"
+cheat179_handler = "0"
+cheat179_code = "8006005A#270F"
+
+cheats = 180

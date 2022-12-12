@@ -1,0 +1,45 @@
+cheat0_desc = "COST数量"
+cheat0_handler = "2"
+cheat0_code = "36ACC,A"
+
+cheat1_desc = "1P进球数99"
+cheat1_handler = "2"
+cheat1_code = "36AC5,63"
+
+cheat2_desc = "1P进球数10"
+cheat2_handler = "2"
+cheat2_code = "36AC5,0A"
+
+cheat3_desc = "1P进球数0"
+cheat3_handler = "2"
+cheat3_code = "36AC5,00"
+
+cheat4_desc = "2P进球数99"
+cheat4_handler = "2"
+cheat4_code = "36BA1,63"
+
+cheat5_desc = "2P进球数10"
+cheat5_handler = "2"
+cheat5_code = "36BA1,0A"
+
+cheat6_desc = "2P进球数0"
+cheat6_handler = "2"
+cheat6_code = "36BA1,00"
+
+cheat7_desc = "双方对决进攻方 Win"
+cheat7_handler = "2"
+cheat7_code = "36C0A,01,20;36C6F,00"
+
+cheat8_desc = "双方对决防守方 Win"
+cheat8_handler = "2"
+cheat8_code = "36C6E,02,20;36C0B,00"
+
+cheat9_desc = "每回合球数1P MAX"
+cheat9_handler = "2"
+cheat9_code = "36ACC,04"
+
+cheat10_desc = "每回合球数2P MAX"
+cheat10_handler = "2"
+cheat10_code = "36ACD,04"
+
+cheats = 11

@@ -1,0 +1,53 @@
+cheat0_desc = "无敌锁定"
+cheat0_handler = "2"
+cheat0_code = "558,8,a;55c,ff"
+
+cheat1_desc = "HP上限9999"
+cheat1_handler = "2"
+cheat1_code = "13272,0F,27"
+
+cheat2_desc = "MP上限9999"
+cheat2_handler = "2"
+cheat2_code = "13274,0F,27"
+
+cheat3_desc = "STR999"
+cheat3_handler = "2"
+cheat3_code = "13276,E7,03"
+
+cheat4_desc = "CON999"
+cheat4_handler = "2"
+cheat4_code = "13278,E7,03"
+
+cheat5_desc = "INT999"
+cheat5_handler = "2"
+cheat5_code = "1327A,E7,03"
+
+cheat6_desc = "LCK999"
+cheat6_handler = "2"
+cheat6_code = "1327C,E7,03"
+
+cheat7_desc = "钱999999"
+cheat7_handler = "2"
+cheat7_code = "13284,7F,96,98,00"
+
+cheat8_desc = "HP不减"
+cheat8_handler = "2"
+cheat8_code = "1326E,0F,27"
+
+cheat9_desc = "MP不减"
+cheat9_handler = "2"
+cheat9_code = "13270,0F,27"
+
+cheat10_desc = "全技能"
+cheat10_handler = "2"
+cheat10_code = "13386,11,11,11"
+
+cheat11_desc = "选难度,隐藏人物,BossRush,歌曲欣赏开启"
+cheat11_handler = "2"
+cheat11_code = "60,3"
+
+cheat12_desc = "游戏时间为零锁定"
+cheat12_handler = "2"
+cheat12_code = "ac,0,0"
+
+cheats = 13

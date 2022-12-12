@@ -1,0 +1,57 @@
+cheat0_desc = "金錢無限"
+cheat0_handler = "0"
+cheat0_code = "80100318#967F;8010031A#0098"
+
+cheat1_desc = "女冒險家航海統御力"
+cheat1_handler = "0"
+cheat1_code = "8013E16C#FFFF"
+
+cheat2_desc = "女冒險家知力＆直感提升"
+cheat2_handler = "0"
+cheat2_code = "8013E16E#FFFF"
+
+cheat3_desc = "女冒險家力量＆劍術提升"
+cheat3_handler = "0"
+cheat3_code = "8013E170#FFFF"
+
+cheat4_desc = "女冒險家魅力提升"
+cheat4_handler = "0"
+cheat4_code = "8013E172#00FF"
+
+cheat5_desc = "女冒險家技能全有"
+cheat5_handler = "0"
+cheat5_code = "8013E180#001F"
+
+cheat6_desc = "男海賊航海統御力"
+cheat6_handler = "0"
+cheat6_code = "8013E188#FFFF"
+
+cheat7_desc = "男海賊知力＆直感提升"
+cheat7_handler = "0"
+cheat7_code = "8013E18A#FFFF"
+
+cheat8_desc = "男海賊力量＆劍術提升"
+cheat8_handler = "0"
+cheat8_code = "8013E18C#FFFF"
+
+cheat9_desc = "男海賊魅力提升"
+cheat9_handler = "0"
+cheat9_code = "8013E18E#00FF"
+
+cheat10_desc = "男海賊等級提升"
+cheat10_handler = "0"
+cheat10_code = "8013E190#6363"
+
+cheat11_desc = "男海賊技能全有"
+cheat11_handler = "0"
+cheat11_code = "8013E19C#001F"
+
+cheat12_desc = "頭目戰必勝"
+cheat12_handler = "0"
+cheat12_code = "8013229C#00C8"
+
+cheat13_desc = "航海日255天"
+cheat13_handler = "0"
+cheat13_code = "8010237C#64FF"
+
+cheats = 14

@@ -1,0 +1,65 @@
+cheat0_desc = "15"
+cheat0_handler = "2"
+cheat0_code = "356C,1"
+
+cheat1_desc = "16"
+cheat1_handler = "2"
+cheat1_code = "35A4,2"
+
+cheat2_desc = "17"
+cheat2_handler = "2"
+cheat2_code = "35DC,3"
+
+cheat3_desc = "18"
+cheat3_handler = "2"
+cheat3_code = "3614,4"
+
+cheat4_desc = "19"
+cheat4_handler = "2"
+cheat4_code = "364C,7"
+
+cheat5_desc = "20"
+cheat5_handler = "2"
+cheat5_code = "3684,9"
+
+cheat6_desc = "21"
+cheat6_handler = "2"
+cheat6_code = "36BC,B"
+
+cheat7_desc = "22"
+cheat7_handler = "2"
+cheat7_code = "36F4,E"
+
+cheat8_desc = "23"
+cheat8_handler = "2"
+cheat8_code = "372C,F"
+
+cheat9_desc = "24"
+cheat9_handler = "2"
+cheat9_code = "3764,10"
+
+cheat10_desc = "25"
+cheat10_handler = "2"
+cheat10_code = "379C,12"
+
+cheat11_desc = "26"
+cheat11_handler = "2"
+cheat11_code = "37D4,14"
+
+cheat12_desc = "27"
+cheat12_handler = "2"
+cheat12_code = "380C,16"
+
+cheat13_desc = "28"
+cheat13_handler = "2"
+cheat13_code = "3844,17"
+
+cheat14_desc = "29"
+cheat14_handler = "2"
+cheat14_code = "387C,1C"
+
+cheat15_desc = "30"
+cheat15_handler = "2"
+cheat15_code = "38B4,3E"
+
+cheats = 16

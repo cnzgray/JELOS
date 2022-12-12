@@ -1,0 +1,25 @@
+cheat0_desc = "分数 MAX"
+cheat0_handler = "2"
+cheat0_code = "E980,FF,E0,F5,5"
+
+cheat1_desc = "生命不减"
+cheat1_handler = "2"
+cheat1_code = "CDE4,A"
+
+cheat2_desc = "无敌"
+cheat2_handler = "2"
+cheat2_code = "F538,63"
+
+cheat3_desc = "钱 MAX"
+cheat3_handler = "2"
+cheat3_code = "CD88,A"
+
+cheat4_desc = "K MAX"
+cheat4_handler = "2"
+cheat4_code = "C778,63"
+
+cheat5_desc = "超级中国 2 钱 MAX "
+cheat5_handler = "2"
+cheat5_code = "CDA0,FF,FF,0"
+
+cheats = 6

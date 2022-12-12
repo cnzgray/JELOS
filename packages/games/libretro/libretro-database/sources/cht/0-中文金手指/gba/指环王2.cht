@@ -1,0 +1,17 @@
+cheat0_desc = "GEMS"
+cheat0_handler = "2"
+cheat0_code = "4364C,E7,3"
+
+cheat1_desc = "MANA"
+cheat1_handler = "2"
+cheat1_code = "4364A,63"
+
+cheat2_desc = "skill"
+cheat2_handler = "2"
+cheat2_code = "43658,14"
+
+cheat3_desc = "point"
+cheat3_handler = "2"
+cheat3_code = "43657,F4,1"
+
+cheats = 4

@@ -1,0 +1,2321 @@
+cheat0_desc = "物品栏第一格NONE"
+cheat0_handler = "0"
+cheat0_code = "8007339C#0000"
+
+cheat1_desc = "物品栏第一格数量"
+cheat1_handler = "0"
+cheat1_code = "8007339E"
+
+cheat2_desc = "物品栏第一格[物品栏第二格]NONE"
+cheat2_handler = "0"
+cheat2_code = "800733A0"
+
+cheat3_desc = "物品栏第一格数量"
+cheat3_handler = "0"
+cheat3_code = "800733A2"
+
+cheat4_desc = "HP 255"
+cheat4_handler = "0"
+cheat4_code = "30074C28#00FF;30074C2A#00FF"
+
+cheat5_desc = "MP 255"
+cheat5_handler = "0"
+cheat5_code = "30074C2C#00FF;30074C2E#00FF"
+
+cheat6_desc = "小EVE HP"
+cheat6_handler = "0"
+cheat6_code = "300738B8#64"
+
+cheat7_desc = "EXP 5W"
+cheat7_handler = "0"
+cheat7_code = "80074C18#C350"
+
+cheat8_desc = "BP 5W"
+cheat8_handler = "0"
+cheat8_code = "80074C1C#C350"
+
+cheat9_desc = "所有模式(開始新遊戲時)"
+cheat9_handler = "0"
+cheat9_code = "300731FE#0001;801860C8#0404"
+
+cheat10_desc = "服裝(切換場景後生效)1"
+cheat10_handler = "0"
+cheat10_code = "30074C36#0001"
+
+cheat11_desc = "服裝(切換場景後生效)2"
+cheat11_handler = "0"
+cheat11_code = "30074C36#0002"
+
+cheat12_desc = "服裝(切換場景後生效)3"
+cheat12_handler = "0"
+cheat12_code = "30074C36#0003"
+
+cheat13_desc = "服裝(切換場景後生效)4"
+cheat13_handler = "0"
+cheat13_code = "30074C36#0004"
+
+cheat14_desc = "俯視視角(解除鎖定後切換場景即可恢復)"
+cheat14_handler = "0"
+cheat14_code = "300731F4#0001"
+
+cheat15_desc = "魔法等級最高Pyrokinesis"
+cheat15_handler = "0"
+cheat15_code = "30073A40#0003"
+
+cheat16_desc = "魔法等級最高Combustion"
+cheat16_handler = "0"
+cheat16_code = "30073A41#0003"
+
+cheat17_desc = "魔法等級最高Inferno"
+cheat17_handler = "0"
+cheat17_code = "30073A42#0003"
+
+cheat18_desc = "魔法等級最高Necrosis"
+cheat18_handler = "0"
+cheat18_code = "30073A43#0003"
+
+cheat19_desc = "魔法等級最高Plasma"
+cheat19_handler = "0"
+cheat19_code = "30073A44#0003"
+
+cheat20_desc = "魔法等級最高Apobiosis"
+cheat20_handler = "0"
+cheat20_code = "30073A45#0003"
+
+cheat21_desc = "魔法等級最高Metabolism"
+cheat21_handler = "0"
+cheat21_code = "30073A46#0003"
+
+cheat22_desc = "魔法等級最高Healing"
+cheat22_handler = "0"
+cheat22_code = "30073A47#0003"
+
+cheat23_desc = "魔法等級最高Lifedrain"
+cheat23_handler = "0"
+cheat23_code = "30073A48#0003"
+
+cheat24_desc = "魔法等級最高Antibody"
+cheat24_handler = "0"
+cheat24_code = "30073A49#0003"
+
+cheat25_desc = "魔法等級最高Energyshot"
+cheat25_handler = "0"
+cheat25_code = "30073A4A#0003"
+
+cheat26_desc = "魔法等級最高Energyball"
+cheat26_handler = "0"
+cheat26_code = "30073A4B#0003"
+
+cheat27_desc = "魔法等級最高全部3級"
+cheat27_handler = "0"
+cheat27_code = "30073A40#0003;30073A41#0003;30073A42#0003;30073A43#0003;30073A44#0003;30073A45#0003;30073A46#0003;30073A47#0003;30073A48#0003;30073A49#0003;30073A4A#0003;30073A4B#0003"
+
+cheat28_desc = "Pyrokinesis LV初始值0"
+cheat28_handler = "0"
+cheat28_code = "30073A40#0"
+
+cheat29_desc = "Pyrokinesis LVLV.1"
+cheat29_handler = "0"
+cheat29_code = "30073A40#1"
+
+cheat30_desc = "Pyrokinesis LVLV.2"
+cheat30_handler = "0"
+cheat30_code = "30073A40#2"
+
+cheat31_desc = "Pyrokinesis LVLV.3"
+cheat31_handler = "0"
+cheat31_code = "30073A40#3"
+
+cheat32_desc = "Combustion LV初始值0"
+cheat32_handler = "0"
+cheat32_code = "30073A41#0"
+
+cheat33_desc = "Combustion LVLV.1"
+cheat33_handler = "0"
+cheat33_code = "30073A41#1"
+
+cheat34_desc = "Combustion LVLV.2"
+cheat34_handler = "0"
+cheat34_code = "30073A41#2"
+
+cheat35_desc = "Combustion LVLV.3"
+cheat35_handler = "0"
+cheat35_code = "30073A41#3"
+
+cheat36_desc = "Inferno LV初始值0"
+cheat36_handler = "0"
+cheat36_code = "30073A42#0"
+
+cheat37_desc = "Inferno LVLV.1"
+cheat37_handler = "0"
+cheat37_code = "30073A42#1"
+
+cheat38_desc = "Inferno LVLV.2"
+cheat38_handler = "0"
+cheat38_code = "30073A42#2"
+
+cheat39_desc = "Inferno LVLV.3"
+cheat39_handler = "0"
+cheat39_code = "30073A42#3"
+
+cheat40_desc = "Necrosis LV初始值0"
+cheat40_handler = "0"
+cheat40_code = "30073A43#0"
+
+cheat41_desc = "Necrosis LVLV.1"
+cheat41_handler = "0"
+cheat41_code = "30073A43#1"
+
+cheat42_desc = "Necrosis LVLV.2"
+cheat42_handler = "0"
+cheat42_code = "30073A43#2"
+
+cheat43_desc = "Necrosis LVLV.3"
+cheat43_handler = "0"
+cheat43_code = "30073A43#3"
+
+cheat44_desc = "Plasma LV初始值0"
+cheat44_handler = "0"
+cheat44_code = "30073A44#0"
+
+cheat45_desc = "Plasma LVLV.1"
+cheat45_handler = "0"
+cheat45_code = "30073A44#1"
+
+cheat46_desc = "Plasma LVLV.2"
+cheat46_handler = "0"
+cheat46_code = "30073A44#2"
+
+cheat47_desc = "Plasma LVLV.3"
+cheat47_handler = "0"
+cheat47_code = "30073A44#3"
+
+cheat48_desc = "Apobiosis LV初始值0"
+cheat48_handler = "0"
+cheat48_code = "30073A45#0"
+
+cheat49_desc = "Apobiosis LVLV.1"
+cheat49_handler = "0"
+cheat49_code = "30073A45#1"
+
+cheat50_desc = "Apobiosis LVLV.2"
+cheat50_handler = "0"
+cheat50_code = "30073A45#2"
+
+cheat51_desc = "Apobiosis LVLV.3"
+cheat51_handler = "0"
+cheat51_code = "30073A45#3"
+
+cheat52_desc = "Metabolism LV初始值0"
+cheat52_handler = "0"
+cheat52_code = "30073A46#0"
+
+cheat53_desc = "Metabolism LVLV.1"
+cheat53_handler = "0"
+cheat53_code = "30073A46#1"
+
+cheat54_desc = "Metabolism LVLV.2"
+cheat54_handler = "0"
+cheat54_code = "30073A46#2"
+
+cheat55_desc = "Metabolism LVLV.3"
+cheat55_handler = "0"
+cheat55_code = "30073A46#3"
+
+cheat56_desc = "Healing LV初始值0"
+cheat56_handler = "0"
+cheat56_code = "30073A47#0"
+
+cheat57_desc = "Healing LVLV.1"
+cheat57_handler = "0"
+cheat57_code = "30073A47#1"
+
+cheat58_desc = "Healing LVLV.2"
+cheat58_handler = "0"
+cheat58_code = "30073A47#2"
+
+cheat59_desc = "Healing LVLV.3"
+cheat59_handler = "0"
+cheat59_code = "30073A47#3"
+
+cheat60_desc = "Lifedrain LV初始值0"
+cheat60_handler = "0"
+cheat60_code = "30073A48#0"
+
+cheat61_desc = "Lifedrain LVLV.1"
+cheat61_handler = "0"
+cheat61_code = "30073A48#1"
+
+cheat62_desc = "Lifedrain LVLV.2"
+cheat62_handler = "0"
+cheat62_code = "30073A48#2"
+
+cheat63_desc = "Lifedrain LVLV.3"
+cheat63_handler = "0"
+cheat63_code = "30073A48#3"
+
+cheat64_desc = "Antibody LV初始值0"
+cheat64_handler = "0"
+cheat64_code = "30073A49#0"
+
+cheat65_desc = "Antibody LVLV.1"
+cheat65_handler = "0"
+cheat65_code = "30073A49#1"
+
+cheat66_desc = "Antibody LVLV.2"
+cheat66_handler = "0"
+cheat66_code = "30073A49#2"
+
+cheat67_desc = "Antibody LVLV.3"
+cheat67_handler = "0"
+cheat67_code = "30073A49#3"
+
+cheat68_desc = "Energyshot LV初始值0"
+cheat68_handler = "0"
+cheat68_code = "30073A4A#0"
+
+cheat69_desc = "Energyshot LVLV.1"
+cheat69_handler = "0"
+cheat69_code = "30073A4A#1"
+
+cheat70_desc = "Energyshot LVLV.2"
+cheat70_handler = "0"
+cheat70_code = "30073A4A#2"
+
+cheat71_desc = "Energyshot LVLV.3"
+cheat71_handler = "0"
+cheat71_code = "30073A4A#3"
+
+cheat72_desc = "Energyball LV初始值0"
+cheat72_handler = "0"
+cheat72_code = "30073A4B#0"
+
+cheat73_desc = "Energyball LVLV.1"
+cheat73_handler = "0"
+cheat73_code = "30073A4B#1"
+
+cheat74_desc = "Energyball LVLV.2"
+cheat74_handler = "0"
+cheat74_code = "30073A4B#2"
+
+cheat75_desc = "Energyball LVLV.3"
+cheat75_handler = "0"
+cheat75_code = "30073A4B#3"
+
+cheat76_desc = "物品栏第一格NONE"
+cheat76_handler = "0"
+cheat76_code = "0000,0"
+
+cheat77_desc = "物品栏第一格Recovery1 (回復劑LV.1)"
+cheat77_handler = "0"
+cheat77_code = "8007339C#0001;8007339E#0001"
+
+cheat78_desc = "物品栏第一格Recovery2 (回復劑LV.2)"
+cheat78_handler = "0"
+cheat78_code = "8007339C#0002;8007339E#0001"
+
+cheat79_desc = "物品栏第一格Recovery3 (小ビン)"
+cheat79_handler = "0"
+cheat79_code = "8007339C#0003;8007339E#0001"
+
+cheat80_desc = "物品栏第一格Stim (鎮靜劑)"
+cheat80_handler = "0"
+cheat80_code = "8007339C#0004;8007339E#0001"
+
+cheat81_desc = "物品栏第一格Cole (カン)"
+cheat81_handler = "0"
+cheat81_code = "8007339C#0005;8007339E#0001"
+
+cheat82_desc = "物品栏第一格MP Boost1 (MP回復水LV.1)"
+cheat82_handler = "0"
+cheat82_code = "8007339C#0006;8007339E#0001"
+
+cheat83_desc = "物品栏第一格MP Boost2 (ビン)"
+cheat83_handler = "0"
+cheat83_code = "8007339C#0007;8007339E#0001"
+
+cheat84_desc = "物品栏第一格Penicillin (解毒劑)"
+cheat84_handler = "0"
+cheat84_code = "8007339C#0008;8007339E#0001"
+
+cheat85_desc = "物品栏第一格SMG Clip Holder (MP5.Mクリッブ)"
+cheat85_handler = "0"
+cheat85_code = "8007339C#0009;8007339E#0001"
+
+cheat86_desc = "物品栏第一格Rifle Clip Holder (M4A1.Mクリッブ)"
+cheat86_handler = "0"
+cheat86_code = "8007339C#000A;8007339E#0001"
+
+cheat87_desc = "物品栏第一格Lipstick[口紅] (カプセル)"
+cheat87_handler = "0"
+cheat87_code = "8007339C#000B;8007339E#0001"
+
+cheat88_desc = "物品栏第一格Snail Magazine (マガジン)"
+cheat88_handler = "0"
+cheat88_code = "8007339C#000C;8007339E#0001"
+
+cheat89_desc = "物品栏第一格Belt Pouch[背包] (ボ一チ)"
+cheat89_handler = "0"
+cheat89_code = "8007339C#000D;8007339E#0001"
+
+cheat90_desc = "物品栏第一格MD Player (攜帶機)"
+cheat90_handler = "0"
+cheat90_code = "8007339C#000E;8007339E#0001"
+
+cheat91_desc = "物品栏第一格Skull Crystal (水晶)"
+cheat91_handler = "0"
+cheat91_code = "8007339C#0036;8007339E#0001"
+
+cheat92_desc = "物品栏第一格Medicine Wheel (リング)"
+cheat92_handler = "0"
+cheat92_code = "8007339C#0037;8007339E#0001"
+
+cheat93_desc = "物品栏第一格Holy Water (ビン)"
+cheat93_handler = "0"
+cheat93_code = "8007339C#0038;8007339E#0001"
+
+cheat94_desc = "物品栏第一格Ofuda (封筒)"
+cheat94_handler = "0"
+cheat94_code = "8007339C#0039;8007339E#0001"
+
+cheat95_desc = "物品栏第一格Flare (小箱)"
+cheat95_handler = "0"
+cheat95_code = "8007339C#003A;8007339E#0001"
+
+cheat96_desc = "物品栏第一格Pepper Spray (メ一ス)"
+cheat96_handler = "0"
+cheat96_code = "8007339C#003B;8007339E#0001"
+
+cheat97_desc = "物品栏第一格Protein Capsule (カプセル)"
+cheat97_handler = "0"
+cheat97_code = "8007339C#003C;8007339E#0001"
+
+cheat98_desc = "物品栏第一格Ringer's Solution (パック)"
+cheat98_handler = "0"
+cheat98_code = "8007339C#003D;8007339E#0001"
+
+cheat99_desc = "物品栏第一格Eau de Toilette (ビン)"
+cheat99_handler = "0"
+cheat99_code = "8007339C#003E;8007339E#0001"
+
+cheat100_desc = "物品栏第一格Hunter Goggles[眼罩] (ゴ一グル)"
+cheat100_handler = "0"
+cheat100_code = "8007339C#003F;8007339E#0001"
+
+cheat101_desc = "物品栏第一格GPS"
+cheat101_handler = "0"
+cheat101_code = "8007339C#0040;8007339E#0001"
+
+cheat102_desc = "物品栏第一格Combat Light (コンバットライト)"
+cheat102_handler = "0"
+cheat102_code = "8007339C#0041;8007339E#0001"
+
+cheat103_desc = "物品栏第一格Hammer (スタンガン)"
+cheat103_handler = "0"
+cheat103_code = "8007339C#0042;8007339E#0001"
+
+cheat104_desc = "物品栏第一格Pyke (著火裝置)"
+cheat104_handler = "0"
+cheat104_code = "8007339C#0043;8007339E#0001"
+
+cheat105_desc = "物品栏第一格Javelin (レ一ザ一發生裝置)"
+cheat105_handler = "0"
+cheat105_code = "8007339C#0044;8007339E#0001"
+
+cheat106_desc = "物品栏第一格M203 (グレネ一ドランチャ一)"
+cheat106_handler = "0"
+cheat106_code = "8007339C#0045;8007339E#0001"
+
+cheat107_desc = "物品栏第一格M9"
+cheat107_handler = "0"
+cheat107_code = "8007339C#0046;8007339E#0001"
+
+cheat108_desc = "物品栏第一格Leather Jacket (レザ一ヅンパ一)"
+cheat108_handler = "0"
+cheat108_code = "8007339C#0060;8007339E#0001"
+
+cheat109_desc = "物品栏第一格Tactical Armour (タクティカルア一マ一)"
+cheat109_handler = "0"
+cheat109_code = "8007339C#0061;8007339E#0001"
+
+cheat110_desc = "物品栏第一格Assault Suit (アサルトヅャンパ一)"
+cheat110_handler = "0"
+cheat110_code = "8007339C#0063;8007339E#0001"
+
+cheat111_desc = "物品栏第一格PASGT Vest (PASSGTVベスト)"
+cheat111_handler = "0"
+cheat111_code = "8007339C#0064;8007339E#0001"
+
+cheat112_desc = "物品栏第一格Tactical Vest (ボディア一マ一)"
+cheat112_handler = "0"
+cheat112_code = "8007339C#0065;8007339E#0001"
+
+cheat113_desc = "物品栏第一格EOD Suit (EODス一ッ)"
+cheat113_handler = "0"
+cheat113_code = "8007339C#0066;8007339E#0001"
+
+cheat114_desc = "物品栏第一格Turtle Vest (タ一トルベスト)"
+cheat114_handler = "0"
+cheat114_code = "8007339C#0067;8007339E#0001"
+
+cheat115_desc = "物品栏第一格Chicken Plate (チキンプレ一ト)"
+cheat115_handler = "0"
+cheat115_code = "8007339C#0068;8007339E#0001"
+
+cheat116_desc = "物品栏第一格NBC Suit (サラトガス一ッ)"
+cheat116_handler = "0"
+cheat116_code = "8007339C#0069;8007339E#0001"
+
+cheat117_desc = "物品栏第一格PsySuit (サィコ·プロテクタ一)"
+cheat117_handler = "0"
+cheat117_code = "8007339C#006A;8007339E#0001"
+
+cheat118_desc = "物品栏第一格Aya Special (アャ·スペッャル)"
+cheat118_handler = "0"
+cheat118_code = "8007339C#006B;8007339E#0001"
+
+cheat119_desc = "物品栏第一格Shoulder Holster (ッョルダ一ホルスタ一)"
+cheat119_handler = "0"
+cheat119_code = "8007339C#006C;8007339E#0001"
+
+cheat120_desc = "物品栏第一格Monk Robe (モンク·ロ一ブ)"
+cheat120_handler = "0"
+cheat120_code = "8007339C#006D;8007339E#0001"
+
+cheat121_desc = "物品栏第一格P08[S.Magazine] (P08 Sマガジン)"
+cheat121_handler = "0"
+cheat121_code = "8007339C#0080;8007339E#0001"
+
+cheat122_desc = "物品栏第一格M93R"
+cheat122_handler = "0"
+cheat122_code = "8007339C#0081;8007339E#0001"
+
+cheat123_desc = "物品栏第一格M950 (大型ハンドガン)"
+cheat123_handler = "0"
+cheat123_code = "8007339C#0082;8007339E#0001"
+
+cheat124_desc = "物品栏第一格P08 (ハンドガン)"
+cheat124_handler = "0"
+cheat124_code = "8007339C#0083;8007339E#0001"
+
+cheat125_desc = "物品栏第一格P229"
+cheat125_handler = "0"
+cheat125_code = "8007339C#0084;8007339E#0001"
+
+cheat126_desc = "物品栏第一格Mongoose[.44左輪]"
+cheat126_handler = "0"
+cheat126_code = "8007339C#0088;8007339E#0001"
+
+cheat127_desc = "物品栏第一格Grenade Pistol[榴彈發射器] (グレネ一ドランチャ一)"
+cheat127_handler = "0"
+cheat127_code = "8007339C#008A;8007339E#0001"
+
+cheat128_desc = "物品栏第一格MM1"
+cheat128_handler = "0"
+cheat128_code = "8007339C#008B;B8007339E#0001"
+
+cheat129_desc = "物品栏第一格PA3"
+cheat129_handler = "0"
+cheat129_code = "8007339C#008C;8007339E#0001"
+
+cheat130_desc = "物品栏第一格SP12 (ッョットガン)"
+cheat130_handler = "0"
+cheat130_code = "8007339C#008D;8007339E#0001"
+
+cheat131_desc = "物品栏第一格AS12"
+cheat131_handler = "0"
+cheat131_code = "8007339C#8E;8007339E#0001"
+
+cheat132_desc = "物品栏第一格M4A1 Rifle(ラィフル)"
+cheat132_handler = "0"
+cheat132_code = "8007339C#008F;8007339E#0001"
+
+cheat133_desc = "物品栏第一格M249 (ライトマッンガン)"
+cheat133_handler = "0"
+cheat133_code = "8007339C#0090;8007339E#0001"
+
+cheat134_desc = "物品栏第一格Tonfa Baton[警棍] (トンファ·バトン)"
+cheat134_handler = "0"
+cheat134_code = "8007339C#0092;8007339E#0001"
+
+cheat135_desc = "物品栏第一格M4A1（+1）"
+cheat135_handler = "0"
+cheat135_code = "8007339C#0093;8007339E#0001"
+
+cheat136_desc = "物品栏第一格M4A1（+2）"
+cheat136_handler = "0"
+cheat136_code = "8007339C#0094;8007339E#0001"
+
+cheat137_desc = "物品栏第一格Hypervelocity[電磁炮] (ハイバ一ベロッティ)"
+cheat137_handler = "0"
+cheat137_code = "8007339C#0095;8007339E#0001"
+
+cheat138_desc = "物品栏第一格Gunblade[粒子振動刀] (カタナ)"
+cheat138_handler = "0"
+cheat138_code = "8007339C#0096;8007339E#0001"
+
+cheat139_desc = "物品栏第一格M4A1 Hammer (ハンマ一)"
+cheat139_handler = "0"
+cheat139_code = "8007339C#0098;8007339E#0001"
+
+cheat140_desc = "物品栏第一格M4A1 Bayonet (バヨネシト)"
+cheat140_handler = "0"
+cheat140_code = "8007339C#0099;8007339E#0001"
+
+cheat141_desc = "物品栏第一格M4A1 Grenade (グレネ一ド)"
+cheat141_handler = "0"
+cheat141_code = "8007339C#009A;8007339E#0001"
+
+cheat142_desc = "物品栏第一格M4A1 Pyke (バイク)"
+cheat142_handler = "0"
+cheat142_code = "8007339C#009B;8007339E#0001"
+
+cheat143_desc = "物品栏第一格M4A1 Javelin (ジャベリン)"
+cheat143_handler = "0"
+cheat143_code = "8007339C#009C;8007339E#0001"
+
+cheat144_desc = "物品栏第一格MP5A5 (サブマシンガン)"
+cheat144_handler = "0"
+cheat144_code = "8007339C#009D;8007339E#0001"
+
+cheat145_desc = "物品栏第一格MP5A5（+1）"
+cheat145_handler = "0"
+cheat145_code = "8007339C#009E;8007339E#0001"
+
+cheat146_desc = "物品栏第一格MP5A5（+2）"
+cheat146_handler = "0"
+cheat146_code = "8007339C#009F;8007339E#0001"
+
+cheat147_desc = "物品栏第一格9mm P.B.パラベラム[500] (9mmパラベラム)"
+cheat147_handler = "0"
+cheat147_code = "8007339C#00A0;8007339E#01F4"
+
+cheat148_desc = "物品栏第一格9mm Hydra[500] (9mm彈)"
+cheat148_handler = "0"
+cheat148_code = "8007339C#00A1;8007339E#01F4"
+
+cheat149_desc = "物品栏第一格9mm Spartan[500]"
+cheat149_handler = "0"
+cheat149_code = "8007339C#00A2;8007339E#01F4"
+
+cheat150_desc = "物品栏第一格44 Magnum[999] (マグナム彈)"
+cheat150_handler = "0"
+cheat150_code = "8007339C#00A6;8007339E#03E7"
+
+cheat151_desc = "物品栏第一格44 Maeda SP[999]"
+cheat151_handler = "0"
+cheat151_code = "8007339C#00A7;8007339E#03E7"
+
+cheat152_desc = "物品栏第一格44 Poison[999] (44ドク)"
+cheat152_handler = "0"
+cheat152_code = "8007339C#00A8;8007339E#03E7"
+
+cheat153_desc = "物品栏第一格Grenade[100] (グレネ一ド彈)"
+cheat153_handler = "0"
+cheat153_code = "8007339C#00A9;8007339E#0064"
+
+cheat154_desc = "物品栏第一格Airburst[100]"
+cheat154_handler = "0"
+cheat154_code = "8007339C#00AA;8007339E#0064"
+
+cheat155_desc = "物品栏第一格Riot[100]"
+cheat155_handler = "0"
+cheat155_code = "8007339C#00AB;8007339E#0064"
+
+cheat156_desc = "物品栏第一格Bukshot[200] (バックショット)"
+cheat156_handler = "0"
+cheat156_code = "8007339C#00AC;8007339E#00C8"
+
+cheat157_desc = "物品栏第一格Firefly[200] (ツョットツェル)"
+cheat157_handler = "0"
+cheat157_code = "8007339C#00AD;8007339E#00C8"
+
+cheat158_desc = "物品栏第一格R.Slug[200]"
+cheat158_handler = "0"
+cheat158_code = "8007339C#00AE;8007339E#00C8"
+
+cheat159_desc = "物品栏第一格5.56 Rifle[800] (5.56ラィフル)"
+cheat159_handler = "0"
+cheat159_code = "8007339C#00AF;8007339E#0320"
+
+cheat160_desc = "物品栏第二格NONE"
+cheat160_handler = "0"
+cheat160_code = "0000,0"
+
+cheat161_desc = "物品栏第二格Recovery1 (回復劑LV.1)"
+cheat161_handler = "0"
+cheat161_code = "800733A0#0001;800733A2#0001"
+
+cheat162_desc = "物品栏第二格Recovery2 (回復劑LV.2)"
+cheat162_handler = "0"
+cheat162_code = "800733A0#0002;800733A2#0001"
+
+cheat163_desc = "物品栏第二格Recovery3 (小ビン)"
+cheat163_handler = "0"
+cheat163_code = "800733A0#0003;800733A2#0001"
+
+cheat164_desc = "物品栏第二格Stim (鎮靜劑)"
+cheat164_handler = "0"
+cheat164_code = "800733A0#0004;800733A2#0001"
+
+cheat165_desc = "物品栏第二格Cole (カン)"
+cheat165_handler = "0"
+cheat165_code = "800733A0#0005;800733A2#0001"
+
+cheat166_desc = "物品栏第二格MP Boost1 (MP回復水LV.1)"
+cheat166_handler = "0"
+cheat166_code = "800733A0#0006;800733A2#0001"
+
+cheat167_desc = "物品栏第二格MP Boost2 (ビン)"
+cheat167_handler = "0"
+cheat167_code = "800733A0#0007;800733A2#0001"
+
+cheat168_desc = "物品栏第二格Penicillin (解毒劑)"
+cheat168_handler = "0"
+cheat168_code = "800733A0#0008;800733A2#0001"
+
+cheat169_desc = "物品栏第二格SMG Clip Holder (MP5.Mクリッブ)"
+cheat169_handler = "0"
+cheat169_code = "800733A0#0009;800733A2#0001"
+
+cheat170_desc = "物品栏第二格Rifle Clip Holder (M4A1.Mクリッブ)"
+cheat170_handler = "0"
+cheat170_code = "800733A0#000A;800733A2#0001"
+
+cheat171_desc = "物品栏第二格Lipstick[口紅] (カプセル)"
+cheat171_handler = "0"
+cheat171_code = "800733A0#000B;800733A2#0001"
+
+cheat172_desc = "物品栏第二格Snail Magazine (マガジン)"
+cheat172_handler = "0"
+cheat172_code = "800733A0#000C;800733A2#0001"
+
+cheat173_desc = "物品栏第二格Belt Pouch[背包] (ボ一チ)"
+cheat173_handler = "0"
+cheat173_code = "800733A0#000D;800733A2#0001"
+
+cheat174_desc = "物品栏第二格MD Player (攜帶機)"
+cheat174_handler = "0"
+cheat174_code = "800733A0#000E;800733A2#0001"
+
+cheat175_desc = "物品栏第二格Skull Crystal (水晶)"
+cheat175_handler = "0"
+cheat175_code = "800733A0#0036;800733A2#0001"
+
+cheat176_desc = "物品栏第二格Medicine Wheel (リング)"
+cheat176_handler = "0"
+cheat176_code = "800733A0#0037;800733A2#0001"
+
+cheat177_desc = "物品栏第二格Holy Water (ビン)"
+cheat177_handler = "0"
+cheat177_code = "800733A0#0038;800733A2#0001"
+
+cheat178_desc = "物品栏第二格Ofuda (封筒)"
+cheat178_handler = "0"
+cheat178_code = "800733A0#0039;800733A2#0001"
+
+cheat179_desc = "物品栏第二格Flare (小箱)"
+cheat179_handler = "0"
+cheat179_code = "800733A0#003A;800733A2#0001"
+
+cheat180_desc = "物品栏第二格Pepper Spray (メ一ス)"
+cheat180_handler = "0"
+cheat180_code = "800733A0#003B;800733A2#0001"
+
+cheat181_desc = "物品栏第二格Protein Capsule (カプセル)"
+cheat181_handler = "0"
+cheat181_code = "800733A0#003C;800733A2#0001"
+
+cheat182_desc = "物品栏第二格Ringer's Solution (パック)"
+cheat182_handler = "0"
+cheat182_code = "800733A0#003D;800733A2#0001"
+
+cheat183_desc = "物品栏第二格Eau de Toilette (ビン)"
+cheat183_handler = "0"
+cheat183_code = "800733A0#003E;800733A2#0001"
+
+cheat184_desc = "物品栏第二格Hunter Goggles[眼罩] (ゴ一グル)"
+cheat184_handler = "0"
+cheat184_code = "800733A0#003F;800733A2#0001"
+
+cheat185_desc = "物品栏第二格GPS"
+cheat185_handler = "0"
+cheat185_code = "800733A0#0040;800733A2#0001"
+
+cheat186_desc = "物品栏第二格Combat Light (コンバットライト)"
+cheat186_handler = "0"
+cheat186_code = "800733A0#0041;800733A2#0001"
+
+cheat187_desc = "物品栏第二格Hammer (スタンガン)"
+cheat187_handler = "0"
+cheat187_code = "800733A0#0042;800733A2#0001"
+
+cheat188_desc = "物品栏第二格Pyke (著火裝置)"
+cheat188_handler = "0"
+cheat188_code = "800733A0#0043;800733A2#0001"
+
+cheat189_desc = "物品栏第二格Javelin (レ一ザ一發生裝置)"
+cheat189_handler = "0"
+cheat189_code = "800733A0#0044;800733A2#0001"
+
+cheat190_desc = "物品栏第二格M203 (グレネ一ドランチャ一)"
+cheat190_handler = "0"
+cheat190_code = "800733A0#0045;800733A2#0001"
+
+cheat191_desc = "物品栏第二格M9"
+cheat191_handler = "0"
+cheat191_code = "800733A0#0046;800733A2#0001"
+
+cheat192_desc = "物品栏第二格Leather Jacket (レザ一ヅンパ一)"
+cheat192_handler = "0"
+cheat192_code = "800733A0#0060;800733A2#0001"
+
+cheat193_desc = "物品栏第二格Tactical Armour (タクティカルア一マ一)"
+cheat193_handler = "0"
+cheat193_code = "800733A0#0061;800733A2#0001"
+
+cheat194_desc = "物品栏第二格Assault Suit (アサルトヅャンパ一)"
+cheat194_handler = "0"
+cheat194_code = "800733A0#0063;800733A2#0001"
+
+cheat195_desc = "物品栏第二格PASGT Vest (PASSGTVベスト)"
+cheat195_handler = "0"
+cheat195_code = "800733A0#0064;800733A2#0001"
+
+cheat196_desc = "物品栏第二格Tactical Vest (ボディア一マ一)"
+cheat196_handler = "0"
+cheat196_code = "800733A0#0065;800733A2#0001"
+
+cheat197_desc = "物品栏第二格EOD Suit (EODス一ッ)"
+cheat197_handler = "0"
+cheat197_code = "800733A0#0066;800733A2#0001"
+
+cheat198_desc = "物品栏第二格Turtle Vest (タ一トルベスト)"
+cheat198_handler = "0"
+cheat198_code = "800733A0#0067;800733A2#0001"
+
+cheat199_desc = "物品栏第二格Chicken Plate (チキンプレ一ト)"
+cheat199_handler = "0"
+cheat199_code = "800733A0#0068;800733A2#0001"
+
+cheat200_desc = "物品栏第二格NBC Suit (サラトガス一ッ)"
+cheat200_handler = "0"
+cheat200_code = "800733A0#0069;800733A2#0001"
+
+cheat201_desc = "物品栏第二格PsySuit (サィコ·プロテクタ一)"
+cheat201_handler = "0"
+cheat201_code = "800733A0#006A;800733A2#0001"
+
+cheat202_desc = "物品栏第二格Aya Special (アャ·スペッャル)"
+cheat202_handler = "0"
+cheat202_code = "800733A0#006B;800733A2#0001"
+
+cheat203_desc = "物品栏第二格Shoulder Holster (ッョルダ一ホルスタ一)"
+cheat203_handler = "0"
+cheat203_code = "800733A0#006C;800733A2#0001"
+
+cheat204_desc = "物品栏第二格Monk Robe (モンク·ロ一ブ)"
+cheat204_handler = "0"
+cheat204_code = "800733A0#006D;800733A2#0001"
+
+cheat205_desc = "物品栏第二格P08[S.Magazine] (P08 Sマガジン)"
+cheat205_handler = "0"
+cheat205_code = "800733A0#0080;800733A2#0001"
+
+cheat206_desc = "物品栏第二格M93R"
+cheat206_handler = "0"
+cheat206_code = "800733A0#0081;800733A2#0001"
+
+cheat207_desc = "物品栏第二格M950 (大型ハンドガン)"
+cheat207_handler = "0"
+cheat207_code = "800733A0#0082;800733A2#0001"
+
+cheat208_desc = "物品栏第二格P08 (ハンドガン)"
+cheat208_handler = "0"
+cheat208_code = "800733A0#0083;800733A2#0001"
+
+cheat209_desc = "物品栏第二格P229"
+cheat209_handler = "0"
+cheat209_code = "800733A0#0084;800733A2#0001"
+
+cheat210_desc = "物品栏第二格Mongoose[.44左輪]"
+cheat210_handler = "0"
+cheat210_code = "800733A0#0088;800733A2#0001"
+
+cheat211_desc = "物品栏第二格Grenade Pistol[榴彈發射器] (グレネ一ドランチャ一)"
+cheat211_handler = "0"
+cheat211_code = "800733A0#008A;800733A2#0001"
+
+cheat212_desc = "物品栏第二格MM1"
+cheat212_handler = "0"
+cheat212_code = "800733A0#008B;800733A2#0001"
+
+cheat213_desc = "物品栏第二格PA3"
+cheat213_handler = "0"
+cheat213_code = "800733A0#008C;800733A2#0001"
+
+cheat214_desc = "物品栏第二格SP12 (ッョットガン)"
+cheat214_handler = "0"
+cheat214_code = "800733A0#008D;800733A2#0001"
+
+cheat215_desc = "物品栏第二格AS12"
+cheat215_handler = "0"
+cheat215_code = "800733A0#8E;800733A2#0001"
+
+cheat216_desc = "物品栏第二格M4A1 Rifle(ラィフル)"
+cheat216_handler = "0"
+cheat216_code = "800733A0#008F;800733A2#0001"
+
+cheat217_desc = "物品栏第二格M249 (ライトマッンガン)"
+cheat217_handler = "0"
+cheat217_code = "800733A0#0090;800733A2#0001"
+
+cheat218_desc = "物品栏第二格Tonfa Baton[警棍] (トンファ·バトン)"
+cheat218_handler = "0"
+cheat218_code = "800733A0#0092;800733A2#0001"
+
+cheat219_desc = "物品栏第二格M4A1（+1）"
+cheat219_handler = "0"
+cheat219_code = "800733A0#0093;800733A2#0001"
+
+cheat220_desc = "物品栏第二格M4A1（+2）"
+cheat220_handler = "0"
+cheat220_code = "800733A0#0094;800733A2#0001"
+
+cheat221_desc = "物品栏第二格Hypervelocity[電磁炮] (ハイバ一ベロッティ)"
+cheat221_handler = "0"
+cheat221_code = "800733A0#0095;800733A2#0001"
+
+cheat222_desc = "物品栏第二格Gunblade[粒子振動刀] (カタナ)"
+cheat222_handler = "0"
+cheat222_code = "800733A0#0096;800733A2#0001"
+
+cheat223_desc = "物品栏第二格M4A1 Hammer (ハンマ一)"
+cheat223_handler = "0"
+cheat223_code = "800733A0#0098;800733A2#0001"
+
+cheat224_desc = "物品栏第二格M4A1 Bayonet (バヨネシト)"
+cheat224_handler = "0"
+cheat224_code = "800733A0#0099;800733A2#0001"
+
+cheat225_desc = "物品栏第二格M4A1 Grenade (グレネ一ド)"
+cheat225_handler = "0"
+cheat225_code = "800733A0#009A;800733A2#0001"
+
+cheat226_desc = "物品栏第二格M4A1 Pyke (バイク)"
+cheat226_handler = "0"
+cheat226_code = "800733A0#009B;800733A2#0001"
+
+cheat227_desc = "物品栏第二格M4A1 Javelin (ジャベリン)"
+cheat227_handler = "0"
+cheat227_code = "800733A0#009C;800733A2#0001"
+
+cheat228_desc = "物品栏第二格MP5A5 (サブマシンガン)"
+cheat228_handler = "0"
+cheat228_code = "800733A0#009D;800733A2#0001"
+
+cheat229_desc = "物品栏第二格MP5A5（+1）"
+cheat229_handler = "0"
+cheat229_code = "800733A0#009E;800733A2#0001"
+
+cheat230_desc = "物品栏第二格MP5A5（+2）"
+cheat230_handler = "0"
+cheat230_code = "800733A0#009F;800733A2#0001"
+
+cheat231_desc = "物品栏第二格9mm P.B.パラベラム[500] (9mmパラベラム)"
+cheat231_handler = "0"
+cheat231_code = "800733A0#00A0;800733A2#01F4"
+
+cheat232_desc = "物品栏第二格9mm Hydra[500] (9mm彈)"
+cheat232_handler = "0"
+cheat232_code = "800733A0#00A1;800733A2#01F4"
+
+cheat233_desc = "物品栏第二格9mm Spartan[500]"
+cheat233_handler = "0"
+cheat233_code = "800733A0#00A2;800733A2#01F4"
+
+cheat234_desc = "物品栏第二格44 Magnum[999] (マグナム彈)"
+cheat234_handler = "0"
+cheat234_code = "800733A0#00A6;800733A2#03E7"
+
+cheat235_desc = "物品栏第二格44 Maeda SP[999]"
+cheat235_handler = "0"
+cheat235_code = "800733A0#00A7;800733A2#03E7"
+
+cheat236_desc = "物品栏第二格44 Poison[999] (44ドク)"
+cheat236_handler = "0"
+cheat236_code = "800733A0#00A8;800733A2#03E7"
+
+cheat237_desc = "物品栏第二格Grenade[100] (グレネ一ド彈)"
+cheat237_handler = "0"
+cheat237_code = "800733A0#00A9;800733A2#0064"
+
+cheat238_desc = "物品栏第二格Airburst[100]"
+cheat238_handler = "0"
+cheat238_code = "800733A0#00AA;800733A2#0064"
+
+cheat239_desc = "物品栏第二格Riot[100]"
+cheat239_handler = "0"
+cheat239_code = "800733A0#00AB;800733A2#0064"
+
+cheat240_desc = "物品栏第二格Bukshot[200] (バックショット)"
+cheat240_handler = "0"
+cheat240_code = "800733A0#00AC;800733A2#00C8"
+
+cheat241_desc = "物品栏第二格Firefly[200] (ツョットツェル)"
+cheat241_handler = "0"
+cheat241_code = "800733A0#00AD;800733A2#00C8"
+
+cheat242_desc = "物品栏第二格R.Slug[200]"
+cheat242_handler = "0"
+cheat242_code = "800733A0#00AE;800733A2#00C8"
+
+cheat243_desc = "物品栏第二格5.56 Rifle[800] (5.56ラィフル)"
+cheat243_handler = "0"
+cheat243_code = "800733A0#00AF;800733A2#0320"
+
+cheat244_desc = "物品栏第三格NONE"
+cheat244_handler = "0"
+cheat244_code = "0000,0"
+
+cheat245_desc = "物品栏第三格Recovery1 (回復劑LV.1)"
+cheat245_handler = "0"
+cheat245_code = "800733A4#0001;800733A6#0001"
+
+cheat246_desc = "物品栏第三格Recovery2 (回復劑LV.2)"
+cheat246_handler = "0"
+cheat246_code = "800733A4#0002;800733A6#0001"
+
+cheat247_desc = "物品栏第三格Recovery3 (小ビン)"
+cheat247_handler = "0"
+cheat247_code = "800733A4#0003;800733A6#0001"
+
+cheat248_desc = "物品栏第三格Stim (鎮靜劑)"
+cheat248_handler = "0"
+cheat248_code = "800733A4#0004;800733A6#0001"
+
+cheat249_desc = "物品栏第三格Cole (カン)"
+cheat249_handler = "0"
+cheat249_code = "800733A4#0005;800733A6#0001"
+
+cheat250_desc = "物品栏第三格MP Boost1 (MP回復水LV.1)"
+cheat250_handler = "0"
+cheat250_code = "800733A4#0006;800733A6#0001"
+
+cheat251_desc = "物品栏第三格MP Boost2 (ビン)"
+cheat251_handler = "0"
+cheat251_code = "800733A4#0007;800733A6#0001"
+
+cheat252_desc = "物品栏第三格Penicillin (解毒劑)"
+cheat252_handler = "0"
+cheat252_code = "800733A4#0008;800733A6#0001"
+
+cheat253_desc = "物品栏第三格SMG Clip Holder (MP5.Mクリッブ)"
+cheat253_handler = "0"
+cheat253_code = "800733A4#0009;800733A6#0001"
+
+cheat254_desc = "物品栏第三格Rifle Clip Holder (M4A1.Mクリッブ)"
+cheat254_handler = "0"
+cheat254_code = "800733A4#000A;800733A6#0001"
+
+cheat255_desc = "物品栏第三格Lipstick[口紅] (カプセル)"
+cheat255_handler = "0"
+cheat255_code = "800733A4#000B;800733A6#0001"
+
+cheat256_desc = "物品栏第三格Snail Magazine (マガジン)"
+cheat256_handler = "0"
+cheat256_code = "800733A4#000C;800733A6#0001"
+
+cheat257_desc = "物品栏第三格Belt Pouch[背包] (ボ一チ)"
+cheat257_handler = "0"
+cheat257_code = "800733A4#000D;800733A6#0001"
+
+cheat258_desc = "物品栏第三格MD Player (攜帶機)"
+cheat258_handler = "0"
+cheat258_code = "800733A4#000E;800733A6#0001"
+
+cheat259_desc = "物品栏第三格Skull Crystal (水晶)"
+cheat259_handler = "0"
+cheat259_code = "800733A4#0036;800733A6#0001"
+
+cheat260_desc = "物品栏第三格Medicine Wheel (リング)"
+cheat260_handler = "0"
+cheat260_code = "800733A4#0037;800733A6#0001"
+
+cheat261_desc = "物品栏第三格Holy Water (ビン)"
+cheat261_handler = "0"
+cheat261_code = "800733A4#0038;800733A6#0001"
+
+cheat262_desc = "物品栏第三格Ofuda (封筒)"
+cheat262_handler = "0"
+cheat262_code = "800733A4#0039;800733A6#0001"
+
+cheat263_desc = "物品栏第三格Flare (小箱)"
+cheat263_handler = "0"
+cheat263_code = "800733A4#003A;800733A6#0001"
+
+cheat264_desc = "物品栏第三格Pepper Spray (メ一ス)"
+cheat264_handler = "0"
+cheat264_code = "800733A4#003B;800733A6#0001"
+
+cheat265_desc = "物品栏第三格Protein Capsule (カプセル)"
+cheat265_handler = "0"
+cheat265_code = "800733A4#003C;800733A6#0001"
+
+cheat266_desc = "物品栏第三格Ringer's Solution (パック)"
+cheat266_handler = "0"
+cheat266_code = "800733A4#003D;800733A6#0001"
+
+cheat267_desc = "物品栏第三格Eau de Toilette (ビン)"
+cheat267_handler = "0"
+cheat267_code = "800733A4#003E;800733A6#0001"
+
+cheat268_desc = "物品栏第三格Hunter Goggles[眼罩] (ゴ一グル)"
+cheat268_handler = "0"
+cheat268_code = "800733A4#003F;800733A6#0001"
+
+cheat269_desc = "物品栏第三格GPS"
+cheat269_handler = "0"
+cheat269_code = "800733A4#0040;800733A6#0001"
+
+cheat270_desc = "物品栏第三格Combat Light (コンバットライト)"
+cheat270_handler = "0"
+cheat270_code = "800733A4#0041;800733A6#0001"
+
+cheat271_desc = "物品栏第三格Hammer (スタンガン)"
+cheat271_handler = "0"
+cheat271_code = "800733A4#0042;800733A6#0001"
+
+cheat272_desc = "物品栏第三格Pyke (著火裝置)"
+cheat272_handler = "0"
+cheat272_code = "800733A4#0043;800733A6#0001"
+
+cheat273_desc = "物品栏第三格Javelin (レ一ザ一發生裝置)"
+cheat273_handler = "0"
+cheat273_code = "800733A4#0044;800733A6#0001"
+
+cheat274_desc = "物品栏第三格M203 (グレネ一ドランチャ一)"
+cheat274_handler = "0"
+cheat274_code = "800733A4#0045;800733A6#0001"
+
+cheat275_desc = "物品栏第三格M9"
+cheat275_handler = "0"
+cheat275_code = "800733A4#0046;800733A6#0001"
+
+cheat276_desc = "物品栏第三格Leather Jacket (レザ一ヅンパ一)"
+cheat276_handler = "0"
+cheat276_code = "800733A4#0060;800733A6#0001"
+
+cheat277_desc = "物品栏第三格Tactical Armour (タクティカルア一マ一)"
+cheat277_handler = "0"
+cheat277_code = "800733A4#0061;800733A6#0001"
+
+cheat278_desc = "物品栏第三格Assault Suit (アサルトヅャンパ一)"
+cheat278_handler = "0"
+cheat278_code = "800733A4#0063;800733A6#0001"
+
+cheat279_desc = "物品栏第三格PASGT Vest (PASSGTVベスト)"
+cheat279_handler = "0"
+cheat279_code = "800733A4#0064;800733A6#0001"
+
+cheat280_desc = "物品栏第三格Tactical Vest (ボディア一マ一)"
+cheat280_handler = "0"
+cheat280_code = "800733A4#0065;800733A6#0001"
+
+cheat281_desc = "物品栏第三格EOD Suit (EODス一ッ)"
+cheat281_handler = "0"
+cheat281_code = "800733A4#0066;800733A6#0001"
+
+cheat282_desc = "物品栏第三格Turtle Vest (タ一トルベスト)"
+cheat282_handler = "0"
+cheat282_code = "800733A4#0067;800733A6#0001"
+
+cheat283_desc = "物品栏第三格Chicken Plate (チキンプレ一ト)"
+cheat283_handler = "0"
+cheat283_code = "800733A4#0068;800733A6#0001"
+
+cheat284_desc = "物品栏第三格NBC Suit (サラトガス一ッ)"
+cheat284_handler = "0"
+cheat284_code = "800733A4#0069;800733A6#0001"
+
+cheat285_desc = "物品栏第三格PsySuit (サィコ·プロテクタ一)"
+cheat285_handler = "0"
+cheat285_code = "800733A4#006A;800733A6#0001"
+
+cheat286_desc = "物品栏第三格Aya Special (アャ·スペッャル)"
+cheat286_handler = "0"
+cheat286_code = "800733A4#006B;800733A6#0001"
+
+cheat287_desc = "物品栏第三格Shoulder Holster (ッョルダ一ホルスタ一)"
+cheat287_handler = "0"
+cheat287_code = "800733A4#006C;800733A6#0001"
+
+cheat288_desc = "物品栏第三格Monk Robe (モンク·ロ一ブ)"
+cheat288_handler = "0"
+cheat288_code = "800733A4#006D;800733A6#0001"
+
+cheat289_desc = "物品栏第三格P08[S.Magazine] (P08 Sマガジン)"
+cheat289_handler = "0"
+cheat289_code = "800733A4#0080;800733A6#0001"
+
+cheat290_desc = "物品栏第三格M93R"
+cheat290_handler = "0"
+cheat290_code = "800733A4#0081;800733A6#0001"
+
+cheat291_desc = "物品栏第三格M950 (大型ハンドガン)"
+cheat291_handler = "0"
+cheat291_code = "800733A4#0082;800733A6#0001"
+
+cheat292_desc = "物品栏第三格P08 (ハンドガン)"
+cheat292_handler = "0"
+cheat292_code = "800733A4#0083;800733A6#0001"
+
+cheat293_desc = "物品栏第三格P229"
+cheat293_handler = "0"
+cheat293_code = "800733A4#0084;800733A6#0001"
+
+cheat294_desc = "物品栏第三格Mongoose[.44左輪]"
+cheat294_handler = "0"
+cheat294_code = "800733A4#0088;800733A6#0001"
+
+cheat295_desc = "物品栏第三格Grenade Pistol[榴彈發射器] (グレネ一ドランチャ一)"
+cheat295_handler = "0"
+cheat295_code = "800733A4#008A;800733A6#0001"
+
+cheat296_desc = "物品栏第三格MM1"
+cheat296_handler = "0"
+cheat296_code = "800733A4#008B;800733A6#0001"
+
+cheat297_desc = "物品栏第三格PA3"
+cheat297_handler = "0"
+cheat297_code = "800733A4#008C;800733A6#0001"
+
+cheat298_desc = "物品栏第三格SP12 (ッョットガン)"
+cheat298_handler = "0"
+cheat298_code = "800733A4#008D;800733A6#0001"
+
+cheat299_desc = "物品栏第三格AS12"
+cheat299_handler = "0"
+cheat299_code = "800733A4#8E;800733A6#0001"
+
+cheat300_desc = "物品栏第三格M4A1 Rifle(ラィフル)"
+cheat300_handler = "0"
+cheat300_code = "800733A4#008F;800733A6#0001"
+
+cheat301_desc = "物品栏第三格M249 (ライトマッンガン)"
+cheat301_handler = "0"
+cheat301_code = "800733A4#0090;800733A6#0001"
+
+cheat302_desc = "物品栏第三格Tonfa Baton[警棍] (トンファ·バトン)"
+cheat302_handler = "0"
+cheat302_code = "800733A4#0092;800733A6#0001"
+
+cheat303_desc = "物品栏第三格M4A1（+1）"
+cheat303_handler = "0"
+cheat303_code = "800733A4#0093;800733A6#0001"
+
+cheat304_desc = "物品栏第三格M4A1（+2）"
+cheat304_handler = "0"
+cheat304_code = "800733A4#0094;800733A6#0001"
+
+cheat305_desc = "物品栏第三格Hypervelocity[電磁炮] (ハイバ一ベロッティ)"
+cheat305_handler = "0"
+cheat305_code = "800733A4#0095;800733A6#0001"
+
+cheat306_desc = "物品栏第三格Gunblade[粒子振動刀] (カタナ)"
+cheat306_handler = "0"
+cheat306_code = "800733A4#0096;800733A6#0001"
+
+cheat307_desc = "物品栏第三格M4A1 Hammer (ハンマ一)"
+cheat307_handler = "0"
+cheat307_code = "800733A4#0098;800733A6#0001"
+
+cheat308_desc = "物品栏第三格M4A1 Bayonet (バヨネシト)"
+cheat308_handler = "0"
+cheat308_code = "800733A4#0099;800733A6#0001"
+
+cheat309_desc = "物品栏第三格M4A1 Grenade (グレネ一ド)"
+cheat309_handler = "0"
+cheat309_code = "800733A4#009A;800733A6#0001"
+
+cheat310_desc = "物品栏第三格M4A1 Pyke (バイク)"
+cheat310_handler = "0"
+cheat310_code = "800733A4#009B;800733A6#0001"
+
+cheat311_desc = "物品栏第三格M4A1 Javelin (ジャベリン)"
+cheat311_handler = "0"
+cheat311_code = "800733A4#009C;800733A6#0001"
+
+cheat312_desc = "物品栏第三格MP5A5 (サブマシンガン)"
+cheat312_handler = "0"
+cheat312_code = "800733A4#009D;800733A6#0001"
+
+cheat313_desc = "物品栏第三格MP5A5（+1）"
+cheat313_handler = "0"
+cheat313_code = "800733A4#009E;800733A6#0001"
+
+cheat314_desc = "物品栏第三格MP5A5（+2）"
+cheat314_handler = "0"
+cheat314_code = "800733A4#009F;800733A6#0001"
+
+cheat315_desc = "物品栏第三格9mm P.B.パラベラム[500] (9mmパラベラム)"
+cheat315_handler = "0"
+cheat315_code = "800733A4#00A0;800733A6#01F4"
+
+cheat316_desc = "物品栏第三格9mm Hydra[500] (9mm彈)"
+cheat316_handler = "0"
+cheat316_code = "800733A4#00A1;800733A6#01F4"
+
+cheat317_desc = "物品栏第三格9mm Spartan[500]"
+cheat317_handler = "0"
+cheat317_code = "800733A4#00A2;800733A6#01F4"
+
+cheat318_desc = "物品栏第三格44 Magnum[999] (マグナム彈)"
+cheat318_handler = "0"
+cheat318_code = "800733A4#00A6;800733A6#03E7"
+
+cheat319_desc = "物品栏第三格44 Maeda SP[999]"
+cheat319_handler = "0"
+cheat319_code = "800733A4#00A7;800733A6#03E7"
+
+cheat320_desc = "物品栏第三格44 Poison[999] (44ドク)"
+cheat320_handler = "0"
+cheat320_code = "800733A4#00A8;800733A6#03E7"
+
+cheat321_desc = "物品栏第三格Grenade[100] (グレネ一ド彈)"
+cheat321_handler = "0"
+cheat321_code = "800733A4#00A9;800733A6#0064"
+
+cheat322_desc = "物品栏第三格Airburst[100]"
+cheat322_handler = "0"
+cheat322_code = "800733A4#00AA;800733A6#0064"
+
+cheat323_desc = "物品栏第三格Riot[100]"
+cheat323_handler = "0"
+cheat323_code = "800733A4#00AB;800733A6#0064"
+
+cheat324_desc = "物品栏第三格Bukshot[200] (バックショット)"
+cheat324_handler = "0"
+cheat324_code = "800733A4#00AC;800733A6#00C8"
+
+cheat325_desc = "物品栏第三格Firefly[200] (ツョットツェル)"
+cheat325_handler = "0"
+cheat325_code = "800733A4#00AD;800733A6#00C8"
+
+cheat326_desc = "物品栏第三格R.Slug[200]"
+cheat326_handler = "0"
+cheat326_code = "800733A4#00AE;800733A6#00C8"
+
+cheat327_desc = "物品栏第三格5.56 Rifle[800] (5.56ラィフル)"
+cheat327_handler = "0"
+cheat327_code = "800733A4#00AF;800733A6#0320"
+
+cheat328_desc = "物品栏第四格NONE"
+cheat328_handler = "0"
+cheat328_code = "0000,0"
+
+cheat329_desc = "物品栏第四格Recovery1 (回復劑LV.1)"
+cheat329_handler = "0"
+cheat329_code = "800733A8#0001;800733AA#0001"
+
+cheat330_desc = "物品栏第四格Recovery2 (回復劑LV.2)"
+cheat330_handler = "0"
+cheat330_code = "800733A8#0002;800733AA#0001"
+
+cheat331_desc = "物品栏第四格Recovery3 (小ビン)"
+cheat331_handler = "0"
+cheat331_code = "800733A8#0003;800733AA#0001"
+
+cheat332_desc = "物品栏第四格Stim (鎮靜劑)"
+cheat332_handler = "0"
+cheat332_code = "800733A8#0004;800733AA#0001"
+
+cheat333_desc = "物品栏第四格Cole (カン)"
+cheat333_handler = "0"
+cheat333_code = "800733A8#0005;800733AA#0001"
+
+cheat334_desc = "物品栏第四格MP Boost1 (MP回復水LV.1)"
+cheat334_handler = "0"
+cheat334_code = "800733A8#0006;800733AA#0001"
+
+cheat335_desc = "物品栏第四格MP Boost2 (ビン)"
+cheat335_handler = "0"
+cheat335_code = "800733A8#0007;800733AA#0001"
+
+cheat336_desc = "物品栏第四格Penicillin (解毒劑)"
+cheat336_handler = "0"
+cheat336_code = "800733A8#0008;800733AA#0001"
+
+cheat337_desc = "物品栏第四格SMG Clip Holder (MP5.Mクリッブ)"
+cheat337_handler = "0"
+cheat337_code = "800733A8#0009;800733AA#0001"
+
+cheat338_desc = "物品栏第四格Rifle Clip Holder (M4A1.Mクリッブ)"
+cheat338_handler = "0"
+cheat338_code = "800733A8#000A;800733AA#0001"
+
+cheat339_desc = "物品栏第四格Lipstick[口紅] (カプセル)"
+cheat339_handler = "0"
+cheat339_code = "800733A8#000B;800733AA#0001"
+
+cheat340_desc = "物品栏第四格Snail Magazine (マガジン)"
+cheat340_handler = "0"
+cheat340_code = "800733A8#000C;800733AA#0001"
+
+cheat341_desc = "物品栏第四格Belt Pouch[背包] (ボ一チ)"
+cheat341_handler = "0"
+cheat341_code = "800733A8#000D;800733AA#0001"
+
+cheat342_desc = "物品栏第四格MD Player (攜帶機)"
+cheat342_handler = "0"
+cheat342_code = "800733A8#000E;800733AA#0001"
+
+cheat343_desc = "物品栏第四格Skull Crystal (水晶)"
+cheat343_handler = "0"
+cheat343_code = "800733A8#0036;800733AA#0001"
+
+cheat344_desc = "物品栏第四格Medicine Wheel (リング)"
+cheat344_handler = "0"
+cheat344_code = "800733A8#0037;800733AA#0001"
+
+cheat345_desc = "物品栏第四格Holy Water (ビン)"
+cheat345_handler = "0"
+cheat345_code = "800733A8#0038;800733AA#0001"
+
+cheat346_desc = "物品栏第四格Ofuda (封筒)"
+cheat346_handler = "0"
+cheat346_code = "800733A8#0039;800733AA#0001"
+
+cheat347_desc = "物品栏第四格Flare (小箱)"
+cheat347_handler = "0"
+cheat347_code = "800733A8#003A;800733AA#0001"
+
+cheat348_desc = "物品栏第四格Pepper Spray (メ一ス)"
+cheat348_handler = "0"
+cheat348_code = "800733A8#003B;800733AA#0001"
+
+cheat349_desc = "物品栏第四格Protein Capsule (カプセル)"
+cheat349_handler = "0"
+cheat349_code = "800733A8#003C;800733AA#0001"
+
+cheat350_desc = "物品栏第四格Ringer's Solution (パック)"
+cheat350_handler = "0"
+cheat350_code = "800733A8#003D;800733AA#0001"
+
+cheat351_desc = "物品栏第四格Eau de Toilette (ビン)"
+cheat351_handler = "0"
+cheat351_code = "800733A8#003E;800733AA#0001"
+
+cheat352_desc = "物品栏第四格Hunter Goggles[眼罩] (ゴ一グル)"
+cheat352_handler = "0"
+cheat352_code = "800733A8#003F;800733AA#0001"
+
+cheat353_desc = "物品栏第四格GPS"
+cheat353_handler = "0"
+cheat353_code = "800733A8#0040;800733AA#0001"
+
+cheat354_desc = "物品栏第四格Combat Light (コンバットライト)"
+cheat354_handler = "0"
+cheat354_code = "800733A8#0041;800733AA#0001"
+
+cheat355_desc = "物品栏第四格Hammer (スタンガン)"
+cheat355_handler = "0"
+cheat355_code = "800733A8#0042;800733AA#0001"
+
+cheat356_desc = "物品栏第四格Pyke (著火裝置)"
+cheat356_handler = "0"
+cheat356_code = "800733A8#0043;800733AA#0001"
+
+cheat357_desc = "物品栏第四格Javelin (レ一ザ一發生裝置)"
+cheat357_handler = "0"
+cheat357_code = "800733A8#0044;800733AA#0001"
+
+cheat358_desc = "物品栏第四格M203 (グレネ一ドランチャ一)"
+cheat358_handler = "0"
+cheat358_code = "800733A8#0045;800733AA#0001"
+
+cheat359_desc = "物品栏第四格M9"
+cheat359_handler = "0"
+cheat359_code = "800733A8#0046;800733AA#0001"
+
+cheat360_desc = "物品栏第四格Leather Jacket (レザ一ヅンパ一)"
+cheat360_handler = "0"
+cheat360_code = "800733A8#0060;800733AA#0001"
+
+cheat361_desc = "物品栏第四格Tactical Armour (タクティカルア一マ一)"
+cheat361_handler = "0"
+cheat361_code = "800733A8#0061;800733AA#0001"
+
+cheat362_desc = "物品栏第四格Assault Suit (アサルトヅャンパ一)"
+cheat362_handler = "0"
+cheat362_code = "800733A8#0063;800733AA#0001"
+
+cheat363_desc = "物品栏第四格PASGT Vest (PASSGTVベスト)"
+cheat363_handler = "0"
+cheat363_code = "800733A8#0064;800733AA#0001"
+
+cheat364_desc = "物品栏第四格Tactical Vest (ボディア一マ一)"
+cheat364_handler = "0"
+cheat364_code = "800733A8#0065;800733AA#0001"
+
+cheat365_desc = "物品栏第四格EOD Suit (EODス一ッ)"
+cheat365_handler = "0"
+cheat365_code = "800733A8#0066;800733AA#0001"
+
+cheat366_desc = "物品栏第四格Turtle Vest (タ一トルベスト)"
+cheat366_handler = "0"
+cheat366_code = "800733A8#0067;800733AA#0001"
+
+cheat367_desc = "物品栏第四格Chicken Plate (チキンプレ一ト)"
+cheat367_handler = "0"
+cheat367_code = "800733A8#0068;800733AA#0001"
+
+cheat368_desc = "物品栏第四格NBC Suit (サラトガス一ッ)"
+cheat368_handler = "0"
+cheat368_code = "800733A8#0069;800733AA#0001"
+
+cheat369_desc = "物品栏第四格PsySuit (サィコ·プロテクタ一)"
+cheat369_handler = "0"
+cheat369_code = "800733A8#006A;800733AA#0001"
+
+cheat370_desc = "物品栏第四格Aya Special (アャ·スペッャル)"
+cheat370_handler = "0"
+cheat370_code = "800733A8#006B;800733AA#0001"
+
+cheat371_desc = "物品栏第四格Shoulder Holster (ッョルダ一ホルスタ一)"
+cheat371_handler = "0"
+cheat371_code = "800733A8#006C;800733AA#0001"
+
+cheat372_desc = "物品栏第四格Monk Robe (モンク·ロ一ブ)"
+cheat372_handler = "0"
+cheat372_code = "800733A8#006D;800733AA#0001"
+
+cheat373_desc = "物品栏第四格P08[S.Magazine] (P08 Sマガジン)"
+cheat373_handler = "0"
+cheat373_code = "800733A8#0080;800733AA#0001"
+
+cheat374_desc = "物品栏第四格M93R"
+cheat374_handler = "0"
+cheat374_code = "800733A8#0081;800733AA#0001"
+
+cheat375_desc = "物品栏第四格M950 (大型ハンドガン)"
+cheat375_handler = "0"
+cheat375_code = "800733A8#0082;800733AA#0001"
+
+cheat376_desc = "物品栏第四格P08 (ハンドガン)"
+cheat376_handler = "0"
+cheat376_code = "800733A8#0083;800733AA#0001"
+
+cheat377_desc = "物品栏第四格P229"
+cheat377_handler = "0"
+cheat377_code = "800733A8#0084;800733AA#0001"
+
+cheat378_desc = "物品栏第四格Mongoose[.44左輪]"
+cheat378_handler = "0"
+cheat378_code = "800733A8#0088;800733AA#0001"
+
+cheat379_desc = "物品栏第四格Grenade Pistol[榴彈發射器] (グレネ一ドランチャ一)"
+cheat379_handler = "0"
+cheat379_code = "800733A8#008A;800733AA#0001"
+
+cheat380_desc = "物品栏第四格MM1"
+cheat380_handler = "0"
+cheat380_code = "800733A8#008B;800733AA#0001"
+
+cheat381_desc = "物品栏第四格PA3"
+cheat381_handler = "0"
+cheat381_code = "800733A8#008C;800733AA#0001"
+
+cheat382_desc = "物品栏第四格SP12 (ッョットガン)"
+cheat382_handler = "0"
+cheat382_code = "800733A8#008D;800733AA#0001"
+
+cheat383_desc = "物品栏第四格AS12"
+cheat383_handler = "0"
+cheat383_code = "800733A8#8E;800733AA#0001"
+
+cheat384_desc = "物品栏第四格M4A1 Rifle(ラィフル)"
+cheat384_handler = "0"
+cheat384_code = "800733A8#008F;800733AA#0001"
+
+cheat385_desc = "物品栏第四格M249 (ライトマッンガン)"
+cheat385_handler = "0"
+cheat385_code = "800733A8#0090;800733AA#0001"
+
+cheat386_desc = "物品栏第四格Tonfa Baton[警棍] (トンファ·バトン)"
+cheat386_handler = "0"
+cheat386_code = "800733A8#0092;800733AA#0001"
+
+cheat387_desc = "物品栏第四格M4A1（+1）"
+cheat387_handler = "0"
+cheat387_code = "800733A8#0093;800733AA#0001"
+
+cheat388_desc = "物品栏第四格M4A1（+2）"
+cheat388_handler = "0"
+cheat388_code = "800733A8#0094;800733AA#0001"
+
+cheat389_desc = "物品栏第四格Hypervelocity[電磁炮] (ハイバ一ベロッティ)"
+cheat389_handler = "0"
+cheat389_code = "800733A8#0095;800733AA#0001"
+
+cheat390_desc = "物品栏第四格Gunblade[粒子振動刀] (カタナ)"
+cheat390_handler = "0"
+cheat390_code = "800733A8#0096;800733AA#0001"
+
+cheat391_desc = "物品栏第四格M4A1 Hammer (ハンマ一)"
+cheat391_handler = "0"
+cheat391_code = "800733A8#0098;800733AA#0001"
+
+cheat392_desc = "物品栏第四格M4A1 Bayonet (バヨネシト)"
+cheat392_handler = "0"
+cheat392_code = "800733A8#0099;800733AA#0001"
+
+cheat393_desc = "物品栏第四格M4A1 Grenade (グレネ一ド)"
+cheat393_handler = "0"
+cheat393_code = "800733A8#009A;800733AA#0001"
+
+cheat394_desc = "物品栏第四格M4A1 Pyke (バイク)"
+cheat394_handler = "0"
+cheat394_code = "800733A8#009B;800733AA#0001"
+
+cheat395_desc = "物品栏第四格M4A1 Javelin (ジャベリン)"
+cheat395_handler = "0"
+cheat395_code = "800733A8#009C;800733AA#0001"
+
+cheat396_desc = "物品栏第四格MP5A5 (サブマシンガン)"
+cheat396_handler = "0"
+cheat396_code = "800733A8#009D;800733AA#0001"
+
+cheat397_desc = "物品栏第四格MP5A5（+1）"
+cheat397_handler = "0"
+cheat397_code = "800733A8#009E;800733AA#0001"
+
+cheat398_desc = "物品栏第四格MP5A5（+2）"
+cheat398_handler = "0"
+cheat398_code = "800733A8#009F;800733AA#0001"
+
+cheat399_desc = "物品栏第四格9mm P.B.パラベラム[500] (9mmパラベラム)"
+cheat399_handler = "0"
+cheat399_code = "800733A8#00A0;800733AA#01F4"
+
+cheat400_desc = "物品栏第四格9mm Hydra[500] (9mm彈)"
+cheat400_handler = "0"
+cheat400_code = "800733A8#00A1;800733AA#01F4"
+
+cheat401_desc = "物品栏第四格9mm Spartan[500]"
+cheat401_handler = "0"
+cheat401_code = "800733A8#00A2;800733AA#01F4"
+
+cheat402_desc = "物品栏第四格44 Magnum[999] (マグナム彈)"
+cheat402_handler = "0"
+cheat402_code = "800733A8#00A6;800733AA#03E7"
+
+cheat403_desc = "物品栏第四格44 Maeda SP[999]"
+cheat403_handler = "0"
+cheat403_code = "800733A8#00A7;800733AA#03E7"
+
+cheat404_desc = "物品栏第四格44 Poison[999] (44ドク)"
+cheat404_handler = "0"
+cheat404_code = "800733A8#00A8;800733AA#03E7"
+
+cheat405_desc = "物品栏第四格Grenade[100] (グレネ一ド彈)"
+cheat405_handler = "0"
+cheat405_code = "800733A8#00A9;800733AA#0064"
+
+cheat406_desc = "物品栏第四格Airburst[100]"
+cheat406_handler = "0"
+cheat406_code = "800733A8#00AA;800733AA#0064"
+
+cheat407_desc = "物品栏第四格Riot[100]"
+cheat407_handler = "0"
+cheat407_code = "800733A8#00AB;800733AA#0064"
+
+cheat408_desc = "物品栏第四格Bukshot[200] (バックショット)"
+cheat408_handler = "0"
+cheat408_code = "800733A8#00AC;800733AA#00C8"
+
+cheat409_desc = "物品栏第四格Firefly[200] (ツョットツェル)"
+cheat409_handler = "0"
+cheat409_code = "800733A8#00AD;800733AA#00C8"
+
+cheat410_desc = "物品栏第四格R.Slug[200]"
+cheat410_handler = "0"
+cheat410_code = "800733A8#00AE;800733AA#00C8"
+
+cheat411_desc = "物品栏第四格5.56 Rifle[800] (5.56ラィフル)"
+cheat411_handler = "0"
+cheat411_code = "800733A8#00AF;800733AA#0320"
+
+cheat412_desc = "物品栏第五格NONE"
+cheat412_handler = "0"
+cheat412_code = "0000,0"
+
+cheat413_desc = "物品栏第五格Recovery1 (回復劑LV.1)"
+cheat413_handler = "0"
+cheat413_code = "800733AC#0001;800733AE#0001"
+
+cheat414_desc = "物品栏第五格Recovery2 (回復劑LV.2)"
+cheat414_handler = "0"
+cheat414_code = "800733AC#0002;800733AE#0001"
+
+cheat415_desc = "物品栏第五格Recovery3 (小ビン)"
+cheat415_handler = "0"
+cheat415_code = "800733AC#0003;800733AE#0001"
+
+cheat416_desc = "物品栏第五格Stim (鎮靜劑)"
+cheat416_handler = "0"
+cheat416_code = "800733AC#0004;800733AE#0001"
+
+cheat417_desc = "物品栏第五格Cole (カン)"
+cheat417_handler = "0"
+cheat417_code = "800733AC#0005;800733AE#0001"
+
+cheat418_desc = "物品栏第五格MP Boost1 (MP回復水LV.1)"
+cheat418_handler = "0"
+cheat418_code = "800733AC#0006;800733AE#0001"
+
+cheat419_desc = "物品栏第五格MP Boost2 (ビン)"
+cheat419_handler = "0"
+cheat419_code = "800733AC#0007;800733AE#0001"
+
+cheat420_desc = "物品栏第五格Penicillin (解毒劑)"
+cheat420_handler = "0"
+cheat420_code = "800733AC#0008;800733AE#0001"
+
+cheat421_desc = "物品栏第五格SMG Clip Holder (MP5.Mクリッブ)"
+cheat421_handler = "0"
+cheat421_code = "800733AC#0009;800733AE#0001"
+
+cheat422_desc = "物品栏第五格Rifle Clip Holder (M4A1.Mクリッブ)"
+cheat422_handler = "0"
+cheat422_code = "800733AC#000A;800733AE#0001"
+
+cheat423_desc = "物品栏第五格Lipstick[口紅] (カプセル)"
+cheat423_handler = "0"
+cheat423_code = "800733AC#000B;800733AE#0001"
+
+cheat424_desc = "物品栏第五格Snail Magazine (マガジン)"
+cheat424_handler = "0"
+cheat424_code = "800733AC#000C;800733AE#0001"
+
+cheat425_desc = "物品栏第五格Belt Pouch[背包] (ボ一チ)"
+cheat425_handler = "0"
+cheat425_code = "800733AC#000D;800733AE#0001"
+
+cheat426_desc = "物品栏第五格MD Player (攜帶機)"
+cheat426_handler = "0"
+cheat426_code = "800733AC#000E;800733AE#0001"
+
+cheat427_desc = "物品栏第五格Skull Crystal (水晶)"
+cheat427_handler = "0"
+cheat427_code = "800733AC#0036;800733AE#0001"
+
+cheat428_desc = "物品栏第五格Medicine Wheel (リング)"
+cheat428_handler = "0"
+cheat428_code = "800733AC#0037;800733AE#0001"
+
+cheat429_desc = "物品栏第五格Holy Water (ビン)"
+cheat429_handler = "0"
+cheat429_code = "800733AC#0038;800733AE#0001"
+
+cheat430_desc = "物品栏第五格Ofuda (封筒)"
+cheat430_handler = "0"
+cheat430_code = "800733AC#0039;800733AE#0001"
+
+cheat431_desc = "物品栏第五格Flare (小箱)"
+cheat431_handler = "0"
+cheat431_code = "800733AC#003A;800733AE#0001"
+
+cheat432_desc = "物品栏第五格Pepper Spray (メ一ス)"
+cheat432_handler = "0"
+cheat432_code = "800733AC#003B;800733AE#0001"
+
+cheat433_desc = "物品栏第五格Protein Capsule (カプセル)"
+cheat433_handler = "0"
+cheat433_code = "800733AC#003C;800733AE#0001"
+
+cheat434_desc = "物品栏第五格Ringer's Solution (パック)"
+cheat434_handler = "0"
+cheat434_code = "800733AC#003D;800733AE#0001"
+
+cheat435_desc = "物品栏第五格Eau de Toilette (ビン)"
+cheat435_handler = "0"
+cheat435_code = "800733AC#003E;800733AE#0001"
+
+cheat436_desc = "物品栏第五格Hunter Goggles[眼罩] (ゴ一グル)"
+cheat436_handler = "0"
+cheat436_code = "800733AC#003F;800733AE#0001"
+
+cheat437_desc = "物品栏第五格GPS"
+cheat437_handler = "0"
+cheat437_code = "800733AC#0040;800733AE#0001"
+
+cheat438_desc = "物品栏第五格Combat Light (コンバットライト)"
+cheat438_handler = "0"
+cheat438_code = "800733AC#0041;800733AE#0001"
+
+cheat439_desc = "物品栏第五格Hammer (スタンガン)"
+cheat439_handler = "0"
+cheat439_code = "800733AC#0042;800733AE#0001"
+
+cheat440_desc = "物品栏第五格Pyke (著火裝置)"
+cheat440_handler = "0"
+cheat440_code = "800733AC#0043;800733AE#0001"
+
+cheat441_desc = "物品栏第五格Javelin (レ一ザ一發生裝置)"
+cheat441_handler = "0"
+cheat441_code = "800733AC#0044;800733AE#0001"
+
+cheat442_desc = "物品栏第五格M203 (グレネ一ドランチャ一)"
+cheat442_handler = "0"
+cheat442_code = "800733AC#0045;800733AE#0001"
+
+cheat443_desc = "物品栏第五格M9"
+cheat443_handler = "0"
+cheat443_code = "800733AC#0046;800733AE#0001"
+
+cheat444_desc = "物品栏第五格Leather Jacket (レザ一ヅンパ一)"
+cheat444_handler = "0"
+cheat444_code = "800733AC#0060;800733AE#0001"
+
+cheat445_desc = "物品栏第五格Tactical Armour (タクティカルア一マ一)"
+cheat445_handler = "0"
+cheat445_code = "800733AC#0061;800733AE#0001"
+
+cheat446_desc = "物品栏第五格Assault Suit (アサルトヅャンパ一)"
+cheat446_handler = "0"
+cheat446_code = "800733AC#0063;800733AE#0001"
+
+cheat447_desc = "物品栏第五格PASGT Vest (PASSGTVベスト)"
+cheat447_handler = "0"
+cheat447_code = "800733AC#0064;800733AE#0001"
+
+cheat448_desc = "物品栏第五格Tactical Vest (ボディア一マ一)"
+cheat448_handler = "0"
+cheat448_code = "800733AC#0065;800733AE#0001"
+
+cheat449_desc = "物品栏第五格EOD Suit (EODス一ッ)"
+cheat449_handler = "0"
+cheat449_code = "800733AC#0066;800733AE#0001"
+
+cheat450_desc = "物品栏第五格Turtle Vest (タ一トルベスト)"
+cheat450_handler = "0"
+cheat450_code = "800733AC#0067;800733AE#0001"
+
+cheat451_desc = "物品栏第五格Chicken Plate (チキンプレ一ト)"
+cheat451_handler = "0"
+cheat451_code = "800733AC#0068;800733AE#0001"
+
+cheat452_desc = "物品栏第五格NBC Suit (サラトガス一ッ)"
+cheat452_handler = "0"
+cheat452_code = "800733AC#0069;800733AE#0001"
+
+cheat453_desc = "物品栏第五格PsySuit (サィコ·プロテクタ一)"
+cheat453_handler = "0"
+cheat453_code = "800733AC#006A;800733AE#0001"
+
+cheat454_desc = "物品栏第五格Aya Special (アャ·スペッャル)"
+cheat454_handler = "0"
+cheat454_code = "800733AC#006B;800733AE#0001"
+
+cheat455_desc = "物品栏第五格Shoulder Holster (ッョルダ一ホルスタ一)"
+cheat455_handler = "0"
+cheat455_code = "800733AC#006C;800733AE#0001"
+
+cheat456_desc = "物品栏第五格Monk Robe (モンク·ロ一ブ)"
+cheat456_handler = "0"
+cheat456_code = "800733AC#006D;800733AE#0001"
+
+cheat457_desc = "物品栏第五格P08[S.Magazine] (P08 Sマガジン)"
+cheat457_handler = "0"
+cheat457_code = "800733AC#0080;800733AE#0001"
+
+cheat458_desc = "物品栏第五格M93R"
+cheat458_handler = "0"
+cheat458_code = "800733AC#0081;800733AE#0001"
+
+cheat459_desc = "物品栏第五格M950 (大型ハンドガン)"
+cheat459_handler = "0"
+cheat459_code = "800733AC#0082;800733AE#0001"
+
+cheat460_desc = "物品栏第五格P08 (ハンドガン)"
+cheat460_handler = "0"
+cheat460_code = "800733AC#0083;800733AE#0001"
+
+cheat461_desc = "物品栏第五格P229"
+cheat461_handler = "0"
+cheat461_code = "800733AC#0084;800733AE#0001"
+
+cheat462_desc = "物品栏第五格Mongoose[.44左輪]"
+cheat462_handler = "0"
+cheat462_code = "800733AC#0088;800733AE#0001"
+
+cheat463_desc = "物品栏第五格Grenade Pistol[榴彈發射器] (グレネ一ドランチャ一)"
+cheat463_handler = "0"
+cheat463_code = "800733AC#008A;800733AE#0001"
+
+cheat464_desc = "物品栏第五格MM1"
+cheat464_handler = "0"
+cheat464_code = "800733AC#008B;800733AE#0001"
+
+cheat465_desc = "物品栏第五格PA3"
+cheat465_handler = "0"
+cheat465_code = "800733AC#008C;800733AE#0001"
+
+cheat466_desc = "物品栏第五格SP12 (ッョットガン)"
+cheat466_handler = "0"
+cheat466_code = "800733AC#008D;800733AE#0001"
+
+cheat467_desc = "物品栏第五格AS12"
+cheat467_handler = "0"
+cheat467_code = "800733AC#8E;800733AE#0001"
+
+cheat468_desc = "物品栏第五格M4A1 Rifle(ラィフル)"
+cheat468_handler = "0"
+cheat468_code = "800733AC#008F;800733AE#0001"
+
+cheat469_desc = "物品栏第五格M249 (ライトマッンガン)"
+cheat469_handler = "0"
+cheat469_code = "800733AC#0090;800733AE#0001"
+
+cheat470_desc = "物品栏第五格Tonfa Baton[警棍] (トンファ·バトン)"
+cheat470_handler = "0"
+cheat470_code = "800733AC#0092;800733AE#0001"
+
+cheat471_desc = "物品栏第五格M4A1（+1）"
+cheat471_handler = "0"
+cheat471_code = "800733AC#0093;800733AE#0001"
+
+cheat472_desc = "物品栏第五格M4A1（+2）"
+cheat472_handler = "0"
+cheat472_code = "800733AC#0094;800733AE#0001"
+
+cheat473_desc = "物品栏第五格Hypervelocity[電磁炮] (ハイバ一ベロッティ)"
+cheat473_handler = "0"
+cheat473_code = "800733AC#0095;800733AE#0001"
+
+cheat474_desc = "物品栏第五格Gunblade[粒子振動刀] (カタナ)"
+cheat474_handler = "0"
+cheat474_code = "800733AC#0096;800733AE#0001"
+
+cheat475_desc = "物品栏第五格M4A1 Hammer (ハンマ一)"
+cheat475_handler = "0"
+cheat475_code = "800733AC#0098;800733AE#0001"
+
+cheat476_desc = "物品栏第五格M4A1 Bayonet (バヨネシト)"
+cheat476_handler = "0"
+cheat476_code = "800733AC#0099;800733AE#0001"
+
+cheat477_desc = "物品栏第五格M4A1 Grenade (グレネ一ド)"
+cheat477_handler = "0"
+cheat477_code = "800733AC#009A;800733AE#0001"
+
+cheat478_desc = "物品栏第五格M4A1 Pyke (バイク)"
+cheat478_handler = "0"
+cheat478_code = "800733AC#009B;800733AE#0001"
+
+cheat479_desc = "物品栏第五格M4A1 Javelin (ジャベリン)"
+cheat479_handler = "0"
+cheat479_code = "800733AC#009C;800733AE#0001"
+
+cheat480_desc = "物品栏第五格MP5A5 (サブマシンガン)"
+cheat480_handler = "0"
+cheat480_code = "800733AC#009D;800733AE#0001"
+
+cheat481_desc = "物品栏第五格MP5A5（+1）"
+cheat481_handler = "0"
+cheat481_code = "800733AC#009E;800733AE#0001"
+
+cheat482_desc = "物品栏第五格MP5A5（+2）"
+cheat482_handler = "0"
+cheat482_code = "800733AC#009F;800733AE#0001"
+
+cheat483_desc = "物品栏第五格9mm P.B.パラベラム[500] (9mmパラベラム)"
+cheat483_handler = "0"
+cheat483_code = "800733AC#00A0;800733AE#01F4"
+
+cheat484_desc = "物品栏第五格9mm Hydra[500] (9mm彈)"
+cheat484_handler = "0"
+cheat484_code = "800733AC#00A1;800733AE#01F4"
+
+cheat485_desc = "物品栏第五格9mm Spartan[500]"
+cheat485_handler = "0"
+cheat485_code = "800733AC#00A2;800733AE#01F4"
+
+cheat486_desc = "物品栏第五格44 Magnum[999] (マグナム彈)"
+cheat486_handler = "0"
+cheat486_code = "800733AC#00A6;800733AE#03E7"
+
+cheat487_desc = "物品栏第五格44 Maeda SP[999]"
+cheat487_handler = "0"
+cheat487_code = "800733AC#00A7;800733AE#03E7"
+
+cheat488_desc = "物品栏第五格44 Poison[999] (44ドク)"
+cheat488_handler = "0"
+cheat488_code = "800733AC#00A8;800733AE#03E7"
+
+cheat489_desc = "物品栏第五格Grenade[100] (グレネ一ド彈)"
+cheat489_handler = "0"
+cheat489_code = "800733AC#00A9;800733AE#0064"
+
+cheat490_desc = "物品栏第五格Airburst[100]"
+cheat490_handler = "0"
+cheat490_code = "800733AC#00AA;800733AE#0064"
+
+cheat491_desc = "物品栏第五格Riot[100]"
+cheat491_handler = "0"
+cheat491_code = "800733AC#00AB;800733AE#0064"
+
+cheat492_desc = "物品栏第五格Bukshot[200] (バックショット)"
+cheat492_handler = "0"
+cheat492_code = "800733AC#00AC;800733AE#00C8"
+
+cheat493_desc = "物品栏第五格Firefly[200] (ツョットツェル)"
+cheat493_handler = "0"
+cheat493_code = "800733AC#00AD;800733AE#00C8"
+
+cheat494_desc = "物品栏第五格R.Slug[200]"
+cheat494_handler = "0"
+cheat494_code = "800733AC#00AE;800733AE#00C8"
+
+cheat495_desc = "物品栏第五格5.56 Rifle[800] (5.56ラィフル)"
+cheat495_handler = "0"
+cheat495_code = "800733AC#00AF;800733AE#0320"
+
+cheat496_desc = "物品栏第六格NONE"
+cheat496_handler = "0"
+cheat496_code = "0000,0"
+
+cheat497_desc = "物品栏第六格Recovery1 (回復劑LV.1)"
+cheat497_handler = "0"
+cheat497_code = "800733B0#0001;800733B2#0001"
+
+cheat498_desc = "物品栏第六格Recovery2 (回復劑LV.2)"
+cheat498_handler = "0"
+cheat498_code = "800733B0#0002;800733B2#0001"
+
+cheat499_desc = "物品栏第六格Recovery3 (小ビン)"
+cheat499_handler = "0"
+cheat499_code = "800733B0#0003;800733B2#0001"
+
+cheat500_desc = "物品栏第六格Stim (鎮靜劑)"
+cheat500_handler = "0"
+cheat500_code = "800733B0#0004;800733B2#0001"
+
+cheat501_desc = "物品栏第六格Cole (カン)"
+cheat501_handler = "0"
+cheat501_code = "800733B0#0005;800733B2#0001"
+
+cheat502_desc = "物品栏第六格MP Boost1 (MP回復水LV.1)"
+cheat502_handler = "0"
+cheat502_code = "800733B0#0006;800733B2#0001"
+
+cheat503_desc = "物品栏第六格MP Boost2 (ビン)"
+cheat503_handler = "0"
+cheat503_code = "800733B0#0007;800733B2#0001"
+
+cheat504_desc = "物品栏第六格Penicillin (解毒劑)"
+cheat504_handler = "0"
+cheat504_code = "800733B0#0008;800733B2#0001"
+
+cheat505_desc = "物品栏第六格SMG Clip Holder (MP5.Mクリッブ)"
+cheat505_handler = "0"
+cheat505_code = "800733B0#0009;800733B2#0001"
+
+cheat506_desc = "物品栏第六格Rifle Clip Holder (M4A1.Mクリッブ)"
+cheat506_handler = "0"
+cheat506_code = "800733B0#000A;800733B2#0001"
+
+cheat507_desc = "物品栏第六格Lipstick[口紅] (カプセル)"
+cheat507_handler = "0"
+cheat507_code = "800733B0#000B;800733B2#0001"
+
+cheat508_desc = "物品栏第六格Snail Magazine (マガジン)"
+cheat508_handler = "0"
+cheat508_code = "800733B0#000C;800733B2#0001"
+
+cheat509_desc = "物品栏第六格Belt Pouch[背包] (ボ一チ)"
+cheat509_handler = "0"
+cheat509_code = "800733B0#000D;800733B2#0001"
+
+cheat510_desc = "物品栏第六格MD Player (攜帶機)"
+cheat510_handler = "0"
+cheat510_code = "800733B0#000E;800733B2#0001"
+
+cheat511_desc = "物品栏第六格Skull Crystal (水晶)"
+cheat511_handler = "0"
+cheat511_code = "800733B0#0036;800733B2#0001"
+
+cheat512_desc = "物品栏第六格Medicine Wheel (リング)"
+cheat512_handler = "0"
+cheat512_code = "800733B0#0037;800733B2#0001"
+
+cheat513_desc = "物品栏第六格Holy Water (ビン)"
+cheat513_handler = "0"
+cheat513_code = "800733B0#0038;800733B2#0001"
+
+cheat514_desc = "物品栏第六格Ofuda (封筒)"
+cheat514_handler = "0"
+cheat514_code = "800733B0#0039;800733B2#0001"
+
+cheat515_desc = "物品栏第六格Flare (小箱)"
+cheat515_handler = "0"
+cheat515_code = "800733B0#003A;800733B2#0001"
+
+cheat516_desc = "物品栏第六格Pepper Spray (メ一ス)"
+cheat516_handler = "0"
+cheat516_code = "800733B0#003B;800733B2#0001"
+
+cheat517_desc = "物品栏第六格Protein Capsule (カプセル)"
+cheat517_handler = "0"
+cheat517_code = "800733B0#003C;800733B2#0001"
+
+cheat518_desc = "物品栏第六格Ringer's Solution (パック)"
+cheat518_handler = "0"
+cheat518_code = "800733B0#003D;800733B2#0001"
+
+cheat519_desc = "物品栏第六格Eau de Toilette (ビン)"
+cheat519_handler = "0"
+cheat519_code = "800733B0#003E;800733B2#0001"
+
+cheat520_desc = "物品栏第六格Hunter Goggles[眼罩] (ゴ一グル)"
+cheat520_handler = "0"
+cheat520_code = "800733B0#003F;800733B2#0001"
+
+cheat521_desc = "物品栏第六格GPS"
+cheat521_handler = "0"
+cheat521_code = "800733B0#0040;800733B2#0001"
+
+cheat522_desc = "物品栏第六格Combat Light (コンバットライト)"
+cheat522_handler = "0"
+cheat522_code = "800733B0#0041;800733B2#0001"
+
+cheat523_desc = "物品栏第六格Hammer (スタンガン)"
+cheat523_handler = "0"
+cheat523_code = "800733B0#0042;800733B2#0001"
+
+cheat524_desc = "物品栏第六格Pyke (著火裝置)"
+cheat524_handler = "0"
+cheat524_code = "800733B0#0043;800733B2#0001"
+
+cheat525_desc = "物品栏第六格Javelin (レ一ザ一發生裝置)"
+cheat525_handler = "0"
+cheat525_code = "800733B0#0044;800733B2#0001"
+
+cheat526_desc = "物品栏第六格M203 (グレネ一ドランチャ一)"
+cheat526_handler = "0"
+cheat526_code = "800733B0#0045;800733B2#0001"
+
+cheat527_desc = "物品栏第六格M9"
+cheat527_handler = "0"
+cheat527_code = "800733B0#0046;800733B2#0001"
+
+cheat528_desc = "物品栏第六格Leather Jacket (レザ一ヅンパ一)"
+cheat528_handler = "0"
+cheat528_code = "800733B0#0060;800733B2#0001"
+
+cheat529_desc = "物品栏第六格Tactical Armour (タクティカルア一マ一)"
+cheat529_handler = "0"
+cheat529_code = "800733B0#0061;800733B2#0001"
+
+cheat530_desc = "物品栏第六格Assault Suit (アサルトヅャンパ一)"
+cheat530_handler = "0"
+cheat530_code = "800733B0#0063;800733B2#0001"
+
+cheat531_desc = "物品栏第六格PASGT Vest (PASSGTVベスト)"
+cheat531_handler = "0"
+cheat531_code = "800733B0#0064;800733B2#0001"
+
+cheat532_desc = "物品栏第六格Tactical Vest (ボディア一マ一)"
+cheat532_handler = "0"
+cheat532_code = "800733B0#0065;800733B2#0001"
+
+cheat533_desc = "物品栏第六格EOD Suit (EODス一ッ)"
+cheat533_handler = "0"
+cheat533_code = "800733B0#0066;800733B2#0001"
+
+cheat534_desc = "物品栏第六格Turtle Vest (タ一トルベスト)"
+cheat534_handler = "0"
+cheat534_code = "800733B0#0067;800733B2#0001"
+
+cheat535_desc = "物品栏第六格Chicken Plate (チキンプレ一ト)"
+cheat535_handler = "0"
+cheat535_code = "800733B0#0068;800733B2#0001"
+
+cheat536_desc = "物品栏第六格NBC Suit (サラトガス一ッ)"
+cheat536_handler = "0"
+cheat536_code = "800733B0#0069;800733B2#0001"
+
+cheat537_desc = "物品栏第六格PsySuit (サィコ·プロテクタ一)"
+cheat537_handler = "0"
+cheat537_code = "800733B0#006A;800733B2#0001"
+
+cheat538_desc = "物品栏第六格Aya Special (アャ·スペッャル)"
+cheat538_handler = "0"
+cheat538_code = "800733B0#006B;800733B2#0001"
+
+cheat539_desc = "物品栏第六格Shoulder Holster (ッョルダ一ホルスタ一)"
+cheat539_handler = "0"
+cheat539_code = "800733B0#006C;800733B2#0001"
+
+cheat540_desc = "物品栏第六格Monk Robe (モンク·ロ一ブ)"
+cheat540_handler = "0"
+cheat540_code = "800733B0#006D;800733B2#0001"
+
+cheat541_desc = "物品栏第六格P08[S.Magazine] (P08 Sマガジン)"
+cheat541_handler = "0"
+cheat541_code = "800733B0#0080;800733B2#0001"
+
+cheat542_desc = "物品栏第六格M93R"
+cheat542_handler = "0"
+cheat542_code = "800733B0#0081;800733B2#0001"
+
+cheat543_desc = "物品栏第六格M950 (大型ハンドガン)"
+cheat543_handler = "0"
+cheat543_code = "800733B0#0082;800733B2#0001"
+
+cheat544_desc = "物品栏第六格P08 (ハンドガン)"
+cheat544_handler = "0"
+cheat544_code = "800733B0#0083;800733B2#0001"
+
+cheat545_desc = "物品栏第六格P229"
+cheat545_handler = "0"
+cheat545_code = "800733B0#0084;800733B2#0001"
+
+cheat546_desc = "物品栏第六格Mongoose[.44左輪]"
+cheat546_handler = "0"
+cheat546_code = "800733B0#0088;800733B2#0001"
+
+cheat547_desc = "物品栏第六格Grenade Pistol[榴彈發射器] (グレネ一ドランチャ一)"
+cheat547_handler = "0"
+cheat547_code = "800733B0#008A;800733B2#0001"
+
+cheat548_desc = "物品栏第六格MM1"
+cheat548_handler = "0"
+cheat548_code = "800733B0#008B;800733B2#0001"
+
+cheat549_desc = "物品栏第六格PA3"
+cheat549_handler = "0"
+cheat549_code = "800733B0#008C;800733B2#0001"
+
+cheat550_desc = "物品栏第六格SP12 (ッョットガン)"
+cheat550_handler = "0"
+cheat550_code = "800733B0#008D;800733B2#0001"
+
+cheat551_desc = "物品栏第六格AS12"
+cheat551_handler = "0"
+cheat551_code = "800733B0#8E;800733B2#0001"
+
+cheat552_desc = "物品栏第六格M4A1 Rifle(ラィフル)"
+cheat552_handler = "0"
+cheat552_code = "800733B0#008F;800733B2#0001"
+
+cheat553_desc = "物品栏第六格M249 (ライトマッンガン)"
+cheat553_handler = "0"
+cheat553_code = "800733B0#0090;800733B2#0001"
+
+cheat554_desc = "物品栏第六格Tonfa Baton[警棍] (トンファ·バトン)"
+cheat554_handler = "0"
+cheat554_code = "800733B0#0092;800733B2#0001"
+
+cheat555_desc = "物品栏第六格M4A1（+1）"
+cheat555_handler = "0"
+cheat555_code = "800733B0#0093;800733B2#0001"
+
+cheat556_desc = "物品栏第六格M4A1（+2）"
+cheat556_handler = "0"
+cheat556_code = "800733B0#0094;800733B2#0001"
+
+cheat557_desc = "物品栏第六格Hypervelocity[電磁炮] (ハイバ一ベロッティ)"
+cheat557_handler = "0"
+cheat557_code = "800733B0#0095;800733B2#0001"
+
+cheat558_desc = "物品栏第六格Gunblade[粒子振動刀] (カタナ)"
+cheat558_handler = "0"
+cheat558_code = "800733B0#0096;800733B2#0001"
+
+cheat559_desc = "物品栏第六格M4A1 Hammer (ハンマ一)"
+cheat559_handler = "0"
+cheat559_code = "800733B0#0098;800733B2#0001"
+
+cheat560_desc = "物品栏第六格M4A1 Bayonet (バヨネシト)"
+cheat560_handler = "0"
+cheat560_code = "800733B0#0099;800733B2#0001"
+
+cheat561_desc = "物品栏第六格M4A1 Grenade (グレネ一ド)"
+cheat561_handler = "0"
+cheat561_code = "800733B0#009A;800733B2#0001"
+
+cheat562_desc = "物品栏第六格M4A1 Pyke (バイク)"
+cheat562_handler = "0"
+cheat562_code = "800733B0#009B;800733B2#0001"
+
+cheat563_desc = "物品栏第六格M4A1 Javelin (ジャベリン)"
+cheat563_handler = "0"
+cheat563_code = "800733B0#009C;800733B2#0001"
+
+cheat564_desc = "物品栏第六格MP5A5 (サブマシンガン)"
+cheat564_handler = "0"
+cheat564_code = "800733B0#009D;800733B2#0001"
+
+cheat565_desc = "物品栏第六格MP5A5（+1）"
+cheat565_handler = "0"
+cheat565_code = "800733B0#009E;800733B2#0001"
+
+cheat566_desc = "物品栏第六格MP5A5（+2）"
+cheat566_handler = "0"
+cheat566_code = "800733B0#009F;800733B2#0001"
+
+cheat567_desc = "物品栏第六格9mm P.B.パラベラム[500] (9mmパラベラム)"
+cheat567_handler = "0"
+cheat567_code = "800733B0#00A0;800733B2#01F4"
+
+cheat568_desc = "物品栏第六格9mm Hydra[500] (9mm彈)"
+cheat568_handler = "0"
+cheat568_code = "800733B0#00A1;800733B2#001F4"
+
+cheat569_desc = "物品栏第六格9mm Spartan[500]"
+cheat569_handler = "0"
+cheat569_code = "800733B0#00A2;800733B2#001F4"
+
+cheat570_desc = "物品栏第六格44 Magnum[999] (マグナム彈)"
+cheat570_handler = "0"
+cheat570_code = "800733B0#00A6;800733B2#03E7"
+
+cheat571_desc = "物品栏第六格44 Maeda SP[999]"
+cheat571_handler = "0"
+cheat571_code = "800733B0#00A7;800733B2#03E7"
+
+cheat572_desc = "物品栏第六格44 Poison[999] (44ドク)"
+cheat572_handler = "0"
+cheat572_code = "800733B0#00A8;800733B2#03E7"
+
+cheat573_desc = "物品栏第六格Grenade[100] (グレネ一ド彈)"
+cheat573_handler = "0"
+cheat573_code = "800733B0#00A9;800733B2#0064"
+
+cheat574_desc = "物品栏第六格Airburst[100]"
+cheat574_handler = "0"
+cheat574_code = "800733B0#00AA;800733B2#0064"
+
+cheat575_desc = "物品栏第六格Riot[100]"
+cheat575_handler = "0"
+cheat575_code = "800733B0#00AB;800733B2#0064"
+
+cheat576_desc = "物品栏第六格Bukshot[200] (バックショット)"
+cheat576_handler = "0"
+cheat576_code = "800733B0#00AC;800733B2#00C8"
+
+cheat577_desc = "物品栏第六格Firefly[200] (ツョットツェル)"
+cheat577_handler = "0"
+cheat577_code = "800733B0#00AD;800733B2#00C8"
+
+cheat578_desc = "物品栏第六格R.Slug[200]"
+cheat578_handler = "0"
+cheat578_code = "800733B0#00AE;800733B2#00C8"
+
+cheat579_desc = "物品栏第六格5.56 Rifle[800] (5.56ラィフル)"
+cheat579_handler = "0"
+cheat579_code = "800733B0#00AF;800733B2#0320"
+
+cheats = 580

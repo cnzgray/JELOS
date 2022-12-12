@@ -1,0 +1,149 @@
+cheat0_desc = "无限时间"
+cheat0_handler = "2"
+cheat0_code = "42442,3B,E"
+
+cheat1_desc = "P1 角色*HEIHACHI"
+cheat1_handler = "2"
+cheat1_code = "442B3,9"
+
+cheat2_desc = "P1 角色JIN"
+cheat2_handler = "2"
+cheat2_code = "442B3,0"
+
+cheat3_desc = "P1 角色PAUL"
+cheat3_handler = "2"
+cheat3_code = "442B3,1"
+
+cheat4_desc = "P1 角色HWOARANG"
+cheat4_handler = "2"
+cheat4_code = "442B3,2"
+
+cheat5_desc = "P1 角色LAW"
+cheat5_handler = "2"
+cheat5_code = "442B3,3"
+
+cheat6_desc = "P1 角色NINA"
+cheat6_handler = "2"
+cheat6_code = "442B3,4"
+
+cheat7_desc = "P1 角色GUNJACK"
+cheat7_handler = "2"
+cheat7_code = "442B3,5"
+
+cheat8_desc = "P1 角色YOSHIMITSU"
+cheat8_handler = "2"
+cheat8_code = "442B3,6"
+
+cheat9_desc = "P1 角色KING"
+cheat9_handler = "2"
+cheat9_code = "442B3,7"
+
+cheat10_desc = "P1 角色XIAOYU"
+cheat10_handler = "2"
+cheat10_code = "442B3,8"
+
+cheat11_desc = "P1 第一人-体力值"
+cheat11_handler = "2"
+cheat11_code = "447A2,8C;447A4,8C"
+
+cheat12_desc = "P1 第二人-体力值"
+cheat12_handler = "2"
+cheat12_code = "44D32,8C;44D34,8C"
+
+cheat13_desc = "P1 第三人-体力值"
+cheat13_handler = "2"
+cheat13_code = "452C2,8C;452C4,8C"
+
+cheat14_desc = "P2 角色*HEIHACHI"
+cheat14_handler = "2"
+cheat14_code = "45363,9"
+
+cheat15_desc = "P2 角色JIN"
+cheat15_handler = "2"
+cheat15_code = "45363,0"
+
+cheat16_desc = "P2 角色PAUL"
+cheat16_handler = "2"
+cheat16_code = "45363,1"
+
+cheat17_desc = "P2 角色HWOARANG"
+cheat17_handler = "2"
+cheat17_code = "45363,2"
+
+cheat18_desc = "P2 角色LAW"
+cheat18_handler = "2"
+cheat18_code = "45363,3"
+
+cheat19_desc = "P2 角色NINA"
+cheat19_handler = "2"
+cheat19_code = "45363,4"
+
+cheat20_desc = "P2 角色GUNJACK"
+cheat20_handler = "2"
+cheat20_code = "45363,5"
+
+cheat21_desc = "P2 角色YOSHIMITSU"
+cheat21_handler = "2"
+cheat21_code = "45363,6"
+
+cheat22_desc = "P2 角色KING"
+cheat22_handler = "2"
+cheat22_code = "45363,7"
+
+cheat23_desc = "P2 角色XIAOYU"
+cheat23_handler = "2"
+cheat23_code = "45363,8"
+
+cheat24_desc = "P2 第一人-体力值"
+cheat24_handler = "2"
+cheat24_code = "45852,8C;45854,8C"
+
+cheat25_desc = "P2 第二人-体力值"
+cheat25_handler = "2"
+cheat25_code = "45DE2,8C;45DE4,8C"
+
+cheat26_desc = "P2 第三人-体力值"
+cheat26_handler = "2"
+cheat26_code = "46372,8C;46374,8C"
+
+cheat27_desc = "选择关卡.NONE."
+cheat27_handler = "2"
+cheat27_code = "0000,0"
+
+cheat28_desc = "选择关卡第一关"
+cheat28_handler = "2"
+cheat28_code = "4244A,0"
+
+cheat29_desc = "选择关卡第二关"
+cheat29_handler = "2"
+cheat29_code = "4244A,1"
+
+cheat30_desc = "选择关卡第三关"
+cheat30_handler = "2"
+cheat30_code = "4244A,2"
+
+cheat31_desc = "选择关卡第四关"
+cheat31_handler = "2"
+cheat31_code = "4244A,3"
+
+cheat32_desc = "选择关卡第五关"
+cheat32_handler = "2"
+cheat32_code = "4244A,4"
+
+cheat33_desc = "选择关卡第六关"
+cheat33_handler = "2"
+cheat33_code = "4244A,5"
+
+cheat34_desc = "选择关卡第七关"
+cheat34_handler = "2"
+cheat34_code = "4244A,6"
+
+cheat35_desc = "选择关卡第八关"
+cheat35_handler = "2"
+cheat35_code = "4244A,7"
+
+cheat36_desc = "选择关卡第九关"
+cheat36_handler = "2"
+cheat36_code = "4244A,8"
+
+cheats = 37

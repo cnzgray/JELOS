@@ -1,0 +1,85 @@
+cheat0_desc = "体力不减&敌人一击必死"
+cheat0_handler = "0"
+cheat0_code = "D0087E8A#1040;80087E8A#1680;D0087E8E#0083;80087E8E#0080"
+
+cheat1_desc = "MP不减"
+cheat1_handler = "0"
+cheat1_code = "D008602A#00E9;8008602A#00E0"
+
+cheat2_desc = "身体各部位不受伤"
+cheat2_handler = "0"
+cheat2_code = "D0087EC2#0083;80087EC2#0080"
+
+cheat3_desc = "存档回数0"
+cheat3_handler = "0"
+cheat3_code = "80060030#0000;80060032#0000;80060034#0000"
+
+cheat4_desc = "游戏时间0"
+cheat4_handler = "0"
+cheat4_code = "D004267E#0062;80042682#ACA0"
+
+cheat5_desc = "武器DP不减"
+cheat5_handler = "0"
+cheat5_code = "D0080A3E#0067;80080A3E#0060"
+
+cheat6_desc = "防具DP不减"
+cheat6_handler = "0"
+cheat6_code = "D0080ACA#0064;80080ACA#0060"
+
+cheat7_desc = "PP不减"
+cheat7_handler = "0"
+cheat7_code = "D0088EA2#2442;80088EA0#0000"
+
+cheat8_desc = "地图全开"
+cheat8_handler = "0"
+cheat8_code = "B0220002#00000000;8005FFD0#FFFF"
+
+cheat9_desc = "全称号取得"
+cheat9_handler = "0"
+cheat9_code = "9005FE98#FFFFFFFF"
+
+cheat10_desc = "全图鉴"
+cheat10_handler = "0"
+cheat10_code = "B0150001#00000000;3005FF34#00FF"
+
+cheat11_desc = "HP当前值999"
+cheat11_handler = "0"
+cheat11_code = "8011F258#03E7"
+
+cheat12_desc = "HP最大值999"
+cheat12_handler = "0"
+cheat12_code = "8011F25A#03E7"
+
+cheat13_desc = "MP当前值999"
+cheat13_handler = "0"
+cheat13_code = "8011F25C#03E7"
+
+cheat14_desc = "MP最大值999"
+cheat14_handler = "0"
+cheat14_code = "8011F25E#03E7"
+
+cheat15_desc = "STR的EQP值999"
+cheat15_handler = "0"
+cheat15_code = "8011F262#03E7"
+
+cheat16_desc = "STR的ORG值999"
+cheat16_handler = "0"
+cheat16_code = "8011F264#03E7"
+
+cheat17_desc = "INT的EQP值999"
+cheat17_handler = "0"
+cheat17_code = "8011F266#03E7"
+
+cheat18_desc = "INT的ORG值999"
+cheat18_handler = "0"
+cheat18_code = "8011F268#03E7"
+
+cheat19_desc = "AGL的EQP值999"
+cheat19_handler = "0"
+cheat19_code = "8011F26A#03E7"
+
+cheat20_desc = "AGL的ORG值999"
+cheat20_handler = "0"
+cheat20_code = "8011F26C#03E7"
+
+cheats = 21

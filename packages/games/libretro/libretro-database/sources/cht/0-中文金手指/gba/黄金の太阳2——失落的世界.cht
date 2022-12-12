@@ -1,0 +1,17 @@
+cheat0_desc = "ジヶスミソ_ガルシア_シバ_hpmax"
+cheat0_handler = "2"
+cheat0_code = "BD4,F,27;A88,F,27;D20,F,27"
+
+cheat1_desc = "ジヶスミソ_hp"
+cheat1_handler = "2"
+cheat1_code = "BD4,F,27"
+
+cheat2_desc = "ガルシア_hp"
+cheat2_handler = "2"
+cheat2_code = "A88,F,27"
+
+cheat3_desc = "シバ_hp"
+cheat3_handler = "2"
+cheat3_code = "D20,F,27"
+
+cheats = 4

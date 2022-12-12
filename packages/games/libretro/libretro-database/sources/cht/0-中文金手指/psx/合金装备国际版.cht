@@ -1,0 +1,177 @@
+cheat0_desc = "Infinite Life"
+cheat0_handler = "0"
+cheat0_code = "800B4DAE#0600;800B4DB0#0600"
+
+cheat1_desc = "Infinite Oxygen (R1)"
+cheat1_handler = "0"
+cheat1_code = "D00AB950#0008;800ABA34#03E7"
+
+cheat2_desc = "Radar Not Jammed When Spotted"
+cheat2_handler = "0"
+cheat2_code = "800ABA00#0000"
+
+cheat3_desc = "Ghost Mode"
+cheat3_handler = "0"
+cheat3_code = "D00B4DB8#0000;800ABA10#0000"
+
+cheat4_desc = "Have香烟"
+cheat4_handler = "0"
+cheat4_code = "800B4DE2#0001"
+
+cheat5_desc = "Have 望远镜"
+cheat5_handler = "0"
+cheat5_code = "800B4DE4#0001"
+
+cheat6_desc = "Have C.Box A"
+cheat6_handler = "0"
+cheat6_code = "800B4DE6#0001"
+
+cheat7_desc = "Have C.Box B"
+cheat7_handler = "0"
+cheat7_code = "800B4DE8#0001"
+
+cheat8_desc = "Have C.Box C"
+cheat8_handler = "0"
+cheat8_code = "800B4DEA#0001"
+
+cheat9_desc = "Have 夜时镜"
+cheat9_handler = "0"
+cheat9_code = "800B4DEC#0001"
+
+cheat10_desc = "Have 红外线感应器"
+cheat10_handler = "0"
+cheat10_code = "800B4DEE#0001"
+
+cheat11_desc = "Have防毒面具"
+cheat11_handler = "0"
+cheat11_code = "800B4DF0#0001"
+
+cheat12_desc = "Have 反单一"
+cheat12_handler = "0"
+cheat12_code = "800B4DF2#0001"
+
+cheat13_desc = "Have番茄"
+cheat13_handler = "0"
+cheat13_code = "800B4DF4#0001"
+
+cheat14_desc = "Have 隐身以"
+cheat14_handler = "0"
+cheat14_code = "800B4DF6#0001"
+
+cheat15_desc = "Have 头巾"
+cheat15_handler = "0"
+cheat15_code = "800B4DF8#0001"
+
+cheat16_desc = "Have 照相机"
+cheat16_handler = "0"
+cheat16_code = "800B4DFA#0001"
+
+cheat17_desc = "Have 等级7ID"
+cheat17_handler = "0"
+cheat17_code = "800B4E04#0007"
+
+cheat18_desc = "Never Have 定时炸弹"
+cheat18_handler = "0"
+cheat18_code = "800B4E06#0000"
+
+cheat19_desc = "Have地雷探测器"
+cheat19_handler = "0"
+cheat19_code = "800B4E08#0001"
+
+cheat20_desc = "Have 软盘"
+cheat20_handler = "0"
+cheat20_code = "800B4E0A#0001"
+
+cheat21_desc = "Have 绳子"
+cheat21_handler = "0"
+cheat21_code = "800B4E0C#0001"
+
+cheat22_desc = "Have 手帕"
+cheat22_handler = "0"
+cheat22_code = "800B4E0E#0001"
+
+cheat23_desc = "Have 手枪"
+cheat23_handler = "0"
+cheat23_code = "800B4DBA#03E7;800B4DCE#03E7"
+
+cheat24_desc = "Have 步枪"
+cheat24_handler = "0"
+cheat24_code = "800B4DBC#03E7;800B4DD0#03E7"
+
+cheat25_desc = "Have 破片手榴弹"
+cheat25_handler = "0"
+cheat25_code = "800B4DBE#03E7;800B4DD2#03E7"
+
+cheat26_desc = "Have 导致捣蛋"
+cheat26_handler = "0"
+cheat26_code = "800B4DC0#03E7;800B4DD4#03E7"
+
+cheat27_desc = "Have 地对空火箭筒"
+cheat27_handler = "0"
+cheat27_code = "800B4DC2#03E7;800B4DD6#03E7"
+
+cheat28_desc = "Have 导向性地雷"
+cheat28_handler = "0"
+cheat28_code = "800B4DC4#03E7;800B4DD8#03E7"
+
+cheat29_desc = "Have C4炸弹"
+cheat29_handler = "0"
+cheat29_code = "800B4DC6#03E7;800B4DDA#03E7"
+
+cheat30_desc = "Have 特殊闪光手榴弹"
+cheat30_handler = "0"
+cheat30_code = "800B4DC8#03E7;800B4DDC#03E7"
+
+cheat31_desc = "Have 电子干扰手榴弹"
+cheat31_handler = "0"
+cheat31_code = "800B4DCA#03E7;800B4DDE#03E7"
+
+cheat32_desc = "Have 阻击枪"
+cheat32_handler = "0"
+cheat32_code = "800B4DCC#03E7;800B4DE0#03E7"
+
+cheat33_desc = "Have 99 罐头"
+cheat33_handler = "0"
+cheat33_code = "800B4DFC#0063;800B4E12#0063"
+
+cheat34_desc = "Have 99 感冒药"
+cheat34_handler = "0"
+cheat34_code = "800B4DFE#0063;800B4E14#0063"
+
+cheat35_desc = "Have 99 精神安定剂"
+cheat35_handler = "0"
+cheat35_code = "800B4E00#0063;800B4E16#0063"
+
+cheat36_desc = "Auto Reload Ammo"
+cheat36_handler = "0"
+cheat36_code = "800AB9EC#001E;800ABA04#001E"
+
+cheat37_desc = "Clear Sneaking Mode"
+cheat37_handler = "0"
+cheat37_code = "800E1050#FFFF;800E1068#FFFF;800E1080#FFFF;800E1098#FFFF"
+
+cheat38_desc = "Clear Weapon Mode"
+cheat38_handler = "0"
+cheat38_code = "800E1052#FFFF;800E1054#FFFF;800E1056#FFFF;800E1058#FFFF;800E105A#FFFF;800E106A#FFFF;800E106C#FFFF;800E106E#FFFF;800E1070#FFFF;800E1072#FFFF"
+
+cheat39_desc = "Clear Advavced Mode"
+cheat39_handler = "0"
+cheat39_code = "800E1082#FFFF;800E1084#FFFF;800E1086#FFFF;800E1088#FFFF;800E108A#FFFF;800E109A#FFFF;800E109C#FFFF;800E109E#FFFF;800E10A0#FFFF;800E10A2#FFFF"
+
+cheat40_desc = "Clear Special Mode"
+cheat40_handler = "0"
+cheat40_code = "800E10BC#FFFF;800E10D4#FFFF;300E10ED#00FF;300E10EE#00FF;800E1122#FFFF;300E1124#00FF;300E114F#00FF;300E1150#0001;800E11CE#FFFF;300E1181#00FF"
+
+cheat41_desc = "Infinite Life"
+cheat41_handler = "0"
+cheat41_code = "800B2A0E#0600;800B2A10#0600"
+
+cheat42_desc = "Alway's Use Stealth"
+cheat42_handler = "0"
+cheat42_code = "800B2A16#000A"
+
+cheat43_desc = "Infinite Socom Ammo"
+cheat43_handler = "0"
+cheat43_code = "800B2A1A#0064;800B2A1C#0064;800B2A1E#0064"
+
+cheats = 44

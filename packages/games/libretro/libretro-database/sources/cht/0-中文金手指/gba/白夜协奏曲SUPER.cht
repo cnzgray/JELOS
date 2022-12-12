@@ -1,0 +1,669 @@
+cheat0_desc = "强大武器召唤攻击上+B凤凰放刺上+B飞刀黑色"
+cheat0_handler = "2"
+cheat0_code = "18771,0,1;18772,1;18772,1,85"
+
+cheat1_desc = "强大武器召唤攻击上+B飞刀绿色"
+cheat1_handler = "2"
+cheat1_code = "18771,0,1;18772,1;18772,1,84"
+
+cheat2_desc = "强大武器召唤攻击上+B飞刀黄色"
+cheat2_handler = "2"
+cheat2_code = "18771,0,1;18772,1;18772,1,83"
+
+cheat3_desc = "强大武器召唤攻击上+B飞刀蓝色"
+cheat3_handler = "2"
+cheat3_code = "18771,0,1;18772,1;18772,1,82"
+
+cheat4_desc = "强大武器召唤攻击上+B飞刀红色"
+cheat4_handler = "2"
+cheat4_code = "18771,0,1;18772,1;18772,1,81"
+
+cheat5_desc = "强大武器召唤攻击上+B鬼斧神工上+B黑色"
+cheat5_handler = "2"
+cheat5_code = "18771,0,2;18772,2;18772,2,85"
+
+cheat6_desc = "强大武器召唤攻击上+B斧头绿色"
+cheat6_handler = "2"
+cheat6_code = "18771,0,2;18772,2;18772,2,84"
+
+cheat7_desc = "强大武器召唤攻击上+B斧头黄色"
+cheat7_handler = "2"
+cheat7_code = "18771,0,2;18772,2;18772,2,83"
+
+cheat8_desc = "强大武器召唤攻击上+B斧头蓝色"
+cheat8_handler = "2"
+cheat8_code = "18771,0,2;18772,2;18772,2,82"
+
+cheat9_desc = "强大武器召唤攻击上+B斧头红色"
+cheat9_handler = "2"
+cheat9_code = "18771,0,2;18772,2;18772,2,81"
+
+cheat10_desc = "强大武器召唤攻击上+B十字架黑色上+B圣诞老人"
+cheat10_handler = "2"
+cheat10_code = "18771,0,3;18772,3;18772,3,85"
+
+cheat11_desc = "强大武器召唤攻击上+B十字架绿色"
+cheat11_handler = "2"
+cheat11_code = "18771,0,3;18772,3;18772,3,84"
+
+cheat12_desc = "强大武器召唤攻击上+B十字架黄色"
+cheat12_handler = "2"
+cheat12_code = "18771,0,3;18772,3;18772,3,83"
+
+cheat13_desc = "强大武器召唤攻击上+B十字架蓝色"
+cheat13_handler = "2"
+cheat13_code = "18771,0,3;18772,3;18772,3,82"
+
+cheat14_desc = "强大武器召唤攻击上+B十字架红色"
+cheat14_handler = "2"
+cheat14_code = "18771,0,3;18772,3;18772,3,81"
+
+cheat15_desc = "强大武器召唤攻击上+B天女散水上+B黑色"
+cheat15_handler = "2"
+cheat15_code = "18771,0,4;18772,4;18772,4,85"
+
+cheat16_desc = "强大武器召唤攻击上+B圣水瓶绿色"
+cheat16_handler = "2"
+cheat16_code = "18771,0,4;18772,4;18772,4,84"
+
+cheat17_desc = "强大武器召唤攻击上+B圣水瓶黄色"
+cheat17_handler = "2"
+cheat17_code = "18771,0,4;18772,4;18772,4,83"
+
+cheat18_desc = "强大武器召唤攻击上+B圣水瓶蓝色"
+cheat18_handler = "2"
+cheat18_code = "18771,0,4;18772,4;18772,4,82"
+
+cheat19_desc = "强大武器召唤攻击上+B圣水瓶红色"
+cheat19_handler = "2"
+cheat19_code = "18771,0,4;18772,4;18772,4,81"
+
+cheat20_desc = "强大武器召唤攻击上+B十字盒黑色天使唤出"
+cheat20_handler = "2"
+cheat20_code = "18771,0,5;18772,5;18772,5,85"
+
+cheat21_desc = "强大武器召唤攻击上+B十字盒绿色"
+cheat21_handler = "2"
+cheat21_code = "18771,0,5;18772,5;18772,5,84"
+
+cheat22_desc = "强大武器召唤攻击上+B十字盒黄色"
+cheat22_handler = "2"
+cheat22_code = "18771,0,5;18772,5;18772,5,83"
+
+cheat23_desc = "强大武器召唤攻击上+B十字盒蓝色"
+cheat23_handler = "2"
+cheat23_code = "18771,0,5;18772,5;18772,5,82"
+
+cheat24_desc = "强大武器召唤攻击上+B十字盒红色"
+cheat24_handler = "2"
+cheat24_code = "18771,0,5;18772,5;18772,5,81"
+
+cheat25_desc = "强大武器召唤攻击上+B拜佛拳上+B黑色"
+cheat25_handler = "2"
+cheat25_code = "18771,0,6;18772,6;18772,6,85"
+
+cheat26_desc = "强大武器召唤攻击上+B拜佛拳绿色"
+cheat26_handler = "2"
+cheat26_code = "18771,0,6;18772,6;18772,6,84"
+
+cheat27_desc = "强大武器召唤攻击上+B拜佛拳黄色"
+cheat27_handler = "2"
+cheat27_code = "18771,0,6;18772,6;18772,6,83"
+
+cheat28_desc = "强大武器召唤攻击上+B拜佛拳蓝色"
+cheat28_handler = "2"
+cheat28_code = "18771,0,6;18772,6;18772,6,82"
+
+cheat29_desc = "强大武器召唤攻击上+B拜佛拳红色"
+cheat29_handler = "2"
+cheat29_code = "18771,0,6;18772,6;18772,6,81"
+
+cheat30_desc = "强大武器召唤攻击上+BMAXIM专用上+B五角刀黑色"
+cheat30_handler = "2"
+cheat30_code = "18771,0,7;18772,7;18772,7,85"
+
+cheat31_desc = "强大武器召唤攻击上+B五角刀绿色"
+cheat31_handler = "2"
+cheat31_code = "18771,0,7;18772,7;18772,7,84"
+
+cheat32_desc = "强大武器召唤攻击上+B五角刀黄色"
+cheat32_handler = "2"
+cheat32_code = "18771,0,7;18772,7;18772,7,83"
+
+cheat33_desc = "强大武器召唤攻击上+B五角刀蓝色"
+cheat33_handler = "2"
+cheat33_code = "18771,0,7;18772,7;18772,7,82"
+
+cheat34_desc = "强大武器召唤攻击上+B五角刀红色"
+cheat34_handler = "2"
+cheat34_code = "18771,0,7;18772,7;18772,7,81"
+
+cheat35_desc = "飞刀红"
+cheat35_handler = "2"
+cheat35_code = "822,3,0,0,34;9A2,3,0,0,34"
+
+cheat36_desc = "diegod"
+cheat36_handler = "2"
+cheat36_code = "E15,0,0;E16,0,0;E17,0;E17,0,C5;E18,C5;E18,C5;E18,C5,C2;E19,C2;E19,C2;E19,C2,2;E1A,2;E1A,2;E1A,2,8;E1B,8;E1B,8;E1B,8,59;E1C,59;E1C,59;E1C,59,4;E1D,4;E1D,4;E1D,4,1;E1E,1;E1E,1;E1E,1,8;E1F,8;E1F,8;E1F,8,1;E20,1;E20,1,15;E21,15"
+
+cheat37_desc = "普通武器匕首"
+cheat37_handler = "2"
+cheat37_code = "1876F,FF,32,0,1"
+
+cheat38_desc = "普通武器斧头"
+cheat38_handler = "2"
+cheat38_code = "1876F,FF,32,0,2"
+
+cheat39_desc = "普通武器十字架"
+cheat39_handler = "2"
+cheat39_code = "1876F,FF,63,0,3"
+
+cheat40_desc = "普通武器圣水瓶"
+cheat40_handler = "2"
+cheat40_code = "1876F,FF,32,0,4"
+
+cheat41_desc = "普通武器十字盒"
+cheat41_handler = "2"
+cheat41_code = "1876F,FF,32,0,5"
+
+cheat42_desc = "普通武器密集拳法"
+cheat42_handler = "2"
+cheat42_code = "1876F,FF,32,0,6"
+
+cheat43_desc = "普通武器MAXIM特有五角刀"
+cheat43_handler = "2"
+cheat43_code = "1876F,FF,32,0,7"
+
+cheat44_desc = "历代主角西蒙在蓝色BOSSRUSH用"
+cheat44_handler = "2"
+cheat44_code = "10,FF;10,FF;F,0"
+
+cheat45_desc = "西蒙千万解锁"
+cheat45_handler = "2"
+cheat45_code = "10,FF;D,2,0,0"
+
+cheat46_desc = "游戏选项提早显示"
+cheat46_handler = "2"
+cheat46_code = "41F,8,FF;420,FF,14;421,14;421,14,1;422,1;422,1"
+
+cheat47_desc = "开箱子堆成的门"
+cheat47_handler = "2"
+cheat47_code = "311,0,0;312,0,0;313,0;313,0,1;314,1;314,1;314,1"
+
+cheat48_desc = "选关对保存点完美生效完美结局BOSS门上"
+cheat48_handler = "2"
+cheat48_code = "67,0,74;68,74,F4;69,F4,4A;6A,4A,8;18833,FF,FF"
+
+cheat49_desc = "选关对保存点完美生效第二结局BOSS门上"
+cheat49_handler = "2"
+cheat49_code = "67,0,74;68,74,F4;69,F4,4A;6A,4A,8"
+
+cheat50_desc = "选关对保存点完美生效德库拉所在地"
+cheat50_handler = "2"
+cheat50_code = "67,0,2C;68,2C,F6;69,F6,4A;6A,4A,8"
+
+cheat51_desc = "选关对保存点完美生效第一结局恶魔城宝物库右"
+cheat51_handler = "2"
+cheat51_code = "67,0,0;68,0,DB;69,DB,4A;6A,4A,8"
+
+cheat52_desc = "选关对保存点完美生效第一结局BOSS门上"
+cheat52_handler = "2"
+cheat52_code = "67,0,B4;68,B4,DB;69,DB,4A;6A,4A,8"
+
+cheat53_desc = "选关对保存点完美生效梦幻之间"
+cheat53_handler = "2"
+cheat53_code = "67,0,28;68,28,BD;69,BD,49;6A,49,8"
+
+cheat54_desc = "选关对保存点完美生效恶魔城最上部"
+cheat54_handler = "2"
+cheat54_code = "67,0,EC;68,EC,FA;69,FA,49;6A,49,8"
+
+cheat55_desc = "选关对保存点完美生效恶魔城最上部2"
+cheat55_handler = "2"
+cheat55_code = "67,0,FC;68,FC,7;69,7,4A;6A,4A,8"
+
+cheat56_desc = "选关对保存点完美生效働哭惨道"
+cheat56_handler = "2"
+cheat56_code = "67,0,E4;68,E4,DC;69,DC,49;6A,49,8"
+
+cheat57_desc = "选关对保存点完美生效异端礼拜堂"
+cheat57_handler = "2"
+cheat57_code = "67,0,68;68,68,36;69,36,4A;6A,4A,8"
+
+cheat58_desc = "选关对保存点完美生效空中回廊"
+cheat58_handler = "2"
+cheat58_code = "67,0,78;68,78,7D;69,7D,4A;6A,4A,8"
+
+cheat59_desc = "选关对保存点完美生效背教庙"
+cheat59_handler = "2"
+cheat59_code = "67,0,70;68,70,EB;69,EB,49;6A,49,8"
+
+cheat60_desc = "选关对保存点完美生效入城后"
+cheat60_handler = "2"
+cheat60_code = "67,0,40;68,40,97;69,97,49;6A,49,8"
+
+cheat61_desc = "选关对保存点完美生效去左有生命的重甲"
+cheat61_handler = "2"
+cheat61_code = "357,0,0;358,0,0;359,0;359,0,2;35A,2;35A,2;35A,2,0;35B,0;35B,0,82;35C,82;35C,82;35C,82,1F;35D,1F;35D,1F;35D,1F;35F,0,0,0,1F;67,0,94;68,94,DE;69,DE,49;6A,49,8"
+
+cheat62_desc = "选关对保存点完美生效大理石下"
+cheat62_handler = "2"
+cheat62_code = "67,0,6C;68,6C,B4;69,B4,49;6A,49,8"
+
+cheat63_desc = "选关对保存点完美生效大理石之廊下"
+cheat63_handler = "2"
+cheat63_code = "67,0,B8;68,B8,BD;69,BD,49;6A,49,8"
+
+cheat64_desc = "选关对保存点完美生效骸骨魔库"
+cheat64_handler = "2"
+cheat64_code = "67,0,40;68,40,19;69,19,4A;6A,4A,8"
+
+cheat65_desc = "选关对保存点完美生效骸骨魔库"
+cheat65_handler = "2"
+cheat65_code = "67,0,D4;68,D4,15;69,15,4A;6A,4A,8"
+
+cheat66_desc = "选关对保存点完美生效圣.死人军团"
+cheat66_handler = "2"
+cheat66_code = "356,0,0;357,0,8;358,8;358,8,0;359,0;359,0,2;35A,2;35A,2;67,0,6C;68,6C,17;69,17,4A;6A,4A,8"
+
+cheat67_desc = "选关对保存点完美生效大蝙蝠"
+cheat67_handler = "2"
+cheat67_code = "357,0,0;358,0,0;359,0,2;35A,2;67,0,44;68,44,BE;69,BE,49;6A,49,8"
+
+cheat68_desc = "选关对保存点完美生效里恶魔城宝物库"
+cheat68_handler = "2"
+cheat68_code = "67,0,98;68,98,8;69,8,4A;6A,4A,8"
+
+cheat69_desc = "选关对保存点完美生效米诺陶斯"
+cheat69_handler = "2"
+cheat69_code = "358,0;67,0,98;68,98,B;69,B,4A;6A,4A,8"
+
+cheat70_desc = "选关对保存点完美生效dra"
+cheat70_handler = "2"
+cheat70_code = "67,0,CC;68,CC,F3;69,F3,4A;6A,4A,8"
+
+cheat71_desc = "选关对保存点完美生效空中回廊part2"
+cheat71_handler = "2"
+cheat71_code = "67,0,30;68,30,83;69,83,4A;6A,4A,8"
+
+cheat72_desc = "选关对保存点完美生效空中回廊part3"
+cheat72_handler = "2"
+cheat72_code = "67,0,A8;68,A8,80;69,80,4A;6A,4A,8"
+
+cheat73_desc = "选关对保存点完美生效米诺陶斯"
+cheat73_handler = "2"
+cheat73_code = "355,0,0,0,0;67,0,B4;68,B4,81;69,81,4A;6A,4A,8"
+
+cheat74_desc = "选关对保存点完美生效因果律机械塔"
+cheat74_handler = "2"
+cheat74_code = "67,0,B0;68,B0,9E;69,9E,4A;6A,4A,8"
+
+cheat75_desc = "选关对保存点完美生效因果律机械塔up"
+cheat75_handler = "2"
+cheat75_code = "67,0,28;68,28,C1;69,C1,4A;6A,4A,8"
+
+cheat76_desc = "选关对保存点完美生效因果律机械塔down"
+cheat76_handler = "2"
+cheat76_code = "67,0,F4;68,F4,C4;69,C4,4A;6A,4A,8"
+
+cheat77_desc = "选关对保存点完美生效大型巨眼怪"
+cheat77_handler = "2"
+cheat77_code = "359,0,0,0,C2;67,0,50;68,50,BB;69,BB,4A;6A,4A,8"
+
+cheat78_desc = "选关对保存点完美生效架桥水龙道"
+cheat78_handler = "2"
+cheat78_code = "67,0,E8;68,E8,75;69,75,4A;6A,4A,8"
+
+cheat79_desc = "选关对保存点完美生效影"
+cheat79_handler = "2"
+cheat79_code = "356,0,0;357,0,40;358,40;358,40,2;359,2;359,2;359,2,0,0,C2;67,0,5C;68,5C,90;69,90,4A;6A,4A,8"
+
+cheat80_desc = "选关对保存点完美生效恶魔城宝物库"
+cheat80_handler = "2"
+cheat80_code = "67,0,1C;68,1C,F2;69,F2,4A;6A,4A,8"
+
+cheat81_desc = "选关对保存点完美生效不可侵洞窟"
+cheat81_handler = "2"
+cheat81_code = "67,0,10;68,10,4E;69,4E,4A;6A,4A,8"
+
+cheat82_desc = "选关对保存点完美生效里恶魔城最上部"
+cheat82_handler = "2"
+cheat82_code = "67,0,54;68,54,7;69,7,4A;6A,4A,8"
+
+cheat83_desc = "选关对保存点完美生效与MAXIM决战前对话"
+cheat83_handler = "2"
+cheat83_code = "67,0,6C;68,6C,F8;69,F8,4A;6A,4A,8"
+
+cheat84_desc = "选关对保存点完美生效与MAXIM决战"
+cheat84_handler = "2"
+cheat84_code = "67,0,48;68,48,F8;69,F8,4A;6A,4A,8"
+
+cheat85_desc = "选关对保存点完美生效MAXIM被打败后"
+cheat85_handler = "2"
+cheat85_code = "67,0,24;68,24,F8;69,F8,4A;6A,4A,8"
+
+cheat86_desc = "选关对保存点完美生效与伯爵开战"
+cheat86_handler = "2"
+cheat86_code = "67,0,DC;68,DC,F7;69,F7,4A;6A,4A,8"
+
+cheat87_desc = "选关对保存点完美生效德库拉眼球"
+cheat87_handler = "2"
+cheat87_code = "67,0,B8;68,B8,F7;69,F7,4A;6A,4A,8"
+
+cheat88_desc = "选关对保存点完美生效boss"
+cheat88_handler = "2"
+cheat88_code = "356,0,0;357,0,40;358,40;358,40,0;359,0;359,0,4;35A,4;35A,4,0,C2;67,0,7C;68,7C,FE;69,FE,49;6A,49,8"
+
+cheat89_desc = "选关对保存点完美生效bre"
+cheat89_handler = "2"
+cheat89_code = "359,0,0,0,C2;67,0,38;68,38,FA;69,FA,49;6A,49,8"
+
+cheat90_desc = ""
+cheat90_handler = "2"
+cheat90_code = "357,0,20;358,20,0;359,0;359,0,4;35A,4;35A,4;35A,4,0;35B,0,C2;35C,C2,1F;67,0,10;68,10,3F;69,3F,4A;6A,4A,8"
+
+cheat91_desc = "openright"
+cheat91_handler = "2"
+cheat91_code = "3AA,0,0;3AB,0,0;3AC,0;3AC,0,5;3AD,5;3AD,5;3AD,5,0;3AE,0,0;3AF,0;3AF,0,1F;3B0,1F;3B0,1F;3B0,1F;3B5,0,0;3B6,0,0;3B7,0;3B7,0,A0;3B8,A0;3B8,A0;3B8,A0,E6;3B9,E6;3B9,E6,49;3BA,49,8"
+
+cheat92_desc = "上下出城术最上出城-适用于空中回廊"
+cheat92_handler = "2"
+cheat92_code = "463,0,0;464,0,E0;465,E0;465,E0,4;466,4;466,4;466,4"
+
+cheat93_desc = "上下出城术最下出城用于地板下的铁门"
+cheat93_handler = "2"
+cheat93_code = "463,0,0;464,0,A0;465,A0;465,A0,A1;466,A1;466,A1;466,A1"
+
+cheat94_desc = "上下出城术向上出城"
+cheat94_handler = "2"
+cheat94_code = "463,0,0;464,0,E0;465,E0;465,E0,F;466,F;466,F;466,F"
+
+cheat95_desc = "上下出城术下跳回城"
+cheat95_handler = "2"
+cheat95_code = "463,0,0;464,0,0;465,0;465,0,8F;466,8F;466,8F;466,8F"
+
+cheat96_desc = "上下出城术原地向下1个身位"
+cheat96_handler = "2"
+cheat96_code = "466,E6"
+
+cheat97_desc = "上下出城术原地向上2个身位"
+cheat97_handler = "2"
+cheat97_code = "466,20"
+
+cheat98_desc = "上下出城术原地向上，直接穿到版边"
+cheat98_handler = "2"
+cheat98_code = "466,A"
+
+cheat99_desc = "上下出城术穿完后解锁"
+cheat99_handler = "2"
+cheat99_code = "0,0"
+
+cheat100_desc = "左右出城术最左出城"
+cheat100_handler = "2"
+cheat100_code = "462,8,0,0,60"
+
+cheat101_desc = "左右出城术最右出城"
+cheat101_handler = "2"
+cheat101_code = "462,E9"
+
+cheat102_desc = "左右出城术墙不在版边,向左偏移2个身位"
+cheat102_handler = "2"
+cheat102_code = "462,50"
+
+cheat103_desc = "左右出城术墙不在版边,向右偏移2个身位"
+cheat103_handler = "2"
+cheat103_code = "462,A0"
+
+cheat104_desc = "左右出城术墙在左版边,直接穿墙"
+cheat104_handler = "2"
+cheat104_code = "462,14"
+
+cheat105_desc = "左右出城术墙在右版边,直接穿墙"
+cheat105_handler = "2"
+cheat105_code = "462,E6"
+
+cheat106_desc = "左右出城术穿完后解锁"
+cheat106_handler = "2"
+cheat106_code = "0,0"
+
+cheat107_desc = "城堡铁门定住出现才可生效"
+cheat107_handler = "2"
+cheat107_code = "E15,0,0;E16,0,0;E17,0;E17,0,49;E18,49;E18,49;E18,49,F6;E19,F6;E19,F6,2;E1A,2,8"
+
+cheat108_desc = "保持站立姿势滑行"
+cheat108_handler = "2"
+cheat108_code = "480,4,85;481,85,D;482,D,8;483,8,9"
+
+cheat109_desc = "保持站立姿势保持姿势"
+cheat109_handler = "2"
+cheat109_code = "481,85,D,8,9"
+
+cheat110_desc = "BOSS重现有生命的重甲"
+cheat110_handler = "2"
+cheat110_code = "358,0,0"
+
+cheat111_desc = "BOSS重现米诺陶斯"
+cheat111_handler = "2"
+cheat111_code = "358,0"
+
+cheat112_desc = "BOSS重现大型巨眼怪"
+cheat112_handler = "2"
+cheat112_code = "359,0,0,0,C2"
+
+cheat113_desc = "BOSS重现圣.死人军团"
+cheat113_handler = "2"
+cheat113_code = "356,0,0;357,0,8;358,8;358,8,0;359,0;359,0,2;35A,2;35A,2"
+
+cheat114_desc = "BOSS重现大蝙蝠"
+cheat114_handler = "2"
+cheat114_code = "357,0,0;358,0,0;359,0,2;35A,2"
+
+cheat115_desc = "BOSS重现boss"
+cheat115_handler = "2"
+cheat115_code = "356,0,0;357,0,40;358,40;358,40,0;359,0;359,0,4;35A,4;35A,4,0,C2"
+
+cheat116_desc = "BOSS重现bre"
+cheat116_handler = "2"
+cheat116_code = "359,0,0,0,C2"
+
+cheat117_desc = "正常模式下随时开BOSS之铁门开有生命的重甲之门"
+cheat117_handler = "2"
+cheat117_code = "357,0;357,0,8;358,8;358,8;358,8,0;359,0,2;35A,2"
+
+cheat118_desc = "正常模式下随时开BOSS之铁门开石人的门"
+cheat118_handler = "2"
+cheat118_code = "357,0;357,0,18;358,18;358,18;358,18,0;359,0;359,0,2;35A,2;35A,2;35A,2,0;35B,0,82;35C,82,1F"
+
+cheat119_desc = "正常模式下随时开BOSS之铁门开米诺陶斯的门"
+cheat119_handler = "2"
+cheat119_code = "355,0,0;356,0,0;357,0;357,0,40;358,40;358,40;358,40"
+
+cheat120_desc = "正常模式下随时开BOSS之铁门开大型巨眼怪的门"
+cheat120_handler = "2"
+cheat120_code = "356,0,0;357,0,40;358,40;358,40,2;359,2;359,2"
+
+cheat121_desc = "正常模式下随时开BOSS之铁门开影的门"
+cheat121_handler = "2"
+cheat121_code = "356,0,0;357,0,40;358,40;358,40,A;359,A;359,A;359,A,0,0,C2"
+
+cheat122_desc = "正常模式下随时开BOSS之铁门开圣.死人军团的门"
+cheat122_handler = "2"
+cheat122_code = "356,0,0;357,0,8;358,8;358,8,20;359,20;359,20;359,20,2;35A,2;35A,2"
+
+cheat123_desc = "正常模式下随时开BOSS之铁门开大蝙蝠的门"
+cheat123_handler = "2"
+cheat123_code = "356,0,0;357,0,2;358,2;358,2,0;359,0;359,0,2;35A,2;35A,2,0,C2"
+
+cheat124_desc = "正常模式下随时开BOSS之铁门开里米诺陶斯的门"
+cheat124_handler = "2"
+cheat124_code = "356,0,0;357,0,20;358,20;358,20"
+
+cheat125_desc = "正常模式下随时开BOSS之铁门开里米诺陶斯的"
+cheat125_handler = "2"
+cheat125_code = "356,0,0;357,0,40;358,40;358,40,10;359,10;359,10;359,10,4;35A,4;35A,4,0,C2"
+
+cheat126_desc = "正常模式下随时开BOSS之铁门开塔洛斯的门"
+cheat126_handler = "2"
+cheat126_code = "356,0,0;357,0,20;358,20;358,20,40;359,40;359,40;359,40,0,0,C2"
+
+cheat127_desc = "BOSS RUSH下开BOSS的门开石人的门"
+cheat127_handler = "2"
+cheat127_code = "357,0,18;358,18;358,18;358,18,0;359,0;359,0,2;35A,2;35A,2,0,C2"
+
+cheat128_desc = "BOSS RUSH下开BOSS的门开米诺陶斯的门"
+cheat128_handler = "2"
+cheat128_code = "357,0,38;358,38;358,38;358,38,0;359,0;359,0,2;35A,2;35A,2,0,C2"
+
+cheat129_desc = "BOSS RUSH下开BOSS的门开恶魔的门"
+cheat129_handler = "2"
+cheat129_code = "357,0,78;358,78;358,78;358,78,0;359,0;359,0,2;35A,2;35A,2,0,C2"
+
+cheat130_desc = "BOSS RUSH下开BOSS的门开巨大半鱼人的门"
+cheat130_handler = "2"
+cheat130_code = "357,0,F8;358,F8;358,F8;358,F8,0;359,0;359,0,2;35A,2;35A,2,0,C2"
+
+cheat131_desc = "BOSS RUSH下开BOSS的门开巨史莱姆的门"
+cheat131_handler = "2"
+cheat131_code = "357,0,F8;358,F8;358,F8;358,F8,1;359,1;359,1;359,1,2;35A,2;35A,2,0,C2"
+
+cheat132_desc = "BOSS RUSH下开BOSS的门开大型巨眼怪的门"
+cheat132_handler = "2"
+cheat132_code = "357,0,F8;358,F8;358,F8;358,F8,3;359,3;359,3;359,3,2;35A,2;35A,2,0,C2"
+
+cheat133_desc = "BOSS RUSH下开BOSS的门开影的门"
+cheat133_handler = "2"
+cheat133_code = "357,0,F8;358,F8;358,F8;358,F8,B;359,B;359,B;359,B,2;35A,2;35A,2,0,C2"
+
+cheat134_desc = "BOSS RUSH下开BOSS的门开圣.死人军团的门"
+cheat134_handler = "2"
+cheat134_code = "357,0,F8;358,F8;358,F8;358,F8,F;359,F;359,F;359,F,2;35A,2;35A,2,0,C2"
+
+cheat135_desc = "BOSS RUSH下开BOSS的门开帕兹斯的门"
+cheat135_handler = "2"
+cheat135_code = "357,0,F8;358,F8;358,F8;358,F8,F;359,F;359,F;359,F,6;35A,6;35A,6,0,C2"
+
+cheat136_desc = "BOSS RUSH下开BOSS的门开米诺陶斯2的门"
+cheat136_handler = "2"
+cheat136_code = "357,0,F8;358,F8;358,F8;358,F8,1F;359,1F;359,1F;359,1F,6;35A,6;35A,6,0,C2"
+
+cheat137_desc = "BOSS RUSH下开BOSS的门开死人军团.躯体的门"
+cheat137_handler = "2"
+cheat137_code = "357,0,F8;358,F8;358,F8;358,F8,3F;359,3F;359,3F;359,3F,6;35A,6;35A,6,0,C2"
+
+cheat138_desc = "BOSS RUSH下开BOSS的门开塔洛斯的门"
+cheat138_handler = "2"
+cheat138_code = "357,0,F8;358,F8;358,F8;358,F8,7F;359,7F;359,7F;359,7F,6;35A,6;35A,6,0,C2"
+
+cheat139_desc = "BOSS RUSH下开BOSS的门开死神的门"
+cheat139_handler = "2"
+cheat139_code = "357,0,F8;358,F8;358,F8;358,F8,FF;359,FF;359,FF;359,FF,6;35A,6;35A,6,0,C2"
+
+cheat140_desc = "BOSS RUSH下开BOSS的门开独眼怪的门"
+cheat140_handler = "2"
+cheat140_code = "357,0,F8;358,F8;358,F8;358,F8,FF;359,FF;359,FF;359,FF,7;35A,7;35A,7,0,C2"
+
+cheat141_desc = "全隐藏要素"
+cheat141_handler = "2"
+cheat141_code = "35C,82"
+
+cheat142_desc = "JUSTE'S "
+cheat142_handler = "2"
+cheat142_code = "0,0"
+
+cheat143_desc = "零时间00"
+cheat143_handler = "2"
+cheat143_code = "88,0,0"
+
+cheat144_desc = "透明"
+cheat144_handler = "2"
+cheat144_code = "48C,D"
+
+cheat145_desc = "HP&MP&HEART不减"
+cheat145_handler = "2"
+cheat145_code = "18542,E7,3;18544,E7,3;18788,E7,3"
+
+cheat146_desc = "副武器飞刀"
+cheat146_handler = "2"
+cheat146_code = "18772,01"
+
+cheat147_desc = "副武器斧头"
+cheat147_handler = "2"
+cheat147_code = "18772,02"
+
+cheat148_desc = "副武器十字架"
+cheat148_handler = "2"
+cheat148_code = "18772,03"
+
+cheat149_desc = "副武器圣水瓶"
+cheat149_handler = "2"
+cheat149_code = "18772,04"
+
+cheat150_desc = "副武器圣石"
+cheat150_handler = "2"
+cheat150_code = "18772,05"
+
+cheat151_desc = "副武器流星拳"
+cheat151_handler = "2"
+cheat151_code = "18772,06"
+
+cheat152_desc = "副武器MAXIM御用回旋刀"
+cheat152_handler = "2"
+cheat152_code = "18772,07"
+
+cheat153_desc = "MONEY999999"
+cheat153_handler = "2"
+cheat153_code = "18790,3F,42,F"
+
+cheat154_desc = "EXPMAX"
+cheat154_handler = "2"
+cheat154_code = "1878C,FF,FF,0F"
+
+cheat155_desc = "HP"
+cheat155_handler = "2"
+cheat155_code = "1877A,E7,3"
+
+cheat156_desc = "MP"
+cheat156_handler = "2"
+cheat156_code = "1877C,E7,3"
+
+cheat157_desc = "HEART"
+cheat157_handler = "2"
+cheat157_code = "1877E,E7,3"
+
+cheat158_desc = "STR"
+cheat158_handler = "2"
+cheat158_code = "18546,E7,3"
+
+cheat159_desc = "DEF"
+cheat159_handler = "2"
+cheat159_code = "18548,E7,3"
+
+cheat160_desc = "INT"
+cheat160_handler = "2"
+cheat160_code = "1854A,E7,3"
+
+cheat161_desc = "LUK"
+cheat161_handler = "2"
+cheat161_code = "1854C,E7,3"
+
+cheat162_desc = "全武器MAX"
+cheat162_handler = "2"
+cheat162_code = "187B0,FF,FF"
+
+cheat163_desc = "全魔导器MAX"
+cheat163_handler = "2"
+cheat163_code = "18833,FF,FF"
+
+cheat164_desc = "全魔法书MAX"
+cheat164_handler = "2"
+cheat164_code = "18832,FF"
+
+cheat165_desc = "MAXIM'S "
+cheat165_handler = "2"
+cheat165_code = "0,0"
+
+cheat166_desc = "HP&MP&HEART不减"
+cheat166_handler = "2"
+cheat166_code = "18542,E7,3;18544,E7,3;18788,E7,3"
+
+cheats = 167

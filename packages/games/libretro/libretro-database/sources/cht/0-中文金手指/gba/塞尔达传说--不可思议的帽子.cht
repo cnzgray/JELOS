@@ -1,0 +1,253 @@
+cheat0_desc = "生命"
+cheat0_handler = "2"
+cheat0_code = "2AEA,A0"
+
+cheat1_desc = "生命上限"
+cheat1_handler = "2"
+cheat1_code = "2AEB,A0"
+
+cheat2_desc = "宝石"
+cheat2_handler = "2"
+cheat2_code = "2B00,E7,3"
+
+cheat3_desc = "宝石上限"
+cheat3_handler = "2"
+cheat3_code = "2AE8,3"
+
+cheat4_desc = "全剑技"
+cheat4_handler = "2"
+cheat4_code = "4402C,FF,FF"
+
+cheat5_desc = "全卷轴"
+cheat5_handler = "2"
+cheat5_code = "2B44,FF,FF"
+
+cheat6_desc = "炸弹数"
+cheat6_handler = "2"
+cheat6_code = "2AEC,63"
+
+cheat7_desc = "弓箭数"
+cheat7_handler = "2"
+cheat7_code = "2AED,63"
+
+cheat8_desc = "海螺数"
+cheat8_handler = "2"
+cheat8_code = "2B02,E7,3"
+
+cheat9_desc = "A键武器无"
+cheat9_handler = "2"
+cheat9_code = "2AF4,0"
+
+cheat10_desc = "A键武器スミスの剑"
+cheat10_handler = "2"
+cheat10_code = "2AF4,1"
+
+cheat11_desc = "A键武器ホワイトソード"
+cheat11_handler = "2"
+cheat11_code = "2AF4,2"
+
+cheat12_desc = "A键武器ホワイトソード(２人分身)"
+cheat12_handler = "2"
+cheat12_code = "2AF4,3"
+
+cheat13_desc = "A键武器ホワイトソード(３人分身)"
+cheat13_handler = "2"
+cheat13_code = "2AF4,4"
+
+cheat14_desc = "A键武器...(灯)"
+cheat14_handler = "2"
+cheat14_code = "2AF4,5"
+
+cheat15_desc = "A键武器フォーソード"
+cheat15_handler = "2"
+cheat15_code = "2AF4,6"
+
+cheat16_desc = "A键武器バクダン"
+cheat16_handler = "2"
+cheat16_code = "2AF4,7"
+
+cheat17_desc = "A键武器リモコンバクダン"
+cheat17_handler = "2"
+cheat17_code = "2AF4,8"
+
+cheat18_desc = "A键武器弓矢"
+cheat18_handler = "2"
+cheat18_code = "2AF4,9"
+
+cheat19_desc = "A键武器光の弓矢"
+cheat19_handler = "2"
+cheat19_code = "2AF4,A"
+
+cheat20_desc = "A键武器ブーメラン"
+cheat20_handler = "2"
+cheat20_code = "2AF4,B"
+
+cheat21_desc = "A键武器マジカルブーメラン"
+cheat21_handler = "2"
+cheat21_code = "2AF4,C"
+
+cheat22_desc = "A键武器小さな盾"
+cheat22_handler = "2"
+cheat22_code = "2AF4,D"
+
+cheat23_desc = "A键武器ミラーシールド"
+cheat23_handler = "2"
+cheat23_code = "2AF4,E"
+
+cheat24_desc = "A键武器炎のカンテラ"
+cheat24_handler = "2"
+cheat24_code = "2AF4,F"
+
+cheat25_desc = "A键武器灯"
+cheat25_handler = "2"
+cheat25_code = "2AF4,10"
+
+cheat26_desc = "A键武器魔法のつぼ"
+cheat26_handler = "2"
+cheat26_code = "2AF4,11"
+
+cheat27_desc = "A键武器パッチのつえ"
+cheat27_handler = "2"
+cheat27_code = "2AF4,12"
+
+cheat28_desc = "A键武器モグラグローブ"
+cheat28_handler = "2"
+cheat28_code = "2AF4,13"
+
+cheat29_desc = "A键武器はねマント"
+cheat29_handler = "2"
+cheat29_code = "2AF4,14"
+
+cheat30_desc = "A键武器ペガサスのくつ"
+cheat30_handler = "2"
+cheat30_code = "2AF4,15"
+
+cheat31_desc = "A键武器魔杖"
+cheat31_handler = "2"
+cheat31_code = "2AF4,16"
+
+cheat32_desc = "A键武器风のォカリナ"
+cheat32_handler = "2"
+cheat32_code = "2AF4,17"
+
+cheat33_desc = "A键武器空きビン"
+cheat33_handler = "2"
+cheat33_code = "2AF4,1C"
+
+cheat34_desc = "B键武器无"
+cheat34_handler = "2"
+cheat34_code = "2AF5,0"
+
+cheat35_desc = "B键武器スミスの剑"
+cheat35_handler = "2"
+cheat35_code = "2AF5,1"
+
+cheat36_desc = "B键武器ホワイトソード"
+cheat36_handler = "2"
+cheat36_code = "2AF5,2"
+
+cheat37_desc = "B键武器ホワイトソード(２人分身)"
+cheat37_handler = "2"
+cheat37_code = "2AF5,3"
+
+cheat38_desc = "B键武器ホワイトソード(３人分身)"
+cheat38_handler = "2"
+cheat38_code = "2AF5,4"
+
+cheat39_desc = "B键武器...(灯)"
+cheat39_handler = "2"
+cheat39_code = "2AF5,5"
+
+cheat40_desc = "B键武器フォーソード"
+cheat40_handler = "2"
+cheat40_code = "2AF5,6"
+
+cheat41_desc = "B键武器バクダン"
+cheat41_handler = "2"
+cheat41_code = "2AF5,7"
+
+cheat42_desc = "B键武器リモコンバクダン"
+cheat42_handler = "2"
+cheat42_code = "2AF5,8"
+
+cheat43_desc = "B键武器弓矢"
+cheat43_handler = "2"
+cheat43_code = "2AF5,9"
+
+cheat44_desc = "B键武器光の弓矢"
+cheat44_handler = "2"
+cheat44_code = "2AF5,A"
+
+cheat45_desc = "B键武器ブーメラン"
+cheat45_handler = "2"
+cheat45_code = "2AF5,B"
+
+cheat46_desc = "B键武器マジカルブーメラン"
+cheat46_handler = "2"
+cheat46_code = "2AF5,C"
+
+cheat47_desc = "B键武器小さな盾"
+cheat47_handler = "2"
+cheat47_code = "2AF5,D"
+
+cheat48_desc = "B键武器ミラーシールド"
+cheat48_handler = "2"
+cheat48_code = "2AF5,E"
+
+cheat49_desc = "B键武器炎のカンテラ"
+cheat49_handler = "2"
+cheat49_code = "2AF5,F"
+
+cheat50_desc = "B键武器灯"
+cheat50_handler = "2"
+cheat50_code = "2AF5,10"
+
+cheat51_desc = "B键武器魔法のつぼ"
+cheat51_handler = "2"
+cheat51_code = "2AF5,11"
+
+cheat52_desc = "B键武器パッチのつえ"
+cheat52_handler = "2"
+cheat52_code = "2AF5,12"
+
+cheat53_desc = "B键武器モグラグローブ"
+cheat53_handler = "2"
+cheat53_code = "2AF5,13"
+
+cheat54_desc = "B键武器はねマント"
+cheat54_handler = "2"
+cheat54_code = "2AF5,14"
+
+cheat55_desc = "B键武器ペガサスのくつ"
+cheat55_handler = "2"
+cheat55_code = "2AF5,15"
+
+cheat56_desc = "B键武器魔杖"
+cheat56_handler = "2"
+cheat56_code = "2AF5,16"
+
+cheat57_desc = "B键武器风のォカリナ"
+cheat57_handler = "2"
+cheat57_code = "2AF5,17"
+
+cheat58_desc = "B键武器空きビン"
+cheat58_handler = "2"
+cheat58_code = "2AF5,1C"
+
+cheat59_desc = "部分武器(慎用)"
+cheat59_handler = "2"
+cheat59_code = "2B34,15,51,54,45"
+
+cheat60_desc = "身体大小大"
+cheat60_handler = "2"
+cheat60_code = "43FB0,0"
+
+cheat61_desc = "身体大小小"
+cheat61_handler = "2"
+cheat61_code = "43FB0,80"
+
+cheat62_desc = "地图全开"
+cheat62_handler = "2"
+cheat62_code = "2A80,FF,FF,1"
+
+cheats = 63

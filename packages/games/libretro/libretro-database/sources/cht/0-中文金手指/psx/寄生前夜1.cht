@@ -1,0 +1,77 @@
+cheat0_desc = "战斗中子弹不减"
+cheat0_handler = "0"
+cheat0_code = "D00230EF#AC83];300230EF#008C"
+
+cheat1_desc = "武器攻击范围最大"
+cheat1_handler = "0"
+cheat1_code = "800B0772#8512"
+
+cheat2_desc = "BONUSPOINT最高"
+cheat2_handler = "0"
+cheat2_code = "800C08D0#869F;800C08D2#0001"
+
+cheat3_desc = "游戏时间永远是零"
+cheat3_handler = "0"
+cheat3_code = "800A717C#0000;800A717E#0000"
+
+cheat4_desc = "战斗一次升到最高等级"
+cheat4_handler = "0"
+cheat4_code = "8009CDC4#967F;8009CDC6#0098"
+
+cheat5_desc = "AT速度超快"
+cheat5_handler = "0"
+cheat5_code = "800B8540#270F"
+
+cheat6_desc = "HP最大值"
+cheat6_handler = "0"
+cheat6_code = "800B84FC#270F"
+
+cheat7_desc = "拥有所有PE"
+cheat7_handler = "0"
+cheat7_code = "800C08E4#1FFF;800C08E6#000C"
+
+cheat8_desc = "道具栏位前四格空下超强枪"
+cheat8_handler = "0"
+cheat8_code = "800C0908#0067"
+
+cheat9_desc = "道具栏位前四格空下火箭炮"
+cheat9_handler = "0"
+cheat9_code = "800C090A#0092"
+
+cheat10_desc = "道具栏位前四格空下万能工具"
+cheat10_handler = "0"
+cheat10_code = "800C090C#0017"
+
+cheat11_desc = "道具栏位前四格空下改造许可证"
+cheat11_handler = "0"
+cheat11_code = "800C090E#0037"
+
+cheat12_desc = "道具栏位为最大值"
+cheat12_handler = "0"
+cheat12_code = "300C08CC#002E"
+
+cheat13_desc = "无敌"
+cheat13_handler = "0"
+cheat13_code = "800B84EC#03E7"
+
+cheat14_desc = "AT无限"
+cheat14_handler = "0"
+cheat14_code = "800B84F0#2328"
+
+cheat15_desc = "PE无限"
+cheat15_handler = "0"
+cheat15_code = "800B84EA#0B89"
+
+cheat16_desc = "经验值"
+cheat16_handler = "0"
+cheat16_code = "8009CAAC#03E7;8009CAB0#FFFF"
+
+cheat17_desc = "HP"
+cheat17_handler = "0"
+cheat17_code = "800B84EC#00FF;800B84FC#00FF"
+
+cheat18_desc = "弹药无限"
+cheat18_handler = "0"
+cheat18_code = "800AC9AC#03E7"
+
+cheats = 19

@@ -25,5 +25,6 @@ makeinstall_target() {
   mkdir -p ${INSTALL}/usr/share/351files
   cp 351Files ${INSTALL}/usr/bin/
   cp -rf res ${INSTALL}/usr/share/351files/
+  cp ${PKG_DIR}/fonts/* ${INSTALL}/usr/share/351files/res/
   chmod 0755 ${INSTALL}/usr/bin/351Files
 }

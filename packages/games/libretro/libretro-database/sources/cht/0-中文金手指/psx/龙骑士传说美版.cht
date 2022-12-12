@@ -1,0 +1,33 @@
+cheat0_desc = "金钱"
+cheat0_handler = "0"
+cheat0_code = "800BAC5C#E0FF;800BAC5E#050F"
+
+cheat1_desc = "经验"
+cheat1_handler = "0"
+cheat1_code = "800BC95C#967F;800BC95E#0098"
+
+cheat2_desc = "道具无限"
+cheat2_handler = "0"
+cheat2_code = "80023346#2400;8002336E#2400"
+
+cheat3_desc = "大量STAR DUST"
+cheat3_handler = "0"
+cheat3_code = "300BAC60#0063"
+
+cheat4_desc = "随时记录"
+cheat4_handler = "0"
+cheat4_code = "8005A368#0001"
+
+cheat5_desc = "全部龙魂"
+cheat5_handler = "0"
+cheat5_code = "300BAD64#00FF"
+
+cheat6_desc = "全道具"
+cheat6_handler = "0"
+cheat6_code = "800BAD64#FFFF;800BAD66#FFFF;300BAD68#001F"
+
+cheat7_desc = "不遇小敌人"
+cheat7_handler = "0"
+cheat7_code = "800C6AE8#0000"
+
+cheats = 8

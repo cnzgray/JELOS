@@ -1,0 +1,45 @@
+cheat0_desc = "令箭数99"
+cheat0_handler = "0"
+cheat0_code = "801B0AA0#0063"
+
+cheat1_desc = "令箭数1"
+cheat1_handler = "0"
+cheat1_code = "801B0AA0#0001"
+
+cheat2_desc = "聚宝盆邺城金"
+cheat2_handler = "0"
+cheat2_code = "801C1E28#270F"
+
+cheat3_desc = "聚宝盆邺城米"
+cheat3_handler = "0"
+cheat3_code = "801C1E2A#270F"
+
+cheat4_desc = "聚宝盆邺城土地"
+cheat4_handler = "0"
+cheat4_code = "801C1E2C#03E7"
+
+cheat5_desc = "聚宝盆邺城商业"
+cheat5_handler = "0"
+cheat5_code = "801C1E2E#03E7"
+
+cheat6_desc = "聚宝盆邺城人口"
+cheat6_handler = "0"
+cheat6_code = "801C1E30#270F"
+
+cheat7_desc = "聚宝盆邺城统治度、宝物"
+cheat7_handler = "0"
+cheat7_code = "801C1E32#6363"
+
+cheat8_desc = "聚宝盆邺城防灾度"
+cheat8_handler = "0"
+cheat8_code = "801C1E34#0063"
+
+cheat9_desc = "聚宝盆邺城后备兵员"
+cheat9_handler = "0"
+cheat9_code = "801C1E38#2710"
+
+cheat10_desc = "超人刘备"
+cheat10_handler = "0"
+cheat10_code = "801C1C1A#FFFF;801C1C1C#FFFF;801C1C1E#FFFF;801C1C22#00E6;801C1C26#0072"
+
+cheats = 11

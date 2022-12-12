@@ -46,4 +46,7 @@ post_makeinstall_target() {
   for i in automatic dot-art flatui neoactive pixel retroactive retrosystem systematic convert.sh NPMApng2PMApng.py; do
     rm -rf "${INSTALL}/usr/share/retroarch-assets/xmb/$i"
   done
+
+  # copy fonts
+  cp -r ${PKG_DIR}/sources/* ${INSTALL}/usr/share/retroarch-assets/
 }

@@ -1,0 +1,157 @@
+cheat0_desc = "敵一擊死(大型怪物不可)OFF(请选择男或女角色)"
+cheat0_handler = "0"
+cheat0_code = "0000,0"
+
+cheat1_desc = "敵一擊死(大型怪物不可)男主角(CD-A)"
+cheat1_handler = "0"
+cheat1_code = "8003ED34#0001"
+
+cheat2_desc = "敵一擊死(大型怪物不可)女主角(CD-B)"
+cheat2_handler = "0"
+cheat2_code = "8003ECB8#0001"
+
+cheat3_desc = "绝对無敵(完全不受攻擊)OFF(请选择男或女角色)"
+cheat3_handler = "0"
+cheat3_code = "0000,0"
+
+cheat4_desc = "绝对無敵(完全不受攻擊)男主角(CD-A)"
+cheat4_handler = "0"
+cheat4_code = "800259AE#A273"
+
+cheat5_desc = "绝对無敵(完全不受攻擊)女主角(CD-B)"
+cheat5_handler = "0"
+cheat5_code = "8002595E#A273"
+
+cheat6_desc = "体力不減OFF(请选择男或女角色)"
+cheat6_handler = "0"
+cheat6_code = "0000,0"
+
+cheat7_desc = "体力不減男主角(CD-A)"
+cheat7_handler = "0"
+cheat7_code = "8003D766#0040;80039AE0#0000"
+
+cheat8_desc = "体力不減女主角(CD-B)"
+cheat8_handler = "0"
+cheat8_code = "8003D732#0040;80039AAC#0000"
+
+cheat9_desc = "彈藥不減OFF(请选择男或女角色)"
+cheat9_handler = "0"
+cheat9_code = "0000,0"
+
+cheat10_desc = "彈藥不減男主角(CD-A)"
+cheat10_handler = "0"
+cheat10_code = "80065C6A#1000;80065C6C#D691;80065C6E#A022"
+
+cheat11_desc = "彈藥不減女主角(CD-B)"
+cheat11_handler = "0"
+cheat11_code = "80065C32#1000;80065C34#D499;80065C36#A022"
+
+cheat12_desc = "擁有轻机OFF(请选择男或女角色)"
+cheat12_handler = "0"
+cheat12_code = "0000,0"
+
+cheat13_desc = "擁有轻机男主角(CD-A)"
+cheat13_handler = "0"
+cheat13_code = "800CD690#6312"
+
+cheat14_desc = "擁有轻机女主角(CD-B)"
+cheat14_handler = "0"
+cheat14_code = "800CD498#6312"
+
+cheat15_desc = "遊戲時間不增加OFF(请选择男或女角色)"
+cheat15_handler = "0"
+cheat15_code = "0000,0"
+
+cheat16_desc = "遊戲時間不增加男主角(CD-A)"
+cheat16_handler = "0"
+cheat16_code = "C011B9EE#0064;8011B9EE#0063"
+
+cheat17_desc = "遊戲時間不增加女主角(CD-B)"
+cheat17_handler = "0"
+cheat17_code = "C011B9EE#0064;8011B9EE#0063"
+
+cheat18_desc = "記錄色帶 99 個OFF(请选择男或女角色)"
+cheat18_handler = "0"
+cheat18_code = "0000,0"
+
+cheat19_desc = "記錄色帶 99 個男主角(CD-A)"
+cheat19_handler = "0"
+cheat19_code = "800CD694#631E"
+
+cheat20_desc = "記錄色帶 99 個女主角(CD-B)"
+cheat20_handler = "0"
+cheat20_code = "800CD49C#631E"
+
+cheat21_desc = "全部道具 99 個OFF(请选择男或女角色)"
+cheat21_handler = "0"
+cheat21_code = "0000,0"
+
+cheat22_desc = "全部道具 99 個男主角(CD-A)"
+cheat22_handler = "0"
+cheat22_code = "B03F0004#00000001,800CD6BC#6328"
+
+cheat23_desc = "全部道具 99 個女主角(CD-B)"
+cheat23_handler = "0"
+cheat23_code = "B03F0004#00000001,800CD4C4#6328"
+
+cheat24_desc = "記憶储存 00 回OFF(请选择男或女角色)"
+cheat24_handler = "0"
+cheat24_code = "0000,0"
+
+cheat25_desc = "記憶储存 00 回男主角(CD-A)"
+cheat25_handler = "0"
+cheat25_code = "800CD318#0000"
+
+cheat26_desc = "記憶储存 00 回女主角(CD-B)"
+cheat26_handler = "0"
+cheat26_code = "800CD120#0000"
+
+cheat27_desc = "急救噴霧劑使用 0 回OFF(请选择男或女角色)"
+cheat27_handler = "0"
+cheat27_code = "0000,0"
+
+cheat28_desc = "急救噴霧劑使用 0 回男主角(CD-A)"
+cheat28_handler = "0"
+cheat28_code = "800CD316#0000"
+
+cheat29_desc = "急救噴霧劑使用 0 回女主角(CD-B)"
+cheat29_handler = "0"
+cheat29_code = "800CD11E#0000"
+
+cheat30_desc = "遊戲結束強迫得 S 級OFF(请选择男或女角色)"
+cheat30_handler = "0"
+cheat30_code = "0000,0"
+
+cheat31_desc = "遊戲結束強迫得 S 級男主角(CD-A)"
+cheat31_handler = "0"
+cheat31_code = "D011BD74#2EE2;8011BD76#A420"
+
+cheat32_desc = "遊戲結束強迫得 S 級女主角(CD-B)"
+cheat32_handler = "0"
+cheat32_code = "D011BD74#2EE2;8011BD76#A420"
+
+cheat33_desc = "隨時呼叫道具箱(按 L2 键)OFF(请选择男或女角色)"
+cheat33_handler = "0"
+cheat33_code = "0000,0"
+
+cheat34_desc = "隨時呼叫道具箱(按 L2 键)男主角(CD-A)"
+cheat34_handler = "0"
+cheat34_code = "D00C6F94#0001;800CD0F0#EBEC;D00C6F94#0001;800CD0F2#8004"
+
+cheat35_desc = "隨時呼叫道具箱(按 L2 键)女主角(CD-B)"
+cheat35_handler = "0"
+cheat35_code = "D00C6D9C#0001;800CCEF8#EB70;D00C6D9C#0001;800CCEFA#8004"
+
+cheat36_desc = "隨時隨地可記憶(按 R2 键)OFF(请选择男或女角色)"
+cheat36_handler = "0"
+cheat36_code = "0000,0"
+
+cheat37_desc = "隨時隨地可記憶(按 R2 键)男主角(CD-A)"
+cheat37_handler = "0"
+cheat37_code = "D00C6F94#0002;800CD0F0#EA8C;D00C6F94#0002;800CD0F2#8004"
+
+cheat38_desc = "隨時隨地可記憶(按 R2 键)女主角(CD-B)"
+cheat38_handler = "0"
+cheat38_code = "D00C6D9C#0002;800CCEF8#EA10;D00C6D9C#0002;800CCEFA#8004"
+
+cheats = 39

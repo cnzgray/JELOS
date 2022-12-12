@@ -1,0 +1,209 @@
+cheat0_desc = "血槽"
+cheat0_handler = "2"
+cheat0_code = "18542,E7,03"
+
+cheat1_desc = "魔力"
+cheat1_handler = "2"
+cheat1_code = "18544,E7,03"
+
+cheat2_desc = "心力"
+cheat2_handler = "2"
+cheat2_code = "18788,E7,03"
+
+cheat3_desc = "强就一个字"
+cheat3_handler = "2"
+cheat3_code = "18546,F,27;18548,F,27;1854A,F,27;1854C,F,27"
+
+cheat4_desc = "经验值"
+cheat4_handler = "2"
+cheat4_code = "1878C,3F,42,0F"
+
+cheat5_desc = "金钱"
+cheat5_handler = "2"
+cheat5_code = "18790,3F,42,0F"
+
+cheat6_desc = "鞭子"
+cheat6_handler = "2"
+cheat6_code = "187B0,FF,FF"
+
+cheat7_desc = "无敌"
+cheat7_handler = "2"
+cheat7_code = "00458,F3"
+
+cheat8_desc = "无限HP"
+cheat8_handler = "2"
+cheat8_code = "18542,E7,3;1877A,E7,3"
+
+cheat9_desc = "无限MP"
+cheat9_handler = "2"
+cheat9_code = "18544,E7,3;1877C,E7,3"
+
+cheat10_desc = "无限心"
+cheat10_handler = "2"
+cheat10_code = "18788,E7,3;1877E,E7,3"
+
+cheat11_desc = "STR"
+cheat11_handler = "2"
+cheat11_code = "18546,E7,3"
+
+cheat12_desc = "DEF"
+cheat12_handler = "2"
+cheat12_code = "18548,E7,3"
+
+cheat13_desc = "INT"
+cheat13_handler = "2"
+cheat13_code = "1854A,E7,3"
+
+cheat14_desc = "LCK"
+cheat14_handler = "2"
+cheat14_code = "1854C,E7,3"
+
+cheat15_desc = "经验最高"
+cheat15_handler = "2"
+cheat15_code = "1878C,3F,42,F"
+
+cheat16_desc = "无限金钱"
+cheat16_handler = "2"
+cheat16_code = "18790,FF,FF,0"
+
+cheat17_desc = "辅助魔导器飞刀"
+cheat17_handler = "2"
+cheat17_code = "18772,01"
+
+cheat18_desc = "辅助魔导器斧头"
+cheat18_handler = "2"
+cheat18_code = "18772,02"
+
+cheat19_desc = "辅助魔导器十字架"
+cheat19_handler = "2"
+cheat19_code = "18772,03"
+
+cheat20_desc = "辅助魔导器圣水"
+cheat20_handler = "2"
+cheat20_code = "18772,04"
+
+cheat21_desc = "辅助魔导器圣书"
+cheat21_handler = "2"
+cheat21_code = "18772,05"
+
+cheat22_desc = "辅助魔导器圣拳"
+cheat22_handler = "2"
+cheat22_code = "18772,06"
+
+cheat23_desc = "鞭子的所有属性"
+cheat23_handler = "2"
+cheat23_code = "187B0,FF"
+
+cheat24_desc = "拥有所有魔法书"
+cheat24_handler = "2"
+cheat24_code = "18832,FF"
+
+cheat25_desc = "拥有所有魔导器"
+cheat25_handler = "2"
+cheat25_code = "18833,FF;18834,FF"
+
+cheat26_desc = "使用隐藏角色 MAXIM 马克西莫"
+cheat26_handler = "2"
+cheat26_code = "00081,ff"
+
+cheat27_desc = "所有模式"
+cheat27_handler = "2"
+cheat27_code = "0035c,c2"
+
+cheat28_desc = "游戏时间"
+cheat28_handler = "2"
+cheat28_code = "88,0,0"
+
+cheat29_desc = "所有装备"
+cheat29_handler = "2"
+cheat29_code = "187B2,09;187B3,09;187B4,09;187B5,09;187B6,09;187B7,09;187B8,09;187B9,09;187BA,09;187BB,09;187BC,09;187BD,09;187BE,09;187BF,09;187C0,09;187C1,09;187C2,09;187C3,09;187C4,09;187C5,09;187C6,09;187C7,09;187C8,09;187C9,09;187CA,09;187CB,09;187CC,09;187CD,09;187CE,09;187CF,09;187D0,09;187D1,09;187D2,09;187D3,09;187D4,09;187D5,09;187D6,09;187D7,09;187D8,09;187D9,09;187DA,09;187DB,09;187DC,09;187DD,09;187DE,09;187DF,09;187E0,09;187E1,09;187E2,09;187E3,09;187E4,09;187E5,09;187E6,09;187E7,09;187E8,09;187E9,09;187EA,09;187EB,09;187EC,09;187ED,09;187EE,09;187EF,09;187F0,09;187F1,09;187F2,09;187F3,09;187F4,09;187F5,09;187F6,09;187F7,09;187F8,09;187F9,09;187FA,09;187FB,09;187FC,09;187FD,09;187FE,09;187FF,09;18800,09;18801,09;18802,09;18803,09;18804,09;18805,09;18806,09;18807,09;18808,09;18809,09;1880A,09;1880B,09;1880C,09;1880D,09;1880E,09;1880F,09;18810,09;18811,09;18812,09;18813,09;18814,09;18815,09;18816,09;18817,09;18818,09;18819,09;1881A,09;1881B,09;1881C,09;1881D,09;1881E,09;1881F,09;18820,09;18821,09;18822,09;18823,09;18824,09;18825,09;18826,09;18827,09;18828,09;18829,09;1882A,09;1882B,09;1882C,09;1882D,09;1882E,09;1882F,09;18830,09;18831,09"
+
+cheat30_desc = "生命值"
+cheat30_handler = "2"
+cheat30_code = "18542,E7,3"
+
+cheat31_desc = "魔法值"
+cheat31_handler = "2"
+cheat31_code = "18544,E7,3"
+
+cheat32_desc = "STR 值"
+cheat32_handler = "2"
+cheat32_code = "18546,E7,3"
+
+cheat33_desc = "DEF 值"
+cheat33_handler = "2"
+cheat33_code = "18548,E7,3"
+
+cheat34_desc = "INT 值"
+cheat34_handler = "2"
+cheat34_code = "1854A,E7,3"
+
+cheat35_desc = "LUK 值"
+cheat35_handler = "2"
+cheat35_code = "1854C,E7,3"
+
+cheat36_desc = "经验值"
+cheat36_handler = "2"
+cheat36_code = "1878C,FF,FF,0F"
+
+cheat37_desc = "心上限"
+cheat37_handler = "2"
+cheat37_code = "1877E,E7,3"
+
+cheat38_desc = "生命值上限"
+cheat38_handler = "2"
+cheat38_code = "1877A,E7,3"
+
+cheat39_desc = "魔法值上限"
+cheat39_handler = "2"
+cheat39_code = "1877C,E7,3"
+
+cheat40_desc = "红心"
+cheat40_handler = "2"
+cheat40_code = "18788,E7,3"
+
+cheat41_desc = "隐身"
+cheat41_handler = "2"
+cheat41_code = "44C,FF"
+
+cheat42_desc = "暗器流星拳"
+cheat42_handler = "2"
+cheat42_code = "18772,06"
+
+cheat43_desc = "暗器飞 镖"
+cheat43_handler = "2"
+cheat43_code = "18772,01"
+
+cheat44_desc = "暗器斧 头"
+cheat44_handler = "2"
+cheat44_code = "18772,02"
+
+cheat45_desc = "暗器十字架"
+cheat45_handler = "2"
+cheat45_code = "18772,03"
+
+cheat46_desc = "暗器圣 石"
+cheat46_handler = "2"
+cheat46_code = "18772,05"
+
+cheat47_desc = "暗器星 星"
+cheat47_handler = "2"
+cheat47_code = "18772,07"
+
+cheat48_desc = "暗器圣水瓶"
+cheat48_handler = "2"
+cheat48_code = "18772,04"
+
+cheat49_desc = "可选择所有鞭子"
+cheat49_handler = "2"
+cheat49_code = "187B0,FF,FF"
+
+cheat50_desc = "拥有所有魔法书"
+cheat50_handler = "2"
+cheat50_code = "18832,FF"
+
+cheat51_desc = "拥有所有魔导器"
+cheat51_handler = "2"
+cheat51_code = "18833,FF,FF"
+
+cheats = 52

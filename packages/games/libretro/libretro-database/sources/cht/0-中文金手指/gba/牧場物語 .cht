@@ -1,0 +1,197 @@
+cheat0_desc = "疲勞度0"
+cheat0_handler = "2"
+cheat0_code = "41F6,0"
+
+cheat1_desc = "体力"
+cheat1_handler = "2"
+cheat1_code = "41F4,ff,63"
+
+cheat2_desc = "精靈no.1"
+cheat2_handler = "2"
+cheat2_code = "45f0,ff;45fc,ff,ff,ff"
+
+cheat3_desc = "精靈no.2"
+cheat3_handler = "2"
+cheat3_code = "4614,ff;4620,ff,ff,ff"
+
+cheat4_desc = "精靈no.3"
+cheat4_handler = "2"
+cheat4_code = "4638,ff;4644,ff,ff,ff"
+
+cheat5_desc = "精靈no.4"
+cheat5_handler = "2"
+cheat5_code = "465c,ff;4668,ff,ff,ff"
+
+cheat6_desc = "精靈no.5"
+cheat6_handler = "2"
+cheat6_code = "4680,ff;468c,ff,ff,ff"
+
+cheat7_desc = "精靈no.6"
+cheat7_handler = "2"
+cheat7_code = "46a4,ff;46b0,ff,ff,ff"
+
+cheat8_desc = "精靈no.7"
+cheat8_handler = "2"
+cheat8_code = "46c8,ff;46d4,ff,ff,ff"
+
+cheat9_desc = "木材"
+cheat9_handler = "2"
+cheat9_code = "25FC,E7,7"
+
+cheat10_desc = "金錢"
+cheat10_handler = "2"
+cheat10_code = "4080,0,CA,9A,3B"
+
+cheat11_desc = "道具變成改造可能"
+cheat11_handler = "2"
+cheat11_code = "41dc,ff;41dd,ff;41e0,ff;41e1,ff;41e4,ff;41e5,ff;41e8,ff;41e9,ff;41ec,ff;41ed,ff;41f0,ff,ff"
+
+cheat12_desc = "主角蘋果數"
+cheat12_handler = "2"
+cheat12_code = "41f4,ff"
+
+cheat13_desc = "狗的心心數"
+cheat13_handler = "2"
+cheat13_code = "4261,ff,ff,ff"
+
+cheat14_desc = "girls的心心數"
+cheat14_handler = "2"
+cheat14_code = "4359,ff;4415,ff;44d1,ff;44A5,FF;4525,ff;45a5,ff"
+
+cheat15_desc = "baby的心心數"
+cheat15_handler = "2"
+cheat15_code = "42af,ff;42b8,ff"
+
+cheat16_desc = "馬的心心數"
+cheat16_handler = "2"
+cheat16_code = "2618,ff,ff,ff,ff"
+
+cheat17_desc = "枚數"
+cheat17_handler = "2"
+cheat17_code = "47ff,ff;4813,ff;4827,ff;483b,ff;484f,ff;4863,ff;4877,ff;488b,ff;489f,ff;48b3,ff;48c7,ff;48d8,ff;48ef,ff;4903,ff;4917,ff;492b,ff;493f,ff;4953,ff;4967,ff;497b,ff;498f,ff;49a3,ff;49b7,ff;49cb,ff;49df,ff;49f3,ff;4a07,ff;4a1b,ff;4a2f,ff;4a43,ff;4a57,ff;4a6b,ff;4a7f,ff;4a93,ff;4aa7,ff;4abb,ff;4acf,ff;4ae3,ff;4af7,ff;4b0b,ff;4b1f,ff;4b33,ff;4b47,ff;4b5b,ff;4b6f,ff;4b83,ff;4b97,ff;4bab,ff;4bbf,ff;4bd3,ff;4be7,ff;4bfb,ff;4c0f,ff;4c23,ff;4c37,ff;4c4b,ff;4c5f,ff;4c73,ff;4c87,ff;4c9b,ff;4caf,ff;4cc3,ff;4cd7,ff;4ceb,ff;4cff,ff;4d13,ff;4d27,ff;4d3b,ff;4d4f,ff;4d63,ff;4d77,ff;4d8b,ff;4d9f,ff;4db3,ff;4dc7,ff;4ddb,ff;4def,ff;4e03,ff;4e17,ff;4e2b,ff;4e3f,ff;4e53,ff;4e67,ff;4e7b,ff;4e8f,ff;4ea3,ff;4eb7,ff;4ecb,ff;4edf,ff;4ef3,ff;4f07,ff;4f1b,ff;4f2f,ff;4f43,ff;4f57,ff;4f6b,ff;4f7f,ff;4f93,ff;4fa7,ff;4fbb,ff;4fcf,ff;4fe3,ff;4ff7,ff;500b,ff;501f,ff;5033,ff;5047,ff;505b,ff"
+
+cheat18_desc = "別墅全開(ONE唔得就用TWO)ONE"
+cheat18_handler = "2"
+cheat18_code = "25d8,ff"
+
+cheat19_desc = "別墅全開(ONE唔得就用TWO)TWO"
+cheat19_handler = "2"
+cheat19_code = "4e0c,ff"
+
+cheat20_desc = "雞蛋女的心心數on"
+cheat20_handler = "2"
+cheat20_code = "4359,ff"
+
+cheat21_desc = "圖書館女的心心數on"
+cheat21_handler = "2"
+cheat21_code = "4415,ff"
+
+cheat22_desc = "護士的心心數on"
+cheat22_handler = "2"
+cheat22_code = "44d1,ff"
+
+cheat23_desc = "雜貨店的心心數on"
+cheat23_handler = "2"
+cheat23_code = "44A5,FF"
+
+cheat24_desc = "旅館少女的心心數on"
+cheat24_handler = "2"
+cheat24_code = "4525,ff"
+
+cheat25_desc = "女神的心心數on"
+cheat25_handler = "2"
+cheat25_code = "45a5,ff"
+
+cheat26_desc = "牛屋已增築"
+cheat26_handler = "2"
+cheat26_code = "2bc8,ff"
+
+cheat27_desc = "雞屋已增築"
+cheat27_handler = "2"
+cheat27_code = "29e8,ff"
+
+cheat28_desc = "精靈no.1工作收穫"
+cheat28_handler = "2"
+cheat28_code = "4602,1c"
+
+cheat29_desc = "精靈no.1工作澆水"
+cheat29_handler = "2"
+cheat29_code = "4602,1d"
+
+cheat30_desc = "精靈no.1工作動物"
+cheat30_handler = "2"
+cheat30_code = "4602,1e"
+
+cheat31_desc = "精靈no.2工作收穫"
+cheat31_handler = "2"
+cheat31_code = "4626,1c"
+
+cheat32_desc = "精靈no.2工作澆水"
+cheat32_handler = "2"
+cheat32_code = "4626,1d"
+
+cheat33_desc = "精靈no.2工作動物"
+cheat33_handler = "2"
+cheat33_code = "4626,1e"
+
+cheat34_desc = "精靈no.3工作收穫"
+cheat34_handler = "2"
+cheat34_code = "464a,1c"
+
+cheat35_desc = "精靈no.3工作澆水"
+cheat35_handler = "2"
+cheat35_code = "464a,1d"
+
+cheat36_desc = "精靈no.3工作動物"
+cheat36_handler = "2"
+cheat36_code = "464a,1e"
+
+cheat37_desc = "精靈no.4工作收穫"
+cheat37_handler = "2"
+cheat37_code = "466e,1c"
+
+cheat38_desc = "精靈no.4工作澆水"
+cheat38_handler = "2"
+cheat38_code = "466e,1d"
+
+cheat39_desc = "精靈no.4工作動物"
+cheat39_handler = "2"
+cheat39_code = "466e,1e"
+
+cheat40_desc = "精靈no.5工作收穫"
+cheat40_handler = "2"
+cheat40_code = "4692,1c"
+
+cheat41_desc = "精靈no.5工作澆水"
+cheat41_handler = "2"
+cheat41_code = "4692,1d"
+
+cheat42_desc = "精靈no.5工作動物"
+cheat42_handler = "2"
+cheat42_code = "4692,1e"
+
+cheat43_desc = "精靈no.6工作收穫"
+cheat43_handler = "2"
+cheat43_code = "46b6,1c"
+
+cheat44_desc = "精靈no.6工作澆水"
+cheat44_handler = "2"
+cheat44_code = "46b6,1d"
+
+cheat45_desc = "精靈no.6工作動物"
+cheat45_handler = "2"
+cheat45_code = "46b6,1e"
+
+cheat46_desc = "精靈no.7工作收穫"
+cheat46_handler = "2"
+cheat46_code = "46da,1c"
+
+cheat47_desc = "精靈no.7工作澆水"
+cheat47_handler = "2"
+cheat47_code = "46da,1d"
+
+cheat48_desc = "精靈no.7工作動物"
+cheat48_handler = "2"
+cheat48_code = "46da,1e"
+
+cheats = 49

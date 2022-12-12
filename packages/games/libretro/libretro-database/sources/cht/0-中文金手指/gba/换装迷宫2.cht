@@ -1,0 +1,25 @@
+cheat0_desc = "无限金钱"
+cheat0_handler = "2"
+cheat0_code = "3258,7F,96,98"
+
+cheat1_desc = "学会全部料理"
+cheat1_handler = "2"
+cheat1_code = "3F52,FF,FF"
+
+cheat2_desc = "游戏时间为0"
+cheat2_handler = "2"
+cheat2_code = "42B39,00,00,00"
+
+cheat3_desc = "遇敌率一步一敌"
+cheat3_handler = "2"
+cheat3_code = "1CA0,00"
+
+cheat4_desc = "遇敌率不遇敌"
+cheat4_handler = "2"
+cheat4_code = "1CA0,FF"
+
+cheat5_desc = "特集角色名鉴100%"
+cheat5_handler = "2"
+cheat5_code = "3FD6,FF,FF,FF,FF"
+
+cheats = 6

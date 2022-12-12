@@ -1,0 +1,473 @@
+cheat0_desc = "SP不减"
+cheat0_handler = "0"
+cheat0_code = "D00B65EA#0072;800B65EA#0060;D00B663E#0092;800B663E#0080;D00B6686#0045;800B6686#0040;D00B66D6#0067;800B66D6#0060"
+
+cheat1_desc = "EN不减"
+cheat1_handler = "0"
+cheat1_code = "D00B8602#0062;800B8602#0060;D00B868A#0062;800B868A#0060;D00B8CBA#0065;800B8CBA#0060;D012952C#0008;80129530#0000"
+
+cheat2_desc = "残弹不减"
+cheat2_handler = "0"
+cheat2_code = "D00B9160#007F;800B9164#0000"
+
+cheat3_desc = "无限使用卫星激光炮"
+cheat3_handler = "0"
+cheat3_code = "D00C03D8#12C2;800C03D8#1021;D00C03DA#0010;800C03DA#0000"
+
+cheat4_desc = "操纵敌机、上帝之手～给BOSS自己用精神吧"
+cheat4_handler = "0"
+cheat4_code = "D010A5D2#1462;8010A5D2#1400;D00BF842#1400;800BF842#1000"
+
+cheat5_desc = "可攻击已方"
+cheat5_handler = "0"
+cheat5_code = "D00C6066#1040;800C6066#1400;D00C64E6#1040;800C64E6#1400"
+
+cheat6_desc = "无限射程，古兰森全地图范围大加农～"
+cheat6_handler = "0"
+cheat6_code = "D00BEB0A#1602;800BEB0A#1400"
+
+cheat7_desc = "无限移动,8用再动、觉醒，可以一直走～"
+cheat7_handler = "0"
+cheat7_code = "D00BF842#1440;800BF842#1000"
+
+cheat8_desc = "援护回数不减"
+cheat8_handler = "0"
+cheat8_code = "D00C3E30#000F;800C3E34#0000"
+
+cheat9_desc = "上限FF击坠后的击坠数×倍2倍"
+cheat9_handler = "0"
+cheat9_code = "D00C5620#1300;800C5620#1340"
+
+cheat10_desc = "上限FF击坠后的击坠数×倍4倍"
+cheat10_handler = "0"
+cheat10_code = "D00C5620#1300;800C5620#1380"
+
+cheat11_desc = "上限FF击坠后的击坠数×倍8倍"
+cheat11_handler = "0"
+cheat11_code = "D00C5620#1300;800C5620#13C0"
+
+cheat12_desc = "上限FF击坠后的击坠数×倍16倍"
+cheat12_handler = "0"
+cheat12_code = "D00C5620#1300;800C5620#1400"
+
+cheat13_desc = "上限FF击坠后的击坠数×倍32倍"
+cheat13_handler = "0"
+cheat13_code = "D00C5620#1300;800C5620#1440"
+
+cheat14_desc = "上限FF击坠后的击坠数×倍64倍"
+cheat14_handler = "0"
+cheat14_code = "D00C5620#1300;800C5620#1480"
+
+cheat15_desc = "经验值入手后1LVUP"
+cheat15_handler = "0"
+cheat15_code = "D00B58C8#0002;800B58CC#01F4;D00B58C8#0002;800B58CE#2405"
+
+cheat16_desc = "经验值入手后LVMAX，好像效果持续"
+cheat16_handler = "0"
+cheat16_code = "D00B58EC#0002;800B58EC#0001"
+
+cheat17_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机0_Debug?第零话?"
+cheat17_handler = "0"
+cheat17_code = "80074D44#0000"
+
+cheat18_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机1_START_戦火、再び"
+cheat18_handler = "0"
+cheat18_code = "80074D44#0001"
+
+cheat19_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机2_あえて汚名を"
+cheat19_handler = "0"
+cheat19_code = "80074D44#0002"
+
+cheat20_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机3_勝利へのVサイン"
+cheat20_handler = "0"
+cheat20_code = "80074D44#0003"
+
+cheat21_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机4A_リーンホース隊(月へ)_13番目の星座"
+cheat21_handler = "0"
+cheat21_code = "80074D44#0004"
+
+cheat22_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机5A_月のゆりかご"
+cheat22_handler = "0"
+cheat22_code = "80074D44#0005"
+
+cheat23_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机6A_情け無用のJ9"
+cheat23_handler = "0"
+cheat23_code = "80074D44#0006"
+
+cheat24_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机4B_アーガマ隊(極東支部へ)_正義は我zにあり"
+cheat24_handler = "0"
+cheat24_code = "80074D44#0007"
+
+cheat25_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机5B_鎖を解き放て"
+cheat25_handler = "0"
+cheat25_code = "80074D44#0008"
+
+cheat26_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机6B_お呼びとあらば即参上"
+cheat26_handler = "0"
+cheat26_code = "80074D44#0009"
+
+cheat27_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机7_終わらない円舞曲"
+cheat27_handler = "0"
+cheat27_code = "80074D44#000A"
+
+cheat28_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机8_ヌビアは笑う"
+cheat28_handler = "0"
+cheat28_code = "80074D44#000B"
+
+cheat29_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机9_愚者の祭典"
+cheat29_handler = "0"
+cheat29_code = "80074D44#000C"
+
+cheat30_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机10_遥かなる時の彼方"
+cheat30_handler = "0"
+cheat30_code = "80074D44#000D"
+
+cheat31_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机11_何で掟をやぶるのさ"
+cheat31_handler = "0"
+cheat31_code = "80074D44#000E"
+
+cheat32_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机12_謎また謎のイノセント"
+cheat32_handler = "0"
+cheat32_code = "80074D44#000F"
+
+cheat33_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机13_罪なき者の聖域"
+cheat33_handler = "0"
+cheat33_code = "80074D44#0010"
+
+cheat34_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机14B_直行しない(TURN A向)_招かれざる客"
+cheat34_handler = "0"
+cheat34_code = "80074D44#0011"
+
+cheat35_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机15B_ディアナ降臨"
+cheat35_handler = "0"
+cheat35_code = "80074D44#0012"
+
+cheat36_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机16B_ローラ＝ローラ"
+cheat36_handler = "0"
+cheat36_code = "80074D44#0013"
+
+cheat37_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机17B_白い悪魔"
+cheat37_handler = "0"
+cheat37_code = "80074D44#0014"
+
+cheat38_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机14A_直行する(X GUNDAM向)_月は出ているか"
+cheat38_handler = "0"
+cheat38_code = "80074D44#0015"
+
+cheat39_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机15A_あなたに、力を"
+cheat39_handler = "0"
+cheat39_code = "80074D44#0016"
+
+cheat40_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机16A_ガンダム、売るよ"
+cheat40_handler = "0"
+cheat40_code = "80074D44#0017"
+
+cheat41_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机17A_月の民"
+cheat41_handler = "0"
+cheat41_code = "80074D44#0018"
+
+cheat42_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机18A_フォートセバーンへ行く(真实系货车向)_僕がニュータイプだ"
+cheat42_handler = "0"
+cheat42_code = "80074D44#0019"
+
+cheat43_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机19A_共鳴する力"
+cheat43_handler = "0"
+cheat43_code = "80074D44#001A"
+
+cheat44_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机20A_過去からの侵略"
+cheat44_handler = "0"
+cheat44_code = "80074D44#001B"
+
+cheat45_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机18B_ビシニティに残る_機械の獣たち"
+cheat45_handler = "0"
+cheat45_code = "80074D44#001C"
+
+cheat46_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机19B_百年の恋"
+cheat46_handler = "0"
+cheat46_code = "80074D44#001D"
+
+cheat47_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机20B_黑歷史の遺產"
+cheat47_handler = "0"
+cheat47_code = "80074D44#001E"
+
+cheat48_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机21_地上をこの手に"
+cheat48_handler = "0"
+cheat48_code = "80074D44#001F"
+
+cheat49_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机22_謎のランドシップ"
+cheat49_handler = "0"
+cheat49_code = "80074D44#0020"
+
+cheat50_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机23_Loreleiの海"
+cheat50_handler = "0"
+cheat50_code = "80074D44#0021"
+
+cheat51_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机24_大地の守護神"
+cheat51_handler = "0"
+cheat51_code = "80074D44#0022"
+
+cheat52_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机25_もう逢えない気がして"
+cheat52_handler = "0"
+cheat52_code = "80074D44#0027"
+
+cheat53_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机26A_熟練度14以下_破れかぶれのラグ"
+cheat53_handler = "0"
+cheat53_code = "80074D44#0028"
+
+cheat54_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机27A_捨て身と捨て身の大戦闘"
+cheat54_handler = "0"
+cheat54_code = "80074D44#0029"
+
+cheat55_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机28A_暗黒大将軍の挑戦"
+cheat55_handler = "0"
+cheat55_code = "80074D44#002A"
+
+cheat56_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机29A_女の心をあやつれば"
+cheat56_handler = "0"
+cheat56_code = "80074D44#002B"
+
+cheat57_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机26B_熟練度15以上_果てしなき大空に誓う"
+cheat57_handler = "0"
+cheat57_code = "80074D44#002C"
+
+cheat58_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机27B_ホーラの意地"
+cheat58_handler = "0"
+cheat58_code = "80074D44#002D"
+
+cheat59_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机28B_イノセントの黒歴史"
+cheat59_handler = "0"
+cheat59_code = "80074D44#002E"
+
+cheat60_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机29B_女いろいろ万華鏡"
+cheat60_handler = "0"
+cheat60_code = "80074D44#002F"
+
+cheat61_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机30_イノセントを総べる者"
+cheat61_handler = "0"
+cheat61_code = "80074D44#0030"
+
+cheat62_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机31_天地を焼く剣"
+cheat62_handler = "0"
+cheat62_code = "80074D44#0031"
+
+cheat63_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机32A_月へ向かう _飛べ、宇宙へ"
+cheat63_handler = "0"
+cheat63_code = "80074D44#0032"
+
+cheat64_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机33A_ターンX起動"
+cheat64_handler = "0"
+cheat64_code = "80074D44#0033"
+
+cheat65_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机34A_時を超えた対決"
+cheat65_handler = "0"
+cheat65_code = "80074D44#0034"
+
+cheat66_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机35A_私はＤ．Ｏ．Ｍ．Ｅ…黒歴史を封印するもの"
+cheat66_handler = "0"
+cheat66_code = "80074D44#0035"
+
+cheat67_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机32B_Xポイントへ向かう _姿なき恐竜空爆隊"
+cheat67_handler = "0"
+cheat67_code = "80074D44#0036"
+
+cheat68_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机33B_エルチ目覚めよ"
+cheat68_handler = "0"
+cheat68_code = "80074D44#0037"
+
+cheat69_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机34B_この星は僕らのものだ"
+cheat69_handler = "0"
+cheat69_code = "80074D44#0038"
+
+cheat70_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机35B_戦闘神降臨"
+cheat70_handler = "0"
+cheat70_code = "80074D44#0039"
+
+cheat71_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机36A_奪われた真·ゲッターロボ"
+cheat71_handler = "0"
+cheat71_code = "80074D44#003E"
+
+cheat72_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机36B_真ゲッターロボ対マジンカイザー"
+cheat72_handler = "0"
+cheat72_code = "80074D44#003F"
+
+cheat73_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机37_僕らが求めた戦争だ"
+cheat73_handler = "0"
+cheat73_code = "80074D44#0040"
+
+cheat74_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机38_月光蝶"
+cheat74_handler = "0"
+cheat74_code = "80074D44#0041"
+
+cheat75_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机39_決戦！Ｘポイント"
+cheat75_handler = "0"
+cheat75_code = "80074D44#0042"
+
+cheat76_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机40_ＡＢＡＹＯ"
+cheat76_handler = "0"
+cheat76_code = "80074D44#0043"
+
+cheat77_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机41B_ＥＮＤ－１向(难易度：易)_恐竜帝国の滅びる日"
+cheat77_handler = "0"
+cheat77_code = "80074D44#0044"
+
+cheat78_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机42B_歪んだ未来"
+cheat78_handler = "0"
+cheat78_code = "80074D44#0045"
+
+cheat79_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机43B_最终话_眠れ、地の底に"
+cheat79_handler = "0"
+cheat79_code = "80074D44#0046"
+
+cheat80_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机41AC_难易度：普、难_黒歴史の終焉"
+cheat80_handler = "0"
+cheat80_code = "80074D44#0047"
+
+cheat81_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机42C_ＥＮＤ－２向(难易度：普)_地球の後継者"
+cheat81_handler = "0"
+cheat81_code = "80074D44#0048"
+
+cheat82_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机43C_最终话_時の流の果てに"
+cheat82_handler = "0"
+cheat82_code = "80074D44#0049"
+
+cheat83_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机42A_ＥＮＤ－３向(难易度：难)_竜が滅ぶ日"
+cheat83_handler = "0"
+cheat83_code = "80074D44#004A"
+
+cheat84_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机43A_人類死すべし"
+cheat84_handler = "0"
+cheat84_code = "80074D44#004B"
+
+cheat85_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机44A_未来は誰のために"
+cheat85_handler = "0"
+cheat85_code = "80074D44#004C"
+
+cheat86_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机45A_真最终话(回合数500以下，熟练度35以上)_ラグナロク"
+cheat86_handler = "0"
+cheat86_code = "80074D44#004D"
+
+cheat87_desc = "跳关,建议由后跳到前，否则容易因为缺少机体或者人物而死机4Eh~空的，前面不少空的大概打算做后来砍掉了"
+cheat87_handler = "0"
+cheat87_code = "0000,00"
+
+cheat88_desc = "搭乘限制解除，Reset后用"
+cheat88_handler = "0"
+cheat88_code = "D00B2342#1040;800B2342#1400;D00B1DAE#1040;800B1DAE#1400"
+
+cheat89_desc = "金钱9999999,内存占4格"
+cheat89_handler = "0"
+cheat89_code = "80073168#967F;8007316A#0098"
+
+cheat90_desc = "总回合数0合数"
+cheat90_handler = "0"
+cheat90_code = "8007316C#0000"
+
+cheat91_desc = "总回合数99"
+cheat91_handler = "0"
+cheat91_code = "8007316C#0063"
+
+cheat92_desc = "本关回合数置0，用于重复出击"
+cheat92_handler = "0"
+cheat92_code = "3007316E#0000"
+
+cheat93_desc = "商店出現,在商店项不可用时用"
+cheat93_handler = "0"
+cheat93_code = "30073175#0000"
+
+cheat94_desc = "无限蓝石BS"
+cheat94_handler = "0"
+cheat94_code = "80073178#270F;8007317A#0000"
+
+cheat95_desc = "难易度普"
+cheat95_handler = "0"
+cheat95_code = "30073182#0000"
+
+cheat96_desc = "难易度易"
+cheat96_handler = "0"
+cheat96_code = "30073182#0001"
+
+cheat97_desc = "难易度难"
+cheat97_handler = "0"
+cheat97_code = "30073182#0002"
+
+cheat98_desc = "熟练度0"
+cheat98_handler = "0"
+cheat98_code = "80073188#0000"
+
+cheat99_desc = "熟练度9"
+cheat99_handler = "0"
+cheat99_code = "80073188#0009"
+
+cheat100_desc = "熟练度37"
+cheat100_handler = "0"
+cheat100_code = "80073188#0025"
+
+cheat101_desc = "熟练度255"
+cheat101_handler = "0"
+cheat101_code = "80073188#00FF"
+
+cheat102_desc = "全部动画"
+cheat102_handler = "0"
+cheat102_code = "D00E9B9E#1040,800E9B9E#1400"
+
+cheat103_desc = "全部音乐"
+cheat103_handler = "0"
+cheat103_code = "8005EE08#FFFF"
+
+cheat104_desc = "游戏加速"
+cheat104_handler = "0"
+cheat104_code = "D0024B38#FFE9,80024B3A#1400"
+
+cheat105_desc = "高速化"
+cheat105_handler = "0"
+cheat105_code = "D0024B3A#1440;80024B3A#1400"
+
+cheat106_desc = "按△键高速化，按选择键恢复正常"
+cheat106_handler = "0"
+cheat106_code = "D005EA9C#0010;80024B3A#1400;D005EA9C#0100;80024B3A#1440"
+
+cheat107_desc = "回合数不増加"
+cheat107_handler = "0"
+cheat107_code = "D00EAC0C#0001;800EAC0C#0000"
+
+cheat108_desc = "100%机体图鉴"
+cheat108_handler = "0"
+cheat108_code = "D00EEEA0#000A,800EEEA0#0001"
+
+cheat109_desc = "100%人物图鉴"
+cheat109_handler = "0"
+cheat109_code = "D00EC764#000A,800EC764#0001"
+
+cheat110_desc = "全部强化芯片"
+cheat110_handler = "0"
+cheat110_code = "B0030002#00000000,801704AC#FFFF;B05F0001#00000000,301704BC#0009"
+
+cheat111_desc = "强化芯片用中文版的可以输入"
+cheat111_handler = "0"
+cheat111_code = "801704AC#FFFF;801704AE#FFFF;801704B0#FFFF;B0320002#00000000;801704BC#0909"
+
+cheat112_desc = "不死机"第20话不死机""
+cheat112_handler = "0"
+cheat112_code = "3016F81E#0003;8016F94E#0000"
+
+cheat113_desc = "不死机"第36话不死机""
+cheat113_handler = "0"
+cheat113_code = "3016F81E#0003;3016F94E#0000"
+
+cheat114_desc = "YF19"
+cheat114_handler = "0"
+cheat114_code = "8016EC90#0120;8016F824#01A0"
+
+cheat115_desc = "龙虎王"
+cheat115_handler = "0"
+cheat115_code = "8016F8F4#01DB;8016F904#01DC;8016F914#01D9;8016F924#01DA;3016F8FB#0000;3016F90B#0000;3016F91B#0000;3016F92B#0000;3016F8FC#00FF;3016F90C#00FF;3016F91C#00FF;3016F92C#00FF;3016F8FD#00FF;3016F90D#000E;3016F91D#000E;3016F92D#0010;8016F8FE#A02B;8016F90E#A02C;8016F91E#A028;8016F92E#A02C;8016ED44#0147;8016ED58#013B;3016ED49#000F;3016ED5D#000F;3016ED4B#0000;3016ED5F#0000"
+
+cheat116_desc = "斩舰刀NO"
+cheat116_handler = "0"
+cheat116_code = "8016F934#01D0;3016F93B#0000;3016F93C#00FF;8016F93E#A033;8016ED6C#014C;3016ED71#000F;3016ED73#0000"
+
+cheat117_desc = "晓击霸mark3-MANO"
+cheat117_handler = "0"
+cheat117_code = "8016F934#01E6;3016F93B#0000;3016F93C#00FF;8016F93E#A033;8016ED6C#0138;3016ED71#000F;3016ED73#0000"
+
+cheats = 118

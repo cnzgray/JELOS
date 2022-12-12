@@ -1,0 +1,145 @@
+cheat0_desc = "我方點數"
+cheat0_handler = "2"
+cheat0_code = "393A4,F,27"
+
+cheat1_desc = "對方點數"
+cheat1_handler = "2"
+cheat1_code = "39504,0,0"
+
+cheat2_desc = "首位牌一萬"
+cheat2_handler = "2"
+cheat2_code = "39264,1"
+
+cheat3_desc = "首位牌二萬"
+cheat3_handler = "2"
+cheat3_code = "39264,2"
+
+cheat4_desc = "首位牌三萬"
+cheat4_handler = "2"
+cheat4_code = "39264,3"
+
+cheat5_desc = "首位牌四萬"
+cheat5_handler = "2"
+cheat5_code = "39264,4"
+
+cheat6_desc = "首位牌五萬"
+cheat6_handler = "2"
+cheat6_code = "39264,5"
+
+cheat7_desc = "首位牌六萬"
+cheat7_handler = "2"
+cheat7_code = "39264,6"
+
+cheat8_desc = "首位牌七萬"
+cheat8_handler = "2"
+cheat8_code = "39264,7"
+
+cheat9_desc = "首位牌八萬"
+cheat9_handler = "2"
+cheat9_code = "39264,8"
+
+cheat10_desc = "首位牌九萬"
+cheat10_handler = "2"
+cheat10_code = "39264,9"
+
+cheat11_desc = "首位牌一柄"
+cheat11_handler = "2"
+cheat11_code = "39264,11"
+
+cheat12_desc = "首位牌二柄"
+cheat12_handler = "2"
+cheat12_code = "39264,12"
+
+cheat13_desc = "首位牌三柄"
+cheat13_handler = "2"
+cheat13_code = "39264,13"
+
+cheat14_desc = "首位牌四柄"
+cheat14_handler = "2"
+cheat14_code = "39264,14"
+
+cheat15_desc = "首位牌五柄"
+cheat15_handler = "2"
+cheat15_code = "39264,15"
+
+cheat16_desc = "首位牌六柄"
+cheat16_handler = "2"
+cheat16_code = "39264,16"
+
+cheat17_desc = "首位牌七柄"
+cheat17_handler = "2"
+cheat17_code = "39264,17"
+
+cheat18_desc = "首位牌八柄"
+cheat18_handler = "2"
+cheat18_code = "39264,18"
+
+cheat19_desc = "首位牌九柄"
+cheat19_handler = "2"
+cheat19_code = "39264,19"
+
+cheat20_desc = "首位牌一條"
+cheat20_handler = "2"
+cheat20_code = "39264,21"
+
+cheat21_desc = "首位牌二條"
+cheat21_handler = "2"
+cheat21_code = "39264,22"
+
+cheat22_desc = "首位牌三條"
+cheat22_handler = "2"
+cheat22_code = "39264,23"
+
+cheat23_desc = "首位牌四條"
+cheat23_handler = "2"
+cheat23_code = "39264,24"
+
+cheat24_desc = "首位牌五條"
+cheat24_handler = "2"
+cheat24_code = "39264,25"
+
+cheat25_desc = "首位牌六條"
+cheat25_handler = "2"
+cheat25_code = "39264,26"
+
+cheat26_desc = "首位牌七條"
+cheat26_handler = "2"
+cheat26_code = "39264,27"
+
+cheat27_desc = "首位牌八條"
+cheat27_handler = "2"
+cheat27_code = "39264,28"
+
+cheat28_desc = "首位牌九條"
+cheat28_handler = "2"
+cheat28_code = "39264,29"
+
+cheat29_desc = "首位牌東風"
+cheat29_handler = "2"
+cheat29_code = "39264,31"
+
+cheat30_desc = "首位牌南風"
+cheat30_handler = "2"
+cheat30_code = "39264,32"
+
+cheat31_desc = "首位牌西風"
+cheat31_handler = "2"
+cheat31_code = "39264,33"
+
+cheat32_desc = "首位牌北風"
+cheat32_handler = "2"
+cheat32_code = "39264,34"
+
+cheat33_desc = "首位牌白板"
+cheat33_handler = "2"
+cheat33_code = "39264,35"
+
+cheat34_desc = "首位牌發財"
+cheat34_handler = "2"
+cheat34_code = "39264,36"
+
+cheat35_desc = "首位牌紅中"
+cheat35_handler = "2"
+cheat35_code = "39264,37"
+
+cheats = 36

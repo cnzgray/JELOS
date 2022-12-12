@@ -1,0 +1,37 @@
+cheat0_desc = "HP上限9999"
+cheat0_handler = "2"
+cheat0_code = "41530,F,27"
+
+cheat1_desc = "导弹上限999"
+cheat1_handler = "2"
+cheat1_code = "41532,E7,3"
+
+cheat2_desc = "超级导弹上限255"
+cheat2_handler = "2"
+cheat2_code = "41534,FF"
+
+cheat3_desc = "超级炸弹上限99"
+cheat3_handler = "2"
+cheat3_code = "41535,63"
+
+cheat4_desc = "全装备开启"
+cheat4_handler = "2"
+cheat4_code = "41536,0f,27;4153C,9F,9F,FF,FF"
+
+cheat5_desc = "全部隐藏要素开启"
+cheat5_handler = "2"
+cheat5_code = "40014,FF"
+
+cheat6_desc = "全部隐藏要素开启"
+cheat6_handler = "2"
+cheat6_code = "40014,FF"
+
+cheat7_desc = "游戏时间00:00:00"
+cheat7_handler = "2"
+cheat7_code = "40150,0,0,0"
+
+cheat8_desc = "游戏时间99:99:99"
+cheat8_handler = "2"
+cheat8_code = "40150,63,63,63"
+
+cheats = 9

@@ -1,0 +1,29 @@
+cheat0_desc = "全武器"
+cheat0_handler = "0"
+cheat0_code = "8437DD09#9A15;8437DD0B#9A17"
+
+cheat1_desc = "选关"
+cheat1_handler = "0"
+cheat1_code = "8014F9C4#0013"
+
+cheat2_desc = "全CHEAT和MINI游戏出现"
+cheat2_handler = "0"
+cheat2_code = "84372935#2EAD"
+
+cheat3_desc = "无限装甲"
+cheat3_handler = "0"
+cheat3_code = "842D3E0C#48B6"
+
+cheat4_desc = "无限弹药"
+cheat4_handler = "0"
+cheat4_code = "842391BF#D90F"
+
+cheat5_desc = "无限时间(MINI游戏模式)"
+cheat5_handler = "0"
+cheat5_code = "84201BC1#A10F"
+
+cheat6_desc = "无敌"
+cheat6_handler = "0"
+cheat6_code = "D005AEFC#AAAB;8005AEF4#0258;D005AEFC#AAAB;8005AEF6#2404;D005AEFC#AAAB;8005AEFA#A4C4"
+
+cheats = 7

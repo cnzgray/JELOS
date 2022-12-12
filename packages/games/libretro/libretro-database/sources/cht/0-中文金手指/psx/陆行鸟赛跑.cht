@@ -1,0 +1,13 @@
+cheat0_desc = "INFINTE MONEY"
+cheat0_handler = "0"
+cheat0_code = "80079080#967F;80079082#0098"
+
+cheat1_desc = "MAX MONEY"
+cheat1_handler = "0"
+cheat1_code = "80131F40#C9FF;80131F42#3B9A"
+
+cheat2_desc = "ALWAY MOVE"
+cheat2_handler = "0"
+cheat2_code = "D015E02C#0001;8015E02C#0006;D015E02C#0002;8015E02C#0006;D015E02C#0003;D015E02C#0004;8015E02C#0006;D015E02C#0005;8015E02C#0006"
+
+cheats = 3

@@ -1,0 +1,17 @@
+cheat0_desc = "体力不减"
+cheat0_handler = "2"
+cheat0_code = "45F98,64"
+
+cheat1_desc = "必杀槽全满"
+cheat1_handler = "2"
+cheat1_code = "45F9F,48"
+
+cheat2_desc = "出现ARCADE模式"
+cheat2_handler = "2"
+cheat2_code = "45FC3,1"
+
+cheat3_desc = "全武器收集"
+cheat3_handler = "2"
+cheat3_code = "45FC5,FF,FF,FF;45FC9,FF,FF,FF;45FCD,FF"
+
+cheats = 4

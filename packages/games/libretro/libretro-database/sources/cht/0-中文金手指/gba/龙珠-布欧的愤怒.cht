@@ -1,0 +1,25 @@
+cheat0_desc = "金钱MAX"
+cheat0_handler = "2"
+cheat0_code = "4155C,9F,86,1"
+
+cheat1_desc = "悟空能力"
+cheat1_handler = "2"
+cheat1_code = "41588,64,64,64,64"
+
+cheat2_desc = "贝吉塔能力"
+cheat2_handler = "2"
+cheat2_code = "41728,64,64,64,64"
+
+cheat3_desc = "悟饭全能力"
+cheat3_handler = "2"
+cheat3_code = "415F0,64,64,64,64"
+
+cheat4_desc = "特兰克斯能力"
+cheat4_handler = "2"
+cheat4_code = "416C0,64,64,64,64"
+
+cheat5_desc = "悟天能力"
+cheat5_handler = "2"
+cheat5_code = "41658,64,64,64,64"
+
+cheats = 6

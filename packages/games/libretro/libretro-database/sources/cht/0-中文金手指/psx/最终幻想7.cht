@@ -1,0 +1,121 @@
+cheat0_desc = "进入游戏后再启动 随地记录"
+cheat0_handler = "0"
+cheat0_code = "8009BA3E#0000"
+
+cheat1_desc = "进入战斗LIMIT能量全满"
+cheat1_handler = "0"
+cheat1_code = "D00A1474#0000;800A1474#00FF;C00A1476#9422;800A1476#3442"
+
+cheat2_desc = "青魔法全满"
+cheat2_handler = "0"
+cheat2_code = "8009B5F8 FF2C;8009B5FA#FFFF"
+
+cheat3_desc = "GP无限"
+cheat3_handler = "0"
+cheat3_code = "8009BB6A#7530"
+
+cheat4_desc = "BP无限"
+cheat4_handler = "0"
+cheat4_code = "8009BB70#FFFF"
+
+cheat5_desc = "全部必杀技"
+cheat5_handler = "0"
+cheat5_code = "8009AFFA#0FFF;8009B102#0FFF;8009B186#0FFF;8009AEF2#0FFF;8009B07E#0FFF;8009B28E#0FFF;8009AF76#0FFF;8009B20A#0FFF;8009B312#0FFF"
+
+cheat6_desc = "陆行鸟变身"
+cheat6_handler = "0"
+cheat6_code = "8009BC4C#0000;8009BC4E#0401"
+
+cheat7_desc = "使SEFIROTH成为同伴 "
+cheat7_handler = "0"
+cheat7_code = "8009B374#0200;8009B376#000A"
+
+cheat8_desc = "此为旧版,国际版也可用"
+cheat8_handler = "0"
+cheat8_code = "D009B374#0200,3009B376#000A"
+
+cheat9_desc = "金钱无限"
+cheat9_handler = "0"
+cheat9_code = "8009B9F8#E0FF;8009B9FA#05F5"
+
+cheat10_desc = "战斗後.全员经验值最高 "
+cheat10_handler = "0"
+cheat10_code = "C01B1302#1040,801B1302#0000"
+
+cheat11_desc = "战斗後.ＡＰ值最高 "
+cheat11_handler = "0"
+cheat11_code = "D01B06D8#1021,801B06D8#FFFF;C01B06DA#0043,801B06DA#3442"
+
+cheat12_desc = "升级时.全员ＨＰ值最高 "
+cheat12_handler = "0"
+cheat12_code = "C01B178A#1440,801B178A#0000"
+
+cheat13_desc = "升级时.全员ＭＰ值最高 "
+cheat13_handler = "0"
+cheat13_code = "C01B1882#1440,801B1882#0000"
+
+cheat14_desc = "升级时.全员设定值最高 "
+cheat14_handler = "0"
+cheat14_code = "C01B1696#1440,801B1696#0000;D01B169C#0064,801B169C#00FF"
+
+cheat15_desc = "战斗後.ＨＰ＆ＭＰ值恢复全满"
+cheat15_handler = "0"
+cheat15_code = "800200AC#AF08;800200D0#AF0A"
+
+cheat16_desc = "全员拥有全部必杀技"
+cheat16_handler = "0"
+cheat16_code = "B0090084#00000000,8009AEF2#0FFF"
+
+cheat17_desc = "时间气量表最高速"
+cheat17_handler = "0"
+cheat17_code = "C00A3C52#1040,800A3C52#0000"
+
+cheat18_desc = "必杀技气量表最高速"
+cheat18_handler = "0"
+cheat18_code = "D00A1474#0000,800A1474#00FF;C00A1476#9422,800A1476#3442"
+
+cheat19_desc = "无敌能量表最高"
+cheat19_handler = "0"
+cheat19_code = "D00ADDA4#0005,800F847A#0103;D00ADDA4#0005,800F84E2#0103;D00ADDA4#0005,800F854A#0103"
+
+cheat20_desc = "打败有道具的敌人後.道具必落"
+cheat20_handler = "0"
+cheat20_code = "D00B16FC#003F,800B16FC#0000"
+
+cheat21_desc = "全部重要道具取得"
+cheat21_handler = "0"
+cheat21_code = "8009BA60#FFFF;8009BA62#FFFF;8009BA64#FFFF;8009BA66#0007"
+
+cheat22_desc = "随时记忆"
+cheat22_handler = "0"
+cheat22_code = "800239AA#3C04"
+
+cheat23_desc = "小敌人不出现"
+cheat23_handler = "0"
+cheat23_code = "C00ABBA6#1040,800ABBA6#1042"
+
+cheat24_desc = "时间停止"
+cheat24_handler = "0"
+cheat24_code = "80011634#0000"
+
+cheat25_desc = "爱丽思.死亡後呼出"
+cheat25_handler = "0"
+cheat25_code = "3009B376#0003"
+
+cheat26_desc = "道ju"
+cheat26_handler = "0"
+cheat26_code = "B0660002#0000001,8009B378#C600"
+
+cheat27_desc = "武器"
+cheat27_handler = "0"
+cheat27_code = "B07F0002#0000001,8009B446#C680"
+
+cheat28_desc = "秘石"
+cheat28_handler = "0"
+cheat28_code = "B05B0004#0000001,8009B5F8#FF00"
+
+cheat29_desc = "防具"
+cheat29_handler = "0"
+cheat29_code = "B0400002#0000001,8009B546#C700"
+
+cheats = 30

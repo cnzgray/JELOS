@@ -48,6 +48,24 @@ ROMNAME="$1"
 BASEROMNAME=${ROMNAME##*/}
 GAMEFOLDER="${ROMNAME//${BASEROMNAME}}"
 
+# psx特殊bios自动加载
+if [[ ${PLATFORM} == "psx" ]]; then
+	ROMNAMETMP=${ROMNAME%.*}
+	if [ -f "${ROMNAMETMP}.bios" ]; then
+		cp -f "${ROMNAMETMP}.bios" "/storage/roms/bios/scph101.bin"
+		cp -f "${ROMNAMETMP}.bios" "/storage/roms/bios/scph5500.bin"
+		cp -f "${ROMNAMETMP}.bios" "/storage/roms/bios/scph5501.bin"
+		cp -f "${ROMNAMETMP}.bios" "/storage/roms/bios/scph5502.bin"
+		cp -f "${ROMNAMETMP}.bios" "/storage/roms/bios/psxonpsp660.bin"
+	else
+		cp -f "/usr/lib/scph7001.bios" "/storage/roms/bios/scph101.bin"
+		cp -f "/usr/lib/scph5500.bios" "/storage/roms/bios/scph5500.bin"
+		cp -f "/usr/lib/scph5501.bios" "/storage/roms/bios/scph5501.bin"
+		cp -f "/usr/lib/scph5502.bios" "/storage/roms/bios/scph5502.bin"
+		cp -f "/usr/lib/psxonpsp660.bios" "/storage/roms/bios/psxonpsp660.bin"
+	fi
+fi
+
 
 ### Determine if we're running a Libretro core and append the libretro suffix
 if [[ $EMULATOR = "retroarch" ]]; then

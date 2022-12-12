@@ -1,0 +1,57 @@
+cheat0_desc = "Infinite Energy"
+cheat0_handler = "0"
+cheat0_code = "800B9574#04B0"
+
+cheat1_desc = "Infinite Ammo"
+cheat1_handler = "0"
+cheat1_code = "8006AC06#2400"
+
+cheat2_desc = "Save Anywhere (Sel+L1)"
+cheat2_handler = "0"
+cheat2_code = "D00B1418#0104;800B7A48#0007"
+
+cheat3_desc = "Turbo Shooting"
+cheat3_handler = "0"
+cheat3_code = "D00B949A#0102;800B949A#0101"
+
+cheat4_desc = "No Reload"
+cheat4_handler = "0"
+cheat4_code = "300B96A0#0063;300B96A2#0063;300B96A4#0063"
+
+cheat5_desc = "Turbo Boost (Square)"
+cheat5_handler = "0"
+cheat5_code = "D00B1418#0040;800B94A0#0100"
+
+cheat6_desc = "All Map"
+cheat6_handler = "0"
+cheat6_code = "B0060002#00000000;800C15D0#FFFF"
+
+cheat7_desc = "All Items (Regina)"
+cheat7_handler = "0"
+cheat7_code = "B00B0002#00000000;800C15A4#FFFF"
+
+cheat8_desc = "All Weapon (Sel+R1)"
+cheat8_handler = "0"
+cheat8_code = "D00B1418#0108;800C15A8#07FE"
+
+cheat9_desc = "1 Ending (Select+L2)"
+cheat9_handler = "0"
+cheat9_code = "D00B1418#0101;800B7A48#000A;D00B1418#0101;300B7A5B#0000"
+
+cheat10_desc = "2 Ending (Select+R2)"
+cheat10_handler = "0"
+cheat10_code = "D00B1418#0102;800B7A48#000A;D00B1418#0102;300B7A5B#0001"
+
+cheat11_desc = "3 Ending (Select+L2+R2)"
+cheat11_handler = "0"
+cheat11_code = "D00B1418#0103;800B7A48#000A;D00B1418#0103;300B7A5B#0002"
+
+cheat12_desc = "13 Change Size Regina Anywhere;(Mini "
+cheat12_handler = "0"
+cheat12_code = " L2 & Big "
+
+cheat13_desc = "13 Change Size Regina Anywhere"
+cheat13_handler = "0"
+cheat13_code = "FFFFFFFF#0001;D00B1418#0001;D30B9500#0500;110B9500#0010;D00B1418#0002;D20B9500#1F00;100B9500#0010;FFFFFFFF#0001;D00B1418#0001;D30B9504#0500;110B9504#0010;D00B1418#0002;D20B9504#1F00;100B9504#0010;FFFFFFFF#0001;D00B1418#0001;D30B9508#0500;110B9508#0010;D00B1418#0002;D20B9508#1F00;100B9508#0010;"
+
+cheats = 14

@@ -1,0 +1,61 @@
+cheat0_desc = "HP无限"
+cheat0_handler = "0"
+cheat0_code = "80074888#03E7;8007488A#03E7"
+
+cheat1_desc = "MP无限"
+cheat1_handler = "0"
+cheat1_code = "8007488C#03E7;8007488E#03E7"
+
+cheat2_desc = "EXP 使用不減"
+cheat2_handler = "0"
+cheat2_code = "80074878#C350"
+
+cheat3_desc = "BP 使用不減"
+cheat3_handler = "0"
+cheat3_code = "8007487C#C350"
+
+cheat4_desc = "彈藥不減"
+cheat4_handler = "0"
+cheat4_code = "B01A0008#00000000;30073419#0064"
+
+cheat5_desc = "背包儲存容量高"
+cheat5_handler = "0"
+cheat5_code = "D00733FC#0040;3007340E#0063"
+
+cheat6_desc = "特殊道具LV3"
+cheat6_handler = "0"
+cheat6_code = "B0060002#00000000;800736A0#0303"
+
+cheat7_desc = "地圖全開"
+cheat7_handler = "0"
+cheat7_code = "800740DC#FFFF"
+
+cheat8_desc = "按下L2馬上獲得槍枝"
+cheat8_handler = "0"
+cheat8_code = "E0071E9A FEFF000D;B0100004#00000000;80073002#0001;B0050004#00000001;80073000#0080;B0070004#00000001;80073014#008A;80073030#0088;80073034#0093;80073038#0094;8007303C#0140;80073040#02A0;80073042#03E7;80073044#0302"
+
+cheat9_desc = "電磁砲"
+cheat9_handler = "0"
+cheat9_code = "80073040#0095;80073042#0001"
+
+cheat10_desc = "粒子振動刀"
+cheat10_handler = "0"
+cheat10_code = "80073044#0096;80073046#0001"
+
+cheat11_desc = "點44左輪"
+cheat11_handler = "0"
+cheat11_code = "80073048#0088;8007304A#0001"
+
+cheat12_desc = "強力子彈"
+cheat12_handler = "0"
+cheat12_code = "8007303C#00A8;8007303E#0063"
+
+cheat13_desc = "散彈槍集束彈"
+cheat13_handler = "0"
+cheat13_code = "80073038#00AE;8007303A#00C8"
+
+cheat14_desc = "獲得超凶惡兵器!鎗刃&雷射加農"
+cheat14_handler = "0"
+cheat14_code = "E0071E9A#FEFF000D;B0020004#00000000;80073002#0001;B0020004#00000001;80073000#0095"
+
+cheats = 15

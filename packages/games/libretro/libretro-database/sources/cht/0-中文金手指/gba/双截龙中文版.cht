@@ -1,0 +1,5 @@
+cheat0_desc = "血"
+cheat0_handler = "2"
+cheat0_code = "16AD,1"
+
+cheats = 1
